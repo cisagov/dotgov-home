@@ -1,5 +1,7 @@
 
 secondary:
+  - text: Home
+    href: /
   - text: Register and manage .gov domains
     href: https://www.dotgov.gov
   - text: Data
