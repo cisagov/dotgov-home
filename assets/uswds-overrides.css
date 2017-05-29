@@ -1,4 +1,12 @@
 
+/* Style tweaks. */
+
+code {
+    background-color: #e5e5e5;
+    color: #bc0071;
+    font-size: 0.9em;
+}
+
 /*
   Overrides for the bottom-right buttons.
   Modeled after standards.usa.gov.
