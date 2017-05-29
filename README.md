@@ -2,9 +2,17 @@
 
 A potential homepage for the DotGov program.
 
+### Built using
+
+* The [U.S. Web Design Standards](https://standards.usa.gov), a set of reusable, high quality components for modern websites. Maintains consistency with the [many other U.S. government websites using the Standards](https://github.com/18F/web-design-standards/blob/develop/WHO_IS_USING_USWDS.md#website-and-applications-that-use-the-standards).
+
+* The U.S. Web Design Standards [Jekyll theme](https://github.com/18F/uswds-jekyll). A few of the components have been overwritten or customized, but the theme is in use.
+
 ### Developing locally
 
-This site uses [Jekyll](https://jekyllrb.com), and is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) static site hosting service.
+This site uses [Jekyll](https://jekyllrb.com), a Ruby-based static site generator.
+
+The application is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) static site hosting service.
 
 Install dependencies with Bundler:
 
