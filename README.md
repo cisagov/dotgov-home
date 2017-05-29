@@ -1,10 +1,10 @@
-## FedRAMP Tailored
+## The DotGov Program
 
-Supporting pages for FedRAMP Tailored.
+A potential homepage for the DotGov program.
 
-### Developing on the site locally
+### Developing locally
 
-This site uses [Jekyll](https://jekyllrb.com) and requires **Ruby 2.x**.
+This site uses [Jekyll](https://jekyllrb.com), and is optimized for deployment on 18F's [Federalist](https://federalist.18f.gov) static site hosting service.
 
 Install dependencies with Bundler:
 
