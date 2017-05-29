@@ -1,12 +1,13 @@
+# Using https://github.com/18F/uswds-jekyll
+theme: uswds-jekyll
+
+# OpenGraph / Twitter metadata
 title: DotGov
 description: Home of the DotGov program, which operates the .gov DNS registry and zone.
-logo:
-repo: https://github.com/GSA/dotgov-home
-google_analytics_ua: UA-99995535-1
 
-# Site Status
-banner: A website of the United States Government
-phase: Production # alpha, beta, live
+# GA and GitHub data
+google_analytics_ua: UA-99995535-1
+repo: https://github.com/GSA/dotgov-home
 
 exclude:
 - CONTRIBUTING.md
@@ -19,8 +20,9 @@ exclude:
 - README.md
 - vendor
 
-sass:
-  style: :compressed
+styles:
+  - /assets/uswds/css/uswds.min.css
+  - /assets/uswds-overrides.css
 
 defaults:
   - scope:
@@ -33,3 +35,4 @@ collections:
   pages:
     output: true
     #permalink: /:path/
+

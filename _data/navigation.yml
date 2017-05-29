@@ -1,0 +1,22 @@
+
+secondary:
+  - text: Register and manage .gov domains
+    href: https://www.dotgov.gov
+  - text: Data
+    href: /data/
+  - text: Policy
+    href: /policy/
+  - text: HSTS Preloading
+    href: /hsts-preloading/
+  - text: FAQs
+    href: /faqs/
+
+hosted:
+  - text: Data
+    href: /data/
+  - text: Policy
+    href: /policy/
+  - text: HSTS Preloading
+    href: /hsts-preloading/
+  - text: FAQs
+    href: /faqs/

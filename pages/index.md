@@ -1,8 +1,10 @@
 ---
-title: DotGov Program
+title: Home
+layout: dotgov-landing
 permalink: /
 ---
 
-# {{ page.title }}
+## The DotGov Program
 
-Home of the DotGov program, which operates the .gov DNS registry and zone.
+The DotGov program operates the .gov DNS registry and zone.
+
