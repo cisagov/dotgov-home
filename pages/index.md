@@ -14,7 +14,7 @@ If you're looking to **register or manage a .gov domain**, visit [the DotGov.gov
 
 **May 15, 2017** - [Automatic HSTS preloading](/hsts-preloading/) went into effect for federal executive branch .gov domains.
 
-**January 19, 2017** - [Automatic HSTS preloading](/sts-preloading/) was announced.
+**January 19, 2017** - [Automatic HSTS preloading](/hsts-preloading/) was [announced](https://cio.gov/automatic-https-enforcement-new-executive-branch-gov-domains/).
 
 **January 1, 2017** - The [fee increase](/faqs/#fee-increase) went into effect, raising the annual fee for .gov domains to $400 per year.
 
