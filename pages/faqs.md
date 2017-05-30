@@ -1,6 +1,6 @@
 ---
 title: FAQS
-layout: dotgov-docs
+layout: docs
 permalink: /faqs/
 top: true
 

@@ -38,7 +38,13 @@
           <ul id="{{ _section_id }}" class="usa-nav-submenu">
             {% for _link in section_links %}
             <li>
-              <a href="{{ _link.href }}">{{ _link.text }}</a>
+              {% if _link.href contains '://' %}
+              <a href="{{ _link.href }}">
+              {% else %}
+              <a href="{{ site.baseurl}}{{ _link.href }}">
+              {% endif %}
+                {{ _link.text }}
+              </a>
             </li>
             {% endfor %}
           </ul>
@@ -75,7 +81,13 @@
           {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
           {% for _link in secondary_links %}
           <li>
-            <a href="{{ _link.href }}">{{ _link.text }}</a>
+            {% if _link.href contains '://' %}
+            <a href="{{ _link.href }}">
+            {% else %}
+            <a href="{{ site.baseurl}}{{ _link.href }}">
+            {% endif %}
+              {{ _link.text }}
+            </a>
           </li>
           {% endfor %}
         </ul>

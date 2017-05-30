@@ -1,6 +1,6 @@
 ---
 title: Policies and guidelines
-layout: dotgov-docs
+layout: docs
 permalink: /policy/
 top: true
 

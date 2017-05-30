@@ -1,6 +1,6 @@
 ---
 title: .Gov domain data
-layout: dotgov-docs
+layout: docs
 permalink: /data/
 
 sidenav: hosted

@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: dotgov-landing
+layout: landing
 permalink: /
 ---
 

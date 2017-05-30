@@ -1,6 +1,6 @@
 ---
 title: HSTS Preloading for .Gov
-layout: dotgov-docs
+layout: docs
 permalink: /hsts-preloading/
 top: true
 
