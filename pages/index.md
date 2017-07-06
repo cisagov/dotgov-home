@@ -6,7 +6,7 @@ hero:
   image: assets/img/home-hero.jpg
   callout:
     text: "The Home of .Gov"
-  content: "Find information about the .gov domain registry and DNS zone, learn about our policies, or download data on .gov domains."
+  content: "Find information about the .gov domain registry and Domain Name System (DNS) zone, learn about our policies, or download data on .gov domains."
   button:
     text: "Download our open data"
     href: data/
