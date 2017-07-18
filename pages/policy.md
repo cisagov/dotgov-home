@@ -12,7 +12,7 @@ subnav:
     href: '#domain-guidelines'
 ---
 
-# Policies and guidelines
+# Policies and Guidelines
 
 This page describes how the .Gov program operates, the policies governing domain name registration, and rules for domain owners.
 
@@ -20,21 +20,21 @@ The .Gov program's controlling regulation is [41 CFR Part 102-173](https://www.e
 
 ## Program Guidelines
 
-This overview of Gov Internet domain registration requirements is meant to further explain and clarify some sections of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) about registering second-level Gov Internet domains. The [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) on Gov Internet domains focuses on purpose and jurisdiction.
+This overview of Gov Internet domain registration requirements is meant to further explain and clarify sections of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) about registering second-level Gov Internet domains. The [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) on Gov Internet domains focuses on purpose and jurisdiction.
 
 A complete overview with formal policy is available on the [registration policy website](https://www.dotgov.gov) under the **Policy** and **Registration** tabs. The document includes Background, Policy, Guidelines, and 41 CFR 102-173 naming policy for Gov Internet Domains.
 
-The Gov Internet domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state and local levels of government, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The Gov Internet domain provides the official and trusted Internet presence for these government entities.
+The Gov Internet domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The Gov Internet domain provides the official and trusted Internet presence for these government entities.
 
-Every Gov Internet domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for Local governments will originate from the Authorizing Authority (AA) only. The AA is the highest elected official (Mayor, County / Parish Supervisor), that authorizes the domain to operate and contain information reference to their government resonsibilities.
+Every Gov Internet domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for local governments will originate from the Authorizing Authority (AA) only. The AA is the highest elected official (Mayor, County / Parish Supervisor), that authorizes the domain to operate and contain information reference to their government resonsibilities.
 
-For further assistance with domain names and eligibility requirements, please refer to the Support sections or call the Help Desk toll free at (877) 734-4688 or registrar@dotgov.gov.
+For further assistance with domain names and eligibility requirements, please refer to the [Support sections](faqs/) or call the Help Desk toll free at (877) 734-4688 or registrar@dotgov.gov.
 
 ### Guidelines for All Second Level Gov Internet Domains
 
 The following applies to all Gov Internet domains:
 
-1. **No non-Government Advertisements**: A Gov Internet domain may not be used to advertise for private individuals, firms, or corporations, or imply in any manner that the government endorses or favors any specific commercial product, commodity, or service.
+1. **No non-Government Advertisements**: A Gov Internet domain may not be used to advertise for private individuals, firms, or corporations. It may not be used to imply in any manner that the government endorses or favors any specific commercial product, commodity, or service.
 
 2. **No Political or Campaign Information**: The Gov Internet domain is for the operation of government, not the political, political party, or campaign environment. No campaigning can be done using .gov domains. The Gov Internet domain websites may not be directly linked to or refer to websites created or operated by a campaign or any campaign entity or committee. No political sites or party names or acronyms can be used. Separate wesbites and e-mail on other top-level domains (TLDs), such as .org, will have to be used for political activity.
 

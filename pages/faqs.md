@@ -73,7 +73,7 @@ Yes, the fee is the same for both new registrations and annual renewals.
 
 The increase was announced in the [Federal Register on April 14, 2016](https://www.federalregister.gov/documents/2016/04/21/2016-09294/notice-of-fee-amounts-to-be-set-by-the-general-services-administrations-request-for-the-registration), and posted on the [dotgov.gov homepage](https://www.dotgov.gov).
 
-## Accounts and Points of Contact
+## Accounts and Points of Contact (POC)
 
 #### What is a POC?
 
@@ -128,7 +128,7 @@ Yes, a new POC must first request an account by sending an email to Help Desk at
 
 A domain name may be up to 26 characters long, including the 4 characters used to identify the top-level domain (e.g., `.gov`). The only valid characters for a domain name are letters, numbers and a hyphen. Other characters, including a space, are not permitted. Domain names may not begin or end with a hyphen.
 
-#### What are the requirements to be Point of Contacts (POCs) assigned to domain names?
+#### What are the requirements to be assigned to domain names?
 
 The Admin POC must be from the signatory's office. For example, the Admin POC for a new state domain name must be in the governor's office. The Technical POC must be available 24/7 if this .Gov domain name is critical to your infrastructure. The Billing POC must have access to a credit card and be able to pay registration fees.
 
@@ -232,7 +232,7 @@ Failure to submit payment does not result in removal of your domain. The entity 
 
 ## Technical Questions
 
-#### Why can I not access systems within my domain, but people outside can?
+#### Why can't I access systems within my domain, but people outside can?
 
 To speed up the entire DNS process, name servers will temporarily store IP addresses that they have found. This means that if someone in the office next to you visits [www.dotgov.gov](https://www.dotgov.gov) and then you visit the site shortly afterwards, you receive the IP address from the local, temporary storage rather than through the root servers. If you or your ISP's local name server is not "expiring" this temporary storage (called a cache), you could be getting incorrect IP addresses while people connected through different ISPs are getting the correct information. Please contact your ISP or local technical support for assistance.
 
@@ -258,7 +258,7 @@ The Cloud Signing Service eliminates many of the administrative burdens of the t
 * Existing signed zone with Algorithm 8: You or your provider is signing your zone with Algorithm 8 (RSA/SHA-256) and you want to switch to Cloud Signing Service.  Automatic enrollment for transferring DNSSEC providers is not supported at this time.  This process can be done manually.  For additional details, please contact the Helpdesk at [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
 * Existing signed zone with other Algorithm: You or your provider is signing your zone with an Algorithm other than Algorithm 8 and you want to switch to Cloud Signing Service. Automatic enrollment for transferring DNSSEC providers is not supported at this time.  This process can be done manually.  For additional details, please contact the Helpdesk at [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
 
-#### If I am currently enrolled in the Key Monitoring Service, do i still need to enroll in the Cloud Signing Service?
+#### If I am currently enrolled in the Key Monitoring Service, do I still need to enroll in the Cloud Signing Service?
 
 The Cloud Signing Service and Key Monitoring Service are different services. Enrolling in Key Monitoring will not automatically enroll you in the Cloud Signing Service. The Key Monitoring Service enables monitoring of a child zone for any new KSKs and automatically adds the DS corresponding to the new KSK. This will also send notifications when the ROLLOVER is successfully completed, when an RRSIG expiry is within certain thresholds, and also when there is a Child Key Error. The Cloud Signing Service will perform the initial signing and ongoing key management for your zone. If you do not need a DNSSEC signing service, you do not need to enroll into Cloud Signing Service. However, if you do need a DNSSEC signing service for your zone, and wish to take advantage of the Cloud Signing Service, you will need to explicitly enroll into Cloud Signing Service. The Key Monitoring enrollment alone will not provide the initial and ongoing signing that is required for a DNSSEC enabled zone.
 
@@ -279,7 +279,7 @@ Enter your TSIG key information along with the nameserver information. You will 
 
 Please note that this requires BIND version 8.2 or later.
 
-#### What do I do if I do not have a TSIG key?
+#### What do I do if I don't have a TSIG key?
 
 If you do not have a TSIG key, you may generate a TSIG key through the "Customer Nameservers" tab. You will then need to add a key statement to your 'named.conf' file and an "allow-transfers" sub-statement to your zone's zone statement.
 
@@ -331,7 +331,7 @@ Once a zone is added to the service and the transfer is successful the first ste
 
 #### What is a KSK?
 
-The Key Signing Key is an authentication key that corresponds to a private key used to sign one or more other keys for a given zone. With this service the private key corresponding to a KSK will sign the ZSK, which in turn has a corresponding private key that will sign other data in your zone.
+The Key Signing Key (KSK) is an authentication key that corresponds to a private key used to sign one or more other keys for a given zone. With this service the private key corresponding to a KSK will sign the ZSK, which in turn has a corresponding private key that will sign other data in your zone.
 
 #### What is a ZSK?
 
