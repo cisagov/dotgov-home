@@ -9,13 +9,13 @@ sidenav: hosted
 
 # HSTS Preloading for .Gov
 
-The .Gov program has begun automatically implementing "HSTS Preloading" for newly issued **federal government executive branch** .gov domains.
+The .Gov program has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal government executive branch** .gov domains.
 
-Read more for details on why this change, and what it may mean for your .gov domain.
+Read more for details on why this changed, and what it may mean for your .gov domain.
 
 ### What is HTTPS and why is it important?
 
-HTTPS is a protocol that gives users a level of security and privacy when connecting to websites and web services.
+HTTPS (Hypertext Transfer Protocol Secure) is a protocol that gives users a level of security and privacy when connecting to websites and web services.
 
 The internet's fundamental design means that both visitors and website owners have very little control over where communications will travel, or whose devices will carry that communication. To ensure secure communication across the internet, traffic must be encrypted all the way from visitors' devices to the website owners' devices -- and that's exactly what HTTPS does. Without HTTPS, hostile networks can inject malware or tracking beacons, or otherwise monitor or change visitor interactions online.
 
