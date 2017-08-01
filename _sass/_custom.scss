@@ -1,3 +1,18 @@
+// Navigation
+
+.usa-navbar {
+  @include media($nav-width) {
+    height: 81px;
+  }
+}
+
+.usa-nav {
+  @include media($nav-width) {
+    padding-top: 2.4rem;
+  }
+}
+
+// Eric's code:
 
 /* Style tweaks. */
 

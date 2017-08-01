@@ -21,8 +21,7 @@ exclude:
 - vendor
 
 styles:
-  - /assets/uswds/css/uswds.min.css
-  - /assets/uswds-overrides.css
+  - /assets/css/main.css
 
 defaults:
   - scope:
