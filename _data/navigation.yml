@@ -1,24 +1,24 @@
 
-secondary:
-  - text: Home
-    href: /
-  - text: Register and Manage .gov Domains
+primary:
+  - text: Register and manage .gov domains
     href: https://www.dotgov.gov
   - text: Data
     href: /data/
   - text: Policy
     href: /policy/
-  - text: HSTS Preloading
+  - text: HSTS preloading
     href: /hsts-preloading/
   - text: FAQs
     href: /faqs/
+
+secondary: []
 
 hosted:
   - text: Data
     href: /data/
   - text: Policy
     href: /policy/
-  - text: HSTS Preloading
+  - text: HSTS preloading
     href: /hsts-preloading/
   - text: FAQs
     href: /faqs/
