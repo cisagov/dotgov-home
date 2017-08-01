@@ -17,6 +17,18 @@
     font-size: 3rem;
   }
 }
+
+// Sticky sidenav
+
+.usa-layout-docs-sidenav {
+  @include media($medium-screen) {
+    max-height: 100vh;
+    overflow: auto;
+    position: sticky;
+    top: 0;
+  }
+}
+
 // Eric's code:
 
 /* Style tweaks. */
