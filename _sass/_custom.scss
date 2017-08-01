@@ -12,6 +12,11 @@
   }
 }
 
+.usa-logo-text {
+  @include media($nav-width) {
+    font-size: 3rem;
+  }
+}
 // Eric's code:
 
 /* Style tweaks. */
