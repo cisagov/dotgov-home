@@ -5,14 +5,14 @@ permalink: /
 hero:
   image: assets/img/home-hero.jpg
   callout:
-    text: "The Home of .Gov"
-  content: "Find information about the .gov domain registry and Domain Name System (DNS) zone, learn about our policies, or download data on .gov domains."
+    text: "Learn about the DotGov program"
+  content: "Find information about the .gov domain registry and Domain Name System (DNS) zone, read our policies, or download data about .gov domains."
   button:
-    text: "Download our open data"
+    text: "Download our data"
     href: data/
 ---
 
-If you're looking to **register or manage a .gov domain**, visit [the DotGov.gov registrar](https://www.dotgov.gov).
+If you need to **register or manage a .gov domain**, visit [dotgov.gov](https://www.dotgov.gov).
 
 ### Recent updates
 
