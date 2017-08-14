@@ -1,7 +1,7 @@
 ---
 title: Policies and guidelines
 layout: docs
-permalink: /policy/
+permalink: /policies-and-guidelines/
 top: true
 
 sidenav: hosted

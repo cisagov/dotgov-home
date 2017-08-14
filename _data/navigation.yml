@@ -1,14 +1,14 @@
 primary:
-  - text: Register and manage .gov domains
-    href: https://www.dotgov.gov
+  - text: Domains
+    href: /domains/
+  - text: Policies and guidelines
+    href: /policies-and-guidelines/
   - text: Data
     href: /data/
-  - text: Policy
-    href: /policy/
-  - text: HSTS preloading
-    href: /hsts-preloading/
-  - text: FAQs
-    href: /faqs/
+  - text: Support
+    href: /support/
+  - text: Recent updates
+    href: /recent-updates/
 
 hosted:
   - text: Data
