@@ -8,16 +8,6 @@ primary:
   - text: Support
     href: /support/
 
-hosted:
-  - text: Data
-    href: /data/
-  - text: Policy
-    href: /policy/
-  - text: HSTS preloading
-    href: /hsts-preloading/
-  - text: FAQs
-    href: /faqs/
-
 policies-and-guidelines:
   - text: Policies
     href: /policies-and-guidelines/policies/
