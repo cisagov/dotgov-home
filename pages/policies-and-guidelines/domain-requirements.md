@@ -1,22 +1,34 @@
 ---
-title: Policies and guidelines
+title: Domain requirements
 layout: docs
-permalink: /policies-and-guidelines/
+permalink: /policies-and-guidelines/domain-requirements/
 top: true
 
-sidenav: hosted
+sidenav: policies-and-guidelines
 subnav:
-  - text: Program Guidelines
-    href: '#program-guidelines'
-  - text: Domain Guidelines
-    href: '#domain-guidelines'
+  - text: Registration
+    href: '#registration'
+  - text: DNS
+    href: '#dns'
+  - text: Change procedures
+    href: '#change-procedures'
+  - text: Certificates
+    href: '#certificates'
+  - text: HSTS/HTTPS preloading
+    href: '#hstshttps-preloading'
 ---
 
-# Policies and Guidelines
+# Domain requirements
 
 This page describes how the .Gov program operates, the policies governing domain name registration, and rules for domain owners.
 
 The .Gov program's controlling regulation is [41 CFR Part 102-173](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5).
+
+## Registration
+## DNS
+## Change procedures
+## Certificates
+## HSTS/HTTPS preloading
 
 ## Program Guidelines
 

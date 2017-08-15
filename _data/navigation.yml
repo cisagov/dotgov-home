@@ -17,3 +17,9 @@ hosted:
     href: /hsts-preloading/
   - text: FAQs
     href: /faqs/
+
+policies-and-guidelines:
+  - text: Policies
+    href: /policies-and-guidelines/policies/
+  - text: Domain requirements
+    href: /policies-and-guidelines/domain-requirements/
