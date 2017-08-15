@@ -3,10 +3,18 @@ title: .Gov domain data
 layout: docs
 permalink: /data/
 
-sidenav: hosted
+sidenav: data
+subnav:
+  - text: All .gov domain
+    href: '#all-gov-domain'
+  - text: Federal .gov domains
+    href: '#federal-gov-domains'
 ---
 
 # .Gov domain data
+
+## All .gov domain
+## Federal .gov domains
 
 The official public list of .gov domains is updated around every two weeks:
 
