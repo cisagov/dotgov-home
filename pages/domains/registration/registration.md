@@ -1,24 +1,11 @@
 ---
-title: Support
+title: Domain registration
 layout: docs
-permalink: /registration/
+permalink: /domains/registration/
 top: true
-
-sidenav: hosted
-subnav:
-  - text: Fee Increase
-    href: '#fee-increase'
-  - text: Accounts and Points of Contact
-    href: '#accounts-and-points-of-contact'
-  - text: Domain Registration
-    href: '#domain-registration'
-  - text: Domain Management
-    href: '#domain-management'
-  - text: Contact us
-    href: '#contact-us'
 ---
 
-## Domain Registration
+## Domain registration
 
 #### How do I register a .gov domain?
 

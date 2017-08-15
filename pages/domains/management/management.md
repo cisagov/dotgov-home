@@ -1,26 +1,11 @@
 ---
-title: Support
+title: Domain management
 layout: docs
-permalink: /domain-management/
+permalink: /domains/management/
 top: true
-
-sidenav: hosted
-subnav:
-  - text: Fee Increase
-    href: '#fee-increase'
-  - text: Domain Registration
-    href: '#domain-registration'
-  - text: Domain Management
-    href: '#domain-management'
-  - text: Fees
-    href: '#fees'
-  - text: Cloud Signing Service
-    href: '#cloud-signing-service'
-  - text: Contact us
-    href: '#contact-us'
 ---
 
-## Domain Management
+## Domain management
 
 #### How do I reset my password?
 

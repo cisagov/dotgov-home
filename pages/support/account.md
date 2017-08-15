@@ -3,11 +3,6 @@ title: Support
 layout: docs
 permalink: /account/
 top: true
-
-sidenav: hosted
-subnav:
-  - text: Accounts and Points of Contact
-    href: '#accounts-and-points-of-contact'
 ---
 
 ## Accounts and Points of Contact (POC)
