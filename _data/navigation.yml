@@ -27,3 +27,9 @@ policies-and-guidelines:
 data:
   - text: Data
     href: /data/
+
+support:
+  - text: DNS
+    href: /support/dns/
+  - text: Security
+    href: /support/security/

@@ -3,7 +3,7 @@ title: Support
 layout: docs
 permalink: /support/
 
-sidenav: hosted
+sidenav: support
 ---
 
 # Support
