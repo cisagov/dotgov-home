@@ -8,7 +8,6 @@
 
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
-
       <div class="usa-width-one-third">
         <h3>Contact Us</h3>
         <p>
@@ -17,27 +16,26 @@
           Fax: (540) 301-0160<br/>
           Email: <a href="mailto:registrar@dotgov.gov">registrar@dotgov.gov</a>
         </p>
-        <a href="https://www.gsa.gov" target="_blank">
-          <img class="usa-footer-logo-img" src="{{ site.baseurl }}/assets/img/gsa-logo.svg" alt="U.S. General Services Administration" width="80" height="80">
+        <a class="footer-logo" href="https://www.gsa.gov" target="_blank">
+          {% include svg/gsa-logo.svg %}
         </a>
       </div>
-
       <div class="usa-width-one-third">
-        <ul class="no-bullets">
+        <h4>DotGov</h4>
+        <ul class="usa-unstyled-list">
           <li><a href="https://www.dotgov.gov" target="_blank">Register or manage a domain</a></li>
           <li><a href="/data">Use our data</a></li>
         </ul>
       </div>
-
       <div class="usa-width-one-third">
-        <ul class="no-bullets">
+        <h4>Legal</h4>
+        <ul class="usa-unstyled-list">
           <li>Find more government info at <a href="https://usa.gov">USA.gov</a></li>
           <li><a href="/foia">FOIA</a></li>
           <li><a href="/privacy">Privacy policy</a></li>
           <li>Help us improve the site on <a href="{{ site.repo }}/issues/new">GitHub</a></li>
         </ul>
       </div>
-
     </div>
   </div>
 </footer>
