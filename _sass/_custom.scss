@@ -18,6 +18,23 @@
   }
 }
 
+// Hero
+
+.hero {
+  background-color: $color-primary-darker;
+
+  h2, p {
+    color: $color-white;
+  }
+}
+
+.bg-primary-alt-lightest {
+  background-color: $color-primary-alt-lightest;
+}
+
+.bg-color-gray-lightest {
+  background-color: $color-gray-lightest;
+}
 // Sticky sidenav
 
 .usa-layout-docs-sidenav {
