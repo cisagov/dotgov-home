@@ -7,9 +7,37 @@ top: true
 
 ## Domain registration
 
+
+
 #### How do I register a .gov domain?
 
-To register a domain, please review the materials located on the Registration Process tab.
+1. Complete .GOV Domain Registration at www.dotgov.gov.
+
+  - The name of .GOV domain must be consistent with content.
+  - Authorization Letter Template can be found under the Forms tab on the left.
+  - Each Point of Contact must be unique if the POC already has a Username on the system just include their name and account Username.
+  - Authorization letter must be on official letterhead stationary.
+  - Letter must be signed by Agency Head or the CIO.
+  - Please fax a copy of the letter to 540-301-0160 or scan and email to <registrar@dotgov.gov>.
+
+If you are registering a Federal Executive Branch Agency domain, please read the [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
+
+2. Accounts
+
+  - A .GOV helpdesk representative will create the accounts needed and email the POC to finalize the account and new password.
+  - The Content or Administrative POC approves all content (must be a government employee); Technical POC is usually responsible for the DNS or programming.
+
+3. DNS information must be complete
+
+  - Each domain must have at least one domain name Server.
+  - Host DNS must be populated before domain activation.
+
+4. Billing POC must pay for the domain with a Credit Card
+
+  - After receipt of the authorization letter and DNS test pass, an email will be generated allowing for the domain to be paid for and activated.
+
+If you have any questions during the registration process, contact us at <registrar@dotgov.gov> or 1-877-734-4688.
+
 
 #### Do I need to enter DNS information when I submit my registration request?
 
