@@ -6,7 +6,7 @@ hero:
   image: assets/img/home-hero.jpg
   callout:
     text: "Learn about the DotGov program"
-  content: "Find information about the .gov domain registry and Domain Name System (DNS) zone, read our policies, or download data about .gov domains."
+  content: "Find information about the .gov domain registry, read our policies, or download data about .gov domains."
   button:
     text: "Download our data"
     href: data/

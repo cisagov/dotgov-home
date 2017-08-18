@@ -9,6 +9,8 @@ subnav:
     href: '#all-gov-domain'
   - text: Federal .gov domains
     href: '#federal-gov-domains'
+  - text: Share your feedback
+    href: '#share-your-feedback'
 ---
 
 # Data about .gov domains
@@ -25,4 +27,4 @@ The official public list of `.gov` domains is updated around every two weeks:
 
 ## Share your feedback
 
-If you have questions about the data or suggestions, please [open an issue in our GitHub repository](https://github.com/gsa/data/issues).
+If you have questions about the data or suggestions for improving it, [open an issue in our GitHub repository](https://github.com/gsa/data/issues).
