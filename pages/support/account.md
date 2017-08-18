@@ -32,7 +32,6 @@ The Guidelines for the Gov Domain section 1, h., states:
 It is the registrant's responsibility to provide all requested information and keep all account information current, to include POC information, DNS information and ensure the account is paid in full each year. Government domains / websites can be very large, complex and support important business operations. The process to address policy violations will allow for coordination across organizational boundaries and involve persons with the authority to make decisions on the appropriate course of action and in the time frame required.  The Administrative POC is the person who controls the content and is the manager of the operations of the domain.  The Technical POC is the person that operates the DNS and takes care of technical operations such as security patches, programming, etc. The Billing POC is the person that pays for the domain. The Authorizing Authority (AA) is the highest IT official or highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities. The AA for Federal Agency domains is the CIO. The AA for State level domains is the Governor or their appointed CIO. The AA for local governments and Native Sovereign Nations is the highest elected official or the highest IT official.
 
 
-
 #### How do I reset my password?
 
 If you do not recall your password, please contact the Help Desk and a temporary password will be generated for you. You will be prompted to change your password for security protocols.
@@ -45,7 +44,7 @@ Propagation depends on a variety of factors, such as caching and connectivity, t
 
 Only a registered POC on a domain may request deletion of a domain by sending an email to the .GOV Registrar at [registrar@dotgov.gov](mailto:registrar@dotgov.gov). In addition to requesting the domain to be deleted, the domain owner should request the resource records for that domain to be removed from the zone file on the nameservers hosting the domain.
 
-#### Why won't my domain work after updating the registration with actual name servers?
+#### Why won’t my domain work after updating the registration with actual name servers?
 
 Adding name servers to a reserved domain does not change its status from reserved to active if other requirements are pending. You are permitted to reserve a domain for up to 90 days, giving you time to submit all of the required registration information.
 

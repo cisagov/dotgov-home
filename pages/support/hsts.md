@@ -68,6 +68,7 @@ If a .Gov domain is affected and preloaded, any websites hosted on that domain o
 To verify whether a domain is being affected by HSTS preloading:
 
 1. Check Chrome's HSTS Preload list form at [https://hstspreload.org](https://hstspreload.org). Enter the domain and click "Check status and eligibility." For example, if you enter "whitehouse.gov" you'll get a message saying "Status: whitehouse.gov is currently preloaded."
+
 2. View the Chrome source code at [https://chromium.googlesource.com/chromium/src/net/+/refs/heads/master/http/transport_security_state_static.json](https://chromium.googlesource.com/chromium/src/net/+/refs/heads/master/http/transport_security_state_static.json). This is a large file and is in JSON form, but is the authoritative source of whether the domain is preloaded in Chrome. Other browsers pull from this list as well, so it should be valid for browsers other than just Chrome.
 
 ### How should I address web certificate issues that could prevent visitors from viewing web content?
