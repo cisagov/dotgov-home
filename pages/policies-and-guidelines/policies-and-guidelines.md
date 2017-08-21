@@ -5,15 +5,13 @@ permalink: /policies-and-guidelines/
 top: true
 
 sidenav: policies-and-guidelines
+
 subnav:
-  - text: Federal
-    href: '#federal'
-  - text: State
-    href: '#state'
-  - text: Local
-    href: '#local'
-  - text: Tribal
-    href: '#tribal'
+  - text: Federal policy
+    href: '/policies-and-guidelines/policy'
+  - text: Policy FAQ
+    href: '/policies-and-guidelines/policy-faq'
+
 ---
 
 # Policies and guidelines

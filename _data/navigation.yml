@@ -20,7 +20,9 @@ hosted:
 
 policies-and-guidelines:
   - text: Policies
-    href: /policies-and-guidelines/policies/
+    href: /policies-and-guidelines/
+  - text: Program guidelines
+    href: /policies-and-guidelines/program-guidelines/
   - text: Domain requirements
     href: /policies-and-guidelines/domain-requirements/
 
