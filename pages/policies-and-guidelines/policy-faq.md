@@ -179,25 +179,27 @@ To register any second-level domain in dot-gov, Native Sovereign Nations (NSN) m
 
 Registration is an online process at the General Services Administration's Web site at http://www.dotgov.gov. At the Network Information Site, you will find the instructions and online registration forms for registering your domain name. To register your domain name you will need to provide information such as your desired domain name, sponsoring organization, points of contact, and at least one name server addresses.
 
-#### Sec. 102-173.75 How long does the process take?
+### Sec. 102-173.75 How long does the process take?
 
 The process can be completed within 48 hours if all information received is complete and accurate. Most requests take up to thirty (30) days because the registrar is waiting for Chief Information Officer (CIO) approval.
 
-#### Sec. 102-173.80 How will I know if my request is approved?
+### Sec. 102-173.80 How will I know if my request is approved?
 
 A registration confirmation notice is sent within one business day after you register your domain name, informing you that your registration information was received. If all of your information is accurate and complete, a second notice will be sent to you within one business day, informing you that all of your information is in order. If you are ineligible, or if the information provided is incorrect or incomplete, your registration will be rejected and a notice will be sent to you stating the reason for rejection. Registration requests will be activated within two business days after receiving valid authorization from the appropriate Chief Information Officer (CIO). Once your domain name has been activated, a notice will be sent to you.
 
-#### Sec. 102-173.85 How long will my application be held, pending approval by the Chief Information Officer (CIO)?
+### Sec. 102-173.85 How long will my application be held, pending approval by the Chief Information Officer (CIO)?
 
 Registrations will be held in reserve status for sixty (60) days pending Chief Information Officer (CIO) authorization from your sponsoring organization.
 
-#### Sec. 102-173.90 Are there any special restrictions on the use and registration of canonical, or category names like recreation.gov?
+### Sec. 102-173.90 Are there any special restrictions on the use and registration of canonical, or category names like recreation.gov?
 
 Yes, canonical names registration request must provide access coverage for the areas conveyed by the name. So the URL recreation.gov would not be approved for the state of Maryland, but the URL recreationMD.gov would be approved if it provides statewide coverage. The logic of the names adds value to the dot gov domain. GSA reserves the right deny use of canonical names that do not provide appropriate coverage and to arbitrate these issues.
 
-#### Sec. 102-173.95 Are there any restrictions on the use of the dot-gov domain name?
+### Sec. 102-173.95 Are there any restrictions on the use of the dot-gov domain name?
 
 The General Services Administration approves domain names for a specific term of time, generally two years unless otherwise stated, and under conditions of use. General conditions of registration and are posted at the registration Web site at http://www.dotgov.gov and may be modified over time. Organizations that operate web sites that are not in compliance with the conditions of use may have their domain name terminated.
+
+---
 
 [FR Doc. 03-7413 Filed 3-27-03; 8:45 am]  
 BILLING CODE 6820-14-P
