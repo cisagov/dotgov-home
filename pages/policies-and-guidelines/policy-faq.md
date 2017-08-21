@@ -6,10 +6,11 @@ top: true
 
 sidenav: policies-and-guidelines
 
-- text: Subpart A: General
-  href: '#subpart-a'
-- text: Subpart B: Registration
-  href: '#dns-changes'
+subnav:
+  - text: General information
+    href: '#general-information'
+  - text: Registration
+    href: '#registration'
 
 ---
 
@@ -23,7 +24,7 @@ For the reasons set forth in the preamble, GSA amends 41 CFR chapter 102 as foll
   * Part 102-173 is added to subchapter F of chapter 102 to read as   follows:
     * Part 102-173--Internet Gov Domain
 
-### Subpart A: General
+**Subpart A: General**
 
 * 102-173.5 What is Internet GOV Domain?
 * 102-173.10 What is the authority or jurisdiction of the Internet GOV Domain
@@ -32,7 +33,7 @@ For the reasons set forth in the preamble, GSA amends 41 CFR chapter 102 as foll
 * 102-173.25 What definitions apply to this part?
 
 
-### Subpart B: Registration
+**Subpart B: Registration**
 
 * 102-173.30 Who may register in the dot-gov domain?
 * 102-173.35 Who authorizes domain names?
@@ -54,7 +55,7 @@ For the reasons set forth in the preamble, GSA amends 41 CFR chapter 102 as foll
 
 ---
 
-## Subpart A: General
+## General information
 
 ### Sec. 102-173.5 What is Internet GOV Domain?
 
@@ -86,7 +87,7 @@ The following definitions apply to this part:
 
 **Native Sovereign Nations (NSN)** are federally recognized tribes.
 
-## Subpart B: Registration
+## Registration
 
 ### Sec. 102-173.30 Who may register in the dot-gov domain?
 
