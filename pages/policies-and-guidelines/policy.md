@@ -20,33 +20,34 @@ From the Federal Register Online via [GPO Access](https://www.gpo.gov/fdsys/pkg/
 
 ---
 
-**GENERAL SERVICES ADMINISTRATION**
+### General Services Administration
 
 41 CFR Part 102-173  
 [FMR Amendment 2003-1]  
 RIN 3090-AH41  
 
-**Federal Management Regulation; Internet GOV Domain**  
+Federal Management Regulation; Internet GOV Domain
+
 **AGENCY:** Office of Governmentwide Policy, GSA.  
 **ACTION:** Final rule.  
 
 ---
 
-## Summary
+### Summary
 
 The General Services Administration (GSA) is adding coverage on the Internet GOV Domain to the Federal Management Regulation (FMR). The purpose of this final rule is to provide a new policy for registration of domain names. The FMR is written in plain language to provide updated regulatory material that is easy to read and understand.
 
-## Dates
+### Dates
 
 Effective Date: March 28, 2003.
 
-## Contact information
+### Contact information
 
 The Regulatory Secretariat, Room 4035, GS Building, Washington, DC, 20405, (202) 208-7312, for information pertaining to status or publication schedules. For clarification of content, contact [Lee Ellis](mailto:lee.ellis@gsa.gov?subject=FMR%20Amendment%202003-1), Office of Electronic Government and Technology, at (202) 501-0282. Please cite FMR Amendment 2003-1.
 
-## Supplementary information
+### Supplementary information
 
-### A. Background
+#### A. Background
 
 The purpose of this final rule is to provide a new policy for the Internet GOV Domain that will be included in the FMR. The final rule is written in a plain language question and answer format. This style uses an active voice, shorter sentences, and pronouns. Unless otherwise indicated in the text, the pronoun "we" refers to the General Services Administration (GSA). A question and its answer combine to establish a rule. You must follow the language contained in both the question and its answer.
 
@@ -56,27 +57,27 @@ Jurisdiction of the Internet GOV (dot-gov) domain was delegated to GSA in 1997 b
 
 In addition, there is increasing interest from non-Federal U.S. government entities, such as State and [[Page 15090]] local governments, and Federally recognized Indian tribes, known in this rule as Native Sovereign Nations (NSNs), to provide service within the dot-gov domain. Many such governmental entities believe that their citizens are likely to associate their government at all levels with the dot-gov domain, and therefore, want the additional option of positioning their governmental portal to the public within this space. GSA has entered into an agreement with the Department of the Interior's Bureau of Indian Affairs to facilitate the registration of NSNs in the dot-gov domain.
 
-### B. Executive Order 12866
+#### B. Executive Order 12866
 
 This is a significant rule and was subject to Office of Management and Budget review under section 6(b) of Executive Order 12866, Regulatory Planning and Review, dated September 30, 1993.
 
-### C. Regulatory Flexibility Act
+#### C. Regulatory Flexibility Act
 
 We certify that the amendments will not have a significant economic impact on a substantial number of small entities, because the registration and renewal fees, and paperwork collection burden will be small.
 
-### D. Paperwork Reduction Act
+#### D. Paperwork Reduction Act
 
 The Paperwork Reduction Act does not apply because this final rule does not contain any information collection requirements that require the approval of the Office of Management and Budget (OMB) under 44 U.S.C. 3501, et seq.
 
-### E. Congressional Review Act
+#### E. Congressional Review Act
 
 This final rule is not a major rule under 5 U.S.C. 804.
 
-### F. Unfunded Mandates Reform Act of 1995
+#### F. Unfunded Mandates Reform Act of 1995
 
 This final rule does not significantly or uniquely affect small governments or tribal governments. It does not result in expenditures by State, local, or tribal governments, or to the private sector, of $100 million or more in any one year.
 
-### G. Executive Order 13132 on Federalism
+#### G. Executive Order 13132 on Federalism
 
 This final rule does not have Federalism implications. There are no substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government.
 
