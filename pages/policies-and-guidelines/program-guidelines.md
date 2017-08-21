@@ -1,13 +1,22 @@
 ---
 title: Program guidelines
 layout: docs
-permalink: /program-guidelines/
+permalink: /policies-and-guidelines/program-guidelines/
 top: true
 
 sidenav: policies-and-guidelines
+subnav:
+  - text: Second-level domains
+    href: '#second-level-domains'
+  - text: Federal-level domains
+    href: '#federal-level-domains'
+  - text: State-level domains
+    href: '#state-level-domains'
+  - text: Local-level domains
+    href: '#local-level domains'
 ---
 
-## Program Guidelines
+# Program guidelines
 
 This overview of Gov Internet domain registration requirements is meant to further explain and clarify sections of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) about registering second-level Gov Internet domains. The [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) on Gov Internet domains focuses on purpose and jurisdiction.
 
@@ -15,17 +24,17 @@ A complete overview with formal policy is available on the [registration policy 
 
 The Gov Internet domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The Gov Internet domain provides the official and trusted Internet presence for these government entities.
 
-Every Gov Internet domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for local governments will originate from the Authorizing Authority (AA) only. The AA is the highest elected official (Mayor, County / Parish Supervisor), that authorizes the domain to operate and contain information reference to their government resonsibilities.
+Every Gov Internet domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for local governments will originate from the Authorizing Authority (AA) only. The AA is the highest elected official (Mayor, County / Parish Supervisor), that authorizes the domain to operate and contain information reference to their government responsibilities.
 
 For further assistance with domain names and eligibility requirements, please refer to the [Support sections](faqs/) or call the Help Desk toll free at (877) 734-4688 or registrar@dotgov.gov.
 
-### Guidelines for All Second Level Gov Internet Domains
+## Second-level .gov domains
 
-The following applies to all Gov Internet domains:
+The following applies to all .gov domains:
 
 1. **No non-Government Advertisements**: A Gov Internet domain may not be used to advertise for private individuals, firms, or corporations. It may not be used to imply in any manner that the government endorses or favors any specific commercial product, commodity, or service.
 
-2. **No Political or Campaign Information**: The Gov Internet domain is for the operation of government, not the political, political party, or campaign environment. No campaigning can be done using .gov domains. The Gov Internet domain websites may not be directly linked to or refer to websites created or operated by a campaign or any campaign entity or committee. No political sites or party names or acronyms can be used. Separate wesbites and e-mail on other top-level domains (TLDs), such as .org, will have to be used for political activity.
+2. **No Political or Campaign Information**: The Gov Internet domain is for the operation of government, not the political, political party, or campaign environment. No campaigning can be done using .gov domains. The Gov Internet domain websites may not be directly linked to or refer to websites created or operated by a campaign or any campaign entity or committee. No political sites or party names or acronyms can be used. Separate websites and email on other top-level domains (TLDs), such as .org, will have to be used for political activity.
 
 3. **Naming Conventions**: Naming-convention rules are described in detail in the Federal Policy (41 CFR 102-173). Thousands of names, programs, and general terms are used in Gov Internet domains. The following is a summary of naming-convention rules:
 
@@ -58,10 +67,9 @@ The following applies to all Gov Internet domains:
     II. Information received about incidents described in (a) above shall be considered confidential and shall not be disclosed to the public.
 
 
+## Federal-level domains
 
-### Federally Sponsored Domain Guidelines
-
-The following applies only to federal Gov Internet domains:
+The following applies only to federal .gov domains:
 
 1. **CIO Authorization**: All Federal Agency domain requests must come from the Chief Information Officer of the Federal Agency. See [www.cio.gov](https://www.cio.gov) for a complete list of federal-agency CIOs.
 
@@ -84,7 +92,7 @@ The following applies only to federal Gov Internet domains:
     Imelda.Tapang@bia.gov<br/>
     Tel: 703-390-6696<br/>
 
-### State-Sponsored Domain Guidelines
+### State-level domains
 
 1. **CIO or Governor Authorization**: Governors or the governor-appointed state chief information officers must sign authorization letters for all state domain requests. To verify the identity of your state CIO, refer to [www.nascio.org](https://www.nascio.org).
 
@@ -114,7 +122,7 @@ The following applies only to federal Gov Internet domains:
 
 6. **Utility, Transportation, and Regional Authorities**, such as a water district are instruments of the state and may use the Gov Internet domain once approved by the State CIO, who will ensure they are operated by the state. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the state and are state employed personnel are not eligible for a domain.
 
-### Local Government Sponsored Domain Guidelines
+## Local-level domains
 
 1. As of March 2003, local governments are authorized to get second-level Gov Internet domains.
 
@@ -144,50 +152,3 @@ The following applies only to federal Gov Internet domains:
     ReadyAugustaME.gov or GreenAugustaME.gov<br/>
     ReadyKansasCityMO.gov or GreenKansasCityMO.gov<br/>
     ReadyDadeCountyFL.gov or GreenDadeCountyFL.gov
-
-
-## Domain Guidelines
-
-#### Domain Name Integrity
-
-To maintain domain name integrity, eligibility is limited to qualified government organizations and programs. Having a managed domain name such as .gov assures your customers that they are accessing an official US Government Site.
-
-#### Domain Name Registration
-
-Domain Name requests must follow the registration process listed on the registration tab.
-
-#### Domain Name Fees
-
-The cost of a domain name $400 annually for each .gov domain name. Please review your registered domain names and verify you wish to keep them active. Please note that if your domain name(s) are not kept current, they will be removed from active status. If your .gov domain name(s)  are  removed from active status any services attached to such domain name(s) may experience issues.
-
-#### DNS Changes
-
-Domain names will not be active in the .gov zone until the nameservers assigned to the domain are answering authoritatively. You do not need to enter nameserver details when initiating the registration. However, they will need to be entered within 90 days of the registration request being made. Otherwise, your request may become deactivated and the domain name released for others to use.
-
-#### Domain Deletions
-
-Only a registered POC on a domain may request deletion of a domain by sending an email to the .GOV registrar.  Once a domain is deleted, the entire registration process must be initiated in order to resurrect that domain.  Please be certain a domain name deletion is definitely desired as it is irreversible.
-
-#### DS Changes
-
-DS records can be assigned to domain names at registration, as well as after the domain name is active. Prior to your DS records being published in the .gov zone, they will be tested and verified.
-
-#### POC Change Procedures
-
-Each domain must have 3 Points of contact for the domain. There will be no one single point of contact.
-
-#### Change Procedures
-
-All POC's must have authority to have an account on the Registration System. An email must be received from a POC that is currently on the domain to authorize a Change or Delete for the domain.
-
-> **To change a single POC** on the account, the Administrative POC will send an email to the Registrar, email Registrar@dotgov.gov, and request the change of POC for the account. If the new POC already has an account on the system, please provide the Username for the account and which POC the user will replace. If the new POC does not currently have an account, please send the name and contact information so an account can be set up for them. For federal level domains the email must come from a Government employee.
->
-> **If all three POC's** have left the domain, The Authorizing Authority will assign 3 more POC's in a new authorization letter.
->
-> The Guidelines for the Gov Domain section 1, h., states:
->
-> It is the registrant's responsibility to provide all requested information and keep all account information current; to include POC information, DNS information and it is the registrant's responsibility to ensure the account is paid in full each year. Government domains / websites can be very large, complex and support important business operations. The process to address policy violations will allow for coordination across organizational boundaries and involve persons with the authority to make decisions on the appropriate course of action and in the timeframe required.  The Administrative POC is the person who controls the content of the domain and is the manager of the operations of the domain.  The Technical POC is the person that operates the DNS and takes care of technical operations such as security patches, programming etc. The Billing POC is the person that pays for the domain. The Authorizing Authority (AA) is the highest IT official or highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities. The AA for Federal Agency domains is the CIO.  The AA for State level domains is the Governor or their appointed CIO.  The AA for local governments and Native Sovereign Nations is the highest elected official or the highest IT official.
-
-#### SSL Certificate Verification
-
-SSL Certificate Authorities may contact the .GOV Helpdesk at 877-734-4688 to verify Administrative POC information prior to issuing an SSL Certificate for a .GOV domain name. Due to security reasons, this information can only be provided verbally. The information cannot be provided in writing.

@@ -15,7 +15,13 @@ subnav:
 
 ## Certificates
 
-(Placeholder.)
+### Where can I obtain a web certificate for my .gov website?
+
+To obtain new certificates, agencies should make use of any publicly trusted certificate authority. In general, these are commercial or non-profit entities, as the U.S. government does not operate a certificate authority trusted by all modern browsers.
+
+GSA encourages .gov domain owners to obtain [low cost or free certificates](https://https.cio.gov/certificates/#what-kind-of-certificate-should-i-get-for-my-domain). More expensive certificates generally do not offer more security value to service owners, and automatic deployment of free certificates can significantly improve service owners' security posture.
+
+For more information, see: [https://https.cio.gov/certificates/](https://https.cio.gov/certificates/).
 
 ## HSTS/HTTPS preloading
 
@@ -33,7 +39,7 @@ Without HTTPS, website visitors have no guarantees about what happens as they br
 
 ### What is HSTS/HTTPS preloading?
 
-Today, web browsers allow websites to be "preloaded" as HSTS-only. This means that web browsers will always use HTTPS to connect with those websites. For example, "whitehouse.gov" has been preloaded into all major web browsers. If you type "whitehouse.gov" into your browser and hit "Enter," or click on a link without https in the protocol, your browser knows to connect to https://whitehouse.gov instead of http://whitehouse.gov, even though you didn't specifically tell it to. The same thing happens if you go to a subdomain of whitehouse.gov, like petitions.whitehouse.gov.
+Today, web browsers allow websites to be "preloaded" as HSTS-only. This means that web browsers will always use HTTPS to connect with those websites. For example, "whitehouse.gov" has been preloaded into all major web browsers. If you type "whitehouse.gov" into your browser and hit "Enter," or click on a link without https in the protocol, your browser knows to connect to `https://whitehouse.gov` instead of `http://whitehouse.gov`, even though you didn't specifically tell it to. The same thing happens if you go to a subdomain of whitehouse.gov, like petitions.whitehouse.gov.
 
 By preloading "whitehouse.gov", the site owners have ensured that browsers will always make secure HTTPS connections to all of its websites.
 
@@ -41,9 +47,9 @@ By preloading "whitehouse.gov", the site owners have ensured that browsers will 
 
 **No.** ALL the following criteria must be met for domains (and associated websites) to be affected:
 
-* The .gov domain belongs to an agency of the **federal government’s executive branch_**; AND
+* The .gov domain belongs to an agency of the **federal government’s executive branch**; AND
 * The .gov domain was **registered for the first time on a date after May 15, 2017**; AND
-* The .Gov domain is **on the preload list.**
+* The .gov domain is **on the preload list.**
 
 ### Will automatic preloading affect non-Executive branch federal domains and websites?
 
@@ -51,19 +57,19 @@ By preloading "whitehouse.gov", the site owners have ensured that browsers will 
 
 ### Will automatic preloading affect state or local government, or Native tribe domains and websites?
 
-**No.** If a .Gov domain belongs to a native tribe, a state, or a local government entity, it will not be affected by HTTPS preloading.
+**No.** If a .gov domain belongs to a native tribe, a state, or a local government entity, it will not be affected by HTTPS preloading.
 
 ### Will automatic preloading affect existing (registered BEFORE May 15, 2017) Executive branch federal .gov domains and websites?
 
-**No.** If a .Gov domain was registered before May 15, 2017, it will not be affected by the HTTPS preloading.
+**No.** If a .gov domain was registered before May 15, 2017, it will not be affected by the HTTPS preloading.
 
-Note: It's possible for any .Gov domain owner to preload their own domain. Some domains not meeting the above criteria have been preloaded through the domain owner's direct action, and could be affected. This service only applies to identifying domains preloaded through the DotGov's Program team action, rather than the domain owner's action.
+Note: It's possible for any .gov domain owner to preload their own domain. Some domains not meeting the above criteria have been preloaded through the domain owner's direct action, and could be affected. This service only applies to identifying domains preloaded through the DotGov's Program team action, rather than the domain owner's action.
 
 See below to learn how to verify whether a domain has been preloaded.
 
-### How will HSTS preloading affect .Gov domain visitors?
+### How will HSTS preloading affect .gov domain visitors?
 
-If a .Gov domain is affected and preloaded, any websites hosted on that domain or any of its subdomains will be affected in the following two ways:
+If a .gov domain is affected and preloaded, any websites hosted on that domain or any of its subdomains will be affected in the following two ways:
 
 1. Supporting web browsers will automatically redirect HTTP requests to the HTTPS version of the same URL, for any URL on that domain or its subdomains.
 
@@ -71,9 +77,9 @@ If a .Gov domain is affected and preloaded, any websites hosted on that domain o
     * Similarly, attempting to visit http://history.example.gov/faq/ will redirect the user to https://history.example.gov/faq/.
     * This will happen no matter how the domain owner has configured their web server. In fact, this will happen even if the domain owner has no web server configured at all.
 
-2. Supporting web browsers will NOT allow website visitors to click through any certificate warnings a user might encounter on a website on the affected .Gov domain or any of its subdomains. This means that affected domain owners must treat a certificate configuration issue as equivalent to downtime. Visitors cannot be asked to click through certificate warnings to use the website.
+2. Supporting web browsers will NOT allow website visitors to click through any certificate warnings a user might encounter on a website on the affected .gov domain or any of its subdomains. This means that affected domain owners must treat a certificate configuration issue as equivalent to downtime. Visitors cannot be asked to click through certificate warnings to use the website.
 
-### How can I verify whether a .Gov domain is preloaded?
+### How can I verify whether a .gov domain is preloaded?
 
 To verify whether a domain is being affected by HSTS preloading:
 
@@ -106,11 +112,3 @@ Common certificate issues include:
 * **The certificate is not issued by a trusted authority.** Visitors use browsers and operating systems that only trust a certain set of "certificate authorities," and many visitors from the general public use browsers and operating systems that do not trust government-issued certificates. For websites that serve a public audience, agencies must use commercially issued certificates.
 
     * Solution: Replace the certificate with one from a widely trusted certificate authority. For more information, see [https://https.cio.gov/certificates/](https://https.cio.gov/certificates/)
-
-### Where can I obtain a web certificate for my .Gov website?
-
-To obtain new certificates, agencies should make use of any publicly trusted certificate authority. In general, these are commercial or non-profit entities, as the U.S. government does not operate a certificate authority trusted by all modern browsers.
-
-GSA encourages .Gov domain owners to obtain [low cost or free certificates](https://https.cio.gov/certificates/#what-kind-of-certificate-should-i-get-for-my-domain). More expensive certificates generally do not offer more security value to service owners, and automatic deployment of free certificates can significantly improve service owners' security posture.
-
-For more information, see: [https://https.cio.gov/certificates/](https://https.cio.gov/certificates/)

@@ -4,6 +4,9 @@ layout: docs
 permalink: /support/
 
 sidenav: support
+subnav:
+  - text: Contact us
+    href: '#contact-us'
 ---
 
 # Support
