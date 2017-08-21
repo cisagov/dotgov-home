@@ -10,6 +10,9 @@ sidenav: support
 
 ## Contact us
 
-Questions? Call the Registration Help Desk at: 1-877-734-4688.
+Do you have questions about registering a domain or need technical support? We’re here to help:
 
-Support is available on federal work days from 9am–5pm eastern time, and 24 hours a day, 7 days a week for emergencies.
+* 1-877-734-4688
+* <registrar@dotgov.gov>
+
+Support is available 9 a.m. to 5 p.m. eastern time on federal working days, and 24 hours a day, 7 days a week for emergencies.
