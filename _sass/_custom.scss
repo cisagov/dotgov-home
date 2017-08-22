@@ -1,4 +1,5 @@
 // Sticky footer
+
 body {
   display: flex;
   min-height: 100vh;
@@ -67,6 +68,16 @@ main {
 .bg-color-gray-lightest {
   background-color: $color-gray-lightest;
 }
+
+
+// Docs sidenav
+
+.usa-layout-docs-sidenav {
+  @include media($medium-screen) {
+    padding-right: 1.5rem;
+  }
+}
+
 // Sticky sidenav
 
 .usa-layout-docs-sidenav {
