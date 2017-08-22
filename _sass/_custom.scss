@@ -77,9 +77,17 @@
 /* Style tweaks. */
 
 code {
-  background-color: #e5e5e5;
-  color: #bc0071;
-  font-size: 0.9em;
+  background-color: $color-gray-lightest;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
+  font-size: 1.3rem;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+code::before,
+code::after {
+  letter-spacing: -0.2em;
+  content: '\00a0';
 }
 
 /*
