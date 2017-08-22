@@ -4,14 +4,13 @@ layout: docs
 permalink: /policies-and-guidelines/
 top: true
 
-sidenav: policies-and-guidelines
+#sidenav: policies-and-guidelines
 
-subnav:
-  - text: Federal policy
-    href: '/policies-and-guidelines/policy'
-  - text: Policy FAQ
-    href: '/policies-and-guidelines/policy-faq'
-
+#subnav:
+#  - text: Federal policy
+#    href: '/policies-and-guidelines/policy/'
+#  - text: Policy FAQ
+#    href: '/policies-and-guidelines/policy-faq/'
 ---
 
 # Policies and guidelines

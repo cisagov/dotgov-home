@@ -6,6 +6,8 @@ main:
 
 {% if page.permalink contains 'domains' %}
   {% include sidenav/domains.html %}
+{% elsif page.permalink contains 'policies-and-guidelines' %}
+  {% include sidenav/policies-and-guidelines.html %}
 {% endif %}
 
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}

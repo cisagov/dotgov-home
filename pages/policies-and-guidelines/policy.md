@@ -1,18 +1,15 @@
 ---
-title: Policies and guidelines
+title: Federal policy
 layout: docs
 permalink: /policies-and-guidelines/policy/
 top: true
-
-sidenav: policies-and-guidelines
-
 ---
 
 # Federal policy
 
 ## Final Rule - 41 CFR Part 102-173
 
-Federal Register: March 28, 2003 (Volume 68, Number 60)  
+Federal Register: March 28, 2003 (Volume 68, Number 60)
 Rules and Regulations
 Page 15089-15092
 
@@ -22,14 +19,14 @@ From the Federal Register Online via [GPO Access](https://www.gpo.gov/fdsys/pkg/
 
 ### General Services Administration
 
-41 CFR Part 102-173  
-[FMR Amendment 2003-1]  
-RIN 3090-AH41  
+41 CFR Part 102-173
+[FMR Amendment 2003-1]
+RIN 3090-AH41
 
 Federal Management Regulation; Internet GOV Domain
 
-**AGENCY:** Office of Governmentwide Policy, GSA.  
-**ACTION:** Final rule.  
+**AGENCY:** Office of Governmentwide Policy, GSA.
+**ACTION:** Final rule.
 
 ---
 
@@ -89,5 +86,5 @@ Archives and records, Computer technology, Federal information processing resour
 
 **Dated: March 24, 2003**
 
-Stephen A. Perry,  
+Stephen A. Perry,
 Administrator of General Services

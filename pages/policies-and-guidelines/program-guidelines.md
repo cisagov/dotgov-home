@@ -3,13 +3,6 @@ title: Program guidelines
 layout: docs
 permalink: /policies-and-guidelines/program-guidelines/
 top: true
-
-sidenav: policies-and-guidelines
-subnav:
-  - text: DNS changes
-    href: '#dns-changes'
-  - text: SSL certificate verification
-    href: '#ssl-certificate-verification'
 ---
 
 # Program guidelines

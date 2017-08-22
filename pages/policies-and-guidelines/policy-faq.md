@@ -3,15 +3,6 @@ title: Policy FAQ
 layout: docs
 permalink: /policies-and-guidelines/policy-faq/
 top: true
-
-sidenav: policies-and-guidelines
-
-subnav:
-  - text: General information
-    href: '#general-information'
-  - text: Registration
-    href: '#registration'
-
 ---
 
 # Policy FAQ
@@ -201,5 +192,5 @@ The General Services Administration approves domain names for a specific term of
 
 ---
 
-[FR Doc. 03-7413 Filed 3-27-03; 8:45 am]  
+[FR Doc. 03-7413 Filed 3-27-03; 8:45 am]
 BILLING CODE 6820-14-P

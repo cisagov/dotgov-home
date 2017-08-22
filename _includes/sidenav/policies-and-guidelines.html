@@ -1,0 +1,38 @@
+<aside class="usa-width-one-fourth sidenav sticky">
+  <ul class="usa-sidenav-list">
+    <li>
+      <a {% if page.title == 'Policies and guidelines' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/policies-and-guidelines/">
+        Policies
+      </a>
+      <ul class="usa-sidenav-sub_list">
+        <li>
+          <a {% if page.title == 'Federal policy' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/policies-and-guidelines/policy/">
+            Federal policy
+          </a>
+        </li>
+        <li>
+          <a {% if page.title == 'Policy FAQ' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/policies-and-guidelines/policy-faq/">
+            Policy FAQ
+          </a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a {% if page.title == 'Program guidelines' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/policies-and-guidelines/program-guidelines/">
+        Program guidelines
+      </a>
+      <ul class="usa-sidenav-sub_list">
+        <li>
+          <a href="{{ site.baseurl }}/policies-and-guidelines/program-guidelines/#dns-changes">
+            DNS changes
+          </a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/policies-and-guidelines/program-guidelines/#ssl-certificate-verification">
+            SSL certificate verification
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</aside>
