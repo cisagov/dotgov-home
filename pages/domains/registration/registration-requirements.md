@@ -4,7 +4,6 @@ layout: docs
 permalink: /domains/registration/requirements/
 top: true
 
-sidenav: registration
 subnav:
   - text: Second-level domains
     href: '#second-level-domains'
@@ -118,16 +117,16 @@ All federal court .gov domains are linked to [uscourts.gov](https://uscourts.gov
 
 All Native Sovereign Nations domains are coordinated with the following Chief Information Officer representative:
 
-Bureau of Indian Affairs  
-Office of Information Development  
-Attn: Angel Goldtooth, Imelda Tapang, Bruce Wheatley  
-12220 Sunrise Valley Drive Rm 5110  
-Reston, VA 20191  
+Bureau of Indian Affairs
+Office of Information Development
+Attn: Angel Goldtooth, Imelda Tapang, Bruce Wheatley
+12220 Sunrise Valley Drive Rm 5110
+Reston, VA 20191
 
-* <Angel.Goldtooth@bia.gov>  
-* Tel: 505-563-5457  
-* <Imelda.Tapang@bia.gov>  
-* Tel: 703-390-6696  
+* <Angel.Goldtooth@bia.gov>
+* Tel: 505-563-5457
+* <Imelda.Tapang@bia.gov>
+* Tel: 703-390-6696
 
 ## State-level domains
 

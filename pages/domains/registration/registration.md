@@ -1,16 +1,14 @@
 ---
-title: Domain registration
+title: Register a domain
 layout: docs
 permalink: /domains/registration/
 top: true
 
-sidenav: registration
 subnav:
   - text: Register a domain
     href: '#register-a-domain'
   - text: Common questions
     href: '#common-questions'
-
 ---
 
 # Register a domain
@@ -84,5 +82,5 @@ Fax your letter to 540-301-0160 or email a copy to [registrar@dotgov.gov](mailto
 
 In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the General Services Administration ([https://www.gsa.gov](https://www.gsa.gov)). Please contact the Domain Registration Help Desk with any questions you may have.
 
-- Toll-free: 1-877-734-4688  
+- Toll-free: 1-877-734-4688
 - Email: <registrar@dotgov.gov>

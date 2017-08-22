@@ -5,7 +5,7 @@ permalink: /domains/management/account-changes/
 top: true
 ---
 
-## Account changes
+# Account changes
 
 ### How do I change a point of contact (POC) on the account?
 

@@ -11,7 +11,7 @@ subnav:
 
 # Support
 
-### Contact us
+## Contact us
 
 Do you have questions about registering a domain or need technical support? We’re here to help:
 

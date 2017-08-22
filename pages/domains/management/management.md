@@ -5,7 +5,7 @@ permalink: /domains/management/
 top: true
 ---
 
-## Domain management
+# Domain management
 
 ### How quickly will modifications to my domain propagate throughout the internet?
 
