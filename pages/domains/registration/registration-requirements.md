@@ -1,10 +1,10 @@
 ---
 title: Registration requirements
 layout: docs
-permalink: /policies-and-guidelines/registration-requirements/
+permalink: /domains/registration/requirements/
 top: true
 
-sidenav: policies-and-guidelines
+sidenav: registration
 subnav:
   - text: Second-level domains
     href: '#second-level-domains'

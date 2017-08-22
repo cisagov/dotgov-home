@@ -7,13 +7,11 @@ top: true
 
 ## Account changes
 
-### Points of contact
+### How do I change a point of contact (POC) on the account?
 
-Each domain must have 3 points of contact (POC) for the domain.  There will be no one single point of contact.
+To change a single point of contact on the account, the Administrative point of contact will send an email to the Registrar, email <registrar@dotgov.gov>, and request the change of point of contact for the account.
 
-All points of contact must have authority to have an account on the Registration System. An email must be received from a point of contact that is currently on the domain to authorize a Change or Delete for the domain.
-
-To change a single point of contact on the account, the Administrative point of contact will send an email to the Registrar, email <registrar@dotgov.gov>, and request the change of point of contact for the account. If the new point of contact already has an account on the system, please provide the Username for the account and which point of contact the user will replace. If the new point of contact does not currently have an account, please send the name and contact information so an account can be set up for them. For federal level domains the email must come from a Government employee.
+If the new point of contact already has an account on the system, please provide the username for the account and which point of contact the user will replace. If the new point of contact does not currently have an account, please send the name and contact information so an account can be set up for them. For federal level domains the email must come from a Government employee.
 
 If all three points of contact’s have left the domain, The Authorizing Authority will assign 3 more points of contact in a new authorization letter.
 
@@ -23,6 +21,6 @@ The Guidelines for the Gov Domain section 1, h., states:
 
 ### One of our points of contact is no longer the right person to help manage a domain. How do I remove them from the account?
 
-If you are a POC on a domain that is undergoing the request process, you may update the POC with another. However, please ensure that you are selecting an existing user. If your POC is new, that individual must be provisioned into the system beforehand by selecting Account on the login page ([www.dotgov.gov](https://www.dotgov.gov)). Please review [the corresponding FAQ section](#one-of-the-pocs-is-no-longer-the-right-person-to-help-manage-a-domain-we-need-to-remove-himher-how-do-i-do-that) for more details.
+If you are a POC on a domain that is undergoing the request process, you may update the POC with another. However, please ensure that you are selecting an existing user. If your POC is new, that individual must be provisioned into the system beforehand by selecting Account at [dotgov.gov](https://www.dotgov.gov).
 
 If you are unable to update a POC with an existing user, please contact the Help Desk.

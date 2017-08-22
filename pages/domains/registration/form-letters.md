@@ -1,8 +1,8 @@
 ---
-title: Form letters (HTML)
+title: Authorization letter templates
 layout: docs
-permalink: /domains/registration/form-letters/
+permalink: /domains/registration/letter-templates/
 top: true
 ---
 
-## Form letters (HTML)
+# Authorization letter templates

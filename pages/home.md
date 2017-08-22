@@ -8,8 +8,8 @@ hero:
     text: "Learn about the DotGov program"
   content: "Find information about the .gov domain registry, read our policies, or download data about .gov domains."
   button:
-    text: "Download our data"
-    href: data/
+    text: "Learn more"
+    href: /domains/registration/
 ---
 
 If you need to **register or manage a .gov domain**, visit [dotgov.gov](https://www.dotgov.gov).
