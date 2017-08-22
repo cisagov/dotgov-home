@@ -20,7 +20,7 @@ var linkifyAnchors = function (level, containingElement) {
 
 document.onreadystatechange = function () {
   if (this.readyState === "complete") {
-    var contentBlock = document.getElementsByClassName("usa-layout-docs")[0] || document.getElementsByClassName("news")[0];
+    var contentBlock = document.getElementsByClassName("usa-layout-docs")[0];
     if (!contentBlock) {
       return;
     }
