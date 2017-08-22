@@ -19,6 +19,7 @@ main {
 
 .usa-layout-docs-sidenav {
   @include media($medium-screen) {
+    display: table;
     order: initial;
   }
 }
