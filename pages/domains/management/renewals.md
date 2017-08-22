@@ -5,7 +5,7 @@ permalink: /domains/management/renewals/
 top: true
 ---
 
-# Renewals
+# Renew a domain
 
 ### How long is a .gov domain registered?
 

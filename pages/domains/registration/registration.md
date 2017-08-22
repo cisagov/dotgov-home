@@ -13,9 +13,9 @@ subnav:
 
 ---
 
-# Domain registration
+# Register a domain
 
-To get your .gov domain registered and activated:
+To register and activate a new .gov domain:
 
 1. [Create a dotgov.gov account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2) or [sign into an existing account](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
 
@@ -65,6 +65,12 @@ A domain name may be up to 26 characters long, including the 4 characters used t
 ### Do I need to enter DNS information when I submit my registration request?
 
 You can add DNS at any time once the domain name request has been submitted. Note: Your domain cannot be activated until you add DNS.
+
+### Why won’t my domain work after updating the registration with actual name servers?
+
+Adding name servers to a reserved domain does not change its status from reserved to active if other requirements are pending. You are permitted to reserve a domain for up to 90 days, giving you time to submit all of the required registration information.
+
+If the name server information is the only remaining information required for registration, it will take approximately 1 to 2 days following receipt of valid name server data for .gov Domain Registration Services to activate your domain. Expect an additional 1 to 2 days for the update to propagate across the Internet.
 
 ### Our CIO won’t sign our authorization letter. What do we do now?
 

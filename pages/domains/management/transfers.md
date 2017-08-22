@@ -5,9 +5,11 @@ permalink: /domains/management/transfers/
 top: true
 ---
 
-# Transferring a domain
+# Transfer a domain
 
-To transfer ownership of a domain name from one agency to another agency, two letters must be submitted to the .Gov Domain Manager - one from the transferring agency and one from the accepting agency.
+To transfer ownership of a domain name from one agency to another agency, two letters must be submitted to the .gov Domain Manager - one from the transferring agency and one from the accepting agency.
+
+Start by copying and pasting the [Domain Transfer Letter Template](/domains/management/transfers/).
 
 The letter from the transferring agency must be on official agency letterhead and signed by the transferring agency chief information officer (CIO). The letter should formally request that the domain name be transferred to the new agency and should include the following information:
 
@@ -26,4 +28,6 @@ This letter must specify the request for ownership of the domain name and should
 * New POC(s) and phone number(s) (for the accepting agency) and
 * New domain name server (DNS) information.
 
-Request letters should be faxed to the attention of the .Gov Domain Manager, at (540) 301-0160 or email a digital copy to [registrar@dotgov.gov](mailto:registrar@dotgov.gov). After the .Gov Domain Manager has received and verified both letters, the .Gov Domain Registration database will be updated to reflect the transfer.
+Fax your letter to the attention of the .gov domain manager at 540-301-0160 or email a copy to [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
+
+After the .gov Domain Manager has received and verified both letters, the .gov Domain Registration database will be updated to reflect the transfer.
