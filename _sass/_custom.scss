@@ -1,3 +1,35 @@
+// Sticky footer
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+}
+
+.usa-layout-docs {
+  @include media($medium-screen) {
+    flex-direction: initial;
+  }
+}
+
+.usa-layout-docs-sidenav {
+  @include media($medium-screen) {
+    order: initial;
+  }
+}
+
+.usa-layout-docs-main_content {
+  padding-bottom: 3rem;
+
+  @include media($medium-screen) {
+    padding-bottom: 0;
+  }
+}
+
 // Navigation
 
 .usa-navbar {
