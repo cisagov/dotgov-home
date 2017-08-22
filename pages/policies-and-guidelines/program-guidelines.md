@@ -6,8 +6,6 @@ top: true
 
 sidenav: policies-and-guidelines
 subnav:
-  - text: Account changes
-    href: '#account-changes'
   - text: DNS changes
     href: '#dns-changes'
   - text: SSL certificate verification

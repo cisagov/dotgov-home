@@ -25,4 +25,8 @@ If a renewal payment is not submitted, domain name(s) do not automatically get r
 
 ### How do I delete my domain?
 
-Only a registered points of contact on a domain may request deletion of a domain by sending an email to <registrar@dotgov.gov>. Once a domain is deleted, the entire registration process must be initiated in order to resurrect that domain. Please be certain a domain name deletion is definitely desired as it is irreversible.
+Only a registered POC on a domain may request deletion of a domain by sending an email to [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
+
+In addition to requesting the domain to be deleted, the domain owner should request the resource records for that domain be removed from the zone file on the nameservers hosting the domain.
+
+Once a domain is deleted, the entire registration process must be initiated in order to resurrect that domain. Please be certain a domain name deletion is definitely desired as it is irreversible.
