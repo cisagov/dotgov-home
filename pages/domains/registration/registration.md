@@ -3,120 +3,86 @@ title: Domain registration
 layout: docs
 permalink: /domains/registration/
 top: true
+
+sidenav: registration
+subnav:
+  - text: Register a domain
+    href: '#register-a-domain'
+  - text: Common questions
+    href: '#common-questions'
+
 ---
 
-## Domain registration
+# Register a domain
 
-#### How do I register a .gov domain?
+To register and activate a new .gov domain:
 
-To register a domain, please review the materials located on the Registration Process tab.
+1. [Create a dotgov.gov account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2) or [sign into an existing account](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
 
-#### Do I need to enter DNS information when I submit my registration request?
+A .gov representative will create your account and email the point of contact to finalize the account and create a password.
 
-You can add DNS at any time once the domain name request has been submitted. Note: Your domain cannot be activated until you add DNS.
+2. If you are registering a domain for a Federal Executive Branch Agency, please read the [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
 
-#### My request was denied. What is the appeal process?
+3. Prepare the authorization letter to request approval.
 
-In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the General Services Administration ([https://www.gsa.gov](https://www.gsa.gov)). Please contact the Domain Registration Help Desk with any questions you may have.
+- Copy and paste an [Authorization Letter Template](/domains/registration/form-letters/) into a word processor.
 
-Toll-free: (877) REG-GOVT or (877) 734-4688<br/>
-E-mail: <a href="mailto:registrar@dotgov.gov">registrar@dotgov.gov</a>
+- Update the letter with the appropriate information for your request.
 
-#### How long is a .Gov domain registered?
+- The name of .gov domain must be consistent with its content.
 
-Domains are registered for a 1 year period and are renewed annually.
+- The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
 
-#### If a POC for a domain is new, are there any steps that this person needs to take to become the POC?
+4. Specify three points of contact (POCs).
 
-Yes, a new POC must first request an account by sending an email to Help Desk at <a href="mailto:registrar@dotgov.gov">registrar@dotgov.gov</a>. For a new domain request, the authorization letter must list the POC as a valid contact. Please go to <a href="https://www.dotgov.gov"> and then go to Home < Forms for this authorization letter template.
+The Content or Administrative POC approves all content (and must be a government employee). The Technical POC is usually responsible for the DNS or programming.
 
-#### What are the valid characters for a domain name and how long can it be?
+Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.
+
+5. Complete your DNS information.
+
+Each domain must have at least one domain name server.
+
+Your host DNS must be populated before your domain is activated.
+
+6. Send a copy of the authorization letter to:
+
+* Fax: 540-301-0160
+* Email: <registrar@dotgov.gov>
+
+After we receive your authorization letter and DNS test pass, you’ll receive an email that allows you to activate the domain.
+
+---
+
+## Common questions
+
+If you have any questions during the registration process, contact us at <registrar@dotgov.gov> or 1-877-734-4688.
+
+### What are the valid characters for a domain name and how long can it be?
 
 A domain name may be up to 26 characters long, including the 4 characters used to identify the top-level domain (e.g., `.gov`). The only valid characters for a domain name are letters, numbers and a hyphen. Other characters, including a space, are not permitted. Domain names may not begin or end with a hyphen.
 
-#### What are the requirements to be assigned to domain names?
+### Do I need to enter DNS information when I submit my registration request?
 
-The Admin POC must be from the signatory's office. For example, the Admin POC for a new state domain name must be in the governor's office. The Technical POC must be available 24/7 if this .Gov domain name is critical to your infrastructure. The Billing POC must have access to a credit card and be able to pay registration fees.
+You can add DNS at any time once the domain name request has been submitted. Note: Your domain cannot be activated until you add DNS.
 
-#### One of the POCs is no longer the right person to help manage a domain. We need to remove him/her. How do I do that?
-
-If you are a POC on a domain that is undergoing the request process, you may update the POC with another. However, please ensure that you are selecting an existing user. If your POC is new, that individual must be provisioned into the system beforehand by selecting Account on the login page ([www.dotgov.gov](https://www.dotgov.gov)). Please review [the corresponding FAQ section](#one-of-the-pocs-is-no-longer-the-right-person-to-help-manage-a-domain-we-need-to-remove-himher-how-do-i-do-that) for more details.
-
-If you are unable to update a POC with an existing user, please contact the Help Desk.
-
-#### Our CIO won't sign our authorization letter. What do we do now?
-
-Without an Authorization Letter from your Mayor or the highest ranking city or county official, the State Governor, the State CIO, or the Federal CIO of your Federal agency, you cannot register for a .gov domain name.
-
-#### Who is the Indian Affairs CIO representative?
-
-**Bureau of Indian Affairs**<br/>
-**Office of Information Development**<br/>
-**Attn: Angel Goldtooth, Imelda Tapang,**<br/>
-12220 Sunrise Valley Drive Rm 5110<br/>
-Reston, VA 20191<br/>
-**[Angel.Goldtooth@bia.gov](mailto:Angel.Goldtooth@bia.gov)**<br/>
-Tel: 505-563-5457<br/>
-**[Imelda.Tapang@bia.gov](mailto:Imelda.Tapang@bia.gov)**<br/>
-Tel: 703-390-6696
-
-#### Are states eligible to receive a .gov domain?
-
-Yes, states are eligible to receive a .gov domain name if the authorization letter is signed by the Governor or State CIO.
-
-#### Where do I send my Authorization Letter?
-
-Fax your letter to: (540) 301-0160 or email a digital copy to [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
-
-## Domain Management
-
-#### How do I reset my password?
-
-If you do not recall your password, please contact the Help Desk and a temporary password will be generated for you. You will be prompted to change your password for security protocols.
-
-#### How quickly will modifications to my domain propagate throughout the Internet?
-
-Propagation depends on a variety of factors, such as caching and connectivity, the changes are usually effective by the next morning.
-
-#### What are the steps that should be taken to remove a domain and delete it from the .gov system?
-
-Only a registered POC on a domain may request deletion of a domain by sending an email to the .GOV Registrar at [registrar@dotgov.gov](mailto:registrar@dotgov.gov). In addition to requesting the domain to be deleted, the domain owner should request the resource records for that domain to be removed from the zone file on the nameservers hosting the domain.
-
-#### Why won't my domain work after updating the registration with actual name servers?
+### Why won’t my domain work after updating the registration with actual name servers?
 
 Adding name servers to a reserved domain does not change its status from reserved to active if other requirements are pending. You are permitted to reserve a domain for up to 90 days, giving you time to submit all of the required registration information.
 
 If the name server information is the only remaining information required for registration, it will take approximately 1 to 2 days following receipt of valid name server data for .gov Domain Registration Services to activate your domain. Expect an additional 1 to 2 days for the update to propagate across the Internet.
 
-#### Where can I get a list of domains that are up for renewal?
+### Our CIO won’t sign our authorization letter. What do we do now?
 
-On [www.dotgov.gov](https://www.dotgov.gov), from the Home Tab click on Fees.
+Without an authorization letter from your mayor or the highest ranking city or county official, the state governor, the state CIO, or the federal CIO of your federal agency, you cannot register for a .gov domain name.
 
-#### How do I transfer ownership of a domain name from one organization to another organization (such as from one agency to another agency)?
+### Where do I send my authorization letter?
 
-To transfer ownership of a domain name from one agency to another agency, two letters must be submitted to the .Gov Domain Manager - one from the transferring agency and one from the accepting agency.
+Fax your letter to 540-301-0160 or email a copy to [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
 
-The letter from the transferring agency must be on official agency letterhead and signed by the transferring agency chief information officer (CIO). The letter should formally request that the domain name be transferred to the new agency and should include the following information:
+### My request was denied. What is the appeal process?
 
-* Both agency names (transferring agency and accepting agency)
-* Domain name to be transferred
-* Current POC(s) and phone number(s) (for the transferring agency)
-* New POC(s) and phone number(s) (for the accepting agency).
+In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the General Services Administration ([https://www.gsa.gov](https://www.gsa.gov)). Please contact the Domain Registration Help Desk with any questions you may have.
 
-The letter from the accepting agency must be on official agency letterhead and must be signed by the accepting agency CIO.
-
-This letter must specify the request for ownership of the domain name and should include the following information:
-
-* Both agency names (transferring agency and accepting agency)
-* Domain name to be transferred
-* Current POC(s) and phone number(s) (for the transferring agency)
-* New POC(s) and phone number(s) (for the accepting agency) and
-* New domain name server (DNS) information.
-
-Request letters should be faxed to the attention of the .Gov Domain Manager, at (540) 301-0160 or email a digital copy to [registrar@dotgov.gov](mailto:registrar@dotgov.gov). After the .Gov Domain Manager has received and verified both letters, the .Gov Domain Registration database will be updated to reflect the transfer.
-
-## Contact us
-
-Questions? Call the Registration Help Desk at: 1-877-734-4688.
-
-Support is available on federal work days from 9am–5pm eastern time, and 24 hours a day, 7 days a week for emergencies.
+- Toll-free: 1-877-734-4688  
+- Email: <registrar@dotgov.gov>
