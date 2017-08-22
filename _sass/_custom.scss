@@ -125,7 +125,9 @@ code::after {
   left: 0.5em;
   font-size: 0.8em;
   opacity: 0;
-  position: relative;
+  left: -1.1em;
+  line-height: 1.5;
+  position: absolute;
   transition: opacity 0.2s ease-in-out 0.1s;
 }
 
@@ -135,4 +137,10 @@ h4:hover .header-link,
 h5:hover .header-link,
 h6:hover .header-link {
   opacity: 1;
+}
+
+.usa-layout-docs-main_content {
+  h2, h3, h4, h5, h6 {
+    position: relative;
+  }
 }
