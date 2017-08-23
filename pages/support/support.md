@@ -2,7 +2,6 @@
 title: Support
 layout: docs
 permalink: /support/
-intro: The intro gives a summary of what’s expected from the page and should work together with the headline.
 
 sidenav: support
 subnav:
