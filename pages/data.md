@@ -13,8 +13,6 @@ subnav:
     href: '#share-your-feedback'
 ---
 
-# Data
-
 ### All .gov domains
 
 The official public list of `.gov` domains is updated about every two weeks:

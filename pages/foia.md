@@ -1,13 +1,10 @@
 ---
-title: FOIA policy
+title: Freedom of Information Act (FOIA) policy
 layout: docs
 permalink: /foia/
+intro: Protection of information technology infrastructure and .gov domain listings
 top: true
 ---
-
-# Freedom of Information Act (FOIA) policy
-
-#### Protection of information technology infrastructure and .gov domain listings
 
 The overarching policy [Internet Gov Domain Policy and Guidelines](https://www.dotgov.gov/dotgov-web/info/InternetPolicyUpdate.xhtml) directs that the listing of Gov Domain names, registration information and DNS attribute will not be released in order to reduce or avoid security incidents. The Gov domain listing of URLs and IP addresses is security sensitive, maintained in encrypted format during operation, and protected from disclosure under the mosaic exemption for infrastructure. The information in itself, if disclosed, could be used for potentially extremely effective cyber attacks on the Federal Government’s entire internet infrastructure.
 
