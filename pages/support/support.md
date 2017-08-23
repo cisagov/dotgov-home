@@ -2,7 +2,7 @@
 title: Support
 layout: docs
 permalink: /support/
-
+intro: Do you have questions about registering a domain or need technical support? We’re here to help.
 sidenav: support
 subnav:
   - text: Contact us
@@ -10,8 +10,6 @@ subnav:
 ---
 
 ## Contact us
-
-Do you have questions about registering a domain or need technical support? We’re here to help:
 
 * 1-877-734-4688
 * <registrar@dotgov.gov>
