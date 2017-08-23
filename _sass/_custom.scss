@@ -30,10 +30,18 @@ main {
     display: table;
     order: initial;
   }
+
+  @include media($large-screen) {
+    @include span-columns(3);
+  }
 }
 
 .usa-layout-docs-main_content {
   padding-bottom: 3rem;
+
+  @include media($large-screen) {
+    @include span-columns(9);
+  }
 
   @include media($medium-screen) {
     @include span-columns(8);
