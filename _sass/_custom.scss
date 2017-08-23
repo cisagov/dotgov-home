@@ -1,3 +1,10 @@
+// Typography
+hr {
+  @include margin(6rem null);
+  border-bottom: 0;
+  border-top: 1px solid $color-gray-light;
+}
+
 // Sticky footer
 
 body {
