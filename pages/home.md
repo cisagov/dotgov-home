@@ -26,7 +26,7 @@ hero:
 <div class="usa-width-two-thirds">
 <p>**May 15, 2017** - [Automatic HSTS preloading](hsts-preloading/) went into effect for newly issued federal executive branch .gov domains.</p>
 <p>**January 19, 2017** - [Automatic HSTS preloading](hsts-preloading/) was [announced](https://cio.gov/automatic-https-enforcement-new-executive-branch-gov-domains/). This service will automatically enforce HTTPS for newly issued federal executive branch .gov domains.</p>
-<p>**January 1, 2017** - The [fee increase](faqs/#fee-increase) went into effect, raising the annual fee for .gov domains to $400 per year.</p>
+<p>**January 1, 2017** - The [fee increase](/domains/registration/fees/#2017-fee-increase) went into effect, raising the annual fee for domains to $400 per year.</p>
 </div>
 </div>
 </section>
