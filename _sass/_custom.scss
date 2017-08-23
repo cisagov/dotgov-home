@@ -8,14 +8,18 @@ hr {
 // Sticky footer
 
 body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+  @include media($medium-screen) {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
 }
 
 main {
-  flex: 1;
-  width: 100%;
+  @include media($medium-screen) {
+    flex: 1;
+    width: 100%;
+  }
 }
 
 .usa-layout-docs {
