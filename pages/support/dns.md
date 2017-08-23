@@ -1,12 +1,10 @@
 ---
-title: DNS
+title: Domain name system (DNS)
 layout: docs
 permalink: /support/dns/
 
 sidenav: support
 ---
-
-# Domain name system (DNS)
 
 To learn more about the federal DNS policy, review memoradum [M-08-23: Securing the Federal Government’s Domain Name System Infrastructure Memorandum](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2008/m08-23.pdf) or [download the PDF](https://www.dotgov.gov/dotgov-web/files/get_file?uuid=0d2b7be9-1c4d-423e-b3fa-6c9cd6310613&groupId=12665&action=get_file).
 

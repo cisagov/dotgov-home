@@ -1,11 +1,9 @@
 ---
-title: Renewals
+title: Renew a domain
 layout: docs
 permalink: /domains/management/renewals/
 top: true
 ---
-
-# Renew a domain
 
 ### How long is a .gov domain registered?
 

@@ -5,8 +5,6 @@ permalink: /policies-and-guidelines/program-guidelines/
 top: true
 ---
 
-# Program guidelines
-
 This page describes how the .gov program operates and rules for domain owners.
 
 ## Domain name integrity

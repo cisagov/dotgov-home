@@ -5,8 +5,6 @@ permalink: /policies-and-guidelines/policy-faq/
 top: true
 ---
 
-# Policy FAQ
-
 ## Final Rule - 41 CFR Part 102-173
 
 For the reasons set forth in the preamble, GSA amends 41 CFR chapter 102 as follows:

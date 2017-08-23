@@ -5,8 +5,6 @@ permalink: /domains/registration/points-of-contact/
 top: true
 ---
 
-# Points of contact
-
 Each domain must have 3 points of contact (POCs):
 
 * Admin POC

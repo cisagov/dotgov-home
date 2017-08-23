@@ -5,8 +5,6 @@ permalink: /policies-and-guidelines/policy/
 top: true
 ---
 
-# Federal policy
-
 ## Final Rule - 41 CFR Part 102-173
 
 Federal Register: March 28, 2003 (Volume 68, Number 60)

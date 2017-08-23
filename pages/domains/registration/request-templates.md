@@ -5,8 +5,6 @@ permalink: /domains/registration/request-templates/
 top: true
 ---
 
-# Request templates
-
 Choose a request letter template to copy and paste from:
 
 * Domain Authorization Letter: Federal

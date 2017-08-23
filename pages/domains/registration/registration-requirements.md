@@ -15,8 +15,6 @@ subnav:
     href: '#local-level-domains'
 ---
 
-# Registration requirements
-
 This overview of .gov domain registration requirements is meant to further explain and clarify sections of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) about registering second-level .gov domains. The [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) on .gov domains focuses on purpose and jurisdiction.
 
 The .gov domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The .gov domain provides the official and trusted Internet presence for these government entities.

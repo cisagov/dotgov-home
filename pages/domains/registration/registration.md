@@ -11,8 +11,6 @@ subnav:
     href: '#common-questions'
 ---
 
-# Register a domain
-
 To register and activate a new .gov domain:
 
 1. [Create a dotgov.gov account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2) or [sign into an existing account](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).

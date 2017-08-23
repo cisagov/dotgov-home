@@ -9,8 +9,6 @@ subnav:
     href: '#contact-us'
 ---
 
-# Support
-
 ## Contact us
 
 Do you have questions about registering a domain or need technical support? We’re here to help:

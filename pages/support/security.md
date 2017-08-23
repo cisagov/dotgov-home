@@ -11,8 +11,6 @@ subnav:
     href: '#hstshttps-preloading'
 ---
 
-# Security
-
 ## Certificates
 
 ### Where can I obtain a web certificate for my .gov website?

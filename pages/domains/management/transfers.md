@@ -1,11 +1,9 @@
 ---
-title: Transfers
+title: Transfer a domain
 layout: docs
 permalink: /domains/management/transfers/
 top: true
 ---
-
-# Transfer a domain
 
 To transfer ownership of a domain name from one agency to another agency, two letters must be submitted to the .gov Domain Manager - one from the transferring agency and one from the accepting agency.
 

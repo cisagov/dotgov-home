@@ -5,8 +5,6 @@ permalink: /domains/management/account-changes/
 top: true
 ---
 
-# Account changes
-
 ### How do I change a point of contact (POC) on the account?
 
 To change a single point of contact on the account, the Administrative point of contact will send an email to the Registrar, email <registrar@dotgov.gov>, and request the change of point of contact for the account.
