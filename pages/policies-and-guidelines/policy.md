@@ -2,7 +2,6 @@
 title: Federal policy
 layout: docs
 permalink: /policies-and-guidelines/policy/
-top: true
 ---
 
 ## Final Rule - 41 CFR Part 102-173

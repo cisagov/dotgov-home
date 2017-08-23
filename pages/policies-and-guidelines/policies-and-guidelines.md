@@ -3,7 +3,6 @@ title: Policies and guidelines
 layout: docs
 permalink: /policies-and-guidelines/
 intro: This section describes how the dotgov.gov program operates, the policies governing domain name registration, and rules for domain owners.
-top: true
 
 #sidenav: policies-and-guidelines
 

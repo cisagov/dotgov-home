@@ -2,7 +2,6 @@
 title: Domain management
 layout: docs
 permalink: /domains/management/
-top: true
 ---
 
 ### How quickly will modifications to my domain propagate throughout the internet?

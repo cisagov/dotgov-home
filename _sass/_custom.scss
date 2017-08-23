@@ -26,6 +26,7 @@ main {
 
 .usa-layout-docs-sidenav {
   @include media($medium-screen) {
+    @include span-columns(4);
     display: table;
     order: initial;
   }
@@ -35,6 +36,7 @@ main {
   padding-bottom: 3rem;
 
   @include media($medium-screen) {
+    @include span-columns(8);
     padding-bottom: 0;
   }
 }

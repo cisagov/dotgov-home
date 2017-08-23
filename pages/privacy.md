@@ -3,7 +3,6 @@ title: Privacy policy
 layout: docs
 permalink: /privacy/
 intro: Thank you for visiting GSA’s Dotgov.gov.
-top: true
 ---
 
 Our privacy policy is clear: Unless you choose to provide additional information to us, we will collect no personal information about you other than statistical information that can be used to make the site more effective for all our visitors.

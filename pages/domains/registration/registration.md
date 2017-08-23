@@ -2,7 +2,6 @@
 title: Register a domain
 layout: docs
 permalink: /domains/registration/
-top: true
 
 subnav:
   - text: Register a domain

@@ -3,7 +3,6 @@ title: Home
 layout: landing
 permalink: /
 hero:
-  image: assets/img/home-hero.jpg
   callout:
     text: "Learn about the DotGov program"
   content: "Find information about the .gov domain registry, read our policies, or download data about .gov domains."

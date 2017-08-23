@@ -3,7 +3,6 @@ title: Program guidelines
 layout: docs
 permalink: /policies-and-guidelines/program-guidelines/
 intro: This page describes how the .gov program operates and rules for domain owners.
-top: true
 ---
 
 ## Domain name integrity

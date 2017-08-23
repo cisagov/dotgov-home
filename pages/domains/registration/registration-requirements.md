@@ -2,7 +2,6 @@
 title: Registration requirements
 layout: docs
 permalink: /domains/registration/requirements/
-top: true
 
 subnav:
   - text: Second-level domains

@@ -2,7 +2,6 @@
 title: Points of contact
 layout: docs
 permalink: /domains/registration/points-of-contact/
-top: true
 ---
 
 Each domain must have 3 points of contact (POCs):

@@ -2,7 +2,6 @@
 title: Support
 layout: docs
 permalink: /account/
-top: true
 ---
 
 ## Accounts and Points of Contact (POC)
