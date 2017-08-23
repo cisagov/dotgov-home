@@ -67,6 +67,12 @@ main {
   }
 }
 
+.usa-logo {
+  a {
+    color: $color-primary-darkest;
+  }
+}
+
 .usa-logo-text {
   @include media($nav-width) {
     font-size: 3rem;
@@ -76,11 +82,29 @@ main {
 // Hero
 
 .hero {
-  background-color: $color-primary-darker;
+  background-color: $color-primary-darkest;
 
   h2, p {
     color: $color-white;
   }
+
+  .usa-button {
+    @include media($medium-screen) {
+      margin-right: 3rem;
+    }
+  }
+}
+
+.hero-link {
+  color: $color-white !important;
+}
+
+.hero-heading-callout {
+  color: $color-primary-alt;
+}
+
+.hero-heading {
+  line-height: 1.5;
 }
 
 .bg-primary-alt-lightest {
@@ -114,36 +138,73 @@ main {
 // Footer
 
 .usa-footer {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
+
+  h4 {
+    font-size: 16px;
+  }
+
+  h4 + p {
+    margin-top: 0;
+  }
+
+  p, li {
+    line-height: 1.7;
+  }
 }
 
 .usa-footer-secondary_section {
-  background-color: $color-primary-darkest;
-
-  * {
-    color: $color-white;
-  }
+  background-color: $color-primary-alt-lightest;
 
   a {
-    color: $color-primary-alt-light;
+    color: $color-primary-darker;
 
     &:hover {
-      color: $color-primary-alt-lightest;
+      color: $color-primary-darkest;
     }
   }
 }
 
-.usa-footer li:not(first-child) {
-    margin-top: 0.8rem;
-}
-
 .footer-logo {
   display: inline-block;
-  width: 50px;
+  margin-top: 1em;
+  width: 40px;
 
   svg {
     height: auto;
     width: 100%;
+  }
+}
+
+.usa-footer-return-to-top {
+  a {
+    color: $color-primary;
+  }
+}
+
+.usa-sidenav-list {
+  li {
+    border-top: none;
+  }
+
+  > li {
+    > a {
+      border-bottom: 1px solid $color-gray-light;
+      border-top: 1px solid $color-gray-light;
+      margin-bottom: -1px;
+    }
+  }
+}
+
+.usa-sidenav-contents-heading {
+  margin-top: 5rem;
+}
+
+.usa-sidenav-contents {
+  font-size: 1.5rem;
+
+  a {
+    color: $color-primary;
   }
 }
 

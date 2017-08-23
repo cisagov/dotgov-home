@@ -3,6 +3,12 @@ title: Program guidelines
 layout: docs
 permalink: /policies-and-guidelines/program-guidelines/
 intro: This page describes how the .gov program operates and rules for domain owners.
+
+subnav:
+  - text: DNS changes
+    href: '#dns-changes'
+  - text: SSL certificate verification
+    href: '#ssl-certificate-verification'
 ---
 
 ## Domain name integrity

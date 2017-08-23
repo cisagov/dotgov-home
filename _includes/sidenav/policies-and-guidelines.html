@@ -21,7 +21,7 @@
       <a {% if page.title == 'Program guidelines' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/policies-and-guidelines/program-guidelines/">
         Program guidelines
       </a>
-      <ul class="usa-sidenav-sub_list">
+<!--       <ul class="usa-sidenav-sub_list">
         <li>
           <a href="{{ site.baseurl }}/policies-and-guidelines/program-guidelines/#dns-changes">
             DNS changes
@@ -31,8 +31,14 @@
           <a href="{{ site.baseurl }}/policies-and-guidelines/program-guidelines/#ssl-certificate-verification">
             SSL certificate verification
           </a>
-        </li>
+        </li> -->
       </ul>
     </li>
   </ul>
+{% if page.title == 'Program guidelines' %}
+<h6 class="usa-sidenav-contents-heading">Contents</h6>
+<ul class="usa-sidenav-contents usa-unstyled-list">
+  {% include subnav.html links=page.subnav %}
+</ul>
+{% endif %}
 </aside>
