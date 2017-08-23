@@ -261,22 +261,34 @@ code::after {
  * http://ben.balter.com/2014/03/13/pages-anchor-links/
  */
 .header-link {
-  color: $color-primary !important;
-  left: 0.5em;
+  color: $color-gray;
   font-size: 0.8em;
-  opacity: 0;
-  left: -1.1em;
   line-height: 1.5;
-  position: absolute;
-  top: 0;
+  padding: 0.3em;
   transition: opacity 0.2s ease-in-out 0.1s;
+
+  @include media($medium-screen) {
+    opacity: 0;
+  }
+
+  &:visited {
+    color: $color-gray;
+  }
+
+  &:hover {
+    color: $color-gray-dark;
+  }
 }
 
-h2:hover .header-link,
-h3:hover .header-link,
-h4:hover .header-link,
-h5:hover .header-link,
-h6:hover .header-link {
+h2, h3, h4, h5, h6 {
+  &:hover {
+    .header-link {
+      opacity: 1;
+    }
+  }
+}
+
+.header-link:focus {
   opacity: 1;
 }
 
