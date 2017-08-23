@@ -27,7 +27,7 @@ main {
 .usa-layout-docs-sidenav {
   @include media($medium-screen) {
     @include span-columns(4);
-    display: table;
+    display: table !important;
     order: initial;
   }
 
