@@ -196,8 +196,12 @@ main {
   }
 }
 
-.usa-sidenav-contents-heading {
+.usa-sidenav-list + .usa-sidenav-contents-heading {
   margin-top: 5rem;
+}
+
+.usa-sidenav-contents-heading {
+  margin-top: 0;
 }
 
 .usa-sidenav-contents {

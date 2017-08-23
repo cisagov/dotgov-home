@@ -3,7 +3,6 @@ title: .Gov domain data
 layout: docs
 permalink: /data/
 
-sidenav: data
 subnav:
   - text: All .gov domains
     href: '#all-gov-domains'

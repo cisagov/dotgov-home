@@ -1,3 +1,4 @@
+{% if page.sidenav %}
 <ul class="usa-sidenav-list">
   {% for link in include.links %}
     {% assign _href = link.href %}
@@ -13,8 +14,9 @@
   </li>
   {% endfor %}
 </ul>
+{% endif %}
 
-{% if _current and page.subnav %}
+{% if page.url == page.permalink and page.subnav %}
 <h6 class="usa-sidenav-contents-heading">Contents</h6>
 <ul class="usa-sidenav-contents usa-unstyled-list">
   {% include subnav.html links=page.subnav %}

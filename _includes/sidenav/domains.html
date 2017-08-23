@@ -50,4 +50,12 @@
       </ul>
     </li>
   </ul>
+
+{% if page.url == page.permalink and page.subnav %}
+<h6 class="usa-sidenav-contents-heading">Contents</h6>
+<ul class="usa-sidenav-contents usa-unstyled-list">
+  {% include subnav.html links=page.subnav %}
+</ul>
+{% endif %}
+
 </aside>
