@@ -2,10 +2,9 @@
 title: Request templates
 layout: docs
 permalink: /domains/registration/request-templates/
+intro: "Choose a request letter template to copy and paste from:"
 top: true
 ---
-
-Choose a request letter template to copy and paste from:
 
 * Domain Authorization Letter: Federal
 * Domain Authorization Letter: State
