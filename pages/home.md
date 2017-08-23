@@ -4,8 +4,8 @@ layout: landing
 permalink: /
 hero:
   callout:
-    text: "Learn about the DotGov program"
-  content: "Find information about the .gov domain registry, read our policies, or download data about .gov domains."
+    text: "Learn about the .gov domain registry"
+  content: "See what’s required for the registration process, review our policies, or download data about .gov domains."
   button:
     text: "Learn more"
     href: /domains/registration/
