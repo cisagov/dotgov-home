@@ -4,7 +4,7 @@ layout: docs
 permalink: /domains/registration/points-of-contact/
 ---
 
-Each domain must have 3 points of contact (POCs):
+Each domain must have three points of contact (POCs):
 
 * Admin POC
 * Technical POC
@@ -22,7 +22,7 @@ There will be no one single point of contact.
 
 All points of contact must have authority to have an account on the Registration System. An email must be received from a point of contact that is currently on the domain to authorize a Change or Delete for the domain.
 
-### What steps does a new POC need to take to get set up?
+### How do we set up a new point of contact?
 
 Request an account by sending an email to [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
 

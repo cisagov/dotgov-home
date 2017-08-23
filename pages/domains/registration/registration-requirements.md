@@ -18,7 +18,7 @@ This overview of .gov domain registration requirements is meant to further expla
 
 The .gov domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The .gov domain provides the official and trusted Internet presence for these government entities.
 
-Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for local governments will originate from the Authorizing Authority (AA) only. The AA is the highest elected official (Mayor, County / Parish Supervisor), that authorizes the domain to operate and contain information reference to their government responsibilities.
+Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for local governments will originate from the Authorizing Authority only. The Authorizing Authority is the highest elected official (Mayor, County / Parish Supervisor), that authorizes the domain to operate and contain information reference to their government responsibilities.
 
 ## Second-level domains
 
@@ -69,23 +69,23 @@ Organizations that operate Web sites that are not in compliance with the Gov Int
 
 #### 1. Critical
 
-Content restriction on the .gov domain does not allow criminal activities or obscene images, inappropriate sexually oriented material, or extremist material to be displayed or sent to system users. This material being accessed through a Gov domain URL could result in an expedient suspension. A process for resolution with escalation procedures is in place with the RRA. The RRA will contact the registration points of contacts (POCs) and the Authorizing Authority (AA) advising them of an imminent domain suspension. The AA is the CIO for Federal level domains. The Authorizing Authority (AA), for State and Local governments and Native Sovereign Nations is the highest IT official or highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities.
+Content restriction on the .gov domain does not allow criminal activities or obscene images, inappropriate sexually oriented material, or extremist material to be displayed or sent to system users. This material being accessed through a Gov domain URL could result in an expedient suspension. A process for resolution with escalation procedures is in place with the Registry and Registration Authority. The Registry and Registration Authority will contact the registration points of contacts (POCs) and the Authorizing Authority advising them of an imminent domain suspension. The Authorizing Authority is the CIO for Federal level domains. The Authorizing Authority for State and Local governments and Native Sovereign Nations is the highest IT official or highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities.
 
 #### 2. Administrative
 
-Domains that have content with advertising materials, political or campaign information, substantial incorrect information, inappropriate web links (i.e. to sites that violate content policy), and incorrect redirects are not in compliance or not consistent with original intent or approved purpose. The domain POCs will be contacted by the RRA to get issues resolved. The expectation is these administrative compliance issues are handled in a timely manner and suspension is reserved as a last resort.
+Domains that have content with advertising materials, political or campaign information, substantial incorrect information, inappropriate web links (i.e. to sites that violate content policy), and incorrect redirects are not in compliance or not consistent with original intent or approved purpose. The domain POCs will be contacted by the Registry and Registration Authority to get issues resolved. The expectation is these administrative compliance issues are handled in a timely manner and suspension is reserved as a last resort.
 
-The actual suspension of a domain without concurrence of a registrant requires the internal GSA approval at the Senior Executive level. Generally, for GSA initiated suspensions, the suspension will become effective 3 hours to 24 hours after notification of the points of contacts (POCs), depending on the severity of the issue. The notification of the contacts is the time at which one of the domain points of contact (POCs) is contacted or the time that the voice and email messages are sent to all contacts, whichever is first. This provides an opportunity for the registrant to remediate the issue to avoid suspension. The RRA will review the site to see if the policy violation has been remediated prior to the suspension.
+The actual suspension of a domain without concurrence of a registrant requires the internal GSA approval at the Senior Executive level. Generally, for GSA initiated suspensions, the suspension will become effective 3 hours to 24 hours after notification of the points of contacts (POCs), depending on the severity of the issue. The notification of the contacts is the time at which one of the domain points of contact (POCs) is contacted or the time that the voice and email messages are sent to all contacts, whichever is first. This provides an opportunity for the registrant to remediate the issue to avoid suspension. The Registry and Registration Authority will review the site to see if the policy violation has been remediated prior to the suspension.
 
 ### Account information
 
-It is the registrant's responsibility to provide all requested information and keep all account information current; to include POC information, DNS information. It is the registrant's responsibility to ensure the account is paid in full each year. Government domains / websites can be very large, complex, and support important business operations. The process to address policy violations will allow for coordination across organizational boundaries and involve persons with the authority to make decisions on the appropriate course of action and in the timeframe required. The Administrative POC is the person who controls the content of the domain and is the manager of the operations of the domain. The Technical POC is the person that operates the DNS and takes care of the technical operations such as security patches. The Billing POC is the person that pays for the domain. The Authorizing Authority (AA) is the highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities. The AA for Federal Agency domains is the CIO. The AA for State level domains is the Governor or their appointed CIO. The AA for local governments and Native Sovereign Nations is the highest elected official or the highest IT official.
+It is the registrant's responsibility to provide all requested information and keep all account information current; to include POC information, DNS information. It is the registrant's responsibility to ensure the account is paid in full each year. Government domains / websites can be very large, complex, and support important business operations. The process to address policy violations will allow for coordination across organizational boundaries and involve persons with the authority to make decisions on the appropriate course of action and in the timeframe required. The Administrative POC is the person who controls the content of the domain and is the manager of the operations of the domain. The Technical POC is the person that operates the DNS and takes care of the technical operations such as security patches. The Billing POC is the person that pays for the domain. The Authorizing Authority is the highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities. The Authorizing Authority for Federal Agency domains is the CIO. The Authorizing Authority for State level domains is the Governor or their appointed CIO. The Authorizing Authority for local governments and Native Sovereign Nations is the highest elected official or the highest IT official.
 
 ### Security
 
 Security incident notification procedures:
 
-1. The RRA shall notify the US-CERT of all incidents involving the intentional unauthorized access or unauthorized intentional damage to, modification, destruction or damage to a .gov domain. The Administrative POC will be notified and involved to assist in the US-CERT investigation and report.
+1. The Registry and Registration Authority shall notify the US-CERT of all incidents involving the intentional unauthorized access or unauthorized intentional damage to, modification, destruction or damage to a .gov domain. The Administrative POC will be notified and involved to assist in the US-CERT investigation and report.
 
 2. Information received about incidents described in above shall be considered confidential and shall not be disclosed to the public.
 
@@ -170,13 +170,13 @@ Authorities such as a water district are instruments of the state and may use th
 
 As of March 2003, local governments are authorized to get second-level .gov domains.
 
-### Mayor or elected official authorization
+### Mayor or elected official
 
 The authorization letter must be signed by the mayor or the highest-ranking, elected official because the domain is the Internet presence for the entire city, town, county, township, or parish represented.
 
 ### Utility, transportation, and regional authorities
 
-Authorities such as a water district that are the instrument of local government or combined ownership by local governments, such as regional transportation authorities may share the .gov domain once approved by the AA, Mayor or highest ranking elected official of a local or State Government, who will ensure they are part of the local government. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the local government and are not employed personnel of the government are not eligible for a domain.
+Authorities such as a water district that are the instrument of local government or combined ownership by local governments, such as regional transportation authorities may share the .gov domain once approved by the Authorizing Authority, Mayor or highest ranking elected official of a local or State Government, who will ensure they are part of the local government. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the local government and are not employed personnel of the government are not eligible for a domain.
 
 ### Naming conventions
 
@@ -189,11 +189,11 @@ Naming conventions are described in depth in paragraphs 55 through 60 of the [Fe
 
 ### Abbreviations
 
-Abbreviations are not authorized unless an exception to the domain name is granted through the RRA and the DPA.
+Abbreviations are not authorized unless an exception to the domain name is granted through the Registry and Registration Authority and the Domain Policy Authority.
 
 ### Exception requests
 
-The DPA will arbitrate all exceptions to policy 41 CFR 102-173 for naming convention. The RRA will determine domain holder eligibility.
+The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming convention. The Registry and Registration Authority will determine domain holder eligibility.
 
 ### Ready and green domain names
 
