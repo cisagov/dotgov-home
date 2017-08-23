@@ -16,7 +16,7 @@ We can only accept credit card payments.
 
 Annually. As a point of contact, you’ll receive several reminder emails. Please note that if your domain names are not kept current, they will be removed from active status. If any of your .gov domain names are removed from active status, services attached to them may experience issues.
 
-### What happens if I do not renew my domain name?
+### What happens if I don’t renew my domain name?
 
 If a renewal payment is not submitted, domain names do not automatically get removed from the zone. If you do not wish to renew, a registered point of contact must submit written consent requesting removal of the domain, otherwise, the agency will be held financially responsible for registration fees under [Final Rule - 41 CFR Part 102-173.35](https://federalist-proxy.app.cloud.gov/preview/gsa/dotgov-home/site-updates/policies-and-guidelines/policy-faq/#sec-102-17335-who-authorizes-domain-names) and [Final Rule - 41 CFR Part 102-173.40](/policies-and-guidelines/policy-faq/#sec-102-17345-is-there-a-registration-charge-for-domain-names). Written consent can be emailed to the Help Desk at registrar@dotgov.gov.
 
@@ -34,7 +34,7 @@ Your entity or agency will not be able to acquire new domains until your account
 
 The DotGov program is not supported by appropriated funds, and domain registration fees help to alleviate the rising costs of hosting services, including helping to combat growing cyber threats against the U.S. government.
 
-### Who sets the registration and renewal fee for .gov domains?
+### Who sets the registration and renewal fees?
 
 The Office of Information, Integrity, and Access in the Office of Government-wide Policy, General Services Administration (GSA). GSA is designated as the Top Level Domain owner and Domain Policy Authority for governmental entities in the United States, including federal, state, local and tribal governments.
 
