@@ -2,6 +2,8 @@
 title: Home
 layout: landing
 permalink: /
+top: false
+
 hero:
   callout:
     text: "Learn about the Dotgov.gov domain registry."
