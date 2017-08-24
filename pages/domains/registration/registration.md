@@ -37,6 +37,8 @@ subnav:
 
 After we receive your authorization letter and DNS test pass, you’ll receive an email that allows you to activate the domain.
 
+---
+
 ## Common questions
 
 If you have any questions during the registration process, contact us at <registrar@dotgov.gov> or 1-877-734-4688.
