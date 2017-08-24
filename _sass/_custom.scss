@@ -10,6 +10,19 @@ hr {
   border-top: 1px solid $color-gray-light;
 }
 
+.usa-content {
+  p, h1, h2, h3, h4, h5, h6, ul, ol {
+    max-width: 66ch !important;
+    word-wrap: break-word;
+  }
+}
+
+blockquote {
+  border-left: 7px solid $color-gray-lightest;
+  margin: 0;
+  padding-left: 1em;
+}
+
 // Sticky footer
 
 body {
@@ -55,6 +68,10 @@ main {
   @include media($medium-screen) {
     @include span-columns(8);
     padding-bottom: 0;
+  }
+
+  h2 {
+    color: $color-primary-darker;
   }
 }
 
@@ -304,5 +321,11 @@ h2, h3, h4, h5, h6 {
 .usa-layout-docs-main_content {
   h2, h3, h4, h5, h6 {
     position: relative;
+  }
+}
+
+.page-federal-policy {
+  hr {
+    @include margin(3rem null);
   }
 }

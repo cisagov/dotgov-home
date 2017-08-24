@@ -2,6 +2,7 @@
 title: Register a domain
 layout: docs
 permalink: /domains/registration/
+intro: "To register and activate a new .gov domain:"
 
 sidenav: domains
 subnav:
@@ -11,44 +12,25 @@ subnav:
     href: '#common-questions'
 ---
 
-To register and activate a new .gov domain:
-
 1. [Create a dotgov.gov account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2) or [sign into an existing account](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
-
 A .gov representative will create your account and email the point of contact to finalize the account and create a password.
-
 2. If you are registering a domain for a Federal Executive Branch Agency, please read the [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
-
 3. Prepare the authorization letter to request approval.
-
 - Copy and paste an [Authorization Letter Template](/domains/registration/form-letters/) into a word processor.
-
 - Update the letter with the appropriate information for your request.
-
 - The name of .gov domain must be consistent with its content.
-
 - The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
-
 4. Specify three points of contact (POCs).
-
-The Content or Administrative POC approves all content (and must be a government employee). The Technical POC is usually responsible for the DNS or programming.
-
-Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.
-
+- The Content or Administrative POC approves all content (and must be a government employee). The Technical POC is usually responsible for the DNS or programming.
+- Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.
 5. Complete your DNS information.
-
-Each domain must have at least one domain name server.
-
-Your host DNS must be populated before your domain is activated.
-
+- Each domain must have at least one domain name server.
+- Your host DNS must be populated before your domain is activated.
 6. Send a copy of the authorization letter to:
-
 * Fax: 540-301-0160
 * Email: <registrar@dotgov.gov>
 
 After we receive your authorization letter and DNS test pass, you’ll receive an email that allows you to activate the domain.
-
----
 
 ## Common questions
 
