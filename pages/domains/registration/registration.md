@@ -13,7 +13,8 @@ subnav:
 ---
 
 1. [Create a dotgov.gov account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2) or [sign into an existing account](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
-A .gov representative will create your account and email the point of contact to finalize the account and create a password.
+
+   A .gov representative will create your account and email the point of contact to finalize the account and create a password.  
 2. If you are registering a domain for a Federal Executive Branch Agency, please read the [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
 3. Prepare the authorization letter to request approval.
 - Copy and paste an [Authorization Letter Template](/domains/registration/form-letters/) into a word processor.
