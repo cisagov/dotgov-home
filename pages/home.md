@@ -5,12 +5,14 @@ permalink: /
 top: false
 
 hero:
-  callout:
-    text: "Learn about the Dotgov.gov domain registry."
-  content: "See what’s required for the registration process, review our policies, or download data about .gov domains."
+  heading: Learn about the Dotgov.gov domain registry.
+  content: See what’s required for the registration process, review our policies, or download data about .gov domains.
   button:
-    text: "Learn more"
+    text: Learn more
     href: /domains/registration/
+  link:
+    text: Register or manage a .gov domain
+    href: https://www.dotgov.gov
 ---
 
 <section class="usa-section">
