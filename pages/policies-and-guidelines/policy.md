@@ -1,7 +1,8 @@
 ---
 title: Federal policy
 layout: docs
-permalink: /policies-and-guidelines/policy/
+permalink: /policies-and-guidelines/federal-policy/
+sidenav: policies-and-guidelines
 ---
 
 ## Final Rule - 41 CFR Part 102-173

@@ -2,6 +2,8 @@
 title: Fees
 layout: docs
 permalink: /domains/registration/fees/
+
+sidenav: domains
 ---
 
 ### What are current registration fees?

@@ -3,6 +3,7 @@ title: Register a domain
 layout: docs
 permalink: /domains/registration/
 
+sidenav: domains
 subnav:
   - text: Register a domain
     href: '#register-a-domain'

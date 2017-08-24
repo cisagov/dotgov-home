@@ -2,6 +2,8 @@
 title: Points of contact
 layout: docs
 permalink: /domains/registration/points-of-contact/
+
+sidenav: domains
 ---
 
 Each domain must have three points of contact (POCs):

@@ -2,6 +2,8 @@
 title: Account changes
 layout: docs
 permalink: /domains/management/account-changes/
+
+sidenav: domains
 ---
 
 ### How do I change a point of contact (POC) on the account?

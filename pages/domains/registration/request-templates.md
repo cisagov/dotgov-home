@@ -3,6 +3,8 @@ title: Request templates
 layout: docs
 permalink: /domains/registration/request-templates/
 intro: "Choose a request letter template to copy and paste from:"
+
+sidenav: domains
 ---
 
 * Domain Authorization Letter: Federal

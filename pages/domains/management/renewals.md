@@ -2,6 +2,8 @@
 title: Renew a domain
 layout: docs
 permalink: /domains/management/renewals/
+
+sidenav: domains
 ---
 
 ### How long is a .gov domain registered?
