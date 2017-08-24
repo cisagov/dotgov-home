@@ -1,3 +1,8 @@
+//
+.usa-skipnav {
+  z-index: 8000;
+}
+
 // Typography
 hr {
   @include margin(6rem null);
@@ -140,8 +145,8 @@ main {
 .usa-footer {
   font-size: 1.4rem;
 
-  h4 {
-    font-size: 16px;
+  h3 {
+    font-size: 1.6rem;
   }
 
   h4 + p {
