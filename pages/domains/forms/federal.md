@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: Federal"
-layout: docs
+layout: form
 permalink: /domains/registration/request-templates/federal/
 
 sidenav: domains

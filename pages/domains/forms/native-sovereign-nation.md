@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: Native Sovereign Nation"
-layout: docs
+layout: form
 permalink: /domains/registration/request-templates/native-sovereign-nation/
 
 sidenav: domains

@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: City"
-layout: docs
+layout: form
 permalink: /domains/registration/request-templates/city/
 
 sidenav: domains

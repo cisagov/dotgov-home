@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: State"
-layout: docs
+layout: form
 permalink: /domains/registration/request-templates/state/
 
 sidenav: domains
