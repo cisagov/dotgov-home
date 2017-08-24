@@ -21,11 +21,15 @@ A .gov representative will create your account and email the point of contact to
 - The name of .gov domain must be consistent with its content.
 - The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
 4. Specify three points of contact (POCs).
-- The Content or Administrative POC approves all content (and must be a government employee). The Technical POC is usually responsible for the DNS or programming.
-- Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.
+
+   The Content or Administrative POC approves all content (and must be a government employee). The Technical POC is usually responsible for the DNS or programming.  
+
+   Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.  
 5. Complete your DNS information.
-- Each domain must have at least one domain name server.
-- Your host DNS must be populated before your domain is activated.
+
+   Each domain must have at least one domain name server.  
+
+   Your host DNS must be populated before your domain is activated.  
 6. Send a copy of the authorization letter to:
 * Fax: 540-301-0160
 * Email: <registrar@dotgov.gov>
