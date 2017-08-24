@@ -2,8 +2,9 @@ var anchorForId = function (id) {
   var anchor = document.createElement("a");
   anchor.className = "header-link";
   anchor.href      = "#" + id;
-  anchor.innerHTML = "<span class=\"usa-sr-only\">Permalink</span><i class=\"fa fa-link\"></i>";
-  anchor.title = "Permalink";
+  var idString = id.replace(/-/g, " ");
+  anchor.innerHTML = "<span class=\"usa-sr-only\">Anchor link for: " + idString + "</span><i class=\"fa fa-link\"></i>";
+  anchor.title = "Anchor link";
   return anchor;
 };
 
