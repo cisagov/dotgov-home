@@ -282,6 +282,18 @@ code::after {
   content: "\f0c1";
 }
 
+// .fa-check:before {
+//   content: "\f00c";
+//   font-size: 1.5rem;
+//   margin-right: 1px;
+// }
+
+.fa-clipboard:before {
+  content: "\f0ea";
+  font-size: 1.5rem;
+  margin-right: 4px;
+}
+
 /*
  * This code is courtesy Ben Balter, modified by Parker Moore for jekyllrb.com
  * http://ben.balter.com/2014/03/13/pages-anchor-links/
