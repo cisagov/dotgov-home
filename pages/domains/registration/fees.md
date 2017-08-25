@@ -6,7 +6,7 @@ permalink: /domains/registration/fees/
 sidenav: domains
 subnav:
   - text: Fees
-    href: '#fees'
+    href: '#'
   - text: 2017 fee increase
     href: '#2017-fee-increase'
 ---

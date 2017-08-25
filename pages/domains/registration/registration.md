@@ -6,6 +6,8 @@ intro: "To register and activate a new .gov domain:"
 
 sidenav: domains
 subnav:
+  - text: Register a domain
+    href: '#'
   - text: Common questions
     href: '#common-questions'
 ---

@@ -3,11 +3,11 @@ title: Federal policy
 layout: docs
 permalink: /policies-and-guidelines/federal-policy/
 sidenav: policies-and-guidelines
-subnav:
-  - text: General information
-    href: '#general-information'
-  - text: Registration
-    href: '#registration'
+#subnav:
+#  - text: General information
+#    href: '#general-information'
+#  - text: Registration
+#    href: '#registration'
 ---
 
 ## Final Rule - 41 CFR Part 102-173
