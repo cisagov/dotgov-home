@@ -3,6 +3,11 @@ title: Federal policy
 layout: docs
 permalink: /policies-and-guidelines/federal-policy/
 sidenav: policies-and-guidelines
+subnav:
+  - text: General information
+    href: '#general-information'
+  - text: Registration
+    href: '#registration'
 ---
 
 ## Final Rule - 41 CFR Part 102-173
@@ -23,7 +28,7 @@ RIN 3090-AH41
 
 Federal Management Regulation; Internet GOV Domain
 
-**AGENCY:** Office of Governmentwide Policy, GSA.
+**AGENCY:** Office of Governmentwide Policy, GSA.  
 **ACTION:** Final rule.
 
 ---
@@ -84,5 +89,5 @@ Archives and records, Computer technology, Federal information processing resour
 
 **Dated: March 24, 2003**
 
-Stephen A. Perry,
+Stephen A. Perry,  
 Administrator of General Services
