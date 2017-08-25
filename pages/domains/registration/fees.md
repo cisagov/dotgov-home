@@ -4,9 +4,14 @@ layout: docs
 permalink: /domains/registration/fees/
 
 sidenav: domains
+subnav:
+  - text: Registration and renewal fees
+    href: '#registration-and-renewal-fees'
+  - text: 2017 fee increase
+    href: '#2017-fee-increase'
 ---
 
-### What are current registration fees?
+## Registration and renewal fees
 
 The current cost of a .gov domain name is $400 per year.
 

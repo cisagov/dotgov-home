@@ -1,5 +1,5 @@
 ---
-title: .Gov domain data
+title: Data
 layout: docs
 permalink: /data/
 
