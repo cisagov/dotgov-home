@@ -49,7 +49,7 @@
               {% endfor %}
             </ul>
             {% else %}
-            <a class="usa-nav-link{% if _section.href == page.permalink %} usa-current{% endif %}" href="{{ _section.href | relative_url }}">
+            <a class="usa-nav-link{% if _section.href == page.permalink %} usa-current{% endif %} {% if page.url contains _section.href or page.permalink contains _section.href %}current-parent{% endif %}" href="{{ _section.href | relative_url }}">
               <span>{{ _section.text }}</span>
             </a>
             {% endif %}
