@@ -3,6 +3,11 @@ title: Policy FAQ
 layout: docs
 permalink: /policies-and-guidelines/policy-faq/
 sidenav: policies-and-guidelines
+subnav:
+  - text: General information
+    href: '#general-information'
+  - text: Registration
+    href: '#registration'
 ---
 
 ## Final Rule - 41 CFR Part 102-173
