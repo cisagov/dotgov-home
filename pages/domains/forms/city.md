@@ -1,7 +1,7 @@
 ---
 title: "Domain Authorization Letter: City"
 layout: form
-permalink: /domains/registration/request-templates/city/
+permalink: /domains/registration/authorization-templates/city/
 
 sidenav: domains
 ---

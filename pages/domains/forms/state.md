@@ -1,7 +1,7 @@
 ---
 title: "Domain Authorization Letter: State"
 layout: form
-permalink: /domains/registration/request-templates/state/
+permalink: /domains/registration/authorization-templates/state/
 
 sidenav: domains
 ---

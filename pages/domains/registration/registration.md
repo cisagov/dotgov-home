@@ -12,28 +12,37 @@ subnav:
     href: '#common-questions'
 ---
 
-1. [Create a dotgov.gov account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2) or [sign into an existing account](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
+1. If you’re registering a domain for a Federal Executive Branch Agency, please read the [Policies for .gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
 
-   A .gov representative will create your account and email the point of contact to finalize the account and create a password.  
-2. If you are registering a domain for a Federal Executive Branch Agency, please read the [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
-3. Prepare the authorization letter to request approval.
-- Copy and paste an [Authorization Letter Template](/domains/registration/form-letters/) into a word processor.
-- Update the letter with the appropriate information for your request.
-- The name of .gov domain must be consistent with its content.
-- The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
-4. Specify three points of contact (POCs).
+1. Check to see if the [domain is available](https://www.dotgov.gov/dotgov-web/registration/whois.xhtml?_m=3).
 
-   The Content or Administrative POC approves all content (and must be a government employee). The Technical POC is usually responsible for the DNS or programming.  
+1. If you’re new to the site, [create an account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2). A Dotgov.gov representative will email the Authorizing Authority for your agency to finalize the account and set a temporary password.
 
-   Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.  
-5. Complete your DNS information.
+1. Otherwise, [sign in](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
 
-   Each domain must have at least one domain name server.  
+1. Click **Register a Domain**.
 
-   Your host DNS must be populated before your domain is activated.  
-6. Send a copy of the authorization letter to:
-* Fax: 540-301-0160
-* Email: <registrar@dotgov.gov>
+1. Prepare the authorization letter to request approval.
+
+  - Copy and paste an [Authorization Letter Template]({{base.url}}/domains/registration/authorization-templates/) into a word processor.
+  - Update the letter with the appropriate information for your request.
+  - Make sure the domain name is consistent with its content.
+  - The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
+
+1. Specify [three points of contact]({{base.url}}/domains/registration/points-of-contact/).
+
+   The administrative contact approves all content and must be a government employee. The technical contact is usually responsible for the DNS.  
+
+   Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.
+
+1. Complete your DNS information. Each domain must have at least one domain name server. Your host DNS must be populated before your domain is activated.
+
+1. Click **Submit**.
+
+1. Send a copy of the authorization letter to:
+
+  * Fax: 540-301-0160
+  * Email: <registrar@dotgov.gov>
 
 After we receive your authorization letter and DNS test pass, you’ll receive an email that allows you to activate the domain.
 

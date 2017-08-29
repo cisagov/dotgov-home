@@ -8,7 +8,7 @@ sidenav: domains
 
 To transfer ownership of a domain name from one agency to another agency, two letters must be submitted to the .gov Domain Manager - one from the transferring agency and one from the accepting agency.
 
-Start by copying and pasting the [Domain Transfer Letter Template](/domains/management/transfers/).
+Start by copying and pasting the [Domain Transfer Letter Template]({{ site.baseurl }}/domains/management/authorization-templates/transfers/) into a word processor.
 
 The letter from the transferring agency must be on official agency letterhead and signed by the transferring agency chief information officer (CIO). The letter should formally request that the domain name be transferred to the new agency and should include the following information:
 

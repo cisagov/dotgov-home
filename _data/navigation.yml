@@ -18,8 +18,8 @@ domains:
         href: /domains/registration/fees/
       - text: Points of contact
         href: /domains/registration/points-of-contact/
-      - text: Request templates
-        href: /domains/registration/request-templates/
+      - text: Authorization letter templates
+        href: /domains/registration/authorization-templates/
   - text: Management
     href: /domains/management/
     subnav:

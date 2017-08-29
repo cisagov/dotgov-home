@@ -1,7 +1,7 @@
 ---
 title: "Domain Authorization Letter: Federal"
 layout: form
-permalink: /domains/registration/request-templates/federal/
+permalink: /domains/registration/authorization-templates/federal/
 
 sidenav: domains
 ---

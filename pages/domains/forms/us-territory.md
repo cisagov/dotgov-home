@@ -1,7 +1,7 @@
 ---
 title: "Domain Authorization Letter: U.S. Territory"
 layout: form
-permalink: /domains/registration/request-templates/us-territory/
+permalink: /domains/registration/authorization-templates/us-territory/
 
 sidenav: domains
 ---

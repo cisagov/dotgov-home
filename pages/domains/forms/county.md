@@ -1,7 +1,7 @@
 ---
 title: "Domain Authorization Letter: County"
 layout: form
-permalink: /domains/registration/request-templates/county/
+permalink: /domains/registration/authorization-templates/county/
 
 sidenav: domains
 ---
