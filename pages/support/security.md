@@ -79,6 +79,12 @@ To obtain new certificates, agencies should make use of any publicly trusted cer
 
 GSA encourages .gov domain owners to obtain [low cost or free certificates](https://https.cio.gov/certificates/#what-kind-of-certificate-should-i-get-for-my-domain). More expensive certificates generally do not offer more security value to service owners, and automatic deployment of free certificates can significantly improve service owners' security posture. For more information, see: [https.cio.gov/certificates/](https://https.cio.gov/certificates/).
 
+### How do SSL providers verify a certificate for a .gov domain?
+
+SSL certificate providers can contact us at 1-877-734-4688 to verify administrative contact information before issuing an SSL Certificate for a .gov domain name.
+
+Due to security reasons, this can only be provided verbally. The information cannot be provided in writing.
+
 ### How should I address web certificate issues that could prevent visitors from viewing web content?
 
 If visitors experience certificate issues on a website the agency intends for public use, and that domain is affected by preloading, then **the federal agency must take action** to fix the issue. Visitors will not be able to click through the certificate warning.

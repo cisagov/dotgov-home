@@ -30,6 +30,10 @@ To speed up the entire DNS process, name servers will temporarily store IP addre
 
 If your local name server is not expiring this temporary storage (or cache), you may get incorrect IP addresses while people connected through different ISPs get the correct information. Please contact your internet service provider or technical support team for assistance.
 
+### When can I define my DS record?
+
+You can define Delegation of Signing (DS) records during registration or after the domain name is active. Before your DS records are published in the .gov zone, they will be tested and verified.
+
 ### Where do I look for the authoritative .gov zone data?
 
 The root servers (e.g., `a.root-server.net` - `j.root-server.net`) are the authoritative source of .gov information that is "live" on the internet.
