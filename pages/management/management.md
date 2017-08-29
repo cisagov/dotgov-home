@@ -1,9 +1,9 @@
 ---
-title: Account changes
+title: Domain management
 layout: docs
-permalink: /domains/management/account-changes/
+permalink: /management/
 
-sidenav: domains
+sidenav: management
 ---
 
 ### How do we set up a new point of contact?
@@ -27,3 +27,11 @@ Please review our [account information guidelines](/domains/registration/require
 If you are a contact on a domain that is undergoing the request process, you can update the POC with another. However, please ensure that you’re selecting an existing user. If your point of contact is new, that individual must be provisioned into the system beforehand by selecting Account at [dotgov.gov](https://www.dotgov.gov).
 
 If you are unable to update a point of contact with an existing user, please [contact us]({{ base.url }}/support/).
+
+### How do I delete my domain?
+
+If you need to change or a delete a domain name, we must [receive an email](mailto:registrar@dotgov.gov) from one of the domain’s registered points of contact.
+
+In addition to requesting the domain to be deleted, the domain owner should request that the resource records be removed from the zone file on the nameservers hosting the domain.
+
+Once a domain is deleted, the entire registration process must be initiated in order to resurrect that domain. Please be sure you need to delete a domain name before contacting us as it is irreversible.

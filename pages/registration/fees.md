@@ -1,9 +1,9 @@
 ---
 title: Fees
 layout: docs
-permalink: /domains/registration/fees/
+permalink: /registration/fees/
 
-sidenav: domains
+sidenav: registration
 subnav:
   - text: Fees
     href: '#'

@@ -1,47 +1,28 @@
 primary:
-  - text: Domains
-    href: /domains/
-  - text: Policies and guidelines
-    href: /policies-and-guidelines/
+  - text: Domain registration
+    href: /registration/
+  - text: Domain management
+    href: /management/
   - text: Data
     href: /data/
   - text: Support
     href: /support/
 
-domains:
-  - text: Registration
-    href: /domains/registration/
-    subnav:
-      - text: Requirements
-        href: /domains/registration/requirements/
-      - text: Federal policy
-        href: /domains/registration/policy/
-      - text: Fees
-        href: /domains/registration/fees/
-      - text: Points of contact
-        href: /domains/registration/points-of-contact/
-      - text: Authorization letter templates
-        href: /domains/registration/authorization-templates/
-  - text: Management
-    href: /domains/management/
-    subnav:
-      - text: Renewals
-        href: /domains/management/renewals/
-      - text: Transfers
-        href: /domains/management/transfers/
-      - text: Account changes
-        href: /domains/management/account-changes/
+registration:
+  - text: Requirements
+    href: /registration/requirements/
+  - text: Fees
+    href: /registration/fees/
+  - text: Common questions
+    href: /registration/common-questions/
+  - text: Authorization letter templates
+    href: /registration/authorization-templates/
 
-policies-and-guidelines:
-  - text: Policies
-    href: /policies-and-guidelines/
-    subnav:
-      - text: Federal policy
-        href: /policies-and-guidelines/federal-policy/
-      - text: Policy FAQ
-        href: /policies-and-guidelines/policy-faq/
-  - text: Program guidelines
-    href: /policies-and-guidelines/program-guidelines/
+management:
+    - text: Renewals
+      href: /management/renewals/
+    - text: Transfers
+      href: /management/transfers/
 
 data:
   - text: Data

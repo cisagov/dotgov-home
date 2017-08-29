@@ -1,10 +1,10 @@
 ---
 title: Authorization letter templates
 layout: docs
-permalink: /domains/registration/authorization-templates/
+permalink: /registration/authorization-templates/
 intro: "Choose an authorization letter template to copy and paste from:"
 
-sidenav: domains
+sidenav: registration
 ---
 
 * [Domain Authorization Letter: Federal]({{ site.baseurl }}/domains/registration/authorization-templates/federal/)

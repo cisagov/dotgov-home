@@ -1,8 +1,8 @@
 ---
 title: Dotgov.gov policy FAQ
 layout: docs
-permalink: /domains/registration/policy-faq/
-sidenav: policies-and-guidelines
+permalink: /registration/policy-faq/
+sidenav: registration
 subnav:
   - text: General information
     href: '#general-information'
