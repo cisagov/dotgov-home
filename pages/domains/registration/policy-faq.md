@@ -1,7 +1,7 @@
 ---
-title: Policy FAQ
+title: Dotgov.gov policy FAQ
 layout: docs
-permalink: /policies-and-guidelines/policy-faq/
+permalink: /domains/registration/policy-faq/
 sidenav: policies-and-guidelines
 subnav:
   - text: General information

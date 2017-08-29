@@ -14,6 +14,8 @@ domains:
     subnav:
       - text: Requirements
         href: /domains/registration/requirements/
+      - text: Federal policy
+        href: /domains/registration/policy/
       - text: Fees
         href: /domains/registration/fees/
       - text: Points of contact

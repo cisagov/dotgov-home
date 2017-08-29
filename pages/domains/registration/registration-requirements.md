@@ -25,6 +25,10 @@ Every .gov domain name application is carefully examined to ensure domain names 
 
 The following applies to all .gov domains:
 
+### Eligibility
+
+To maintain domain name integrity, eligibility is limited to qualified government organizations and programs. Having a managed domain name such as .gov assures your customers that they are accessing an official U.S. government site.
+
 ### No non-government advertisements
 
 A .gov domain may not be used to advertise for private individuals, firms, or corporations. It may not be used to imply in any manner that the government endorses or favors any specific commercial product, commodity, or service.
