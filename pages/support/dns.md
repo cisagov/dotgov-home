@@ -8,7 +8,7 @@ sidenav: support
 
 A Domain Name System (DNS) provider is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.
 
-Your internet service provider or technical support team will give you DNS name server addresses for your .gov domain such as `ns1.company-name.com` and `ns2.company-name.com`.
+Your internet service provider or technical support team will give you DNS name server addresses for your .gov domain such as `ns1.example-name.com` and `ns2.example-name.com`.
 
 ### What are the DNS requirements for .gov domains?
 
@@ -36,4 +36,4 @@ You can define Delegation of Signing (DS) records during registration or after t
 
 ### Where do I look for the authoritative .gov zone data?
 
-The root servers (e.g., `a.root-server.net` - `j.root-server.net`) are the authoritative source of .gov information that is "live" on the internet.
+The root servers (`[a-d].gov-servers.net`) are the authoritative source of .gov information that is "live" on the internet.
