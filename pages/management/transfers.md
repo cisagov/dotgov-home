@@ -33,6 +33,6 @@ This letter must specify the request for ownership of the domain name and should
 
 ### Submit your request
 
-Fax your authorization letter to 540-301-0160 or email a copy to registrar@dotgov.gov.
+Fax your authorization letter to 540-301-0160 or email a copy to <registrar@dotgov.gov>.
 
 After we receive and verify both letters, the registry will be updated to reflect the transfer.
