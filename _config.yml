@@ -3,7 +3,7 @@ theme: uswds-jekyll
 
 # OpenGraph / Twitter metadata
 title: Dotgov.gov
-description: Home of the DotGov program, which operates the .gov DNS registry and zone.
+description: Home of the DotGov.gov program, which operates the .gov DNS registry and zone.
 
 # GA and GitHub data
 google_analytics_ua: UA-99995535-1

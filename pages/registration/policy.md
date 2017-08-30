@@ -1,27 +1,29 @@
 ---
-title: Federal policy
+title: Dotgov.gov policy
 layout: docs
-permalink: /policies-and-guidelines/federal-policy/
-sidenav: policies-and-guidelines
+permalink: /registration/policy/
+sidenav: registration
+intro: This regulation describes how the dotgov.gov program operates, the policies governing domain name registration, and rules for domain owners.
+
 ---
 
 ## Final Rule - 41 CFR Part 102-173
 
-Federal Register: March 28, 2003 (Volume 68, Number 60)
-Rules and Regulations
+Federal Register: March 28, 2003 (Volume 68, Number 60)  
+Rules and Regulations  
 Page 15089-15092
 
-From the Federal Register Online via [GPO Access](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm)
+From the Federal Register Online via [GPO Access](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5).
 
 ---
 
-### General Services Administration
+### Federal Management Regulation; Internet .GOV Domain
 
-41 CFR Part 102-173
-[FMR Amendment 2003-1]
+General Services Administration
+
+41 CFR Part 102-173  
+[FMR Amendment 2003-1]  
 RIN 3090-AH41
-
-Federal Management Regulation; Internet GOV Domain
 
 **AGENCY:** Office of Governmentwide Policy, GSA.  
 **ACTION:** Final rule.

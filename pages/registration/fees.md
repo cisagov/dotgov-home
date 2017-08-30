@@ -1,9 +1,9 @@
 ---
 title: Fees
 layout: docs
-permalink: /domains/registration/fees/
+permalink: /registration/fees/
 
-sidenav: domains
+sidenav: registration
 subnav:
   - text: Fees
     href: '#'
@@ -21,15 +21,12 @@ We can only accept credit card payments.
 
 Annually. As a point of contact, you’ll receive several reminder emails. Please note that if your domain names are not kept current, they will be removed from active status. If any of your .gov domain names are removed from active status, services attached to them may experience issues.
 
-### What happens if I don’t renew my domain name?
-
-If a renewal payment is not submitted, domain names do not automatically get removed from the zone. If you do not wish to renew, a registered point of contact must submit written consent requesting removal of the domain, otherwise, the agency will be held financially responsible for registration fees under [Final Rule - 41 CFR Part 102-173.35](https://federalist-proxy.app.cloud.gov/preview/gsa/dotgov-home/site-updates/policies-and-guidelines/policy-faq/#sec-102-17335-who-authorizes-domain-names) and [Final Rule - 41 CFR Part 102-173.40](/policies-and-guidelines/policy-faq/#sec-102-17345-is-there-a-registration-charge-for-domain-names). Written consent can be emailed to the Help Desk at registrar@dotgov.gov.
 
 ### What happens if I fail to submit a payment?
 
-Failure to submit payment does not result in removal of your domain. The entity or agency will be held financially responsible for all accrued registration fees under [Final Rule - 41 CFR Part 102-173.35](https://federalist-proxy.app.cloud.gov/preview/gsa/dotgov-home/site-updates/policies-and-guidelines/policy-faq/#sec-102-17335-who-authorizes-domain-names) and [Final Rule - 41 CFR Part 102-173.40](/policies-and-guidelines/policy-faq/#sec-102-17345-is-there-a-registration-charge-for-domain-names).
+Failure to submit payment does not result in removal of your domain. The entity or agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm). Your agency or office will not be able to register new domains until your account is up to date.
 
-Your entity or agency will not be able to acquire new domains until your account is up to date. If you wish to delete your domain, a registered point of contact must submit written consent requesting deletion to the Help Desk at <registrar@dotgov.gov>.
+If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl}}/management/renewals/#what-happens-if-i-do-not-renew-my-domain-name).
 
 ---
 

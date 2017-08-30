@@ -4,10 +4,8 @@ layout: docs
 permalink: /data/
 
 subnav:
-  - text: All .gov domains
+  - text: Download our data
     href: '#all-gov-domains'
-  - text: Federal .gov domains
-    href: '#federal-gov-domains'
   - text: Share your feedback
     href: '#share-your-feedback'
 ---
