@@ -1,10 +1,12 @@
 ---
-title: Register a domain
+title: Registration process
 layout: docs
 permalink: /registration/
 
 sidenav: registration
 subnav:
+  - text: Review our policies
+    href: '#review-our-policies'
   - text: Prepare to make your request
     href: '#prepare-to-make-your-request'
   - text: Complete the online form
@@ -13,7 +15,9 @@ subnav:
     href: '#questions'
 ---
 
-Before you try to register a domain, please review our policies and guidelines:
+## Review our policies
+
+Before you register a new domain, please review our policies and guidelines:
 
 * The Dotgov.gov program is governed by [Final Rule - 41 CFR Part 102-173](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm).
 
@@ -27,7 +31,7 @@ Before you try to register a domain, please review our policies and guidelines:
 
 1. Prepare an authorization letter to request approval for the domain:
 
-    - Copy and paste an [Authorization Letter Template]({{base.url}}/domains/registration/authorization-templates/) into a word processor.
+    - Copy and paste an [Authorization Letter Template]({{base.url}}/registration/authorization-templates/) into a word processor.
     - Update the letter with the appropriate information for your request.
     - Make sure the domain name is consistent with its content.
     - The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
@@ -42,13 +46,19 @@ Before you try to register a domain, please review our policies and guidelines:
 
 1. Click **Register a Domain**.
 
-### Update the account information
+### Specify three points of contact
 
-Specify [three points of contact]({{base.url}}/domains/registration/points-of-contact/).
+Each domain must have three points of contact:
 
-The administrative contact approves all content and must be a government employee. The technical contact is usually responsible for the DNS.
+1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee. As an example, for a state domain, it must be someone in the governor’s office.
 
-Each point of contact (POC) must be unique. If a POC already has a username in the system, include their name and username.
+2. **Technical contact**: a developer or site administrator that is available 24 hours a day and 7 days a week if the domain is critical to your infrastructure. They are usually responsible for the [DNS]({{ site.baseurl }}/support/dns/).
+
+3. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
+
+There will be no one single point of contact.
+
+Each contact must have the authority to access the Dotgov.gov registration system. If a contact already has a Dotgov.gov username, please include it along with their name.
 
 ### Complete your DNS information
 
@@ -56,7 +66,7 @@ If you know the [name server addresses]({{ site.baseurl }}/support/dns/) for you
 
 Please note that your domain will not be active in the .gov zone until the name servers are answering authoritatively.
 
-### Submit your authorization letter
+### Submit your request
 
 1. Click **Submit**.
 

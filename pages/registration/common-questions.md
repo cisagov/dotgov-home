@@ -6,22 +6,6 @@ permalink: /registration/common-questions/
 sidenav: registration
 ---
 
-### Who needs to be listed as a point of contact for a domain?
-
-Each domain must have three points of contact. There will be no one single point of contact. Each contact must have the authority to access the Dotgov.gov registration system.
-
-#### 1. Administrative contact
-
-The administrative contact must be from the signatory’s office. As an example, for a state domain, it must be someone in the governor’s office.
-
-#### 2. Technical contact
-
-The technical contact must be available 24 hours a day and 7 days a week if this domain is critical to your infrastructure.
-
-#### 3. Billing contact
-
-The billing contact must have access to a credit card and be able to pay registration fees.
-
 ### What are the valid characters for a domain name and how long can it be?
 
 A domain name may be up to 26 characters long, including the 4 characters used to identify the top-level domain (e.g., `.gov`). The only valid characters for a domain name are letters, numbers and a hyphen. Other characters, including a space, are not permitted. Domain names may not begin or end with a hyphen.
