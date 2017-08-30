@@ -14,4 +14,4 @@ sidenav: registration
 * [Domain Authorization Letter: City]({{ site.baseurl }}/domains/registration/authorization-templates/city/)
 * [Domain Authorization Letter: Native Sovereign Nation]({{ site.baseurl }}/domains/registration/authorization-templates/native-sovereign-nation/)
 
-See the [registration instructions]({{ site.baseurl }}/domains/registration/) for more information.
+See the [registration instructions]({{ site.baseurl }}/registration/) for more information.

@@ -9,9 +9,9 @@ hero:
   content: See what’s required for the registration process, review our policies, or download data about .gov domains.
   button:
     text: Learn more
-    href: /domains/registration/
+    href: /registration/
   link:
-    text: Register or manage a .gov domain
+    text: Register or manage a domain
     href: https://www.dotgov.gov
 ---
 

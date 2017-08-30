@@ -26,7 +26,4 @@ Without an authorization letter from your mayor or the highest ranking city or c
 
 ### My request was denied. What is the appeal process?
 
-In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the General Services Administration ([https://www.gsa.gov](https://www.gsa.gov)). Please contact the Domain Registration Help Desk with any questions you may have.
-
-- Toll-free: 1-877-734-4688
-- Email: <registrar@dotgov.gov>
+In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the [General Services Administration](https://www.gsa.gov). Please [contact us]({{ site.baseurl}}/support/) with any questions you may have.

@@ -39,7 +39,7 @@ The .gov domain is for the operation of government, not the political, political
 
 ### Naming conventions
 
-Naming-convention rules are described in detail in the [Federal Policy](policies-and-guidelines/federal-policy/). Thousands of names, programs, and general terms are used in .gov domains. The following is a summary of naming-convention rules:
+Naming-convention rules are described in detail in the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Thousands of names, programs, and general terms are used in .gov domains. The following is a summary of naming-convention rules:
 
 #### 1. No general domain names
 
@@ -101,7 +101,7 @@ The following applies only to federal .gov domains:
 
 ### Authorization
 
-All Federal Agency domain requests must come from the Chief Information Officer (CIO) of the Federal Agency. See [www.cio.gov](https://www.cio.gov) for a complete list of federal-agency CIOs.
+All Federal Agency domain requests must come from the Chief Information Officer (CIO) of the Federal Agency. See [cio.gov](https://www.cio.gov) for a complete list of federal-agency CIOs.
 
 ### Section 508 compliance
 
@@ -196,7 +196,7 @@ Abbreviations are not authorized unless an exception to the domain name is grant
 
 ### Exception requests
 
-The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming convention. The Registry and Registration Authority will determine domain holder eligibility.
+The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions. The Registry and Registration Authority will determine domain holder eligibility.
 
 ### Ready and green domain names
 
