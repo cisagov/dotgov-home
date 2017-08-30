@@ -23,7 +23,7 @@ Before you register a new domain, please review our policies and guidelines:
 
 * Federal Executive Branch domains are also subject to [Policies for .gov Domain Issuance for Federal Agency Public Websites Memorandum](http://web.archive.org/web/20150513215856/https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
 
-* All .gov and .fed.us domains are subject to our [domain requirements]({{ base.url }}/registration/requirements/).
+* All .gov and .fed.us domains are subject to our [domain requirements]({{ site.baseurl }}/registration/requirements/).
 
 ## Prepare to make your request
 
@@ -31,7 +31,7 @@ Before you register a new domain, please review our policies and guidelines:
 
 1. Prepare an authorization letter to request approval for the domain:
 
-    - Copy and paste an [Authorization Letter Template]({{ base.url }}/registration/authorization-templates/) into a word processor.
+    - Copy and paste an [Authorization Letter Template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor.
     - Update the letter with the appropriate information for your request.
     - Make sure the domain name is consistent with its content.
     - The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
