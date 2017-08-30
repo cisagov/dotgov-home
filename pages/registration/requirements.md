@@ -60,10 +60,6 @@ Examples:
 
 All .gov domains are registered for a 1-year eligibility period. During this period, a review of eligibility and administrative information is required. If necessary, the .gov registrar will contact the points of contact for domains. Please keep the contact information up to date. The .gov registrar may request an updated authorization letter, updated Domain Name Server (DNS) information, or other information. This information enables the government to ensure .gov domains provide secure, official websites and promotes the best possible service to the general public.
 
-### Link change notification
-
-When a link on a .gov domain makes the user leave a .gov website, a notification or screen (i.e., a splash message) should alert users that they are leaving the official .gov domain page.
-
 ### Privacy and use policy
 
 Domains should adhere to appropriate level of policies in reference to personal information usage for their domain.
