@@ -20,4 +20,4 @@ Domain names must be renewed annually. Points of contact are sent renewal remind
 
 ### What happens if I do not renew my domain name?
 
-If a renewal payment is not submitted, domain names are not automatically removed from the zone. If you do not wish to renew, please contact us to [delete the domain]({{ site.baseurl }} /management/#how-do-i-delete-my-domain). Otherwise, your agency will be held financially responsible for registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm).
+If a renewal payment is not submitted, domain names are not automatically removed from the zone. If you do not wish to renew, please contact us to [delete the domain]({{ site.baseurl }}/management/#how-do-i-delete-my-domain). Otherwise, your agency will be held financially responsible for registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm).
