@@ -29,7 +29,7 @@ This letter must specify the request for ownership of the domain name and should
 * Domain name to be transferred
 * Current contacts and phone numbers (for the transferring agency)
 * New contacts and phone numbers (for the accepting agency)
-* New [domain name server]({{ site.baseurl/support/dns/}}) addresses
+* New [domain name server]({{ site.baseurl }}/support/dns/) addresses
 
 ### Submit your request
 
