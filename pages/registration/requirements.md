@@ -15,11 +15,11 @@ subnav:
     href: '#local-domains'
 ---
 
-This overview of .gov domain registration requirements is meant to further explain and clarify sections of the [Federal Policy](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm), which focuses on purpose and jurisdiction.
+This overview of .gov domain registration requirements is meant to further explain and clarify sections of the [Federal Policy](https://twitter.com/nicoleslaw/status/902259780168728576), which focuses on purpose and jurisdiction.
 
-The .gov domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The .gov domain provides the official and trusted internet presence for these government entities.
+The .gov domain facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The domain hosts only official, government sites at the federal, state, and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as Native Sovereign Nations (NSNs). The .gov domain provides the official and trusted internet presence for these government entities.
 
-Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exception to policy requests for local governments will originate from the Authorizing Authority only. The Authorizing Authority is the highest elected official (Mayor, County, or Parish Supervisor), that authorizes the domain to operate and contain information reference to their government responsibilities.
+Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains. Exceptions to policy requests for local governments will originate from the Authorizing Authority only. The Authorizing Authority is the highest elected official (mayor, or county or parish supervisor), that authorizes the domain to operate and contain information reference to their government responsibilities.
 
 ## General requirements
 
