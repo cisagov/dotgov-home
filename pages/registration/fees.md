@@ -24,9 +24,9 @@ Annually. As a point of contact, you’ll receive several reminder emails. Pleas
 
 ### What happens if I fail to submit a payment?
 
-Failure to submit payment does not result in removal of your domain. The entity or agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.gpo.gov/fdsys/pkg/FR-2003-03-28/html/03-7413.htm). Your agency or office will not be able to register new domains until your account is up to date.
+Failure to submit payment does not result in removal of your domain. The entity or agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Your agency or office will not be able to register new domains until your account is up to date.
 
-If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl}}/management/renewals/#what-happens-if-i-do-not-renew-my-domain-name).
+If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl }}/management/renewals/#what-happens-if-i-do-not-renew-my-domain-name).
 
 ---
 
