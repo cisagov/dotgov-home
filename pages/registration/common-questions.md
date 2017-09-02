@@ -26,4 +26,4 @@ Without an authorization letter from your mayor or the highest ranking city or c
 
 ### My request was denied. What is the appeal process?
 
-In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the [General Services Administration](https://www.gsa.gov). Please [contact us]({{ site.baseurl}}/support/) with any questions you may have.
+In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the [General Services Administration](https://www.gsa.gov). Please [contact us]({{ site.baseurl }}/support/) with any questions you may have.
