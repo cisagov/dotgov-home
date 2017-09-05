@@ -8,7 +8,7 @@ sidenav: management
 
 To transfer ownership of a domain name from one agency to another agency, two letters must be submitted to us: one from the transferring agency and one from the accepting agency.
 
-Start by copying and pasting the [Domain Transfer Letter Template]({{ site.baseurl }}/domains/management/authorization-templates/transfers/) into a word processor.
+Start by copying and pasting the [Domain Transfer Letter Template]({{ site.baseurl }}/management/authorization-templates/transfers/) into a word processor.
 
 ### Transferring agency letter
 
