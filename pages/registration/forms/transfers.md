@@ -1,9 +1,9 @@
 ---
 title: "Domain Transfer Letter"
 layout: form
-permalink: /domains/management/authorization-templates/transfers/
+permalink: /management/authorization-templates/transfers/
 
-sidenav: domains
+sidenav: registration
 ---
 
 [Government Letterhead]

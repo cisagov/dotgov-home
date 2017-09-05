@@ -1,12 +1,12 @@
 ---
-title: "Domain Authorization Letter: State"
+title: "Domain Authorization Letter: County"
 layout: form
-permalink: /domains/registration/authorization-templates/state/
+permalink: /registration/authorization-templates/county/
 
-sidenav: domains
+sidenav: registration
 ---
 
-[State Government Letterhead]
+[County Government Letterhead]
 
 [Date]
 
@@ -17,9 +17,10 @@ Reston, Virginia 20190
 
 Dear Domain Manager,
 
-As [Governor (or State CIO)] for the State of [State Name], I formally request the authority over the [xxxxx.gov] second-level domain name be delegated to the State of [State Name].
+As [County Commissioner (or equivalent highest-ranking elected county official)] for [County Name, State Name], I formally request the authority over the [xxxxx.gov] second-level domain name be delegated to [County Name, State Name]. I attest that I am the highest-ranking official for [County Name, State Name] or have signing rights on behalf of the [Title of the Highest-Ranking Elected Official] for [County Name,
+State Name].
 
-This domain name will be used for [state the purpose]. The use of this domain is consistent with the State of [State Name] Internet policy. In addition, I will ensure the content of the requested domain name conforms to the .gov policy.
+This domain name will be used for [state the purpose]. The use of this domain is consistent with the County of [County Name] Internet policy. In addition, I will ensure the content of the requested domain name conforms to the .gov policy.
 
 By requesting this domain name, I acknowledge that I will be responsible for payment of the annual $400 domain fee. I understand that if I wish to retire my domain, I must submit a written request to registrar@dotgov.gov. If a written request is not submitted, I understand that I will continue to be responsible for all accrued domain fees.
 

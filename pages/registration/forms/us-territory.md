@@ -1,24 +1,23 @@
 ---
-title: "Domain Authorization Letter: Native Sovereign Nation"
+title: "Domain Authorization Letter: U.S. Territory"
 layout: form
-permalink: /domains/registration/authorization-templates/native-sovereign-nation/
+permalink: /registration/authorization-templates/us-territory/
 
-sidenav: domains
+sidenav: registration
 ---
 
-[Tribal Government Letterhead]
+[Territory Government Letterhead]
 
 [Date]
 
-Angel Goldtooth  
-Department of the Interior Bureau of Indian Affairs  
-Office of Information Development  
-12220 Sunrise Valley Drive Rm 5110  
-Reston, VA 20191  
+.Gov Domain Registration  
+c/o Verisign, Inc.  
+12061 Bluemont Way  
+Reston, Virginia 20190
 
-Dear Ms. Angel Goldtooth:
+Dear Domain Manager,
 
-The [Insert Name] Tribe is requesting approval of the domain name [Insert Tribename-NSN.gov]. I am authorized to make this request by Tribal resolution # [Insert Number], dated [Insert Date], of the [Insert Tribe Name]. If there are any questions, please contact me at [Insert Telephone Number].
+As CIO for the U.S. territory of [Territory Name], I formally request the authority over the [xxxxx.gov] second-level domain name be delegated to the territory of [Territory Name].
 
 This domain name will be used for [state the purpose]. I will ensure the content of the requested domain name conforms to the .gov policy.
 
@@ -52,5 +51,3 @@ Sincerely,
 
 [Name]  
 [Title]
-
-Attachment [Attach Copy of Tribal Resolution]

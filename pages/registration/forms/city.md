@@ -1,9 +1,9 @@
 ---
 title: "Domain Authorization Letter: City"
 layout: form
-permalink: /domains/registration/authorization-templates/city/
+permalink: /registration/authorization-templates/city/
 
-sidenav: domains
+sidenav: registration
 ---
 
 [City Government Letterhead]

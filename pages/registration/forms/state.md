@@ -1,12 +1,12 @@
 ---
-title: "Domain Authorization Letter: Federal"
+title: "Domain Authorization Letter: State"
 layout: form
-permalink: /domains/registration/authorization-templates/federal/
+permalink: /registration/authorization-templates/state/
 
-sidenav: domains
+sidenav: registration
 ---
 
-[Federal Government Letterhead]
+[State Government Letterhead]
 
 [Date]
 
@@ -17,9 +17,9 @@ Reston, Virginia 20190
 
 Dear Domain Manager,
 
-As Head of or cabinet-level CIO for the [Agency Name], I formally request the authority over the [xxxxx.gov] second-level domain name be delegated to the [Agency Name].
+As [Governor (or State CIO)] for the State of [State Name], I formally request the authority over the [xxxxx.gov] second-level domain name be delegated to the State of [State Name].
 
-This domain name will be used for [state the purpose]. The use of this domain is consistent with the [Agency Name] Internet policy. In addition, I will ensure the content of the requested domain name conforms to the Federal Government content policies. This request meets the requirements of OMB Memorandum on “Policies for Dot Gov Issuance for Federal Agency Public Websites”, http://www.whitehouse.gov/omb/e-gov/domainissuance.
+This domain name will be used for [state the purpose]. The use of this domain is consistent with the State of [State Name] Internet policy. In addition, I will ensure the content of the requested domain name conforms to the .gov policy.
 
 By requesting this domain name, I acknowledge that I will be responsible for payment of the annual $400 domain fee. I understand that if I wish to retire my domain, I must submit a written request to registrar@dotgov.gov. If a written request is not submitted, I understand that I will continue to be responsible for all accrued domain fees.
 
