@@ -327,10 +327,15 @@ code::after {
   font-size: 0.8em;
   line-height: 1.5;
   padding: 0.3em;
+  position: relative;
   transition: opacity 0.2s ease-in-out 0.1s;
 
   @include media($medium-screen) {
     opacity: 0;
+    left: -1.1em;
+    padding: 0;
+    position: absolute;
+    top: 0.1em;
   }
 
   &:visited {
