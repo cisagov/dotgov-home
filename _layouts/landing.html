@@ -6,9 +6,10 @@ layout: base
 
 <section class="usa-section hero">
   <div class="usa-grid">
-    <h2 class="hero-heading">
-      <span class="hero-heading-callout">{{ hero.heading }} </span>{{ hero.content }}
+    <h2 class="hero-heading hero-heading-callout">
+      {{ hero.heading }}
     </h2>
+    <h2 class="hero-heading hero-heading-content">{{ hero.content }}</h2>
     <a class="usa-button usa-button-big usa-button-primary-alt"
       href="{{ hero.button.href | relative_url }}">
       {{ hero.button.text }}

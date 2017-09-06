@@ -115,7 +115,7 @@ main {
 .hero {
   background-color: $color-primary-darkest;
 
-  h2, p {
+  p {
     color: $color-white;
   }
 
@@ -130,12 +130,18 @@ main {
   color: $color-white !important;
 }
 
+.hero-heading {
+  color: $color-white;
+  // line-height: 1.5;
+}
+
 .hero-heading-callout {
   color: $color-primary-alt;
 }
 
-.hero-heading {
-  line-height: 1.5;
+.hero-heading-content {
+  font-weight: 300;
+  margin-top: 0;
 }
 
 .bg-primary-alt-lightest {
