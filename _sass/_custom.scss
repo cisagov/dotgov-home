@@ -23,6 +23,9 @@ blockquote {
   padding-left: 1em;
 }
 
+a {
+  text-decoration-skip: ink;
+}
 // Sticky footer
 
 body {
@@ -354,6 +357,35 @@ h2, h3, h4, h5, h6 {
 .usa-layout-docs-main_content {
   h2, h3, h4, h5, h6 {
     position: relative;
+  }
+}
+
+// Header alert
+
+.usa-banner-inner {
+  position: relative;
+}
+
+.header-alert {
+  background-color: #ccf0f6;
+  display: none;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 9999;
+
+  @include media($nav-width) {
+    display: inherit;
+  }
+
+  p, a {
+    color: $color-primary-darkest;
+    margin: 0;
+  }
+
+  a {
+    font-weight: $font-bold;
   }
 }
 
