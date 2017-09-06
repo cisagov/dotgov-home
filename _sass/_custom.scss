@@ -115,12 +115,17 @@ main {
 .hero {
   background-color: $color-primary-darkest;
 
+  @include media($medium-screen) {
+    padding-top: 4rem;
+  }
+
   p {
     color: $color-white;
   }
 
   .usa-button {
     @include media($medium-screen) {
+      margin-bottom: 0;
       margin-right: 3rem;
     }
   }
