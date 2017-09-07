@@ -11,14 +11,15 @@ a:focus,
 .usa-accordion-button:focus,
 .usa-footer-return-to-top a:focus {
   background-color: $color-gold;
-  // outline: 3px solid $color-gold !important;
-  box-shadow: 0 0 0 3px $color-gold !important;
+  outline: 3px solid $color-gold !important;
+  // box-shadow: 0 0 0 3px $color-gold !important;
   color: $color-primary-darkest;
 }
 
 button:focus,
 button.usa-menu-btn:focus {
-  box-shadow: 0 0 0 3px $color-gold;
+  // box-shadow: 0 0 0 3px $color-gold;
+  outline: 3px solid $color-gold !important;
 }
 
 .usa-nav-link:focus,
