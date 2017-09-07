@@ -3,6 +3,10 @@
   z-index: 8000;
 }
 
+.usa-media_block-img {
+  float: left;
+}
+
 // Typography
 hr {
   @include margin(6rem null);
@@ -385,7 +389,9 @@ h2, h3, h4, h5, h6 {
 // Header alert
 
 .usa-banner-inner {
-  position: relative;
+  @include media($nav-width) {
+    position: relative;
+  }
 }
 
 .header-alert {
