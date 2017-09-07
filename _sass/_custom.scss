@@ -7,6 +7,20 @@
   float: left;
 }
 
+a:focus,
+.usa-accordion-button:focus {
+  background-color: $color-gold;
+  // outline: 3px solid #ffbf47;
+  box-shadow: 0 0 0 3px $color-gold !important;
+  color: $color-primary-darkest;
+}
+
+.usa-nav-link:focus,
+.usa-logo-text a,
+.usa-sidenav-list a {
+  background-color: transparent;
+}
+
 // Typography
 hr {
   @include margin(6rem null);
@@ -154,9 +168,13 @@ main {
   }
 }
 
-.hero-link {
-  color: $color-white !important;
+.hero-link.hero-link {
+  color: $color-white;
   -webkit-font-smoothing: antialiased;
+
+  &:focus {
+    color: $color-base;
+  }
 }
 
 .hero-heading {
@@ -226,7 +244,8 @@ main {
   a {
     color: $color-primary-darker;
 
-    &:hover {
+    &:hover,
+    &:focus {
       color: $color-primary-darkest;
     }
   }
@@ -277,10 +296,6 @@ main {
 
 .usa-sidenav-contents {
   font-size: 1.5rem;
-
-  a {
-    color: $color-primary;
-  }
 }
 
 // Eric's code:
