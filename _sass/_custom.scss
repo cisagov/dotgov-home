@@ -140,7 +140,7 @@ main {
 
 .hero-heading {
   color: $color-white;
-  // line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
 
 .hero-heading-callout {
@@ -148,7 +148,7 @@ main {
 }
 
 .hero-heading-content {
-  font-weight: 300;
+  font-weight: $font-normal;
   margin-bottom: 1em;
   margin-top: 0;
 }
