@@ -88,7 +88,7 @@ main {
 
 .usa-nav {
   @include media($nav-width) {
-    padding-top: 2.4rem;
+    padding-top: 2.7rem;
   }
 }
 
@@ -108,10 +108,25 @@ main {
 //   color: $color-base;
 // }
 
+.usa-nav-primary > li > a {
+  @include media($nav-width) {
+    padding: 1rem 1.5rem;
+  }
+}
+
 .usa-nav-link.current-parent span {
   // border-bottom: 0.7rem solid $color-primary;
   color: $color-primary;
   padding-bottom: 1rem;
+}
+
+.usa-nav-link:hover span,
+.usa-nav-primary a.usa-current span {
+  @include media($nav-width) {
+    border-bottom: 0.4rem solid $color-primary;
+    color: $color-base;
+    padding-bottom: 6px;
+  }
 }
 
 // Hero
