@@ -136,6 +136,7 @@ main {
 
 .hero-link {
   color: $color-white !important;
+  -webkit-font-smoothing: antialiased;
 }
 
 .hero-heading {
