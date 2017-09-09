@@ -309,6 +309,18 @@ main {
 
 .usa-sidenav-contents {
   font-size: 1.5rem;
+
+  a {
+    color: $color-primary;
+
+    &:hover {
+      color: $color-primary-darker;
+    }
+
+    &:focus {
+      color: $color-primary-darkest;
+    }
+  }
 }
 
 // Eric's code:
