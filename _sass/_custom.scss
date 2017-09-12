@@ -9,7 +9,6 @@
 
 // Focus
 a:focus,
-.usa-accordion-button:focus,
 .usa-footer-return-to-top a:focus {
   background-color: $color-gold;
   outline: 3px solid $color-gold !important;
@@ -18,7 +17,8 @@ a:focus,
 }
 
 button:focus,
-button.usa-menu-btn:focus {
+button.usa-menu-btn:focus ,
+.usa-accordion-button:focus {
   // box-shadow: 0 0 0 3px $color-gold;
   outline: 3px solid $color-gold !important;
 }
@@ -139,6 +139,8 @@ main {
 //   color: $color-base;
 // }
 
+// Navigation style edits
+
 .usa-nav-primary > li > a {
   @include media($nav-width) {
     padding: 1rem 1.5rem;
@@ -157,6 +159,22 @@ main {
     border-bottom: 0.4rem solid $color-primary;
     color: $color-base;
     padding-bottom: 6px;
+  }
+}
+
+.usa-logo {
+  margin-left: $site-margins-mobile;
+
+  @include media($nav-width) {
+    margin-left: 0;
+  }
+}
+
+.usa-banner-button {
+  padding-left: 53px;
+
+  @include media($small-screen) {
+    padding-left: 0;
   }
 }
 
