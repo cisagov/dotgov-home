@@ -1,6 +1,7 @@
-# primary:
-#   links: primary
+primary:
+  links: primary
+type: basic
 
-secondary:
-  links: secondary
-  search: false
+# secondary:
+#   links: secondary
+#   search: false

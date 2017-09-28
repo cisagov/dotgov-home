@@ -1,0 +1,482 @@
+// Fixes
+.usa-skipnav {
+  z-index: 8000;
+}
+
+.usa-media_block-img {
+  float: left;
+}
+
+// Focus
+a:focus,
+.usa-footer-return-to-top a:focus {
+  background-color: $color-gold;
+  outline: 3px solid $color-gold !important;
+  // box-shadow: 0 0 0 3px $color-gold !important;
+  color: $color-primary-darkest;
+}
+
+button:focus,
+button.usa-menu-btn:focus ,
+.usa-accordion-button:focus {
+  // box-shadow: 0 0 0 3px $color-gold;
+  outline: 3px solid $color-gold !important;
+}
+
+.usa-nav-link:focus,
+.usa-logo-text a,
+.usa-sidenav-list a {
+  background-color: transparent;
+}
+
+// Typography
+hr {
+  @include margin(6rem null);
+  border-bottom: 0;
+  border-top: 1px solid $color-gray-light;
+}
+
+.usa-content {
+  p, h1, h2, h3, h4, h5, h6, ul, ol {
+    max-width: 66ch !important;
+    word-wrap: break-word;
+  }
+}
+
+blockquote {
+  border-left: 7px solid $color-gray-lightest;
+  margin: 0;
+  padding-left: 1em;
+}
+
+a {
+  text-decoration-skip: ink;
+}
+
+ol ul {
+  list-style-type: disc;
+}
+
+// Sticky footer
+
+body {
+  @include media($medium-screen) {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+}
+
+main {
+  @include media($medium-screen) {
+    flex: 1;
+    width: 100%;
+  }
+}
+
+.usa-layout-docs {
+  @include media($medium-screen) {
+    flex-direction: initial;
+  }
+}
+
+.usa-layout-docs-sidenav {
+  @include media($medium-screen) {
+    @include span-columns(4);
+    display: table !important;
+    order: initial;
+  }
+
+  @include media($large-screen) {
+    @include span-columns(3);
+  }
+}
+
+.usa-layout-docs-main_content {
+  padding-bottom: 3rem;
+
+  @include media($large-screen) {
+    @include span-columns(9);
+  }
+
+  @include media($medium-screen) {
+    @include span-columns(8);
+    padding-bottom: 0;
+  }
+
+  h2 {
+    color: $color-primary-darker;
+  }
+}
+
+// Navigation
+
+.usa-navbar {
+  @include media($nav-width) {
+    height: 81px;
+  }
+}
+
+.usa-nav {
+  @include media($nav-width) {
+    padding-top: 2.7rem;
+  }
+}
+
+.usa-logo {
+  a {
+    color: $color-primary-darkest;
+  }
+}
+
+.usa-logo-text {
+  @include media($nav-width) {
+    font-size: 3rem;
+  }
+}
+
+// .usa-nav-link.current-parent {
+//   color: $color-base;
+// }
+
+// Navigation style edits
+
+.usa-nav-primary > li > a {
+  @include media($nav-width) {
+    padding: 1rem 1.5rem;
+  }
+}
+
+.usa-nav-link.current-parent span {
+  // border-bottom: 0.7rem solid $color-primary;
+  color: $color-primary;
+  padding-bottom: 1rem;
+}
+
+.usa-nav-link:hover span,
+.usa-nav-primary a.usa-current span {
+  @include media($nav-width) {
+    border-bottom: 0.4rem solid $color-primary;
+    color: $color-base;
+    padding-bottom: 6px;
+  }
+}
+
+.usa-logo {
+  margin-left: $site-margins-mobile;
+
+  @include media($nav-width) {
+    margin-left: 0;
+  }
+}
+
+.usa-banner-button {
+  padding-left: 53px;
+
+  @include media($small-screen) {
+    padding-left: 0;
+  }
+}
+
+// Hero
+
+.hero {
+  background-color: $color-primary-darkest;
+
+  @include media($medium-screen) {
+    padding-top: 4rem;
+  }
+
+  p {
+    color: $color-white;
+  }
+
+  .usa-button {
+    @include media($medium-screen) {
+      margin-bottom: 0;
+      margin-right: 3rem;
+    }
+  }
+}
+
+.hero-link.hero-link {
+  color: $color-white;
+  -webkit-font-smoothing: antialiased;
+
+  &:focus {
+    color: $color-base;
+  }
+}
+
+.hero-heading {
+  color: $color-white;
+  -webkit-font-smoothing: antialiased;
+}
+
+.hero-heading-callout {
+  color: $color-primary-alt;
+}
+
+.hero-heading-content {
+  font-weight: $font-normal;
+  margin-bottom: 1em;
+  margin-top: 0;
+}
+
+.bg-primary-alt-lightest {
+  background-color: $color-primary-alt-lightest;
+}
+
+.bg-color-gray-lightest {
+  background-color: $color-gray-lightest;
+}
+
+
+// Docs sidenav
+
+.usa-layout-docs-sidenav {
+  @include media($medium-screen) {
+    padding-right: 1.5rem;
+  }
+}
+
+// Sticky sidenav
+
+.usa-layout-docs-sidenav {
+  @include media($medium-screen) {
+    max-height: 100vh;
+    overflow: auto;
+    position: sticky;
+    top: 0;
+  }
+}
+
+// Footer
+
+.usa-footer {
+  font-size: 1.4rem;
+
+  h3 {
+    font-size: 1.6rem;
+  }
+
+  h4 + p {
+    margin-top: 0;
+  }
+
+  p, li {
+    line-height: 1.7;
+  }
+}
+
+.usa-footer-secondary_section {
+  background-color: $color-primary-alt-lightest;
+
+  a {
+    color: $color-primary-darker;
+
+    &:hover,
+    &:focus {
+      color: $color-primary-darkest;
+    }
+  }
+}
+
+.footer-logo {
+  display: inline-block;
+  margin-top: 1em;
+  width: 40px;
+
+  svg {
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.usa-footer-return-to-top {
+  a {
+    color: $color-primary;
+  }
+}
+
+.usa-sidenav-list {
+  li {
+    border-top: none;
+  }
+
+  > li {
+    > a {
+      border-bottom: 1px solid $color-gray-light;
+      border-top: 1px solid $color-gray-light;
+      margin-bottom: -1px;
+    }
+  }
+
+  .current-parent {
+    border-left: 0.4rem solid $color-primary;
+  }
+}
+
+.usa-sidenav-list + .usa-sidenav-contents-heading {
+  margin-top: 5rem;
+}
+
+.usa-sidenav-contents-heading {
+  margin-top: 0;
+}
+
+.usa-sidenav-contents {
+  font-size: 1.5rem;
+
+  a {
+    color: $color-primary;
+
+    &:hover {
+      color: $color-primary-darker;
+    }
+
+    &:focus {
+      color: $color-primary-darkest;
+    }
+  }
+}
+
+// Eric's code:
+
+/* Style tweaks. */
+
+code {
+  background-color: $color-gray-lightest;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
+  font-size: 1.3rem;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+code::before,
+code::after {
+  letter-spacing: -0.2em;
+  content: '\00a0';
+}
+
+/*!
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+// @font-face {
+//   font-family: 'FontAwesome';
+//   src: url('../fonts/fontawesome-webfont.eot?v=4.1.0');
+//   src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+//   font-weight: normal;
+//   font-style: normal;
+// }
+
+.fa {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-link:before {
+  content: "\f0c1";
+}
+
+// .fa-check:before {
+//   content: "\f00c";
+//   font-size: 1.5rem;
+//   margin-right: 1px;
+// }
+
+.fa-clipboard:before {
+  content: "\f0ea";
+  font-size: 1.5rem;
+  margin-right: 4px;
+}
+
+/*
+ * This code is courtesy Ben Balter, modified by Parker Moore for jekyllrb.com
+ * http://ben.balter.com/2014/03/13/pages-anchor-links/
+ */
+.header-link {
+  color: $color-gray;
+  font-size: 0.8em;
+  line-height: 1.5;
+  padding: 0.3em;
+  position: relative;
+  transition: opacity 0.2s ease-in-out 0.1s;
+
+  @include media($medium-screen) {
+    opacity: 0;
+    left: -1.1em;
+    padding: 0;
+    position: absolute;
+    top: 0.1em;
+  }
+
+  &:visited {
+    color: $color-gray;
+  }
+
+  &:hover {
+    color: $color-gray-dark;
+  }
+}
+
+h2, h3, h4, h5, h6 {
+  &:hover {
+    .header-link {
+      opacity: 1;
+    }
+  }
+}
+
+.header-link:focus {
+  opacity: 1;
+}
+
+.usa-layout-docs-main_content {
+  h2, h3, h4, h5, h6 {
+    position: relative;
+  }
+}
+
+// Header alert
+
+.usa-banner-inner {
+  @include media($nav-width) {
+    position: relative;
+  }
+}
+
+.header-alert {
+  background-color: $color-primary-alt-lightest;
+  display: none;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 9999;
+
+  @include media($nav-width) {
+    display: inherit;
+  }
+
+  p, a {
+    color: $color-primary-darkest;
+    margin: 0;
+  }
+
+  a {
+    font-weight: $font-bold;
+  }
+}
+
+.page-federal-policy {
+  hr {
+    @include margin(3rem null);
+  }
+}

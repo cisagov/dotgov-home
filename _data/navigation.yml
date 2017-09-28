@@ -1,24 +1,35 @@
-
-secondary:
-  - text: Home
-    href: /
-  - text: Register and Manage .gov Domains
-    href: https://www.dotgov.gov
+primary:
+  - text: Domain registration
+    href: /registration/
+  - text: Domain management
+    href: /management/
   - text: Data
     href: /data/
-  - text: Policy
-    href: /policy/
-  - text: HSTS Preloading
-    href: /hsts-preloading/
-  - text: FAQs
-    href: /faqs/
+  - text: Support
+    href: /support/
 
-hosted:
+registration:
+  - text: Domain requirements
+    href: /registration/requirements/
+  - text: Fees
+    href: /registration/fees/
+  - text: Common questions
+    href: /registration/common-questions/
+  - text: Authorization letter templates
+    href: /registration/authorization-templates/
+
+management:
+    - text: Renewals
+      href: /management/renewals/
+    - text: Transfers
+      href: /management/transfers/
+
+data:
   - text: Data
     href: /data/
-  - text: Policy
-    href: /policy/
-  - text: HSTS Preloading
-    href: /hsts-preloading/
-  - text: FAQs
-    href: /faqs/
+
+support:
+  - text: DNS
+    href: /support/dns/
+  - text: Security
+    href: /support/security/

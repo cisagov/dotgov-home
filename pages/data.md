@@ -1,16 +1,25 @@
 ---
-title: .Gov domain data
+title: Data
 layout: docs
 permalink: /data/
 
-sidenav: hosted
+subnav:
+  - text: Download our data
+    href: '#all-gov-domains'
+  - text: Share your feedback
+    href: '#share-your-feedback'
 ---
 
-# .Gov domain data
+### All .gov domains
 
-The official public list of .gov domains is updated around every two weeks:
+The official public list of `.gov` domains is updated about every two weeks:
 
-* [List of .gov domains](https://raw.githubusercontent.com/GSA/data/gh-pages/dotgov-domains/current-full.csv) - Includes federal, state, local, and tribal `.gov` and `.fed.us` domains.
-* [List of federal .gov domains](https://raw.githubusercontent.com/GSA/data/gh-pages/dotgov-domains/current-federal.csv) - Includes federal `.gov` and `.fed.us` domains only. A subset of the full list, published separately for convenience.
+* [List of .gov domains](https://raw.githubusercontent.com/GSA/data/gh-pages/dotgov-domains/current-full.csv) - includes federal, state, local, and tribal `.gov` and `.fed.us` domains.
 
-To give us feedback about this data, [open an issue on our GitHub repository](https://github.com/gsa/data/issues).
+### Federal .gov domains
+
+* [List of federal .gov domains](https://raw.githubusercontent.com/GSA/data/gh-pages/dotgov-domains/current-federal.csv) - includes federal `.gov` and `.fed.us` domains only. (This is a subset of the full list.)
+
+### Share your feedback
+
+If you have questions about the data or suggestions for improving it, [open an issue in our GitHub repository](https://github.com/gsa/data/issues).

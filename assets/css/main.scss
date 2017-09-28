@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$site-margins-mobile: 2rem;
+
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+
+@import "lib/uswds/all";
+@import "all";

@@ -1,45 +1,42 @@
 <footer class="usa-footer usa-footer-medium site" role="contentinfo">
 
-  {% if page.top %}
+  {% unless page.top == false %}
   <div class="usa-grid usa-footer-return-to-top">
     <a href="#">Return to top</a>
   </div>
-  {% endif %}
+  {% endunless %}
 
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
-      <div class="usa-width-two-thirds usa-content">
-
-        <h5>Customer Support</h5>
+      <div class="usa-width-one-third">
+        <h3>Contact us</h3>
         <p>
-          Toll Free: (877) 734-4688<br/>
-          Direct: (703) 948-0723<br/>
-          eFax: (540) 301-0160<br/>
+          Phone: 1-877-734-4688<br/>
+          Fax: 1-540-301-0160<br/>
           Email: <a href="mailto:registrar@dotgov.gov">registrar@dotgov.gov</a>
         </p>
-        <a href="https://www.gsa.gov" target="_blank">
-          <img class="usa-footer-logo-img" src="{{ site.baseurl }}/assets/img/gsa-logo.svg" alt="U.S. General Services Administration"
-          width="80"
-          height="80"
-          >
+        <a class="footer-logo" href="https://www.gsa.gov" target="_blank">
+          {% include svg/gsa-logo.svg %}
         </a>
       </div>
-
-      <div class="usa-footer-contact-links usa-width-one-third">
-        <h5>To register or manage a .gov domain:</h5>
-        <a href="https://www.dotgov.gov" target="_blank" class="usa-button cta">
-          Visit the DotGov Registrar
-        </a>
-        <h5>To contact the .gov registrar:</h5>
-        <a href="mailto:registrar@dotgov.gov" class="usa-button cta">
-          <img src="{{ site.baseurl }}/assets/img/logo-email.png" alt="Email logo">
-          Email registrar@dotgov.gov
-        </a>
-        <h5>To improve this website:</h5>
-        <a href="{{ site.repo }}/issues/new" target="_blank" class="usa-button cta">
-          <img src="{{ site.baseurl }}/assets/img/logo-github.png" alt="GitHub logo">
-          Open an issue on GitHub
-        </a>
+      <div class="usa-width-one-third">
+        <h3>Tools and services</h3>
+        <ul class="usa-unstyled-list">
+          <li><a href="https://www.dotgov.gov" target="_blank">Register or manage a domain</a></li>
+          <li><a href="{{ site.baseurl }}/data">Use our data</a></li>
+          <li><a href="https://www.dotgov.gov/dotgov-web/registration/whois.xhtml?_m=3">WHOIS search</a></li>
+          <li><a href="http://dnssec-debugger.verisignlabs.com/">DNS security debugger</a></li>
+          <li>Help us improve this site on <a href="{{ site.repo }}/issues/new">GitHub</a></li>
+        </ul>
+      </div>
+      <div class="usa-width-one-third">
+        <h3>Policies and information</h3>
+        <ul class="usa-unstyled-list">
+          <li><a href="{{ site.baseurl }}/privacy/">Privacy policy</a></li>
+          <li><a href="{{ site.baseurl }}/foia/">FOIA</a></li>
+          <li><a href="https://www.gsa.gov/portal/category/21399">GSA Office of Government-wide Policy</a></li>
+          <li><a href="https://usa.gov">USA.gov</a></li>
+        </ul>
       </div>
     </div>
   </div>
