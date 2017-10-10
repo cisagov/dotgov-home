@@ -31,5 +31,5 @@ data:
 support:
   - text: DNS
     href: /support/dns/
-  - text: Security
-    href: /support/security/
+  - text: HSTS Preloading
+    href: /hsts-preloading/
