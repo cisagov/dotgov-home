@@ -1,17 +1,19 @@
 ---
-title: Security
+title: HSTS Preloading
 layout: docs
-permalink: /support/security/
+permalink: /hsts-preloading/
 
 sidenav: support
 subnav:
-  - text: HSTS/HTTPS preloading
-    href: '#hstshttps-preloading'
+  - text: Introduction
+    href: '#introduction'
   - text: Certificates
     href: '#certificates'
+
+
 ---
 
-## HSTS/HTTPS preloading
+## Introduction
 
 Dotgov.gov has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains.
 
