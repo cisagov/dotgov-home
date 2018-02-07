@@ -116,15 +116,13 @@ Federal court .gov domains are linked to [uscourts.gov](https://uscourts.gov) an
 Native Sovereign Nations domains are coordinated with the following Chief Information Officer representative:
 
 Bureau of Indian Affairs
-Office of Information Development
-Attn: Angel Goldtooth, Imelda Tapang, Bruce Wheatley
-12220 Sunrise Valley Drive Rm 5110
-Reston, VA 20191
+Office of Information Operations
+Attn: Angel Goldtooth
+1011 Indian School Rd NW RM 183
+Albuquerque, NM 87104
 
 * <Angel.Goldtooth@bia.gov>
 * Tel: 505-563-5457
-* <Imelda.Tapang@bia.gov>
-* Tel: 703-390-6696
 
 ## State domains
 

@@ -10,11 +10,11 @@ sidenav: registration
 
 [Date]
 
-Angel Goldtooth  
-Department of the Interior Bureau of Indian Affairs  
-Office of Information Development  
-12220 Sunrise Valley Drive Rm 5110  
-Reston, VA 20191  
+Bureau of Indian Affairs
+Office of Information Operations
+Attn: Angel Goldtooth
+1011 Indian School Rd NW RM 183
+Albuquerque, NM 87104
 
 Dear Ms. Angel Goldtooth:
 
