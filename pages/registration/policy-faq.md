@@ -101,7 +101,7 @@ For States, GSA will accept authorization from the Office of the Governor or hig
 
 ### Sec. 102-173.45 Is there a registration charge for domain names?
 
-The General Services Administration (GSA) reserves the right to charge for domain names in order to recover cost of operations. For current registration charges, please visit the GSA Web site at [dotgov.gov](https://www.dotgov.gov).
+The General Services Administration (GSA) reserves the right to charge for domain names in order to recover cost of operations. For current registration charges, please visit the GSA Web site at [dotgov.gov](https://domains.dotgov.gov).
 
 GSA does not currently charge a fee. GSA has the authority to employ a system of collection that includes a one-time setup fee for new registrations, which will not exceed $1000, depending on the level of assistance that may be provided by GSA, and a recurring annual charge that will not exceed $500 for all dot-gov domains. The fees are based on anticipated costs for operating the registration service.
 
@@ -171,7 +171,7 @@ To register any second-level domain in dot-gov, Native Sovereign Nations (NSN) m
 
 ### Sec. 102-173.70 Where do I register my dot-gov domain name?
 
-Registration is an online process at the General Services Administration's Web site at [dotgov.gov](https://www.dotgov.gov). At the Network Information Site, you will find the instructions and online registration forms for registering your domain name. To register your domain name you will need to provide information such as your desired domain name, sponsoring organization, points of contact, and at least one name server addresses.
+Registration is an online process at the General Services Administration's Web site at [dotgov.gov](https://domains.dotgov.gov). At the Network Information Site, you will find the instructions and online registration forms for registering your domain name. To register your domain name you will need to provide information such as your desired domain name, sponsoring organization, points of contact, and at least one name server addresses.
 
 ### Sec. 102-173.75 How long does the process take?
 
@@ -191,7 +191,7 @@ Yes, canonical names registration request must provide access coverage for the a
 
 ### Sec. 102-173.95 Are there any restrictions on the use of the dot-gov domain name?
 
-The General Services Administration approves domain names for a specific term of time, generally two years unless otherwise stated, and under conditions of use. General conditions of registration and are posted at the registration Web site at [dotgov.gov](https://www.dotgov.gov) and may be modified over time. Organizations that operate web sites that are not in compliance with the conditions of use may have their domain name terminated.
+The General Services Administration approves domain names for a specific term of time, generally two years unless otherwise stated, and under conditions of use. General conditions of registration and are posted at the registration Web site at [dotgov.gov](https://domains.dotgov.gov) and may be modified over time. Organizations that operate web sites that are not in compliance with the conditions of use may have their domain name terminated.
 
 ---
 
