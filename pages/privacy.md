@@ -13,11 +13,11 @@ The only information that is automatically collected and stored is:
 
 - the name of the domain from which you access the internet (i.e., DHS.gov if you are connecting from a DHS account, or GMU.edu if you are connecting from George Mason University’s domain)
 - the date and time of your visit
-- the pages you visit on [dotgov.gov](https://www.dotgov.gov)
-- the internet address of the website you came from if it linked you directly to [dotgov.gov](https://www.dotgov.gov)
+- the pages you visit on [dotgov.gov](https://domains.dotgov.gov)
+- the internet address of the website you came from if it linked you directly to [dotgov.gov](https://domains.dotgov.gov)
 - search terms that you enter into the dotgov.gov search tool
 
-If your browser accepts cookies, we may use a session cookie to lean how many different visitors come to [dotgov.gov](https://www.dotgov.gov). We use this information for statistical purposes and to help us make our site more useful to you.
+If your browser accepts cookies, we may use a session cookie to lean how many different visitors come to [dotgov.gov](https://domains.dotgov.gov). We use this information for statistical purposes and to help us make our site more useful to you.
 
 ## Information you send us
 

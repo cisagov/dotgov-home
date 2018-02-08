@@ -12,7 +12,7 @@ Domains are registered for a 1-year period and are renewed annually.
 
 ### Where can I get a list of domains that are up for renewal?
 
-On [dotgov.gov](https://www.dotgov.gov), from the Home Tab, click **Fees**.
+On [dotgov.gov](https://domains.dotgov.gov), from the Home Tab, click **Fees**.
 
 ### How often do I need to renew my domain name?
 

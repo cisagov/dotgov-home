@@ -27,7 +27,7 @@ Before you register a new domain, please review our policies and guidelines:
 
 ## Prepare to make your request
 
-1. Check to see if the [domain is available](https://www.dotgov.gov/dotgov-web/registration/whois.xhtml?_m=3).
+1. Check to see if the [domain is available](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml?_m=3).
 
 1. Prepare an authorization letter to request approval for the domain:
 
@@ -40,9 +40,9 @@ Before you register a new domain, please review our policies and guidelines:
 
 ### Sign in or create an account
 
-1. If you’re new to the site, [create an account](https://www.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2). A Dotgov.gov representative will email the Authorizing Authority for your agency to finalize the account and set a temporary password.
+1. If you’re new to the site, [create an account](https://domains.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2). A Dotgov.gov representative will email the Authorizing Authority for your agency to finalize the account and set a temporary password.
 
-1. Otherwise, [sign in](https://www.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
+1. Otherwise, [sign in](https://domains.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
 
 1. Click **Register a Domain**.
 

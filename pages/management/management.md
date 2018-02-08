@@ -24,7 +24,7 @@ Please review our [account information guidelines]({{ site.baseurl }}/registrati
 
 ### One of our contacts is no longer the right person to help manage our domain. How do I remove them from the account?
 
-If you are a contact on a domain that is undergoing the request process, you can update the POC with another. However, please ensure that you’re selecting an existing user. If your point of contact is new, that individual must be provisioned into the system beforehand by selecting Account at [dotgov.gov](https://www.dotgov.gov).
+If you are a contact on a domain that is undergoing the request process, you can update the POC with another. However, please ensure that you’re selecting an existing user. If your point of contact is new, that individual must be provisioned into the system beforehand by selecting Account at [dotgov.gov](https://domains.dotgov.gov).
 
 If you are unable to update a point of contact with an existing user, please [contact us]({{ site.baseurl }}/support/).
 

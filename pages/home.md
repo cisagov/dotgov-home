@@ -8,11 +8,11 @@ hero:
   heading: Learn about the Dotgov.gov domain registry.
   content: See what’s required for the registration process, review our policies, or download data about .gov domains.
   button:
+    text: Register or manage a domain
+    href: https://domains.dotgov.gov
+  link:
     text: Learn more
     href: /registration/
-  link:
-    text: Register or manage a domain
-    href: https://www.dotgov.gov
 ---
 
 <section class="usa-section">
