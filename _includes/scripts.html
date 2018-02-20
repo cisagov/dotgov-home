@@ -5,12 +5,14 @@
 <script src="{{ site.baseurl }}/assets/js/clipboard.min.js"></script>
 <script>
   var btn = document.getElementById('clipboard-btn');
-  var clipboard = new Clipboard(btn);
+  if (btn) {
+    var clipboard = new Clipboard(btn);
 
-  clipboard.on('success', function(e) {
-      console.log(e);
-      btn.innerHTML = "Copied!";
-  });
+    clipboard.on('success', function(e) {
+        console.log(e);
+        btn.innerHTML = "Copied!";
+    });
+  }
 </script>
 
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
