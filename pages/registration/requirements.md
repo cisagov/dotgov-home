@@ -99,6 +99,8 @@ The following applies only to federal .gov domains:
 
 All Federal Agency domain requests must come from the Chief Information Officer (CIO) of the Federal Agency. See [cio.gov](https://www.cio.gov) for a complete list of federal-agency CIOs.
 
+Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review. 
+
 ### Section 508 compliance
 
 Federal agency websites must be in compliance with [Section 508 of the Rehabilitation Act](https://www.section508.gov).
