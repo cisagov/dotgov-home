@@ -5,7 +5,7 @@ permalink: /
 top: false
 
 hero:
-  heading: Learn about the Dotgov.gov domain registry.
+  heading: Learn about the DotGov domain registry.
   content: See what’s required for the registration process, review our policies, or download data about .gov domains.
   button:
     text: Register or manage a domain
@@ -22,7 +22,7 @@ hero:
 </div>
 
 <div class="usa-width-two-thirds">
-**February 2018:** [All new Federal executive branch .gov domain requests]({{ site.baseurl }}/registration/requirements/#federal-domains) will be subject to additional review and approval by the Office of Management and Budget (OMB). Domain renewals will not be subject to additional review. 
+**February 2018:** [All new Federal executive branch .gov domain requests]({{ site.baseurl }}/registration/requirements/#federal-domains) will be subject to additional review and approval by the Office of Management and Budget (OMB). Domain renewals will not be subject to additional review.
 
 **May 15, 2017:** [Automatic HSTS/HTTPS preloading]({{ site.baseurl }}/hsts-preloading/) went into effect for newly issued federal executive branch domains.
 
