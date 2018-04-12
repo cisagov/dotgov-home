@@ -115,7 +115,7 @@ Federal court .gov domains are linked to [uscourts.gov](https://uscourts.gov) an
 
 ### Native sovereign nations domains
 
-Native Sovereign Nations domains are coordinated with the following Chief Information Officer representative:
+Native Sovereign Nations domains are [coordinated](https://www.bia.gov/sites/bia.gov/files/assets/public/press_release/pdf/idc013756.pdf) with the following Chief Information Officer representative:
 
 Bureau of Indian Affairs
 Office of Information Operations
