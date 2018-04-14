@@ -16,6 +16,6 @@ To do this, we have to ask **all** users to reset their passwords, because the o
 To be clear, this action is **not** being taken because of a breach on any DotGov-related system. The General Services Administration is proactively working to improve the security of the .gov zone for its users and administrators.
 
 ## What should I do now?
-1. Change your password at https://domains.dotgov.gov. If it’s in a publicly known data breach, you will told to select a different one. _If you get this alert and it’s a password you use anywhere else_, we urge you to **change your password in those applications**, too.
+1. Change your password at [https://domains.dotgov.gov](https://domains.dotgov.gov). If it’s in a publicly known data breach, you will told to select a different one. _If you get this alert and it’s a password you use anywhere else_, we urge you to **change your password in those applications**, too.
 
 2. We **strongly recommend that you use a password manager** to generate and store a long, complex, unique password used only for the DotGov service.
