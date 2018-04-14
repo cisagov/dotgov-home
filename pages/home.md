@@ -22,11 +22,11 @@ hero:
 </div>
 
 <div class="usa-width-two-thirds">
-**February 2018:** [All new Federal executive branch .gov domain requests]({{ site.baseurl }}/registration/requirements/#federal-domains) became subject to additional review and approval by the Office of Management and Budget (OMB). Domain renewals will not be subject to additional review. 
-  
-**May 15, 2017:** [Automatic HSTS/HTTPS preloading]({{ site.baseurl }}/hsts-preloading/) went into effect for newly issued federal executive branch domains.
+**April 17, 2018:** A security feature was added to the [.gov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
 
-**January 19, 2017:** [Automatic HSTS/HTTPS preloading]({{ site.baseurl }}/hsts-preloading/) was [announced](https://www.cio.gov/2017/01/19/automatic-https-enforcement-new-executive-branch-gov-domains/). This service will automatically enforce HTTPS for newly issued federal executive branch .gov domains.
+**February 2018:** [All new Federal executive branch .gov domain requests]({{ site.baseurl }}/registration/requirements/#federal-domains) became subject to additional review and approval by the Office of Management and Budget (OMB). Domain renewals will not be subject to additional review.
+
+**May 15, 2017:** [Automatic HSTS/HTTPS preloading]({{ site.baseurl }}/hsts-preloading/) went into effect for newly issued federal executive branch domains.
 </div>
 </div>
 </section>
