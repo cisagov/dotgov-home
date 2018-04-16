@@ -22,7 +22,7 @@ hero:
 </div>
 
 <div class="usa-width-two-thirds">
-**April 17, 2018:** A security feature was added to the [.gov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
+**April 17, 2018:** A security feature was added to the [DotGov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
 
 **February 2018:** [All new Federal executive branch .gov domain requests]({{ site.baseurl }}/registration/requirements/#federal-domains) became subject to additional review and approval by the Office of Management and Budget (OMB). Domain renewals will not be subject to additional review.
 
