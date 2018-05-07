@@ -19,11 +19,11 @@ subnav:
 
 Before you register a new domain, please review our policies and guidelines:
 
-* The Dotgov.gov program is governed by [Final Rule - 41 CFR Part 102-173](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150).
-
-* Federal Executive Branch domains are also subject to [Policies for .gov Domain Issuance for Federal Agency Public Websites Memorandum](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
+* The issuance of .gov domains is governed by [Final Rule - 41 CFR Part 102-173](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150).
 
 * All .gov and .fed.us domains are subject to our [domain requirements]({{ site.baseurl }}/registration/requirements/).
+
+* Federal Executive Branch domains are also subject to [Policies for .gov Domain Issuance for Federal Agency Public Websites Memorandum](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf).
 
 ## Prepare to make your request
 
