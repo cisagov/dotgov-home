@@ -1,12 +1,12 @@
 ---
-title: "Domain Authorization Letter: U.S. Territory"
+title: "Domain Authorization Letter: Interstate"
 layout: form
-permalink: /registration/authorization-templates/us-territory/
+permalink: /registration/authorization-templates/interstate/
 
 sidenav: registration
 ---
 
-[Territory Government Letterhead]
+[Interstate Governmental Organization Letterhead, or State Government Letterhead]
 
 [Date]
 
@@ -17,9 +17,11 @@ Reston, Virginia 20190
 
 Dear Domain Manager,
 
-As CIO for the U.S. territory of [Territory Name], I formally request that authority over the [xxxxx.gov] second-level domain name be delegated to the territory of [Territory Name].
+As ([executive title] for [Interstate Governmental Organization name]) OR ([Governor/State CIO] for the State of [State Name]), I formally request that authority over the [xxxxx.gov] second-level domain name be delegated to ([Interstate Governmental Organization name]) OR (State of [State Name]).
 
-This domain name will be used for [state the purpose]. I will ensure the content of the requested domain name conforms to the .gov policy.
+[Interstate Governmental Organization name] represents the following states: [name all participants]. [Describe the nature of the relationship between the states and the Interstate Governmental Organization.]
+
+This domain name will be used for [state the purpose]. The use of this domain is consistent with organizational Internet policy. In addition, I will ensure the content of the requested domain name conforms to the .gov policy.
 
 By requesting this domain name, I acknowledge that I will be responsible for payment of the annual $400 domain fee. I understand that if I wish to retire my domain, I must submit a written request to registrar@dotgov.gov. If a written request is not submitted, I understand that I will continue to be responsible for all accrued domain fees.
 
