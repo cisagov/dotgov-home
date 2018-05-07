@@ -11,6 +11,8 @@ subnav:
     href: '#federal-domains'
   - text: State domains
     href: '#state-domains'
+  - text: Interstate domains
+    href: '#interstate-domains'
   - text: Local domains
     href: '#local-domains'
 ---
@@ -99,7 +101,7 @@ The following applies only to federal .gov domains:
 
 All Federal Agency domain requests must come from the Chief Information Officer (CIO) of the Federal Agency. See [cio.gov](https://www.cio.gov) for a complete list of federal-agency CIOs.
 
-Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review. 
+Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review.
 
 ### Section 508 compliance
 
@@ -168,6 +170,16 @@ State courts and legislatures request authorization from their state CIO or gove
 ### Utility, transportation, and regional authorities
 
 Authorities such as a water district are instruments of the state and may use the .gov domain once approved by the State CIO, who will ensure they are operated by the state. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the state and are state employed personnel are not eligible for a domain.
+
+## Interstate domains
+
+### Authorization
+
+Interstate governmental organizations are most frequently formed via legislation from Congress or from a legal accord between the state governments of two or more states.
+
+The authorization letter must be signed by the highest-ranking executive (director, chair, or equivalent). It should link to, or have as an appendix, authorizing legislation or documentation to support the organization's claim of being a bona fide interstate governmental organization. All participating states must be named.
+
+In lieu of authorizing documentation, at least one of the state's governors or governor-appointed state CIOs can submit an authorization letter. All participating states must be named.
 
 ## Local domains
 

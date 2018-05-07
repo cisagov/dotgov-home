@@ -13,10 +13,10 @@ registration:
     href: /registration/requirements/
   - text: Fees
     href: /registration/fees/
-  - text: Common questions
-    href: /registration/common-questions/
   - text: Authorization letter templates
     href: /registration/authorization-templates/
+  - text: Common questions
+    href: /registration/common-questions/
 
 management:
     - text: Renewals
