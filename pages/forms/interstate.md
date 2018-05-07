@@ -19,7 +19,9 @@ Dear Domain Manager,
 
 As ([executive title] for [Interstate Governmental Organization name]) OR ([Governor/State CIO] for the State of [State Name]), I formally request that authority over the [xxxxx.gov] second-level domain name be delegated to ([Interstate Governmental Organization name]) OR (State of [State Name]).
 
-[Interstate Governmental Organization name] represents the following states: [name all participants]. [Describe the nature of the relationship between the states and the Interstate Governmental Organization.]
+[Interstate Governmental Organization name] represents the following states: [name all participants].
+
+[Describe the nature of the relationship between the states and the organization. Include links to (or add as an appendix) the authorizing legislation or documentation that demonstrates being a bona fide interstate governmental organization.]
 
 This domain name will be used for [state the purpose]. The use of this domain is consistent with organizational Internet policy. In addition, I will ensure the content of the requested domain name conforms to the .gov policy.
 
