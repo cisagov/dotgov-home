@@ -45,7 +45,7 @@ Naming-convention rules are described in detail in the [Federal Policy](https://
 
 #### 1. Generic terms, without additional identification, are reserved for federal agencies
 
-Only federal agencies can register generic terms, such as "licenses," "recreation," and "benefits", for domain names. However,  a domain name like `MarylandRecreation.gov` could be allowed since the origin of service is identified (once authorized by either Maryland's Chief Information Officer or the Governor).
+Only federal agencies can register generic terms, such as "licenses," "recreation," and "benefits", for domain names. However,  a domain name like `MarylandRecreation.gov` could be allowed since the origin of service is identified.
 
 #### 2. State postal codes
 
@@ -165,7 +165,7 @@ The state CIO and governor can register an unlimited number of second-level .gov
 
 ### State courts and legislatures
 
-State courts and legislatures request authorization can from their CIO or highest-ranking executive.
+State courts and legislatures can request authorization from their CIO or highest-ranking executive.
 
 ### Utility, transportation, and regional authorities
 
