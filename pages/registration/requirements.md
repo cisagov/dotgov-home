@@ -43,13 +43,13 @@ The .gov domain is for the operation of government, not the political, political
 
 Naming-convention rules are described in detail in the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Thousands of names, programs, and general terms are used in .gov domains. The following is a summary of naming-convention rules:
 
-#### 1. No general domain names
+#### 1. Generic terms, without additional identification, are reserved for federal agencies
 
-General terms alone such as "licenses," "recreation," and "benefits" are not allowed because they do not represent a specific enough origin and service. However, a domain name such as `MarylandRecreation.gov` is allowed (assuming that domain is authorized by either Maryland's Chief Information Officer or the Governor of Maryland).
+Only federal agencies can register generic terms, such as "licenses," "recreation," and "benefits", for domain names. However,  a domain name like `MarylandRecreation.gov` could be allowed since the origin of service is identified (once authorized by either Maryland's Chief Information Officer or the Governor).
 
 #### 2. State postal codes
 
-All state and local second-level .gov domains must include the two-letter state acronym or spell out the state name. Additional naming conventions apply for local entities, such as cities, towns, counties, territories, and parishes.
+State and local second-level .gov domains must include the two-letter state acronym or spell out the state name. Additional naming conventions apply for local entities, such as cities, towns, counties, territories, and parishes.
 
 Examples:
 
@@ -165,7 +165,7 @@ The state CIO and governor can register an unlimited number of second-level .gov
 
 ### State courts and legislatures
 
-State courts and legislatures request authorization from their state CIO or governor and follow the state’s internet policy, in addition to .gov domain Registration Federal Policy.
+State courts and legislatures request authorization can from their CIO or highest-ranking executive.
 
 ### Utility, transportation, and regional authorities
 
@@ -206,13 +206,8 @@ Abbreviations are not authorized unless an exception to the domain name is grant
 
 ### Exception requests
 
-The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions. The Registry and Registration Authority will determine domain holder eligibility.
+The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions. Generally, in order to qualify for an exception, a city has to meet at least one of the below criteria.
 
-### Ready and green domain names
-
-In order to support the Federal and State Government Ready and Green Program initiatives, local governments can register both prefixes to their already registered domain name.
-
-Examples:
-
-* `GreenDadeCountyFL.gov` and `ReadyDadeCountyFL.gov`
-* `GreenHoustonTX.gov` and `ReadyHoustonTX.gov`
+1. **Unique**: City names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).
+2. **Well-known**: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
+3. **Most populous**: Census maintains [population data] for the United States. We will allow the largest 30 cities to be registered without a state suffix.
