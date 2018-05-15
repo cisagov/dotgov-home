@@ -210,4 +210,4 @@ The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-1
 
 1. **Unique**: City names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).
 2. **Well-known**: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
-3. **Most populous**: Census maintains [population data] for the United States. We will allow the largest 30 cities to be registered without a state suffix.
+3. **Most populous**: Census maintains [population data](https://www.census.gov/data/tables/2016/demo/popest/total-cities-and-towns.html) for the United States. We will allow the largest 30 cities to be registered without a state suffix.
