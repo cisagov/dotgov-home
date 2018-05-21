@@ -45,7 +45,7 @@ Naming-convention rules are described in detail in the [Federal Policy](https://
 
 #### 1. Generic terms, without additional identification, are reserved for federal agencies
 
-Only federal agencies can register generic terms, such as "licenses," "recreation," and "benefits", for domain names. However,  a domain name like `MarylandRecreation.gov` could be allowed since the origin of service is identified.
+Only federal agencies can register generic terms, such as "licenses," "recreation," and "benefits", for domain names. However, a domain name like `marylandrecreation.gov` could be allowed (once authorized by either Maryland's Chief Information Officer or the Governor) since the origin of service is identified.
 
 #### 2. State postal codes
 
@@ -206,8 +206,10 @@ Abbreviations are not authorized unless an exception to the domain name is grant
 
 ### Exception requests
 
-The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions. Generally, in order to qualify for an exception, a city has to meet at least one of the below criteria.
+To qualify for an exception, a city should meet at least one of the following three criteria:
 
 1. **Unique**: City names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).
 2. **Well-known**: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
-3. **Most populous**: Census maintains [population data](https://www.census.gov/data/tables/2016/demo/popest/total-cities-and-towns.html) for the United States. We will allow the largest 30 cities to be registered without a state suffix.
+3. **Most populous**: Census maintains [population data](https://www.census.gov/data/tables/2016/demo/popest/total-cities-and-towns.html) for the United States. DotGov will allow the largest 30 cities' names to be registered without a state suffix.
+
+The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions.
