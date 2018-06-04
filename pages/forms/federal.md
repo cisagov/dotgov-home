@@ -29,21 +29,21 @@ Administrative Point of Contact
 First Name, Last Name  
 Title  
 Address  
-Phone/Fax Number  
+Phone Number  
 Email Address  
 
 Billing Point of Contact  
 First Name, Last Name  
 Title  
 Address  
-Phone/Fax Number  
+Phone Number  
 Email Address  
 
 Technical Point of Contact  
 First Name, Last Name  
 Title  
 Address  
-Phone/Fax Number  
+Phone Number  
 Email Address  
 
 Sincerely,  
