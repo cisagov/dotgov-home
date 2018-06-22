@@ -179,7 +179,7 @@ Interstate governmental organizations are most frequently formed via legislation
 
 The authorization letter must be signed by the highest-ranking executive (director, chair, or equivalent). It should link to, or have as an appendix, authorizing legislation or documentation to support the organization's claim of being a bona fide interstate governmental organization. All participating states must be named.
 
-In lieu of authorizing documentation, at least one of the state's governors or governor-appointed state CIOs can submit an authorization letter. All participating states must be named.
+In lieu of authorizing legislation, at least one of the states' governors or governor-appointed state CIOs can submit an authorization letter. All participating states must be named.
 
 ## Local domains
 
