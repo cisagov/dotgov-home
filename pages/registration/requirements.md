@@ -183,6 +183,7 @@ The authorization letter must be signed by the highest-ranking executive (presid
 
 In lieu of authorizing documentation, at least one of the state's governors or state CIO can submit an authorization letter. All participating states must be named.
 
+
 ## Local domains
 
 ### Authorization
