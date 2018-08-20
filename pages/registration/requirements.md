@@ -103,6 +103,8 @@ All Federal Agency domain requests must come from the Chief Information Officer 
 
 Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review.
 
+The **fed.us** top-level domain is legacy and will not accept any new domains.
+
 ### Section 508 compliance
 
 Federal agency websites must be in compliance with [Section 508 of the Rehabilitation Act](https://www.section508.gov).
@@ -175,11 +177,11 @@ Authorities such as a water district are instruments of the state and may use th
 
 ### Authorization
 
-Interstate governmental organizations are most frequently formed via legislation from Congress or from a legal accord between the state governments of two or more states.
+Interstate governmental organizations are most frequently formed via legislation from Congress or from a legal accord between, or passed by, the state governments of two or more states.
 
-The authorization letter must be signed by the highest-ranking executive (director, chair, or equivalent). It should link to, or have as an appendix, authorizing legislation or documentation to support the organization's claim of being a bona fide interstate governmental organization. All participating states must be named.
+The authorization letter must be signed by the highest-ranking executive (president, director, chair, or equivalent). It should link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide interstate governmental organization. All participating states must be named.
 
-In lieu of authorizing documentation, at least one of the state's governors or governor-appointed state CIOs can submit an authorization letter. All participating states must be named.
+In lieu of authorizing documentation, at least one of the state's governors or state CIO can submit an authorization letter. All participating states must be named.
 
 ## Local domains
 
@@ -210,6 +212,6 @@ To qualify for an exception, a city should meet at least one of the following th
 
 1. **Unique**: City names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).
 2. **Well-known**: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
-3. **Most populous**: Census maintains [population data](https://www.census.gov/data/tables/2016/demo/popest/total-cities-and-towns.html) for the United States. DotGov will allow the largest 30 cities' names to be registered without a state suffix.
+3. **Most populous**: Census maintains [population data](https://www.census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html#ds) for the United States. DotGov will allow the largest 30 cities' names to be registered without a state suffix.
 
 The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions.
