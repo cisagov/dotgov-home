@@ -15,7 +15,9 @@ subnav:
 
 ## Introduction
 
-Dotgov.gov has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains. We also allow any other new domain registrations to opt-in to preloading.
+Dotgov.gov has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains.
+
+Newly registered domains from outside the federal executive branch can also **opt-in** to preloading.
 
 ### What is HTTPS and why is it important?
 
