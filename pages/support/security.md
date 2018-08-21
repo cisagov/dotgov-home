@@ -15,7 +15,7 @@ subnav:
 
 ## Introduction
 
-Dotgov.gov has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains.
+Dotgov.gov has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains. We also allow any other new domain registrations to opt-in to preloading.
 
 ### What is HTTPS and why is it important?
 
@@ -41,15 +41,15 @@ By preloading [whitehouse.gov](https://whitehouse.gov), the site owners have ens
 
 ### Will automatic preloading affect non-executive branch federal domains and websites?
 
-**No.** If a .gov domain belongs to the federal government's legislative or judicial branches, it will not be affected by HTTPS preloading.
+**No.** If a .gov domain belongs to the federal government's legislative or judicial branches, it will not be affected by HTTPS preloading. However, new domains from these branches can opt-in to preloading at the time of registration.
 
 ### Will automatic preloading affect state or local government, or Native tribe domains and websites?
 
-**No.** If a .gov domain belongs to a native tribe, state, or local government entity, it will not be affected by HTTPS preloading.
+**No.** If a .gov domain belongs to a native tribe, state, or local government entity, it will not be affected by HTTPS preloading. However, new domains from these government entities can opt-in to preloading at the time of registration.
 
 ### Will automatic preloading affect domains registered before May 15, 2017?
 
-**No.** If a .gov domain was registered before May 15, 2017, it will not be affected by the HTTPS preloading.
+**No.** If a .gov domain was registered before May 15, 2017, it will not be affected by automatic HTTPS preloading.
 
 Note: It's possible for any .gov domain owner to preload their own domain. Some domains not meeting the above criteria have been preloaded through the domain owner's direct action, and could be affected. This service only applies to identifying domains preloaded through the DotGov.gov program's action, rather than the domain owner's action.
 
