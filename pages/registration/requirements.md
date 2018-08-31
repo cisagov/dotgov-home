@@ -7,17 +7,17 @@ sidenav: registration
 subnav:
   - text: General requirements
     href: '#general-requirements'
-  - text: Federal domains
+  - text: Federal
     href: '#federal-domains'
-  - text: Native sovereign nation domains
+  - text: Native sovereign nation
     href: '#native-sovereign-nation-domains'
-  - text: State domains
+  - text: State
     href: '#state-domains'
-  - text: Interstate domains
+  - text: Interstate
     href: '#interstate-domains'
-  - text: Independent intrastate domains
+  - text: Independent intrastate
     href: '#independent-intrastate-domains'
-  - text: City and county domains
+  - text: City and county
     href: '#city-and-county-domains'
 ---
 
@@ -27,7 +27,7 @@ The .gov top-level domain (TLD) facilitates collaboration among government-to-go
 
 Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements.
 
-Domain name requests (and requests for exceptions to policy) must come from an “authorizing authority”, which differs slightly for [federal](https://home.dotgov.gov/registration/requirements/#federal-domains), [NSN](https://home.dotgov.gov/registration/requirements/#native-sovereign-nation-domains), [state](https://home.dotgov.gov/registration/requirements/#state-domains, [interstate](https://home.dotgov.gov/registration/requirements/#interstate-domains), [intrastate](https://home.dotgov.gov/registration/requirements/#independent-intrastate-domains), and [city](https://home.dotgov.gov/registration/requirements/#city-and-county-domains)/[county](https://home.dotgov.gov/registration/requirements/#city-and-county-domains) government organizations.
+Domain name requests (and requests for exceptions to policy) must come from an “authorizing authority”, which differs slightly for [federal](https://home.dotgov.gov/registration/requirements/#federal-domains), [native sovereign nations](https://home.dotgov.gov/registration/requirements/#native-sovereign-nation-domains), [state](https://home.dotgov.gov/registration/requirements/#state-domains), [interstate](https://home.dotgov.gov/registration/requirements/#interstate-domains), [independent intrastate](https://home.dotgov.gov/registration/requirements/#independent-intrastate-domains), and [city](https://home.dotgov.gov/registration/requirements/#city-and-county-domains)/[county](https://home.dotgov.gov/registration/requirements/#city-and-county-domains) government organizations.
 
 ## General requirements
 
@@ -121,6 +121,7 @@ All requests from the Legislative Branch of the Federal Government for second-le
 
 Federal court .gov domains are linked to [uscourts.gov](https://uscourts.gov) and authorized by the Office of Government-wide Policy.
 
+
 ## Native sovereign nation domains
 
 All [general requirements](#general-requirements) apply.
@@ -138,7 +139,7 @@ Albuquerque, NM 87104
 * <Imelda.Tapang@bia.gov>
 * Tel: 703-390-6696
 
-## State
+## State domains
 
 All [general requirements](#general-requirements) apply.
 
@@ -202,7 +203,7 @@ Alternatively, instead of a letter containing this information, one or more of a
 
 See examples of current interstate domains [here](https://github.com/GSA/data/blob/master/dotgov-domains/current-full.csv#L4428).
 
-## Independent intrastate
+## Independent intrastate domains
 
 All [general requirements](#general-requirements) apply.
 
