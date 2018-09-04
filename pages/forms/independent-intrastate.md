@@ -1,12 +1,12 @@
 ---
-title: "Domain Authorization Letter: Interstate"
+title: "Domain Authorization Letter: Independent intrastate"
 layout: form
-permalink: /registration/authorization-templates/interstate/
+permalink: /registration/authorization-templates/independent-intrastate/
 
 sidenav: registration
 ---
 
-[Interstate Governmental Organization Letterhead, or State Government Letterhead]
+[Independent Intrastate Governmental Organization Letterhead]
 
 [Date]
 
@@ -17,11 +17,9 @@ Reston, Virginia 20190
 
 Dear Domain Manager,
 
-As ([executive title] for [Interstate Governmental Organization name]) OR ([Governor/State CIO] for the State of [State Name]), I formally request that authority over the [xxxxx.gov] second-level domain name be delegated to ([Interstate Governmental Organization name]) OR (State of [State Name]).
+As ([executive title] for [Independent Intrastate Governmental Organization name]), I formally request that authority over the [xxxxx.gov] second-level domain name be delegated to ([Independent Intrastate Governmental Organization name]).
 
-[Interstate Governmental Organization name] represents the following states: [name all participants].
-
-[Describe the nature of the relationship between the states and your organization. Include links to (or add as an appendix) authorizing legislation, applicable bylaws or charter, or other documentation that demonstrates being a bona fide interstate governmental organization.]
+[Describe how your organization is a bona fide government organization that is independent of your state. Include links to (or add as an appendix) authorizing legislation, applicable bylaws or charter, or other documentation to support your claims.]
 
 This domain name will be used for [state the purpose]. The use of this domain is consistent with organizational Internet policy. In addition, I will ensure the content of the requested domain name conforms to the .gov policy.
 
