@@ -23,7 +23,7 @@ subnav:
 
 This is an overview of the .gov domain registration requirements, and is meant to further explain and clarify sections of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?SID=d611d7d4bd8f3155d3262ea4857c011e&mc=true&node=pt41.3.102_6173&rgn=div5), which focuses on purpose and jurisdiction.
 
-The .gov top-level domain (TLD) facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The TLD authorizes domain names for  bona fide US-based government organizations , at the federal, state, and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as native sovereign nations (NSNs). .gov makes government services easy to identify on the internet.
+The .gov top-level domain (TLD) facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The TLD authorizes domain names for bona fide US-based government organizations, at the federal, state, and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as native sovereign nations (NSNs). *.gov makes government services easy to identify on the internet.*
 
 Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements.
 
