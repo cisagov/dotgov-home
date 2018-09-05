@@ -217,7 +217,7 @@ The authorization letter for a domain name must:
 * be signed by the highest-ranking executive (president, director, chair, or equivalent).
 * link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide intrastate governmental organization that is independent from the state
 
-Domain names must represent your organization or institutional name, not the services you provide. Name requests must include a reference to your geographic area of jurisdiction. ([Generic domain names](https://home.dotgov.gov/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
+Domain names must represent your municipality, organization, or institutional name, not solely the services you provide. Name requests must include a reference to your geographic area of jurisdiction. ([Generic domain names](https://home.dotgov.gov/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
 
 
 ## City and county domains
