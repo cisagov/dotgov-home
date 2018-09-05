@@ -12,7 +12,7 @@ sidenav: registration
 * [Native Sovereign Nation]({{ site.baseurl }}/registration/authorization-templates/native-sovereign-nation/)
 * [State]({{ site.baseurl }}/registration/authorization-templates/state/)
 * [Interstate]({{ site.baseurl }}/registration/authorization-templates/interstate/)
-* [Intrastate]({{ site.baseurl }}/registration/authorization-templates/intrastate/)
+* [Intrastate]({{ site.baseurl }}/registration/authorization-templates/independent-intrastate/)
 * [City]({{ site.baseurl }}/registration/authorization-templates/city/)
 * [County]({{ site.baseurl }}/registration/authorization-templates/county/)
 
