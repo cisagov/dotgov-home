@@ -7,14 +7,16 @@ primary:
     href: /data/
   - text: Support
     href: /support/
+  - text: About us
+    href: /about/
 
 registration:
   - text: Domain requirements
     href: /registration/requirements/
-  - text: Fees
-    href: /registration/fees/
   - text: Authorization letter templates
     href: /registration/authorization-templates/
+  - text: Fees
+    href: /registration/fees/
   - text: Common questions
     href: /registration/common-questions/
 

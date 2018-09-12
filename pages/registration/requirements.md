@@ -103,6 +103,8 @@ Security incident notification procedures:
 
 All [general requirements](#general-requirements) apply.
 
+The **fed.us** top-level domain is legacy and will not accept any new domains.
+
 ### Authorization
 
 Use the [Federal](https://home.dotgov.gov/registration/authorization-templates/federal/) or [U.S. territory](https://home.dotgov.gov/registration/authorization-templates/us-territory/) authorization letter templates.
@@ -111,7 +113,6 @@ All Federal agency domain requests must come from the Chief Information Officer 
 
 Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review.
 
-The **fed.us** top-level domain is legacy and will not accept any new domains.
 
 ### Legislative domain requests
 
