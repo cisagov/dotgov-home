@@ -5,10 +5,10 @@ primary:
     href: /management/
   - text: Data
     href: /data/
-  - text: Support
-    href: /support/
   - text: About us
     href: /about/
+  - text: Support
+    href: /support/
 
 registration:
   - text: Domain requirements

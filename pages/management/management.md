@@ -4,10 +4,15 @@ layout: docs
 permalink: /management/
 
 sidenav: management
+subnav:
+  - text: Points of contact
+    href: '#points-of-contact'
+  - text: Renewals and deletions
+    href: '#renewals-and-deletions'
 ---
 Domain management is about more than just [DNS]({{ site.baseurl }}/management/dns/). It's also about ensuring a safe experience for your organization and your users.
 
-## Points of Contact
+## Points of contact
 Keeping point of contact (POC) information from going stale ensures that only the appropriate people can make changes to your domain. It also makes it possible for DotGov to reach your organization when there's an issue.
 
 ### How do I set up a new point of contact?
