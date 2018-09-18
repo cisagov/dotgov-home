@@ -31,9 +31,3 @@ management:
 data:
   - text: Data
     href: /data/
-
-support:
-    # - text: DNS
-    #   href: /support/dns/
-    # - text: HSTS Preloading
-    #   href: /hsts-preloading/
