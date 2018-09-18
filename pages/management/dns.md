@@ -1,9 +1,9 @@
 ---
 title: DNS
 layout: docs
-permalink: /support/dns/
+permalink: /management/dns/
 
-sidenav: support
+sidenav: management
 ---
 
 A Domain Name System (DNS) provider is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.

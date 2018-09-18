@@ -21,8 +21,10 @@ registration:
     href: /registration/common-questions/
 
 management:
-    - text: Renewals
-      href: /management/renewals/
+    - text: DNS
+      href: /management/dns/
+    - text: HSTS Preloading
+      href: /management/preloading/
     - text: Transfers
       href: /management/transfers/
 
@@ -31,7 +33,7 @@ data:
     href: /data/
 
 support:
-  - text: DNS
-    href: /support/dns/
-  - text: HSTS Preloading
-    href: /hsts-preloading/
+    # - text: DNS
+    #   href: /support/dns/
+    # - text: HSTS Preloading
+    #   href: /hsts-preloading/
