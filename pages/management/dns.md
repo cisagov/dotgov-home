@@ -8,7 +8,12 @@ sidenav: management
 
 A Domain Name System (DNS) provider is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.
 
-Your internet service provider or technical support team will give you DNS name server addresses for your .gov domain such as `ns1.example-name.com` and `ns2.example-name.com`.
+
+### Does the DotGov Program provide DNS services for .gov domains?
+
+No. We manage the authoritative name servers for the .gov zone, and ensure `.gov` is propagated to the root name servers. We don't operate a for-government, managed DNS service.
+
+Your internet service provider or technical support team can provide you with DNS name server addresses for your .gov domain, which often take the form of `ns1.example-name.com` and `ns2.example-name.com`.
 
 ### What are the DNS requirements for .gov domains?
 
@@ -18,15 +23,15 @@ You will not be able to specify an IP address for your name servers unless they 
 
 ### How quickly will changes to my domain propagate throughout the internet?
 
-Propagation depends on a variety of factors, such as caching and connectivity. The changes are usually effective within 24 hours.
+Propagation depends on a variety of factors, such as caching and connectivity, but changes are usually effective within 24 hours.
 
 If you’re planning to make critical changes to your name servers over the weekend, please [contact us]({{ site.baseurl }}/support/) before 5 p.m. on the prior Thursday to ensure the information propagates during weekend hours.
 
 ### Why can’t I access systems within my domain, but people outside can?
 
-To speed up the entire DNS process, name servers will temporarily store IP addresses that they’re found. This means that if someone in the office next to you visits [dotgov.gov](https://domains.dotgov.gov) and you visit the site shortly afterwards, you will receive the IP address from local temporary storage instead of the root servers.
+To speed up the entire DNS process, name servers will temporarily store IP addresses that they’re found. This means that if someone in the office next to you visits [dotgov.gov](https://dotgov.gov) and you visit the site shortly afterwards, you will receive the IP address from local temporary storage instead of the root servers.
 
-If your local name server is not expiring this temporary storage (or cache), you may get incorrect IP addresses while people connected through different ISPs get the correct information. Please contact your internet service provider or technical support team for assistance.
+If your local name server is not expiring this temporary storage (or cache), you may get incorrect IP addresses while others connected through different ISPs get the correct information. Please contact your internet service provider or technical support team for assistance.
 
 ### When can I define my DS record?
 
