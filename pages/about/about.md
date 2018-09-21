@@ -10,7 +10,7 @@ subnav:
 ---
 Bona fide government services should be **easy to identify on the internet.** The DotGov Program, part of the [General Services Administration](https://www.gsa.gov/), operates the .gov top-level domain (TLD) and makes it available to US-based government organizations, from Federal agencies to local municipalities. Using a .gov domain shows you’re official.
 
-We’re the policy and management authority for the .gov TLD. Our job is to make it easy to register a .gov domain name and ensure that name resolves in the global domain name system ([DNS]({{ site.baseurl }}/management/dns/)). DNS maps easy-to-remember names on top of hard-to-recall numbers, allowing you to use "gsa.gov" instead of "54.85.132.205".
+We’re the policy and management authority for the .gov TLD. Our job is to make it easy to register a .gov domain name and ensure that name resolves in the global domain name system ([DNS]({{ site.baseurl }}/management/dns/)). DNS maps easy-to-remember names on top of hard-to-recall numbers, allowing you to use `gsa.gov` instead of `54.85.132.205`.
 
 .gov domains are intertwined with access to government services, and that makes .gov critical infrastructure for governments, citizens, and international internet users. We work to make .gov a **trusted, safe space**: we publish our [policies]({{ site.baseurl }}/registration/requirements/), [recommend best practices]({{ site.baseurl }}/management/), and make .gov domain [data]({{ site.baseurl }}/data/) publicly available.
 
