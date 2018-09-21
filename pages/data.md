@@ -20,7 +20,6 @@ The official public list of `.gov` domains is updated about every two weeks:
 
 * [List of federal .gov domains](https://github.com/GSA/data/raw/master/dotgov-domains/current-federal.csv) - includes federal `.gov` and `.fed.us` domains only. (This is a subset of the full list.)
 
-
 ### Share your feedback
 
 If you have questions about the data or suggestions for improving it, [open an issue in our GitHub repository](https://github.com/gsa/data/issues).
