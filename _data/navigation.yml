@@ -5,31 +5,29 @@ primary:
     href: /management/
   - text: Data
     href: /data/
+  - text: About us
+    href: /about/
   - text: Support
     href: /support/
 
 registration:
   - text: Domain requirements
     href: /registration/requirements/
-  - text: Fees
-    href: /registration/fees/
   - text: Authorization letter templates
     href: /registration/authorization-templates/
+  - text: Fees
+    href: /registration/fees/
   - text: Common questions
     href: /registration/common-questions/
 
 management:
-    - text: Renewals
-      href: /management/renewals/
+    - text: DNS
+      href: /management/dns/
+    - text: HSTS Preloading
+      href: /management/preloading/
     - text: Transfers
       href: /management/transfers/
 
 data:
   - text: Data
     href: /data/
-
-support:
-  - text: DNS
-    href: /support/dns/
-  - text: HSTS Preloading
-    href: /hsts-preloading/

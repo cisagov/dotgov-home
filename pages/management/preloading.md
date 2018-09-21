@@ -1,21 +1,20 @@
 ---
 title: HSTS Preloading
 layout: docs
-permalink: /hsts-preloading/
+permalink: /management/preloading/
 
-sidenav: support
+sidenav: management
 subnav:
   - text: Introduction
     href: '#introduction'
   - text: Certificates
     href: '#certificates'
 
-
 ---
 
 ## Introduction
 
-Dotgov.gov has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains.
+The DotGov Program has begun automatically implementing the preloading of HTTP Strict Transport Security records ("HSTS Preloading") for newly issued **federal executive branch** .gov domains.
 
 Newly registered domains from outside the federal executive branch can also **opt-in** to preloading.
 
@@ -53,7 +52,7 @@ By preloading [whitehouse.gov](https://whitehouse.gov), the site owners have ens
 
 **No.** If a .gov domain was registered before May 15, 2017, it will not be affected by automatic HTTPS preloading.
 
-Note: It's possible for any .gov domain owner to preload their own domain. Some domains not meeting the above criteria have been preloaded through the domain owner's direct action, and could be affected. This service only applies to identifying domains preloaded through the DotGov.gov program's action, rather than the domain owner's action.
+Note: It's possible for any .gov domain owner to preload their own domain. Some domains not meeting the above criteria have been preloaded through the domain owner's direct action, and could be affected. This service only applies to identifying domains preloaded through the DotGov Program's action, rather than the domain owner's action.
 
 ### How will HSTS preloading affect .gov domain visitors?
 
