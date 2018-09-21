@@ -6,8 +6,9 @@ permalink: /management/dns/
 sidenav: management
 ---
 
-A Domain Name System (DNS) provider is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.
+The Domain Name System (DNS) is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.
 
+.gov is a top-level domain (TLD). Other recognizable top-level domains include .com and .org. While many TLDs are *generic*, meaning anyone can obtain a domain name, .gov is a "sponsored" TLD, where the US Government acts as the sponsor for other US-based government organizations. These organizations are the only ones that can obtain a .gov domain.
 
 ### Does the DotGov Program provide DNS services for .gov domains?
 
