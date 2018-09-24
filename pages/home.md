@@ -22,11 +22,11 @@ hero:
 </div>
 
 <div class="usa-width-two-thirds">
+**October 1, 2018:** [2-step verification]({{ site.baseurl }}/2step/) is a new feature that improves the security of your .gov registrar account.
+
 **August 21, 2018:** New .gov domains can opt-in to [automatic HSTS/HTTPS preloading]({{ site.baseurl }}/hsts-preloading/) at the time of registration.
 
-**April 17, 2018:** A security feature was added to the [DotGov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
-
-**February 2018:** [All new Federal executive branch .gov domain requests]({{ site.baseurl }}/registration/requirements/#federal-domains) became subject to additional review and approval by the Office of Management and Budget (OMB). Domain renewals will not be subject to additional review.
+**April 17, 2018:** A security feature was added to the [.gov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
 </div>
 </div>
 </section>

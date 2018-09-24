@@ -1,0 +1,98 @@
+---
+title: 2-step Verification
+layout: docs
+permalink: /2step/
+sidenav: support
+subnav:
+  - text: 2-step verification
+    href: '#what-is-2-step-verification'
+  - text: 2-step FAQ
+    href: '#faq'
+---
+
+We’ve added a new feature to improve the security of your .gov registrar account: **2-step verification**.
+
+* [What is 2-step verification?](#what-is-2-step-verification)
+* [Why is this change happening?](#why-is-this-change-happening)
+* [What does this change mean for me?](#what-does-this-change-mean-for-me)
+* [How do I set up 2-step verification?](#how-do-i-set-up-2-step-verification)
+* [FAQ](#faq)
+
+## What is 2-step verification?
+A password is all that protects your account right now, and passwords can be easier to obtain than you might think.
+
+2-step verification adds another step to the login process. After you enter your password, you’ll be asked for a passcode from your mobile device. This raises the stakes for someone who wants to get into your account because now they have to get your password and your phone.
+
+## Why is this change happening?
+Though you might only change your .gov domain or account information infrequently, someone with your password could sign in at any time and make changes. This extra layer of security makes it harder for someone to log in as you, which protects the services you make available to the public via a .gov domain.
+
+## What does this change mean for me?
+You will need to add 2-step verification to your account at [https://domains.dotgov.gov](https://domains.dotgov.gov). The feature will be rolling out gradually following the schedule below. Please note:
+
+1. The *first date* is the initial time you can add 2-step verification to your account.
+2. Between the two dates, if you're not ready to add 2-step verification, you'll be able to select "Remind me later".
+3. The *second date* is the enforcement date. On this date and after, you **must** enable 2-step verification on your account to manage your domain.
+
+### Rollout schedule
+
+* _GSA-owned domains_: October 1 - 31
+* _Federal Agency_: October 8 - November 7
+* _Native Sovereign Nation_: October 8 -  November 7
+* _County_: October 22 - November 21
+* _State/Local Govt_: November 5 - December 5
+* _City_: Done in phases, based on the *first letter of your username*:
+  * *A - D*: November 19 - December 19
+  * *E - J*: December 5 - January 9, 2019
+  * *K - P*: December 17 - January 23, 2019
+  * *Q - Z*: January 14, 2019 - February 13
+
+## How do I set up 2-step verification?
+1. **Download** the Google Authenticator app ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [iOS](http://appstore.com/googleauthenticator)) on your mobile device. (Note that your organization might have rules about whether this app should be installed on your personal or your work device.)
+2. On your computer, **[log in](https://domains.dotgov.gov)** to the .gov registrar at https://domains.dotgov.gov.
+3. Once logged in, **click on** *Account* in the left navigation, then **select** *Setup 2-step Verification*.
+4. Open the Authenticator app on your device and **select** *Begin Setup* (or '+' if you’ve used the app before), **then tap** *Scan Barcode*, and **point your device’s camera** at the the QR code on the screen. You should see an entry for the *.gov Registrar* added in Authenticator.
+6. **Type** the six-digit code displayed on your device in the *One time password* field.
+
+Your account now has 2-step verification enabled! From now on, after you log in with your password, you will need to enter the six-digit code from your Authenticator app.
+
+## FAQ
+
+* [Who does this change affect?](#who-does-this-change-affect)
+* [Is there a cost for Google Authenticator?](#is-there-a-cost-for-google-authenticator)
+* [I do not have a smartphone. What other options do I have?](#i-do-not-have-a-smartphone-what-other-options-do-i-have)
+* [Does Google Authenticator need an internet connection to function?](#does-google-authenticator-need-an-internet-connection-to-function)
+* [I have a new phone. How do I switch devices?](#i-have-a-new-phone-how-do-i-switch-devices)
+* [I’ve lost my phone! How do get back into my account?](#ive-lost-my-phone-how-do-get-back-into-my-account)
+* [I have a question that isn’t listed. Who should I contact?](#i-have-a-question-that-isnt-listed-who-should-i-contact)
+
+### Who does this change affect?
+
+All user accounts will be required to use 2-step verification. If any of your domain points of contact (POC) are unable to use Google Authenticator, you will need to assign a new point of contact (POC).
+
+### Is there a cost for Google Authenticator?
+
+No. Google Authenticator is free to download.
+
+### I do not have a smartphone. What other options do I have?
+
+All users are required to use 2-step verification, no exceptions. If you are unable to use 2-step verification, a new POC should be assigned in your place.
+
+### Does Google Authenticator need an internet connection to function?
+
+No. An internet connection is required to *download* Google Authenticator, but using it does not require an active connection.
+
+### What if I already use something other than Google Authenticator?
+
+DotGov will only provide support for Google Authenticator, but any application that implements time-based one-time password (TOTP) may also work.
+
+### I have a new phone. How do I switch devices?
+
+If you have the old phone, log in to your account, click on Account, then select Update 2-step verification.
+
+### I’ve lost my phone! How do get back into my account?
+
+If you are unable to access your device, you should [contact the .gov Help Desk]({{ site.baseurl }}/support/).
+
+### I have a question that isn’t listed. Who should I contact?
+
+[Contact the .gov Help Desk]({{ site.baseurl }}/support/) for additional support.

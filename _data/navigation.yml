@@ -31,3 +31,9 @@ management:
 data:
   - text: Data
     href: /data/
+
+support:
+  - text: Support
+    href: /support/
+  - text: 2-step Verification
+    href: /2step/
