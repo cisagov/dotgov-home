@@ -61,6 +61,7 @@ Your account now has 2-step verification enabled! From now on, after you log in 
 * [Is there a cost for Google Authenticator?](#is-there-a-cost-for-google-authenticator)
 * [I do not have a smartphone. What other options do I have?](#i-do-not-have-a-smartphone-what-other-options-do-i-have)
 * [Does Google Authenticator need an internet connection to function?](#does-google-authenticator-need-an-internet-connection-to-function)
+* [What if I already use something other than Google Authenticator?](#what-if-i-already-use-something-other-than-google-authenticator)
 * [I have a new phone. How do I switch devices?](#i-have-a-new-phone-how-do-i-switch-devices)
 * [I’ve lost my phone! How do get back into my account?](#ive-lost-my-phone-how-do-get-back-into-my-account)
 * [I have a question that isn’t listed. Who should I contact?](#i-have-a-question-that-isnt-listed-who-should-i-contact)

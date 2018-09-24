@@ -5,8 +5,8 @@ permalink: /
 top: false
 
 hero:
-  heading: Learn about the DotGov domain registry.
-  content: See what’s required for the registration process, review our policies, or download data about .gov domains.
+  heading: Learn about the .gov TLD.
+  content: See what’s required to register a domain, review our policies, or download .gov domain data.
   button:
     text: Register or manage a domain
     href: https://domains.dotgov.gov
