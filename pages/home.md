@@ -22,7 +22,7 @@ hero:
 </div>
 
 <div class="usa-width-two-thirds">
-**August 21, 2018:** New .gov domains can opt-in to [automatic HSTS/HTTPS preloading]({{ site.baseurl }}/hsts-preloading/) at the time of registration.
+**August 21, 2018:** New .gov domains can opt-in to [automatic HSTS/HTTPS preloading]({{ site.baseurl }}/management/preloading/) at the time of registration.
 
 **April 17, 2018:** A security feature was added to the [DotGov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
 
