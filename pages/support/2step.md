@@ -88,7 +88,9 @@ DotGov will only provide support for Google Authenticator, but any application t
 
 ### I have a new phone. How do I switch devices?
 
-If you have the old phone, log in to your account, click on Account, then select Update 2-step verification.
+If you have the old phone, log in to your account, click on 'Account', then select 'Update 2-step verification.'
+
+If you're updating 2-step verification to a new device and you have access to the old one, consider deleting the old device's ".gov Registrar" entry so you aren't confused in the future.
 
 ### I’ve lost my phone! How do get back into my account?
 
