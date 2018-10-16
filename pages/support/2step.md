@@ -84,7 +84,7 @@ No. An internet connection is required to *download* Google Authenticator, but u
 
 ### What if I already use something other than Google Authenticator?
 
-DotGov will only provide support for Google Authenticator, but any application that implements time-based one-time password (TOTP) may also work.
+DotGov only provides customer support for Google Authenticator, but any application that implements the time-based one-time password (TOTP) standard will also work.
 
 ### I have a new phone. How do I switch devices?
 
