@@ -23,11 +23,11 @@ hero:
 
 <div class="usa-width-two-thirds">
 
+**October 31, 2018:** We wrote a [blog post on digital.gov](https://digital.gov/2018/10/29/gsa-steps-up-security-for-dotgov/) about our steps to make .gov a more secure place for governments.
+
 **October 1, 2018:** [2-step verification]({{ site.baseurl }}/2step/) is a new feature that improves the security of your .gov registrar account.
 
 **August 21, 2018:** New .gov domains can opt-in to [automatic HSTS/HTTPS preloading]({{ site.baseurl }}/management/preloading/) at the time of registration.
-
-**April 17, 2018:** A security feature was added to the [.gov registrar](https://domains.dotgov.gov) to prevent the use of [passwords that have been identified in various publicly known data breaches]({{ site.baseurl }}/password-update/).
 </div>
 </div>
 </section>
