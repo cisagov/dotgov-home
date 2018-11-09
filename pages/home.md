@@ -5,7 +5,7 @@ permalink: /
 top: false
 
 hero:
-  heading: It should be easy to identify government services on the internet.
+  heading: It should be easy to identify governments on the internet.
   content: .gov is the TLD for US-based government organizations.
   button:
     text: Manage your domain
