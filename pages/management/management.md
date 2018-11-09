@@ -42,8 +42,10 @@ Some surprises are wonderful. Discovering your domain is no longer on the intern
 * [How long is a .gov domain registered for?](#how-long-is-a-gov-domain-registered-for)
 * [How much is the renewal fee for a .gov domain?](#how-much-is-the-renewal-fee-for-a-gov-domain)
 * [Where can I get a list of my domains that are up for renewal?](#where-can-i-get-a-list-of-my-domains-that-are-up-for-renewal)
-* [How do I delete my domain??](#how-do-i-delete-my-domain)
+* [How do I delete my domain?](#how-do-i-delete-my-domain)
 * [What happens if I do not renew my domain name?](#what-happens-if-i-do-not-renew-my-domain-name)
+
+***
 
 ### DNS FAQ
 #### Does the DotGov Program provide DNS services for .gov domains?

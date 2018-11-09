@@ -7,12 +7,14 @@ sidenav: registration
 subnav:
   - text: Fees FAQ
     href: '#fees-faq'
-  - text: Domains and DNS FAQ
-    href: '#domains-and-dns-faq'
+  - text: Domain requirements and authorization FAQ
+    href: '#domain-requirements-and-authorization-faq'
+  - text: DNS FAQ
+    hret: '#dns-faq'
 ---
 
 ## Fees
-The cost of a .gov domain name is $400 per year.
+A .gov domain name is $400 per year.
 
 * [What payment methods do you accept?](#what-payment-methods-do-you-accept)
 * [How often do I need to renew my domain name?](#how-often-do-i-need-to-renew-my-domain-name)
@@ -27,7 +29,7 @@ The cost of a .gov domain name is $400 per year.
 ## DNS
 * [What are the valid characters for a domain name and how long can it be?](#what-are-the-valid-characters-for-a-domain-name-and-how-long-can-it-be)
 * [Why won’t my domain work after updating the registration with actual name servers?](#why-wont-my-domain-work-after-updating-the-registration-with-actual-name-servers)
-
+***
 
 ### Fees FAQ
 #### What payment methods do you accept?
@@ -42,7 +44,7 @@ Annually. As a point of contact, you’ll receive several reminder emails. Pleas
 
 Failure to submit payment does not result in removal of your domain. The entity or agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Your agency or office will not be able to register new domains until your account is up to date.
 
-If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl }}/management/renewals/#what-happens-if-i-do-not-renew-my-domain-name).
+If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name).
 
 
 ### Domain requirements and authorization FAQ
@@ -52,13 +54,13 @@ Each domain must have three unique points of contact, which your authorization l
 
 1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee. As an example, for a state domain, it must be someone in the governor’s office.
 
-2. **Technical contact**: a developer or site administrator that is available 24 hours a day and 7 days a week if the domain is critical to your infrastructure. They are usually responsible for the [DNS]({{ site.baseurl }}/support/dns/).
+2. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
 
-3. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
+3. **Technical contact**: a developer or site administrator that is available 24 hours a day and 7 days a week if the domain is critical to your infrastructure. They are usually responsible for the [DNS]({{ site.baseurl }}/management/dns/).
 
 There must be no one single point of contact.
 
-Each contact must have the authority to access the .gov registrar. If a contact already has a .gov registrar username, please include it along with their name.
+Each contact must have the authority to access the .gov registrar.
 
 #### How do I request an exception to the naming conventions?
 
@@ -66,7 +68,7 @@ Exceptions to the [naming conventions]({{ site.baseurl }}/registration/requireme
 
 #### My authorizing authority won’t sign an authorization letter. What do I do now?
 
-Without a letter signed by the party defined in our [domain requirements](https://home.dotgov.gov/registration/requirements/) as the authorizing authority for your organization, you cannot register a .gov domain name.
+Without a letter signed by the party defined in our [domain requirements]({{ site.baseurl }}/registration/requirements/) as the authorizing authority for your organization, you cannot register a .gov domain name.
 
 #### My request was denied. What is the appeal process?
 

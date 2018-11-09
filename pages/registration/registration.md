@@ -33,7 +33,7 @@ Requesting a domain name consists of two main processes: _preparing and sending 
 3. Prepare an authorization letter to request approval for the domain:
 
     - Copy and paste an [Authorization Letter Template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
-    - Define [three points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-three-points-of-contact)
+    - Define [three points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-three-points-of-contact): an administrative, a billing, and a technical POC.
 
 4. Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
 

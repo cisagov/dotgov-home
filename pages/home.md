@@ -5,14 +5,14 @@ permalink: /
 top: false
 
 hero:
-  heading: Learn about the .gov TLD
-  content: See what’s required to register a domain, review our policies, or download .gov domain data.
+  heading: .gov puts US governments on the internet.
+  content: If you're from the government, we're here to help.
   button:
-    text: Register or manage a domain
+    text: Manage your domain
     href: https://domains.dotgov.gov
   link:
-    text: Learn more
-    href: /registration/
+    text: Get a .gov domain
+    href: {{ site.baseurl }}/registration/
 ---
 
 <section class="usa-section">
