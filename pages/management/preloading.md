@@ -1,5 +1,5 @@
 ---
-title: HSTS Preloading
+title: HSTS preloading
 layout: docs
 permalink: /management/preloading/
 

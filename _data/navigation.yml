@@ -11,6 +11,8 @@ primary:
     href: /support/
 
 registration:
+  - text: Registration
+    href: /registration/
   - text: Domain requirements
     href: /registration/requirements/
   - text: Authorization letter templates
@@ -21,12 +23,10 @@ registration:
     href: /registration/common-questions/
 
 management:
-    - text: DNS
-      href: /management/dns/
-    - text: HSTS Preloading
+    - text: Domain management
+      href: /management/
+    - text: HSTS preloading
       href: /management/preloading/
-    - text: Transfers
-      href: /management/transfers/
 
 data:
   - text: Data
