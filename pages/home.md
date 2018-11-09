@@ -5,8 +5,8 @@ permalink: /
 top: false
 
 hero:
-  heading: .gov puts US governments on the internet.
-  content: If you're from the government, we're here to help.
+  heading: Government services should be easy to identify on the internet.
+  content: .gov is the TLD for US-based government organizations.
   button:
     text: Manage your domain
     href: https://domains.dotgov.gov
