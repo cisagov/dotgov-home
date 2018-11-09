@@ -12,7 +12,7 @@ hero:
     href: https://domains.dotgov.gov
   link:
     text: Get a .gov domain
-    href: {{ site.baseurl }}/registration/
+    href: /registration/
 ---
 
 <section class="usa-section">
