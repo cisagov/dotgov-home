@@ -5,19 +5,15 @@ permalink: /registration/
 
 sidenav: registration
 subnav:
-  - text: Prep the authorization letter
-    href: '#prepare-and-send-the-authorization-letter'
-  - text: Complete the online form
-    href: '#complete-the-online-form'
-  - text: Questions?
-    href: '#questions'
+  - text: New to .gov
+    href: '#new-to-gov'
   - text: Get another .gov domain
     href: '#get-another-gov-domain'
 ---
 Welcome to .gov. [We're here]({{ site.baseurl }}/about/) to make it easy to identify your government organization on the internet.
 
-* If your organization is new to .gov, [start here](#new-to-gov).
-* If you already have a .gov registrar account and your organization is looking to obtain another .gov domain name, [go here](#get-another-gov-domain).
+* If your organization is **new to .gov**, [start here](#new-to-gov).
+* If you already have a .gov registrar account and your organization is looking to **obtain another .gov domain name**, [go here](#get-another-gov-domain).
 
 ## New to .gov
 This section describes the request and approval process for organizations that don't yet have any .gov domain names.
@@ -50,6 +46,8 @@ Note that your domain will not be active in the .gov zone until the name servers
 ### Questions?
 
 If you have any questions during the registration process, look through our [answers to common questions]({{ site.baseurl }}/registration/common-questions/) or contact us at <registrar@dotgov.gov> or 1-877-734-4688.
+
+***
 
 ## Get another .gov domain
 

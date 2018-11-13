@@ -46,6 +46,7 @@ Failure to submit payment does not result in removal of your domain. The entity 
 
 If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name).
 
+***
 
 ### Domain requirements and authorization FAQ
 #### What are the requirements for a domain's three points of contact?
@@ -73,6 +74,8 @@ Without a letter signed by the party defined in our [domain requirements]({{ sit
 #### My request was denied. What is the appeal process?
 
 In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the [General Services Administration](https://www.gsa.gov). Please [contact us]({{ site.baseurl }}/support/) with any questions you may have.
+
+***
 
 ### DNS FAQ
 #### What are the valid characters for a domain name and how long can it be?
