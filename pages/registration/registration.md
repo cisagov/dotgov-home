@@ -15,6 +15,8 @@ Welcome to .gov. [We're here]({{ site.baseurl }}/about/) to make it easy to iden
 * If your organization is **new to .gov**, [start here](#new-to-gov).
 * If you already have a .gov registrar account and your organization is looking to **obtain another .gov domain name**, [go here](#get-another-gov-domain).
 
+***
+
 ## New to .gov
 This section describes the request and approval process for organizations that don't yet have any .gov domain names.
 

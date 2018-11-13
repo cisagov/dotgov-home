@@ -29,6 +29,7 @@ A .gov domain name is $400 per year.
 ## DNS
 * [What are the valid characters for a domain name and how long can it be?](#what-are-the-valid-characters-for-a-domain-name-and-how-long-can-it-be)
 * [Why won’t my domain work after updating the registration with actual name servers?](#why-wont-my-domain-work-after-updating-the-registration-with-actual-name-servers)
+
 ***
 
 ### Fees FAQ
