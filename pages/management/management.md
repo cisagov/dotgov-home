@@ -115,6 +115,7 @@ You can define Delegation of Signing (DS) records during registration or after t
 
 The root servers (`[a-d].gov-servers.net`) are the authoritative source of .gov information that is "live" on the internet.
 
+***
 
 ### Points of contact FAQ
 #### How do I set up a new point of contact?
@@ -147,6 +148,7 @@ No. All POCs on a domain must be **_unique_** to prevent a single point of failu
 
 Yes.
 
+***
 
 ### Renewals and deletions FAQ
 #### How long is a .gov domain registered for?
