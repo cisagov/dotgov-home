@@ -20,7 +20,10 @@ Welcome to .gov. [We're here]({{ site.baseurl }}/about/) to make it easy to iden
 ## New to .gov
 This section describes the request and approval process for organizations that don't yet have any .gov domain names.
 
-Requesting a domain name consists of two main processes: _preparing and sending your authorization letter_, and then, after receiving a .gov registrar account, _completing the online form_.
+Requesting a domain name consists of two main processes:
+
+1. _preparing and sending your authorization letter_, and then, after receiving a .gov registrar account,
+2. _completing the online form_.
 
 ### Prepare and send the authorization letter
 
