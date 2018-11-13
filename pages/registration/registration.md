@@ -56,4 +56,4 @@ If you have any questions during the registration process, look through our [ans
 
 ## Get another .gov domain
 
-If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click Registration > Register a domain. After completing the domain request form, you will also need to submit an authorization letter, as described [here](#prepare-and-send-the-authorization-letter).
+If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. After completing the domain request form, you will also need to submit an authorization letter, as described [here](#prepare-and-send-the-authorization-letter).
