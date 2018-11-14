@@ -27,7 +27,7 @@ The .gov top-level domain (TLD) facilitates collaboration among government-to-go
 
 Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements.
 
-Domain name requests (and requests for exceptions to policy) must come from an “authorizing authority”, which differs slightly for [federal](https://home.dotgov.gov/registration/requirements/#federal-domains), [native sovereign nations](https://home.dotgov.gov/registration/requirements/#native-sovereign-nation-domains), [state](https://home.dotgov.gov/registration/requirements/#state-domains), [interstate](https://home.dotgov.gov/registration/requirements/#interstate-domains), [independent intrastate](https://home.dotgov.gov/registration/requirements/#independent-intrastate-domains), and [city](https://home.dotgov.gov/registration/requirements/#city-and-county-domains)/[county](https://home.dotgov.gov/registration/requirements/#city-and-county-domains) government organizations.
+Domain name requests (and requests for exceptions to policy) must come from an “authorizing authority”, which differs slightly for [federal]({{ site.baseurl }}/registration/requirements/#federal-domains), [native sovereign nations]({{ site.baseurl }}/registration/requirements/#native-sovereign-nation-domains), [state]({{ site.baseurl }}/registration/requirements/#state-domains), [interstate]({{ site.baseurl }}/registration/requirements/#interstate-domains), [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains), and [city]({{ site.baseurl }}/registration/requirements/#city-and-county-domains)/[county]({{ site.baseurl }}/registration/requirements/#city-and-county-domains) government organizations.
 
 ## General requirements
 
@@ -47,7 +47,7 @@ The .gov domain is for the operation of government, not the political, political
 
 ### Naming conventions
 
-Naming-convention rules are described in detail in the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Thousands of names, programs, and general terms are used in .gov domains. The following is a summary of naming-convention rules:
+Naming convention rules are described in detail in the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Thousands of names, programs, and general terms are used in .gov domains. The following is a summary of naming convention rules:
 
 #### 1. Generic terms, without additional identification, are reserved for federal agencies
 
@@ -63,6 +63,8 @@ Examples:
 * `ColoradoDOT.gov`
 * `NJRecycling.gov`
 * `FloridaHeathDepartment.gov`
+
+See each domain type's naming convention requirements in their section below.
 
 ### Eligibility period
 
@@ -107,12 +109,11 @@ The **fed.us** top-level domain is legacy and will not accept any new domains.
 
 ### Authorization
 
-Use the [Federal](https://home.dotgov.gov/registration/authorization-templates/federal/) or [U.S. territory](https://home.dotgov.gov/registration/authorization-templates/us-territory/) authorization letter templates.
+Use the [Federal]({{ site.baseurl }}/registration/authorization-templates/federal/) or [U.S. territory]({{ site.baseurl }}/registration/authorization-templates/us-territory/) authorization letter templates.
 
 All Federal agency domain requests must come from the Chief Information Officer (CIO) of the Federal agency. See [cio.gov](https://www.cio.gov) for a complete list of Federal agency CIOs.
 
 Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review.
-
 
 ### Legislative domain requests
 
@@ -122,12 +123,11 @@ All requests from the Legislative Branch of the Federal Government for second-le
 
 Federal court .gov domains are linked to [uscourts.gov](https://uscourts.gov) and authorized by the Office of Government-wide Policy.
 
-
 ## Native sovereign nation domains
 
 All [general requirements](#general-requirements) apply.
 
-Native sovereign nation domains are [coordinated](https://www.bia.gov/sites/bia.gov/files/assets/public/press_release/pdf/idc013756.pdf) with the Department of the Interior's Bureau of Indian Affairs. Use the native sovereign nation [authorization letter template](https://home.dotgov.gov/registration/authorization-templates/native-sovereign-nation/), then send it to:
+Native sovereign nation domains are [coordinated](https://www.bia.gov/sites/bia.gov/files/assets/public/press_release/pdf/idc013756.pdf) with the Department of the Interior's Bureau of Indian Affairs. Use the native sovereign nation [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/native-sovereign-nation/), then send it to:
 
 Bureau of Indian Affairs
 Office of Information Operations
@@ -146,7 +146,7 @@ All [general requirements](#general-requirements) apply.
 
 ### Authorization
 
-Use the state [authorization letter template](https://home.dotgov.gov/registration/authorization-templates/state/).
+Use the state [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/state/).
 
 Governors or a governor-appointed state chief information officer (CIO) must sign authorization letters for all state executive branch domain requests. To verify the identity of your state CIO, refer to [nascio.org](https://www.nascio.org).
 
@@ -191,7 +191,7 @@ All [general requirements](#general-requirements) apply.
 
 ### Authorization
 
-Use the interstate [authorization letter template](https://home.dotgov.gov/registration/authorization-templates/interstate/).
+Use the interstate [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/interstate/).
 
 Interstate (*multi-state*) governmental organizations are most frequently formed via legislation from Congress or from a legal accord between, or passed by, the state governments of **two or more states**. Examples include multi-state commissions, organizations that manage interstate compacts, or port authorities that operate across jurisdictions.
 
@@ -199,8 +199,11 @@ The authorization letter for a domain name must:
 * be signed by the highest-ranking executive (president, director, chair, or equivalent).
 * link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization’s claim of being a bona fide interstate governmental organization.
 * list all of the participating states.
+* include a reference to your geographic area of jurisdiction
 
-Alternatively, instead of a letter containing this information, one or more of a state’s governors or CIOs can submit an authorization letter. All participating states must be named.
+Alternatively, instead of a letter containing this information, one or more of a state’s governors or CIOs can submit an authorization letter.
+
+Domain names must represent your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
 
 See examples of current interstate domains [here](https://github.com/GSA/data/blob/master/dotgov-domains/current-full.csv#L4428).
 
@@ -210,15 +213,16 @@ All [general requirements](#general-requirements) apply.
 
 ### Authorization
 
-Use the independent intrastate [authorization letter template](https://home.dotgov.gov/registration/authorization-templates/independent-intrastate/).
+Use the independent intrastate [authorization letter template]({{ site.baseurl }}registration/authorization-templates/independent-intrastate/).
 
 Independent intrastate (*within a single state*) governmental organizations are most frequently formed via state legislation, where authority is vested in them to operate independently from the state. Examples include organizations, authorized by law, that operate a jurisdiction's elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch.
 
 The authorization letter for a domain name must:
 * be signed by the highest-ranking executive (president, director, chair, or equivalent).
 * link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide intrastate governmental organization that is independent from the state
+* include a reference to your geographic area of jurisdiction
 
-Domain names must represent your municipality, organization, or institutional name, not solely the services you provide. Name requests must include a reference to your geographic area of jurisdiction. ([Generic domain names](https://home.dotgov.gov/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
+Domain names must represent your state or your municipality, and your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
 
 
 ## City and county domains
@@ -227,7 +231,7 @@ All [general requirements](#general-requirements) apply.
 
 ### Authorization
 
-Use the [city](https://home.dotgov.gov/registration/authorization-templates/city/) or [county](https://home.dotgov.gov/registration/authorization-templates/county/) authorization letter templates.
+Use the [city]({{ site.baseurl }}/registration/authorization-templates/city/) or [county]({{ site.baseurl }}/registration/authorization-templates/county/) authorization letter templates.
 
 The authorization letter must be signed by the mayor or the highest-ranking, elected official because the domain is the internet presence for the entire city, town, county, township, or parish represented.
 
@@ -244,16 +248,16 @@ Naming conventions are described in depth in paragraphs 55 through 60 of the [Fe
 - County government names will contain the spelled-out word "County" or "Parish" in the name. See the following for more information: §102-173.60.
 - The words "City of" or "Town of" are optional (e.g., CityofAlbany-OR.gov)
 
-### Abbreviations
+### City and county exception requests
 
-Abbreviations are not authorized unless an exception to the domain name is granted through the Registry and Registration Authority and the Domain Policy Authority.
+To qualify for an exception, you should meet at least one of the following three criteria:
 
-### Exception requests
-
-To qualify for an exception, a city should meet at least one of the following three criteria:
-
-1. **Unique**: City names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).
+1. **Unique**: City and county names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).
 2. **Well-known**: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
 3. **Most populous**: Census maintains [population data](https://www.census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html#ds) for the United States. DotGov will allow the largest 30 cities' names to be registered without a state suffix.
 
-The Domain Policy Authority will arbitrate all exceptions to policy 41 CFR 102-173 for naming conventions.
+The authorization letter should provide your organization's rationale for meriting an exception.
+
+Abbreviations are not authorized unless an exception is granted.
+
+DotGov will arbitrate all exceptions to naming convention policy.

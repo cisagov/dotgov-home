@@ -1,75 +1,63 @@
 ---
-title: Registration process
+title: Want a .gov? Start here.
 layout: docs
 permalink: /registration/
 
 sidenav: registration
 subnav:
-  - text: Review our policies
-    href: '#review-our-policies'
-  - text: Prepare to make your request
-    href: '#prepare-to-make-your-request'
-  - text: Complete the online form
-    href: '#complete-the-online-form'
-  - text: Questions?
-    href: '#questions'
+  - text: New to .gov
+    href: '#new-to-gov'
+  - text: Get another .gov domain
+    href: '#get-another-gov-domain'
+  - text: Need help?
+    href: '#need-help'
 ---
+Welcome to .gov. [We're here]({{ site.baseurl }}/about/) to make it easy to identify your government organization on the internet.
 
-## Review our policies
+* If your organization is **new to .gov**, [start here](#new-to-gov).
+* If you already have a .gov registrar account and your organization is looking to **obtain another .gov domain name**, [go here](#get-another-gov-domain).
 
-Before you register a new domain, review the .gov [domain requirements]({{ site.baseurl }}/registration/requirements/), policies and guidelines that all .gov domains are subject to.
+***
 
-## Prepare to make your request
+## New to .gov
+This section describes the request and approval process for organizations that don't yet have any .gov domain names.
 
-1. Check to see if the [domain is available](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml?_m=3).
+Requesting a domain name consists of two main processes:
 
-1. Prepare an authorization letter to request approval for the domain:
+1. _preparing and sending your authorization letter_, and then, after receiving a .gov registrar account,
+2. _completing the online form_.
 
-    - Copy and paste an [Authorization Letter Template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request.
-    - Define [three points of contact](#specify-three-points-of-contact)
-    - The letter must be on official letterhead stationary, with a signature from your agency head or CIO.
+### Prepare and send the authorization letter
 
-### Specify three points of contact
+1. Check to see if the [domain you want is available](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml).
 
-Each domain must have three points of contact, which your letter must detail:
+2. Review the .gov [domain requirements]({{ site.baseurl }}/registration/requirements/) that all domains are subject to.
 
-1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee. As an example, for a state domain, it must be someone in the governor’s office.
+3. Prepare an authorization letter to request approval for the domain:
 
-2. **Technical contact**: a developer or site administrator that is available 24 hours a day and 7 days a week if the domain is critical to your infrastructure. They are usually responsible for the [DNS]({{ site.baseurl }}/support/dns/).
+    - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
+    - Define [three points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-three-points-of-contact): an administrative, a billing, and a technical POC.
 
-3. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
+4. Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
 
-There must be no one single point of contact.
+Once we receive your authorization letter, we will verify your request and create .gov registrar accounts for each point of contact.
 
-Each contact must have the authority to access the .gov registrar. If a contact already has a .gov registrar username, please include it along with their name.
+### Complete the online form
 
+After each point of contact has logged in to establish their account, any of them can complete the online domain request form. This form asks for some information you've already collected with the authorization letter, and allows you to submit name server information for your .gov domain. (This can also be added after domain approval.)
 
-## Complete the online form
+Once the online form is complete, we will review the request. If approved, you'll be given the opportunity to complete any missing information (like name server addresses) and pay the registration fee.
 
-### Sign in or create an account
+Note that your domain will not be active in the .gov zone until the name servers are answering authoritatively.
 
-1. If you’re new to the site, [create an account](https://domains.dotgov.gov/dotgov-web/user/register_registrant.xhtml?_m=2). A Dotgov.gov representative will email the Authorizing Authority for your agency to finalize the account and set a temporary password.
+***
 
-1. Otherwise, [sign in](https://domains.dotgov.gov/dotgov-web/welcome.xhtml?_m=1).
+## Get another .gov domain
 
-1. Click **Register a Domain**.
+If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. After completing the domain request form, you will also need to submit an authorization letter, as described [here](#prepare-and-send-the-authorization-letter).
 
-1. Add your three points of contact.
+***
 
-### Complete your DNS information
+## Need help?
 
-If you know the [name server addresses]({{ site.baseurl }}/support/dns/) for your new domain, enter them now. You have up to 90 days from the registration request to add the name servers. Otherwise, your request may become deactivated and the domain name released for others to use.
-
-Please note that your domain will not be active in the .gov zone until the name servers are answering authoritatively.
-
-### Submit your request
-
-1. Click **Submit**.
-
-1. Fax your authorization letter to 540-301-0160 or email a copy to [registrar@dotgov.gov](mailto:registrar@dotgov.gov).
-
-After we receive your authorization letter and DNS test pass, you’ll receive an email that allows you to activate the domain.
-
-## Questions?
-
-If you have any questions during the registration process, contact us at <registrar@dotgov.gov> or 1-877-734-4688.
+If you have any questions during the registration process, look through our [answers to common questions]({{ site.baseurl }}/registration/common-questions/) or contact us at <registrar@dotgov.gov> or 1-877-734-4688.

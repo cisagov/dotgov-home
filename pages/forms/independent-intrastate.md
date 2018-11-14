@@ -25,7 +25,7 @@ This domain name will be used for [state the purpose]. The use of this domain is
 
 By requesting this domain name, I acknowledge that I will be responsible for payment of the annual $400 domain fee. I understand that if I wish to retire my domain, I must submit a written request to registrar@dotgov.gov. If a written request is not submitted, I understand that I will continue to be responsible for all accrued domain fees.
 
-The following individuals will be listed as points of contact for [xxxxx.gov]. It is understood that the contact information must remain valid and up to date.
+The following individuals will be listed as points of contact for [xxxxx.gov]. It is understood that the contact information must remain valid and up to date. All domain names are required to have 3 unique points of contact.
 
 Administrative Point of Contact  
 First Name, Last Name  

@@ -5,13 +5,13 @@ permalink: /
 top: false
 
 hero:
-  heading: Learn about the .gov TLD
-  content: See what’s required to register a domain, review our policies, or download .gov domain data.
+  heading: It should be easy to identify governments on the internet.
+  content: .gov is the TLD for US-based government organizations.
   button:
-    text: Register or manage a domain
+    text: Manage your domain
     href: https://domains.dotgov.gov
   link:
-    text: Learn more
+    text: Get a .gov domain
     href: /registration/
 ---
 
