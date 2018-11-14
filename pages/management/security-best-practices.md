@@ -35,7 +35,7 @@ We'd also recommend placing your security contact info on your website and in or
 Consider having a vulnerability disclosure policy (VDP). A VDP outlines how your organization prefers to receive vulnerability reports and what you’ll do with them, the scope of systems covered by the policy, and a promise that those who follow the policy and report in good faith won’t be threatened with legal action.
 
 * The Department of Justice’s [Framework for a Vulnerability Disclosure Program for Online Systems](https://www.justice.gov/criminal-ccips/page/file/983996/download) provides helpful background for developing, instituting, and administering a policy.
-* Model VDPs do exist in the government. VDPs from the [Department of Defense's](https://hackerone.com/deptofdefense) and the [Technology Transformation Service at the General Services Administration](https://18f.gsa.gov/vulnerability-disclosure-policy/) are excellent examples.
+* Model VDPs do exist in the government. VDPs from the [Department of Defense](https://hackerone.com/deptofdefense) and the [Technology Transformation Service at the General Services Administration](https://18f.gsa.gov/vulnerability-disclosure-policy/) are excellent examples.
 The National Telecommunications and Information Administration has [a VDP template](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf) which helps itemize key elements for a vulnerability disclosure program.
 
 Once complete, put your vulnerability disclosure policy online. Some organizations include a link to their “security policy” near or with their privacy policy.
@@ -57,7 +57,7 @@ For domains that don't send mail, setting a strong DMARC policy ensures that no 
 See the Department of Homeland Security's (DHS) guide to [DMARC and email authentication](https://cyber.dhs.gov/bod/18-01/#introduction-to-email-authentication).
 
 ## Sign up for DHS Cyber Hygiene
-DHS operates a network and vulnerability scanning service for government organizations called "[Cyber Hygiene](https://www.us-cert.gov/resources/ncats)". Cyber Hygiene provided regular reports to help you secure your internet-facing systems from weak configuration and known vulnerabilities, and encourages the adoption of modern security best practices.
+DHS operates a network and vulnerability scanning service for government organizations called "[Cyber Hygiene](https://www.us-cert.gov/resources/ncats)". Cyber Hygiene provides regular reports to help you secure your internet-facing systems from weak configuration and known vulnerabilities, and encourages the adoption of modern security best practices.
 
 ## Join MS-ISAC
 For non-federal government organizations, consider joining the [Multi-State Information Sharing and Analysis Center](https://learn.cisecurity.org/ms-isac-registration). MS-ISAC has been [designated by DHS](https://www.dhs.gov/topic/cybersecurity-information-sharing) as the cybersecurity information sharing center for state, local, tribal, and territorial governments, and works to help ensure the resiliency of government systems.
