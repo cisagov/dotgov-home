@@ -171,6 +171,8 @@ Warning: once a domain is deleted, the entire [registration process]({{ site.bas
 
 #### What happens if I do not renew my domain name?
 
-If a renewal payment is not submitted, domain names are not automatically removed from the zone. However, they may be placed in a hold status. If any of your domain names are held, the services attached to them are likely to be impacted.
+Failure to submit payment does not result in the deletion of your domain. However, it may be placed in a hold status. When a domain name is held, it ceases resolving in DNS, making all services attached to the domain inaccessible by name resolution.
 
-If you do not wish to renew, please contact us to delete the domain.
+Your agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150), and you will not be able to register new domains until your account is up to date.
+
+If you do not wish to renew, please contact us to [delete your domain]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name).

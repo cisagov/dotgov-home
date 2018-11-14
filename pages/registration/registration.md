@@ -9,6 +9,8 @@ subnav:
     href: '#new-to-gov'
   - text: Get another .gov domain
     href: '#get-another-gov-domain'
+  - text: Need help?
+    href: '#need-help'
 ---
 Welcome to .gov. [We're here]({{ site.baseurl }}/about/) to make it easy to identify your government organization on the internet.
 
@@ -33,7 +35,7 @@ Requesting a domain name consists of two main processes:
 
 3. Prepare an authorization letter to request approval for the domain:
 
-    - Copy and paste an [Authorization Letter Template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
+    - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
     - Define [three points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-three-points-of-contact): an administrative, a billing, and a technical POC.
 
 4. Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
@@ -48,12 +50,14 @@ Once the online form is complete, we will review the request. If approved, you'l
 
 Note that your domain will not be active in the .gov zone until the name servers are answering authoritatively.
 
-### Questions?
-
-If you have any questions during the registration process, look through our [answers to common questions]({{ site.baseurl }}/registration/common-questions/) or contact us at <registrar@dotgov.gov> or 1-877-734-4688.
-
 ***
 
 ## Get another .gov domain
 
 If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. After completing the domain request form, you will also need to submit an authorization letter, as described [here](#prepare-and-send-the-authorization-letter).
+
+***
+
+## Need help?
+
+If you have any questions during the registration process, look through our [answers to common questions]({{ site.baseurl }}/registration/common-questions/) or contact us at <registrar@dotgov.gov> or 1-877-734-4688.

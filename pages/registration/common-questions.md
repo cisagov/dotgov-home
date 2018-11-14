@@ -7,8 +7,8 @@ sidenav: registration
 subnav:
   - text: Fees FAQ
     href: '#fees-faq'
-  - text: Domain requirements and authorization FAQ
-    href: '#domain-requirements-and-authorization-faq'
+  - text: Domain authorization FAQ
+    href: '#domain-authorization-faq'
   - text: DNS FAQ
     hret: '#dns-faq'
 ---
@@ -33,6 +33,9 @@ A .gov domain name is $400 per year.
 ***
 
 ### Fees FAQ
+
+A .gov domain name is $400 per year.
+
 #### What payment methods do you accept?
 
 We can only accept credit card payments.
@@ -41,28 +44,24 @@ We can only accept credit card payments.
 
 Annually. As a point of contact, you’ll receive several reminder emails. Please note that if your domain names are not kept current, they will be removed from active status. If any of your .gov domain names are removed from active status, services attached to them may experience issues.
 
-#### What happens if I fail to submit a payment?
+#### What happens if I do not renew my domain name?
 
-Failure to submit payment does not result in removal of your domain. The entity or agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Your agency or office will not be able to register new domains until your account is up to date.
-
-If you do not wish to renew, please follow the instructions to [delete your domain]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name).
+See the response in the [renewals and deletions FAQ]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name)
 
 ***
 
-### Domain requirements and authorization FAQ
+### Domain authorization FAQ
 #### What are the requirements for a domain's three points of contact?
 
-Each domain must have three unique points of contact, which your authorization letter must detail:
+Each domain must have three unique points of contact, which your authorization letter must define. There cannot be a single point of contact or one duplicated across more than one role.
 
-1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee. As an example, for a state domain, it must be someone in the governor’s office.
+1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee.
 
 2. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
 
-3. **Technical contact**: a developer or site administrator that is available 24 hours a day and 7 days a week if the domain is critical to your infrastructure. They are usually responsible for the [DNS]({{ site.baseurl }}/management/dns/).
+3. **Technical contact**: a developer or administrator, often responsible for managing [DNS]({{ site.baseurl }}/management/dns/) and securing the infrastructure.
 
-There must be no one single point of contact.
-
-Each contact must have the authority to access the .gov registrar.
+Each contact will have the ability to access the .gov registrar, make changes to DNS, or make payments.
 
 #### How do I request an exception to the naming conventions?
 
