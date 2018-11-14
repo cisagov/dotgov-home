@@ -14,12 +14,14 @@ subnav:
 ---
 This section provides answers to questions about the domain management lifecycle.
 
+We recommend you also review our [domain security best practices]({{ site.baseurl }}/management/security-best-practices/) page.
+
 ## DNS
 The Domain Name System (DNS) is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.
 
 .gov is a top-level domain (TLD). Other recognizable top-level domains include .com and .org. While many TLDs are *generic*, meaning anyone can obtain a domain name, .gov is a "sponsored" TLD, where the US Government acts as the sponsor for other US-based government organizations. These organizations are the only ones that can obtain a .gov domain.
 
-* [Does the DotGov Program provide DNS services for .gov domains?](#does-the-dotgov-program-provide-dns-services-for-gov-domains)
+* [Does the .gov TLD provide DNS services for .gov domains?](#does-the-gov-tld-provide-dns-services-for-gov-domains)
 * [What are the DNS requirements for .gov domains?](#what-are-the-dns-requirements-for-gov-domains)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
 * [How do I transfer my domain to a different agency?](#how-do-i-transfer-my-domain-to-a-different-agency)
@@ -48,7 +50,7 @@ Some surprises are wonderful. Discovering your domain is no longer on the intern
 ***
 
 ### DNS FAQ
-#### Does the DotGov Program provide DNS services for .gov domains?
+#### Does the .gov TLD provide DNS services for .gov domains?
 
 No. We manage the authoritative name servers for the .gov zone, and ensure `.gov` is propagated to the root name servers. We don't operate a for-government, managed DNS service.
 
