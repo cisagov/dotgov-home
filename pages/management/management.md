@@ -159,7 +159,7 @@ Domains are registered for a one year period and can be renewed annually.
 
 #### How much is the renewal fee for a .gov domain?
 
-The cost of a .gov domain name is $400 per year. For more information, see our [Fees page]({{ site.baseurl }}/registration/fees/).
+The cost of a .gov domain name is $400 per year.
 
 #### Where can I get a list of my domains that are up for renewal?
 
@@ -169,7 +169,7 @@ On [domains.dotgov.gov](https://domains.dotgov.gov), from the Home tab, click Fe
 
 If you'd like to delete a domain name, [contact us](mailto:registrar@dotgov.gov) from an account registered to the domain. Also, you should ask your DNS provider to remove your domain's resource records.
 
-Warning: once a domain is deleted, the entire [registration process]({{ site.baseurl }}/registration/) must be initiated to recover the domain. Be certain you want to delete a domain name before contacting us.
+Warning: once a domain is deleted, the [registration process]({{ site.baseurl }}/registration/) must be initiated to recover the domain. Be certain you want to delete a domain name before contacting us.
 
 #### What happens if I do not renew my domain name?
 
