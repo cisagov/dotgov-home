@@ -50,6 +50,10 @@ Once the online form is complete, we will review the request. If approved, you'l
 
 Note that your domain will not be active in the .gov zone until the name servers are answering authoritatively.
 
+### Security best practices
+
+Before you launch your new domain, we strongly recommend that you review our [domain security best practices]({{ site.baseurl }}/management/security-best-practices/). Each recommendation can increase the resiliency of your digital services while protecting your organization and its users.
+
 ***
 
 ## Get another .gov domain

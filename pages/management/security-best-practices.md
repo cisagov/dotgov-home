@@ -43,7 +43,7 @@ Once complete, put your vulnerability disclosure policy online. Some organizatio
 ## Preload your domain
 Web browsers allow domains to be "[preloaded](https://hstspreload.org)". This means that web browsers will always use HTTPS to connect with those websites. For example, [whitehouse.gov](https://whitehouse.gov) has been preloaded into all major web browsers. If you type `whitehouse.gov` into your browser and press **Enter** or click on a link without https in the protocol, your browser knows to connect to `https://whitehouse.gov` instead of `http://whitehouse.gov`, even though you didn't specifically tell it to. The same thing happens if you go to a subdomain of [whitehouse.gov](https://whitehouse.gov), like [petitions.whitehouse.gov](https://petitions.whitehouse.gov).
 
-By preloading your domain, you can ensure your users will always make secure HTTPS connections to all of your websites.
+By preloading your domain, you can ensure your users will always make secure HTTPS connections to all of your websites. New domains can opt-in to preloading at registration.
 
 See our [preloading page]({{ site.baseurl }}/management/preloading/) for more information.
 
