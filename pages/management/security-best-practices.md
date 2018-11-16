@@ -25,7 +25,7 @@ Governments maintain legitimacy by keeping the trust of their citizens, and a se
 
 A _security contact_ can help you improve the resiliency of your digital services. Defining this contact is like **building a digital front door** for outsiders to report observed or suspected security issues at your domain. This could include notifications about compromised accounts, unsolicited email, routing problems, or reporting a potential vulnerability.
 
-You can add a security contact at the [.gov registrar](https://domains.dotgov.gov), which will make it available in the [.gov whois](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) and our published [data]({{ site.baseurl }}/data/).
+You can add a security contact at the [.gov registrar](https://domains.dotgov.gov), which will make it available in the [.gov whois](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) (including port 43 in early 2019) and our published [data]({{ site.baseurl }}/data/). You can change your security contact at any time; removing the contact withdraws it from whois and our published data.
 
 A security contact should be capable of evaluating or triaging security reports *for your entire domain*. We recommend using a team email address specifically for reports, and avoiding the use of an individual’s email address. A common address form is `security@<domain>` or `abuse@<domain>`.
 
