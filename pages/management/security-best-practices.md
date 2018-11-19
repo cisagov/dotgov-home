@@ -36,7 +36,7 @@ Consider having a vulnerability disclosure policy (VDP). A VDP outlines how your
 
 * The Department of Justice’s [Framework for a Vulnerability Disclosure Program for Online Systems](https://www.justice.gov/criminal-ccips/page/file/983996/download) provides helpful background for developing, instituting, and administering a policy.
 * Model VDPs do exist in the government. VDPs from the [Department of Defense](https://hackerone.com/deptofdefense) and the [Technology Transformation Service at the General Services Administration](https://18f.gsa.gov/vulnerability-disclosure-policy/) are excellent examples.
-The National Telecommunications and Information Administration has [a VDP template](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf) which helps itemize key elements for a vulnerability disclosure program.
+* The National Telecommunications and Information Administration has [a VDP template](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf) which helps itemize key elements for a vulnerability disclosure program.
 
 Once complete, put your vulnerability disclosure policy online. Some organizations include a link to their “security policy” near or with their privacy policy.
 
