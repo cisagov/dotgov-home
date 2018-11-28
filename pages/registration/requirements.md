@@ -203,7 +203,7 @@ The authorization letter for a domain name must:
 
 Alternatively, instead of a letter containing this information, one or more of a state’s governors or CIOs can submit an authorization letter.
 
-Domain names must represent your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
+Domain names must represent your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.
 
 See examples of current interstate domains [here](https://github.com/GSA/data/blob/master/dotgov-domains/current-full.csv#L4428).
 
@@ -222,7 +222,7 @@ The authorization letter for a domain name must:
 * link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide intrastate governmental organization that is independent from the state
 * include a reference to your geographic area of jurisdiction
 
-Domain names must represent your state or your municipality, and your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.)
+Domain names must represent your state or your municipality, and your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.
 
 
 ## City and county domains
