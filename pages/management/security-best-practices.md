@@ -5,8 +5,8 @@ permalink: /management/security-best-practices/
 
 sidenav: management
 subnav:
-  - text: Define a security contact
-    href: '#define-a-security-contact'
+  - text: Add a security contact
+    href: '#add-a-security-contact'
   - text: Develop a VDP
     href: '#develop-a-vulnerability-disclosure-policy'
   - text: Preload your domain
@@ -20,7 +20,7 @@ subnav:
 ---
 Domain management is about more than just [DNS]({{ site.baseurl }}/management#dns). It's also about ensuring a safe experience for your organization and your users.
 
-## Define a security contact
+## Add a security contact
 Governments maintain legitimacy by keeping the trust of their citizens, and a security flaw found on a .gov host can erode that confidence. When government systems are exposed by weak configuration or technical vulnerability, the security of the information, the privacy of its citizen-owners, and the reputation of its custodians are at risk.
 
 A _security contact_ can help you improve the resiliency of your digital services. Defining this contact is like **building a digital front door** for outsiders to report observed or suspected security issues at your domain. This could include notifications about compromised accounts, unsolicited email, routing problems, or reporting a potential vulnerability.
