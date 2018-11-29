@@ -77,7 +77,7 @@ All user accounts will be required to use 2-step verification. If any of your do
 
 ### What is an authentication app?
 
-Authentication apps generate security codes for signing in to sites that require a high level of security. You can use these apps to get security codes even if you don’t have an internet connection or mobile service. Authentication apps are smartphone applications, but other form factors exists, including desktop, browser extensions, and hardware. Any application that implements the time-based one-time password (TOTP) standard and can use a QR code or accept a manually entered key will also work.
+Authentication apps generate security codes for signing in to sites that require a high level of security. You can use these apps to get security codes even if you don’t have an internet connection or mobile service. Authentication apps are smartphone applications, but other form factors exists, including desktop, browser extensions, and hardware. Any application that *implements the time-based one-time password (TOTP) standard and can use a QR code or accept a manually entered key* will also work.
 
 **DotGov will only provide customer support for Google Authenticator mobile applications.**
 
