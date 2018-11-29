@@ -34,7 +34,7 @@ Keeping point of contact (POC) information from going stale ensures that only th
 
 * [How do I set up a new point of contact?](#how-do-i-set-up-a-new-point-of-contact)
 * [How do I change a point of contact on the account?](#how-do-i-change-a-point-of-contact-on-the-account)
-* [One of our contacts is no longer the right person to help manage our domain. How do I remove them from the account?](#one-of-our-contacts-is-no-longer-the-right-person-to-help-manage-our-domain-how-do-i-remove-them-from-the-account)
+* [One of our staff is no longer the right person to help manage our domain. How do I remove them from the domain?](#one-of-our-staff-is-no-longer-the-right-person-to-help-manage-our-domain-how-do-i-remove-them-from-the-domain)
 * [Can one person serve as multiple POCs on a single domain?](#can-one-person-serve-as-multiple-pocs-on-a-single-domain)
 * [Can one person serve as a POC on multiple domains?](#can-one-person-serve-as-a-poc-on-multiple-domains)
 
@@ -132,9 +132,7 @@ For a new domain request, the [authorization letter]({{ site.baseurl }}/registra
 
 **If the point of contact already has an account** on the .gov registrar, please provide the username for the account and which point of contact the user will replace. If the new point of contact does not currently have an account, please send the name and contact information so an account can be set up for them. For federal level domains the email must come from a government employee.
 
-**If all three points of contact have left the domain**, the Authorizing Authority must sign a new authorization letter and assign 3 more points of contact.
-
-Review our [account information guidelines]({{ site.baseurl }}/registration/requirements/#account-information) for more details.
+**If the three named points of contact have left the organization that owns the domain**, the Authorizing Authority must sign a new authorization letter and [assign new points of contact]({{ site.baseurl }}#what-are-the-requirements-for-a-domains-points-of-contact).
 
 #### One of our contacts is no longer the right person to help manage our domain. How do I remove them from the account?
 
@@ -144,7 +142,7 @@ If you are unable to update a point of contact with an existing user, please [co
 
 #### Can one person serve as multiple POCs on a single domain?
 
-No. All POCs on a domain must be **_unique_** to prevent a single point of failure. Each domain will require three (3) distinct POCs before submitting a request for approval or before submitting a renewal payment.
+No. There cannot be a single point of contact or one duplicated across more than one role, unless you select a named person's email address for a security contact (which is **not recommended**).
 
 #### Can one person serve as a POC on multiple domains?
 

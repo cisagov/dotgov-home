@@ -21,7 +21,7 @@ A .gov domain name is $400 per year.
 * [What happens if I fail to submit a payment?](#what-happens-if-i-fail-to-submit-a-payment)
 
 ## Domain requirements and authorization
-* [What are the requirements for a domain's three points of contact?](#what-are-the-requirements-for-a-domains-three-points-of-contact)
+* [What are the requirements for a domain's points of contact?](#what-are-the-requirements-for-a-domains-points-of-contact)
 * [How do I request an exception to the naming conventions?](#how-do-i-request-an-exception-to-the-naming-conventions)
 * [My authorizing authority won’t sign an authorization letter. What do I do now?](#my-authorizing-authority-wont-sign-an-authorization-letter-what-do-i-do-now)
 * [My request was denied. What is the appeal process?](#my-request-was-denied-what-is-the-appeal-process)
@@ -51,15 +51,17 @@ See the response in the [renewals and deletions FAQ]({{ site.baseurl }}/manageme
 ***
 
 ### Domain authorization FAQ
-#### What are the requirements for a domain's three points of contact?
+#### What are the requirements for a domain's points of contact?
 
-Each domain must have three unique points of contact, which your authorization letter must define. There cannot be a single point of contact or one duplicated across more than one role.
+Each domain is to have unique points of contact, which your authorization letter must define. There cannot be a single point of contact or one duplicated across more than one role, unless you select a named person's email address for a security contact (which is **not recommended**).
 
 1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee.
 
 2. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
 
 3. **Technical contact**: a developer or administrator, often responsible for managing [DNS]({{ site.baseurl }}/management/dns/) and securing the infrastructure.
+
+4. **Security contact**: a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
 
 Each contact will have the ability to access the .gov registrar, make changes to DNS, or make payments.
 
