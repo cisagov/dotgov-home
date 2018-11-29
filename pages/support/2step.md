@@ -77,9 +77,9 @@ All user accounts will be required to use 2-step verification. If any of your do
 
 ### What is an authentication app?
 
-Authentication apps generate security codes for signing in to sites that require a high level of security. You can use these apps to get security codes even if you don’t have an internet connection or mobile service. Authentication apps are smartphone applications, but other form factors exists, including desktop, browser extensions, and hardware. Any application that *implements the time-based one-time password (TOTP) standard and can use a QR code or accept a manually entered key* will also work.
+Authentication apps generate security codes for signing in to sites that require a high level of security. You can use these apps to get security codes even if you don’t have an internet connection or mobile service. A mobile phone app is the typical example of an authentication app, but other forms exist, including applications for desktops, browser extensions, and physical hardware.
 
-**DotGov will only provide customer support for Google Authenticator mobile applications.**
+Any application that *implements the time-based one-time password (TOTP) standard and can use a QR code or accept a manually entered key* will also work. **DotGov will only provide customer support for Google Authenticator mobile applications**.
 
 After installing and configuring the application to work with the registrar, you will be able to receive security codes for your account. Some options for authentication apps include:
 
@@ -88,7 +88,7 @@ After installing and configuring the application to work with the registrar, you
 * macOS apps: [1Password](https://1password.com/), [OTP Manager](https://itunes.apple.com/us/app/otp-manager/id928941247)
 * Windows apps: [1Password](https://1password.com/), [OTP Manager](https://www.microsoft.com/en-us/p/otp-manager/9nblggh6hngn?SilentAuth=1)
 * Chrome extensions: [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai?hl=en)
-* TOTP Hardware: [Protectimus Slim mini](https://www.protectimus.com/protectimus-slim-mini), [Token2 miniOTP-1](https://www.token2.com/shop/?c=2)
+* TOTP hardware: [Protectimus Slim mini](https://www.protectimus.com/protectimus-slim-mini), [Token2 miniOTP-1](https://www.token2.com/shop/?c=2)
 
 ### Is there a cost for an authentication app?
 
