@@ -53,8 +53,6 @@ See the response in the [renewals and deletions FAQ]({{ site.baseurl }}/manageme
 ### Domain authorization FAQ
 #### What are the requirements for a domain's points of contact?
 
-Each domain is to have unique points of contact, which your authorization letter must define. There cannot be a single point of contact or one duplicated across more than one role, unless you select a named person's email address for a security contact (which is **not recommended**).
-
 1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee.
 
 2. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
@@ -62,6 +60,8 @@ Each domain is to have unique points of contact, which your authorization letter
 3. **Technical contact**: a developer or administrator, often responsible for managing [DNS]({{ site.baseurl }}/management/dns/) and securing the infrastructure.
 
 4. **Security contact**: a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
+
+There cannot be a single point of contact duplicated across more than one role. An exception is made should you choose to use a personal email address for a security contact. We recommend using an alias, like `security@<domain>`.
 
 Each contact will have the ability to access the .gov registrar, make changes to DNS, or make payments.
 

@@ -142,7 +142,7 @@ If you are unable to update a point of contact with an existing user, please [co
 
 #### Can one person serve as multiple POCs on a single domain?
 
-No. There cannot be a single point of contact or one duplicated across more than one role, unless you select a named person's email address for a security contact (which is **not recommended**).
+No. There cannot be a single point of contact duplicated across more than one role. See [What are the requirements for a domain's points of contact?]({{ site.baseurl }}//registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact) for more information.
 
 #### Can one person serve as a POC on multiple domains?
 

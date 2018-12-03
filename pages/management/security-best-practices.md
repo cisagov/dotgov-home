@@ -25,14 +25,14 @@ Governments maintain legitimacy by keeping the trust of their citizens, and a se
 
 A _security contact_ can help you improve the resiliency of your digital services. Defining this contact is like **building a digital front door** for outsiders to report observed or suspected security issues at your domain. This could include notifications about compromised accounts, unsolicited email, routing problems, or reporting a potential vulnerability.
 
-You can add a security contact at the [.gov registrar](https://domains.dotgov.gov), which will make it available in the [.gov whois](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) (including port 43 in early 2019) and our published [data]({{ site.baseurl }}/data/). You can change your security contact at any time; removing the contact withdraws it from whois and our published data.
+You can add a security contact at the [.gov registrar](https://domains.dotgov.gov), which will make it available in the [.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) (including port 43 in early 2019) and our published [data]({{ site.baseurl }}/data/). You can change your security contact at any time; removing the contact withdraws it from WHOIS and our published data.
 
 A security contact should be capable of evaluating or triaging security reports *for your entire domain*. We recommend using a team email address specifically for reports, and avoiding the use of an individual’s email address. A common address form is `security@<domain>` or `abuse@<domain>`.
 
 We'd also recommend placing your security contact info on your website and in organizational communications. If people can’t find where to report something, having a security contact isn’t helpful!
 
 ## Develop a vulnerability disclosure policy
-Consider having a vulnerability disclosure policy (VDP). A VDP outlines how your organization prefers to receive vulnerability reports and what you’ll do with them, the scope of systems covered by the policy, and a promise that those who follow the policy and report in good faith won’t be threatened with legal action.
+Consider having a vulnerability disclosure policy (VDP). A VDP outlines how your organization prefers to receive vulnerability reports and what you’ll do with them, the scope of systems covered by the policy, and legal authorization for those who follow the policy and report in good faith.
 
 * The Department of Justice’s [Framework for a Vulnerability Disclosure Program for Online Systems](https://www.justice.gov/criminal-ccips/page/file/983996/download) provides helpful background for developing, instituting, and administering a policy.
 * Model VDPs do exist in the government. VDPs from the [Department of Defense](https://hackerone.com/deptofdefense) and the [Technology Transformation Service at the General Services Administration](https://18f.gsa.gov/vulnerability-disclosure-policy/) are excellent examples.
@@ -48,11 +48,11 @@ By preloading your domain, you can ensure your users will always make secure HTT
 See our [preloading page]({{ site.baseurl }}/management/preloading/) for more information.
 
 ## Use DMARC
-It shouldn't be easy to impersonate the government. DMARC, Domain-based Message Authentication, Reporting and Conformance, protects your reputation and good name by making it difficult for malicious actors to successfully spoof your domain in email.
+It shouldn't be easy to impersonate the government. DMARC, "Domain-based Message Authentication, Reporting and Conformance", protects your reputation and good name by making it difficult for malicious actors to successfully spoof your domain in email.
 
-Setting a enforced DMARC policy can take some effort, but once you do, email that *appears* to come from your domain but fails email authentication checks is rejected by the mail server and not delivered to users.
+Setting an enforced DMARC policy can take some effort, but once you do, email that *appears* to come from your domain but fails email authentication checks is rejected by the mail server and not delivered to users.
 
-For domains that don't send mail, setting a strong DMARC policy ensures that no one receives mail that appears to come from you.
+For domains that don't send mail, setting a strong DMARC policy ensures that no one receives mail that appears to come from your domain.
 
 See the Department of Homeland Security's (DHS) guide to [DMARC and email authentication](https://cyber.dhs.gov/bod/18-01/#introduction-to-email-authentication).
 
