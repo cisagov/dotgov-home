@@ -23,6 +23,8 @@ registration:
 management:
     - text: Domain management
       href: /management/
+    - text: Domain security best practices
+      href: /management/security-best-practices/
     - text: HSTS preloading
       href: /management/preloading/
 

@@ -17,7 +17,7 @@ Reston, VA 20190
 
 Dear Domain Manager:
 
-As Head of or cabinet-level for the [Agency Name], I formally request the
+As [head of or CIO for] for the [Agency Name], I formally request the
 transfer of [name of domain] from the [current agency] to the [receiving agency].
 
 Sincerely,  

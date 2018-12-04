@@ -14,12 +14,14 @@ subnav:
 ---
 This section provides answers to questions about the domain management lifecycle.
 
+We recommend you also review our [domain security best practices]({{ site.baseurl }}/management/security-best-practices/) page.
+
 ## DNS
 The Domain Name System (DNS) is an internet service that translates your domain name into an IP address. This makes it possible for people to access your website by typing in the domain name instead of the website’s IP address.
 
 .gov is a top-level domain (TLD). Other recognizable top-level domains include .com and .org. While many TLDs are *generic*, meaning anyone can obtain a domain name, .gov is a "sponsored" TLD, where the US Government acts as the sponsor for other US-based government organizations. These organizations are the only ones that can obtain a .gov domain.
 
-* [Does the DotGov Program provide DNS services for .gov domains?](#does-the-dotgov-program-provide-dns-services-for-gov-domains)
+* [Does the .gov TLD provide DNS services for .gov domains?](#does-the-gov-tld-provide-dns-services-for-gov-domains)
 * [What are the DNS requirements for .gov domains?](#what-are-the-dns-requirements-for-gov-domains)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
 * [How do I transfer my domain to a different agency?](#how-do-i-transfer-my-domain-to-a-different-agency)
@@ -32,7 +34,7 @@ Keeping point of contact (POC) information from going stale ensures that only th
 
 * [How do I set up a new point of contact?](#how-do-i-set-up-a-new-point-of-contact)
 * [How do I change a point of contact on the account?](#how-do-i-change-a-point-of-contact-on-the-account)
-* [One of our contacts is no longer the right person to help manage our domain. How do I remove them from the account?](#one-of-our-contacts-is-no-longer-the-right-person-to-help-manage-our-domain-how-do-i-remove-them-from-the-account)
+* [One of our staff is no longer the right person to help manage our domain. How do I remove them from the domain?](#one-of-our-staff-is-no-longer-the-right-person-to-help-manage-our-domain-how-do-i-remove-them-from-the-domain)
 * [Can one person serve as multiple POCs on a single domain?](#can-one-person-serve-as-multiple-pocs-on-a-single-domain)
 * [Can one person serve as a POC on multiple domains?](#can-one-person-serve-as-a-poc-on-multiple-domains)
 
@@ -48,7 +50,7 @@ Some surprises are wonderful. Discovering your domain is no longer on the intern
 ***
 
 ### DNS FAQ
-#### Does the DotGov Program provide DNS services for .gov domains?
+#### Does the .gov TLD provide DNS services for .gov domains?
 
 No. We manage the authoritative name servers for the .gov zone, and ensure `.gov` is propagated to the root name servers. We don't operate a for-government, managed DNS service.
 
@@ -130,9 +132,7 @@ For a new domain request, the [authorization letter]({{ site.baseurl }}/registra
 
 **If the point of contact already has an account** on the .gov registrar, please provide the username for the account and which point of contact the user will replace. If the new point of contact does not currently have an account, please send the name and contact information so an account can be set up for them. For federal level domains the email must come from a government employee.
 
-**If all three points of contact have left the domain**, the Authorizing Authority must sign a new authorization letter and assign 3 more points of contact.
-
-Review our [account information guidelines]({{ site.baseurl }}/registration/requirements/#account-information) for more details.
+**If the three named points of contact have left the organization that owns the domain**, the Authorizing Authority must sign a new authorization letter and [assign new points of contact]({{ site.baseurl }}#what-are-the-requirements-for-a-domains-points-of-contact).
 
 #### One of our contacts is no longer the right person to help manage our domain. How do I remove them from the account?
 
@@ -142,7 +142,7 @@ If you are unable to update a point of contact with an existing user, please [co
 
 #### Can one person serve as multiple POCs on a single domain?
 
-No. All POCs on a domain must be **_unique_** to prevent a single point of failure. Each domain will require three (3) distinct POCs before submitting a request for approval or before submitting a renewal payment.
+No. There cannot be a single point of contact duplicated across more than one role. See [What are the requirements for a domain's points of contact?]({{ site.baseurl }}//registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact) for more information.
 
 #### Can one person serve as a POC on multiple domains?
 
@@ -157,7 +157,7 @@ Domains are registered for a one year period and can be renewed annually.
 
 #### How much is the renewal fee for a .gov domain?
 
-The cost of a .gov domain name is $400 per year. For more information, see our [Fees page]({{ site.baseurl }}/registration/fees/).
+The cost of a .gov domain name is $400 per year.
 
 #### Where can I get a list of my domains that are up for renewal?
 
@@ -167,7 +167,7 @@ On [domains.dotgov.gov](https://domains.dotgov.gov), from the Home tab, click Fe
 
 If you'd like to delete a domain name, [contact us](mailto:registrar@dotgov.gov) from an account registered to the domain. Also, you should ask your DNS provider to remove your domain's resource records.
 
-Warning: once a domain is deleted, the entire [registration process]({{ site.baseurl }}/registration/) must be initiated to recover the domain. Be certain you want to delete a domain name before contacting us.
+Warning: once a domain is deleted, the [registration process]({{ site.baseurl }}/registration/) must be initiated to recover the domain. Be certain you want to delete a domain name before contacting us.
 
 #### What happens if I do not renew my domain name?
 

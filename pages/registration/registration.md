@@ -36,7 +36,7 @@ Requesting a domain name consists of two main processes:
 3. Prepare an authorization letter to request approval for the domain:
 
     - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
-    - Define [three points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-three-points-of-contact): an administrative, a billing, and a technical POC.
+    - Define [points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact): an administrative, a billing, and a technical POC. A [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
 
 4. Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
 
@@ -49,6 +49,10 @@ After each point of contact has logged in to establish their account, any of the
 Once the online form is complete, we will review the request. If approved, you'll be given the opportunity to complete any missing information (like name server addresses) and pay the registration fee.
 
 Note that your domain will not be active in the .gov zone until the name servers are answering authoritatively.
+
+### Security best practices
+
+Before you launch your new domain, we strongly recommend that you review our [domain security best practices]({{ site.baseurl }}/management/security-best-practices/). Each recommendation can increase the resiliency of your digital services while protecting your organization and its users.
 
 ***
 
