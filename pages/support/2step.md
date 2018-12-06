@@ -36,8 +36,8 @@ You will need to add 2-step verification to your account at [https://domains.dot
 ### Rollout schedule
 
 * _GSA-owned domains_: October 1 - 31
-* _Federal Agency_: October 8 - December 7
-* _Native Sovereign Nation_: October 8 -  December 7
+* _Federal Agency_: October 8 - January 9
+* _Native Sovereign Nation_: October 8 -  November 7
 * _County_: October 22 - November 21
 * _State/Local Govt_: November 5 - December 5
 * _City_: Done in phases, based on the *first letter of your username*:
