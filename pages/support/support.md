@@ -8,7 +8,8 @@ subnav:
   - text: Contact us
     href: '#contact-us'
 ---
-Check out some common [domain registration questions]({{ site.baseurl }}/registration/common-questions/), and some [FAQs around domain management]({{ site.baseurl }}/management/). We also share [domain security best practices](https://home.dotgov.gov/management/security-best-practices/).
+* [Domain registration FAQs]({{ site.baseurl }}/registration/common-questions/)
+* [Domain management FAQs]({{ site.baseurl }}/management/)
 
 ### Contact us
 
