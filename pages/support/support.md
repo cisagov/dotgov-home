@@ -8,8 +8,9 @@ subnav:
   - text: Contact us
     href: '#contact-us'
 ---
+Check out some common [domain registration questions]({{ site.baseurl }}/registration/common-questions/), and some [FAQs around domain management]({{ site.baseurl }}/management/). We also share [domain security best practices](https://home.dotgov.gov/management/security-best-practices/).
 
-## Contact us
+### Contact us
 
 * 1-877-734-4688
 * <registrar@dotgov.gov>
