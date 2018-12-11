@@ -8,8 +8,10 @@ subnav:
   - text: Contact us
     href: '#contact-us'
 ---
+* [Domain registration FAQs]({{ site.baseurl }}/registration/common-questions/)
+* [Domain management FAQs]({{ site.baseurl }}/management/)
 
-## Contact us
+### Contact us
 
 * 1-877-734-4688
 * <registrar@dotgov.gov>
