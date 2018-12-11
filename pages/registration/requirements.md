@@ -21,7 +21,7 @@ subnav:
     href: '#city-and-county-domains'
 ---
 
-This is an overview of the .gov domain registration requirements, and is meant to further explain and clarify sections of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?SID=d611d7d4bd8f3155d3262ea4857c011e&mc=true&node=pt41.3.102_6173&rgn=div5), which focuses on purpose and jurisdiction.
+This is an overview of the .gov domain registration requirements, and is meant to further explain and clarify sections of the [federal policy](https://www.ecfr.gov/cgi-bin/text-idx?SID=d611d7d4bd8f3155d3262ea4857c011e&mc=true&node=pt41.3.102_6173&rgn=div5), which focuses on purpose and jurisdiction.
 
 The .gov top-level domain (TLD) facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The TLD authorizes domain names for bona fide US-based government organizations, at the federal, state, and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as native sovereign nations (NSNs). *.gov makes government services easy to identify on the internet.*
 
@@ -43,7 +43,7 @@ A .gov domain may not be used to advertise for private individuals, firms, or co
 
 ### No political or campaign information
 
-The .gov domain is for the operation of government, not the political, political party, or campaign environment. No campaigning can be done using .gov domains. The .gov domain websites may not be directly linked to or refer to websites created or operated by a campaign or any campaign entity or committee. No political sites or party names or acronyms can be used. Separate websites and email on other top-level domains (TLDs), such as .org, will have to be used for political activity.
+The .gov domain is for the operation of government, not the political, political party, or campaign environment. No campaigning can be done using .gov domains. The .gov domain websites may not be directly linked to or refer to websites created or operated by a campaign or any campaign entity or committee. No political sites or party names or acronyms can be used. Separate websites and email on other top-level domains (TLDs), such as .com or .org, will have to be used for political activity.
 
 ### Naming conventions
 
