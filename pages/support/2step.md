@@ -36,7 +36,7 @@ You will need to add 2-step verification to your account at [https://domains.dot
 ### Rollout schedule
 
 * _GSA-owned domains_: October 1 - 31
-* _Federal Agency_: October 8 - January 9
+* _Federal Agency_: February 6, 2019 - March 6, 2019
 * _Native Sovereign Nation_: October 8 -  November 7
 * _County_: October 22 - November 21
 * _State/Local Govt_: November 5 - December 5
@@ -44,7 +44,7 @@ You will need to add 2-step verification to your account at [https://domains.dot
   * *A - D*: November 19 - December 19
   * *E - J*: December 5 - January 9, 2019
   * *K - P*: December 17 - January 23, 2019
-  * *Q - Z*: January 14, 2019 - February 13
+  * *Q - Z*: January 14, 2019 - February 13, 2019
 
 ## How do I set up 2-step verification?
 
