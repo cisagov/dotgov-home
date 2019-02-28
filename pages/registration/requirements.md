@@ -213,7 +213,7 @@ All [general requirements](#general-requirements) apply.
 
 ### Authorization
 
-Use the independent intrastate [authorization letter template]({{ site.baseurl }}registration/authorization-templates/independent-intrastate/).
+Use the independent intrastate [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/independent-intrastate/).
 
 Independent intrastate (*within a single state*) governmental organizations are most frequently formed via state legislation, where authority is vested in them to operate independently from the state. Examples include organizations, authorized by law, that operate a jurisdiction's elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch.
 
