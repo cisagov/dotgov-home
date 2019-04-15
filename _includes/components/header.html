@@ -21,7 +21,15 @@
         <button class="usa-nav-close">
           <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
         </button>
-
+        <form id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get">
+          <input name="utf8" type="hidden" value="✓">
+          <input type="hidden" name="affiliate" id="affiliate" value="{{ site.search_site_handle }}">
+          <input type="hidden" name="commit" value="Search">
+          <div class="input-container" >
+            <input type="text" name="query" class="query" autocomplete="off" class="usagov-search-autocomplete" placeholder="Enter Search Term(s)" >
+            <i class="fa fa-search icon"></i>
+          </div>
+        </form>
         {% assign _primary = header.primary.links %}
         {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
         {% if primary_links %}
