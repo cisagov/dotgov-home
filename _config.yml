@@ -9,8 +9,6 @@ description: Home of the DotGov program, which operates the .gov DNS registry an
 google_analytics_ua: UA-99995535-1
 repo: https://github.com/GSA/dotgov-home
 
-search_site_handle: dotgov
-
 exclude:
 - CONTRIBUTING.md
 - _config.yml
