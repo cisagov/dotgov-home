@@ -21,7 +21,19 @@
         <button class="usa-nav-close">
           <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
         </button>
-
+        {% if site.search_site_handle  %}
+          <form id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get" class="usa-search usa-search-small">
+            <input name="utf8" type="hidden" value="✓">
+            <input id="affiliate" type="hidden" name="affiliate" value="{{ site.search_site_handle }}">
+            <input type="hidden" name="commit" value="Search">
+            <div role="search" >
+              <input id="query" name="query" type="search" class="query" autocomplete="off" class="usagov-search-autocomplete" placeholder="Enter Search Term(s)" />
+              <button type="submit">
+                <span class="usa-sr-only">Search</span>
+              </button>
+            </div>
+          </form>
+        {% endif %}
         {% assign _primary = header.primary.links %}
         {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
         {% if primary_links %}
