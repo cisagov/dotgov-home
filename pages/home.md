@@ -23,13 +23,10 @@ hero:
 
 <div class="usa-width-two-thirds">
 
+**July 17, 2019:**  We are implementing a new DNS security measure for .gov domains to enable us to take quick action and mitigate any potential risks in light of the [recent incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign) involving DNS infrastructure tampering. Click [here](https://home.dotgov.gov/management/#will-i-be-notified-if-a-change-is-made-to-my-DNS-information) to learn more about DotGov DNS auto-notification emails.
+
 **December 6, 2018:**  You can now add a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) to the .gov registrar. See our new [domain security best practices]({{ site.baseurl }}/management/security-best-practices/).
 
 **October 31, 2018:** We wrote a [blog post on digital.gov](https://digital.gov/2018/10/29/gsa-steps-up-security-for-dotgov/) about our steps to make .gov a more secure place for governments.
 
 **October 1, 2018:** [2-step verification]({{ site.baseurl }}/2step/) is a new feature that improves the security of your .gov registrar account.
-
-**August 21, 2018:** New .gov domains can opt-in to [automatic HSTS/HTTPS preloading]({{ site.baseurl }}/management/preloading/) at the time of registration.
-</div>
-</div>
-</section>
