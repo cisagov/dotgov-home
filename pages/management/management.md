@@ -23,6 +23,7 @@ The Domain Name System (DNS) is an internet service that translates your domain 
 
 * [Does the .gov TLD provide DNS services for .gov domains?](#does-the-gov-tld-provide-dns-services-for-gov-domains)
 * [What are the DNS requirements for .gov domains?](#what-are-the-dns-requirements-for-gov-domains)
+* [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-DNS-information)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
 * [How do I transfer my domain to a different agency?](#how-do-i-transfer-my-domain-to-a-different-agency)
 * [Why can’t I access systems within my domain, but people outside can?](#why-cant-i-access-systems-within-my-domain-but-people-outside-can)
@@ -61,6 +62,10 @@ Your internet service provider or technical support team can provide you with DN
 You must provide at least one primary and secondary name server.
 
 You will not be able to specify an IP address for your name servers unless they are child name servers of the domain you’re trying to register or update.
+
+#### Will I be notified if a change is made to my DNS information?
+
+Yes. In response to [recent incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign) involving DNS infrastructure tampering, and to protect your .gov DNS and/or DNS key data from malicious or erroneous changes, authorized POCs will immediately receive a system-generated email alerting them that a change has been made to their DNS information in the DotGov portal. The email message will include instructions on timely mitigation, if such is necessary.
 
 #### How quickly will changes to my domain propagate throughout the internet?
 
