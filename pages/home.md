@@ -23,7 +23,7 @@ hero:
 
 <div class="usa-width-two-thirds">
 
-**July 17, 2019:**  We're implementing a new DNS security measure for all .gov domains to help mitigate future risks associated with [DNS Hijacking incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign). Click [here](https://home.dotgov.gov/management/#will-i-be-notified-if-a-change-is-made-to-my-DNS-information) to learn more about DotGov's new DNS auto-notification emails.
+**July 17, 2019:**  We're implementing a new DNS security measure for all .gov domains to help mitigate future risks associated with [DNS Hijacking incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign). Click [here](https://home.dotgov.gov/management/#will-i-be-notified-if-a-change-is-made-to-my-dns-information) to learn more about DotGov's new DNS auto-notification emails.
 
 **December 6, 2018:**  You can now add a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) to the .gov registrar. See our new [domain security best practices]({{ site.baseurl }}/management/security-best-practices/).
 
