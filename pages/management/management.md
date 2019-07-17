@@ -67,7 +67,7 @@ You will not be able to specify an IP address for your name servers unless they 
 
 Yes. In response to [recent incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign), authorized gov domain POCs will immediately receive a system-generated email when a changed is made to their DNS in the DotGov Portal. 
 
-The email will alert all POCs of a change made to their DNS information and include instructions on timely mitigation, if such should be necessary.
+The email will alert the POCs that a change was made to their DNS information and include instructions for mitigation should it be necessary.
 
 #### How quickly will changes to my domain propagate throughout the internet?
 
