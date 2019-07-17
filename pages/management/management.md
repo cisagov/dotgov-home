@@ -23,7 +23,7 @@ The Domain Name System (DNS) is an internet service that translates your domain 
 
 * [Does the .gov TLD provide DNS services for .gov domains?](#does-the-gov-tld-provide-dns-services-for-gov-domains)
 * [What are the DNS requirements for .gov domains?](#what-are-the-dns-requirements-for-gov-domains)
-* [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-DNS-information)
+* [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-dns-information)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
 * [How do I transfer my domain to a different agency?](#how-do-i-transfer-my-domain-to-a-different-agency)
 * [Why can’t I access systems within my domain, but people outside can?](#why-cant-i-access-systems-within-my-domain-but-people-outside-can)
