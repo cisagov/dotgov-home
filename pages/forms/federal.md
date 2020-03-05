@@ -56,15 +56,15 @@ Sincerely,
 [Title]
 
 
-
-
-Signed and sworn to (or affirmed) before me on (Date) ____________ by (Name of Individual Making a Statement) __________________
-
-
-                                                                                  
-                                                                                        Seal
-
-                                                                                                     
+Signed and sworn to (or affirmed) before me on ________________  by __________________________________________
+                                                  (Date)              (Name of Individual Making a Statement)
+                                                  
+                                                  
+                                                                                                        
+                                                                                                        
+                                                                                                        Seal
+                                                  
+  
   _____________________________________________________________
        Signature of Notarial Officer
 
