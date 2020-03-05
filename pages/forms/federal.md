@@ -54,3 +54,23 @@ Sincerely,
 
 [Name]  
 [Title]
+
+
+
+
+Signed and sworn to (or affirmed) before me on ____________ by___________________________ 
+                                                  Date           Name(s) of Individual making statement                                      
+                                                                                                 
+                                                                                             
+                                                                                             
+                                                                                             [Notary Seal]
+                                                                                                 
+ 
+______________________________________________________________
+       Signature of Notarial Officer
+
+
+
+
+[My commission expires: ______________________________]
+                                     Date  
