@@ -55,3 +55,15 @@ Sincerely,
 
 [Name]  
 [Title]
+
+[Notary Public Section]
+
+Signed and sworn to (or affirmed) before me on [Date] ____________________________________
+
+Name of the Individual Making a Statment [First Name, Last Name] ________________________
+
+Signature of Notary Public ____________________________________
+
+My Commission Expires [Date] ____________________________________
+
+Notary Public Seal
