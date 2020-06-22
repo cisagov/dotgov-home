@@ -28,7 +28,7 @@ management:
     - text: HSTS preloading
       href: /management/preloading/
     - text: Making .gov More Secure by Default
-      href: /management/preloading/dotgovhttps
+      href: /management/preloading/dotgovhttps/
 
 data:
   - text: Data

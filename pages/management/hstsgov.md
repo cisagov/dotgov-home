@@ -1,7 +1,7 @@
 ---
 title: Making .gov More Secure by Default
 layout: docs
-permalink: /management/preloading/dotgovhttps
+permalink: /management/preloading/dotgovhttps/
 
 sidenav: management
 
