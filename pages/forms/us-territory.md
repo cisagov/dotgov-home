@@ -59,7 +59,7 @@ Sincerely,
 
 Signed and sworn to (or affirmed) before me on [Date] ____________________________________
 
-Name of the Individual Making a Statment [First Name, Last Name] ________________________
+Name of the Individual Making a Statement [First Name, Last Name] ________________________
 
 Signature of Notary Public ____________________________________
 
