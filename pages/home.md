@@ -23,7 +23,7 @@ hero:
 
 <div class="usa-width-two-thirds">
 
-**March 2, 2021:** The .gov top-level domain is moving to the Cybersecurity and Infrastructure Security Agency. See our [announcement](/moving-to-cisa).
+**March 8, 2021:** The .gov top-level domain is moving to the Cybersecurity and Infrastructure Security Agency. See our [announcement](/moving-to-cisa).
 
 **June 21, 2020:** Today, the DotGov Program announces our **intent to preload the .gov TLD in the future**. We believe the security benefits that come from preloading are meaningful and necessary to continue meeting the public&rsquo;s expectation of safety on .gov services. We believe that government websites should always be secure. Click [here](/management/preloading/dotgovhttps) to learn more about the steps we are taking to reach this goal.
 
