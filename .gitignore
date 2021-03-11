@@ -7,3 +7,4 @@ todo.txt
 .ruby-version
 *.pyc
 creds.txt
+.jekyll-cache/
