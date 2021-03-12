@@ -4,8 +4,5 @@ rvm:
 sudo: false
 git:
   submodules: false
-branches:
-  only:
-  - master
 script: bundle exec jekyll b --trace
 cache: bundler
