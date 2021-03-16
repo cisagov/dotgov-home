@@ -147,12 +147,6 @@ main {
   }
 }
 
-.usa-nav-link.current-parent span {
-  // border-bottom: 0.7rem solid $color-primary;
-  color: $color-primary;
-  padding-bottom: 1rem;
-}
-
 .usa-nav-link:hover span,
 .usa-nav-primary a.usa-current span {
   @include media($nav-width) {
@@ -313,9 +307,6 @@ main {
     }
   }
 
-  .current-parent {
-    border-left: 0.4rem solid $color-primary;
-  }
 }
 
 .usa-sidenav-list + .usa-sidenav-contents-heading {

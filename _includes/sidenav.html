@@ -8,7 +8,7 @@
     {% endif %}
   <li>
     <a href="{{ _href | relative_url }}"{% if _current %}
-      class="usa-current"{% endif %}{% if page.url contains link.href or page.permalink contains link.href %} class="current-parent"{% endif %}>
+      class="usa-current"{% endif %}>
       {{ link.text }}
     </a>
     {% if link.subnav %}
