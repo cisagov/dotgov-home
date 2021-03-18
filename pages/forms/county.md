@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: County"
-layout: form
+layout: docs
 permalink: /registration/authorization-templates/county/
 
 sidenav: registration

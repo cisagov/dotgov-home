@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: State"
-layout: form
+layout: docs
 permalink: /registration/authorization-templates/state/
 
 sidenav: registration
