@@ -1,6 +1,6 @@
 ---
 title: "Domain Transfer Letter"
-layout: form
+layout: docs
 permalink: /management/authorization-templates/transfers/
 
 sidenav: registration

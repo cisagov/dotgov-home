@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: Interstate"
-layout: form
+layout: docs
 permalink: /registration/authorization-templates/interstate/
 
 sidenav: registration

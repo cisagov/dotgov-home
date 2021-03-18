@@ -1,6 +1,6 @@
 ---
 title: "Domain Authorization Letter: U.S. Territory"
-layout: form
+layout: docs
 permalink: /registration/authorization-templates/us-territory/
 
 sidenav: registration
