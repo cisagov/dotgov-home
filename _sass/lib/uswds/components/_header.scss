@@ -101,20 +101,6 @@ $z-index-nav:     9000;
   }
 }
 
-.usa-overlay {
-  @include position(fixed, 0);
-  background: $color-black;
-  opacity: 0;
-  transition: all 0.2s ease-in-out;
-  visibility: hidden;
-  z-index: $z-index-overlay;
-
-  &.is-visible {
-    opacity: 0.1;
-    visibility: visible;
-  }
-}
-
 // Basic header ----------- //
 
 .usa-header-basic {
