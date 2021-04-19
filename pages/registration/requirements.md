@@ -261,3 +261,6 @@ The authorization letter should provide your organization's rationale for meriti
 Abbreviations are not authorized unless an exception is granted.
 
 DotGov will arbitrate all exceptions to naming convention policy.
+
+### Questions
+We invite you to send questions regarding these requirements (or suggestions for improving them) to <dotgov@cisa.dhs.gov> or to our [GitHub repository](https://github.com/cisagov/dotgov-home/issues).
