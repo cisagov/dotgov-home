@@ -7,8 +7,11 @@ primary:
     href: /data/
   - text: About us
     href: /about/
+  - text: Updates
+    href: /updates/
   - text: Support
     href: /support/
+
 
 registration:
   - text: Registration
@@ -27,8 +30,6 @@ management:
       href: /management/security-best-practices/
     - text: HSTS preloading
       href: /management/preloading/
-    - text: Making .gov More Secure by Default
-      href: /management/preloading/dotgovhttps/
 
 data:
   - text: Data

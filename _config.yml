@@ -2,8 +2,8 @@
 theme: uswds-jekyll
 
 # OpenGraph / Twitter metadata
-title: DotGov
-description: Home of the DotGov program, which operates the .gov DNS registry and zone.
+title: .gov TLD
+description: .gov is the top-level domain for US-based government organizations.
 
 # GA and GitHub data
 google_analytics_ua: ua-33523145-2

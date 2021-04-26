@@ -6,8 +6,9 @@ permalink: /management/preloading/dotgovhttps/
 sidenav: management
 
 ---
+###### June 21, 2020
 
-<img src="/assets/img/dotgov-152.png" alt=".gov" style="float:left;margin:0 15px 15px 0"/>When the public sees information on a .gov website, they need to trust that it is official and accurate. This trust is warranted, because registration of a .gov domain is limited to bona fide US-based government organizations. Governments should be easy to identify on the internet and users should be secure on .gov websites.
+<img src="/assets/img/gov-no-cost.png" alt=".gov" style="float:left;margin:0 15px 15px 0"/>When the public sees information on a .gov website, they need to trust that it is official and accurate. This trust is warranted, because registration of a .gov domain is limited to bona fide US-based government organizations. Governments should be easy to identify on the internet and users should be secure on .gov websites.
 
 HTTPS is a key protection for websites and web users. It offers security and privacy when connecting to the web, and provides governments the assurance that what they publish is what is delivered to users. In the last few years, HTTPS has become the default connection type on the web. Browsers that were once telling users to "watch for a green lock!" are now removing the lock icons. Instead, the browser warns users when sites are **not** using HTTPS.
 

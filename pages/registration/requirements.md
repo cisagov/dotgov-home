@@ -10,9 +10,9 @@ subnav:
   - text: Federal
     href: '#federal-domains'
   - text: Native sovereign nation
-    href: '#native-sovereign-nation-domains'
-  - text: State
-    href: '#state-domains'
+    href: '#native-sovereign-nation-tribal-domains'
+  - text: State and U.S. territory
+    href: '#state-and-us-territory-domains'
   - text: Interstate
     href: '#interstate-domains'
   - text: Independent intrastate
@@ -20,247 +20,223 @@ subnav:
   - text: City and county
     href: '#city-and-county-domains'
 ---
+*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements](/registration/requirements-precisa/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
 
-This is an overview of the .gov domain registration requirements, and is meant to further explain and clarify sections of the [federal policy](https://www.ecfr.gov/cgi-bin/text-idx?SID=d611d7d4bd8f3155d3262ea4857c011e&mc=true&node=pt41.3.102_6173&rgn=div5), which focuses on purpose and jurisdiction.
+*These requirements may be updated in the future. Registrants will be provided advance notice of updates.*
 
-The .gov top-level domain (TLD) facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The TLD authorizes domain names for bona fide US-based government organizations, at the federal, state, and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as native sovereign nations (NSNs). *.gov makes government services easy to identify on the internet.*
+### Changes made by these updated requirements
+Because management of the .gov top-level domain has been [transferred from GSA to CISA](https://home.dotgov.gov/moving-to-cisa/), references to GSA and their processes have been removed. A number of updates have also been made for clarity and comprehension. Key substantive changes are the following:
 
-Every .gov domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements.
+- **Limitations on sharing.** CISA has added a provision regarding limits on CISA's sharing and use of DotGov information.
 
-Domain name requests (and requests for exceptions to policy) must come from an “authorizing authority”, which differs slightly for [federal]({{ site.baseurl }}/registration/requirements/#federal-domains), [native sovereign nations]({{ site.baseurl }}/registration/requirements/#native-sovereign-nation-domains), [state]({{ site.baseurl }}/registration/requirements/#state-domains), [interstate]({{ site.baseurl }}/registration/requirements/#interstate-domains), [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains), and [city]({{ site.baseurl }}/registration/requirements/#city-and-county-domains)/[county]({{ site.baseurl }}/registration/requirements/#city-and-county-domains) government organizations.
+- **Process for remediation.** CISA describes the process CISA will follow to help remedy the situation where a domain isn't aligned with our required and prohibited activities.
+
+-   **Restrictions on using .gov domains for commercial or political campaign purposes.** These requirements reiterate the restrictions on using .gov domains for commercial or political campaign purposes, as required by the DOTGOV Act of 2020, but do not generally impose content restrictions otherwise.
+
+-   **Malicious cyber activity.** CISA's requirements include a prohibition on using .gov domains for malicious cyber activity, as such activity affects the integrity, security, and overall trustworthiness of the .gov top-level domain.
+
+-   **CISA's process.** These requirements add a brief description of CISA's process for verifying eligibility.
+
+-   **Process for tribes, legislative entities, and judicial branch entities.** CISA has updated the processes for federal legislative and judicial agencies to request a domain, and expanded tribal government eligibility to include not only federally-recognized tribal governments but also state-recognized tribal governments.
+
+---
+
+When government organizations use a .gov domain name to serve the public on the internet, they make it easy to know that their services are official. That's because every request for a .gov domain name is carefully examined by the DotGov program to ensure it is from a genuine U.S.-based government or public sector organization.
+
+We (the DotGov program) have rules that minimize the risk that .gov domain names could mislead users about the source or purpose of a given government organization or activity, and we require registrants to carefully maintain a .gov domain name after registration.
+
+This document outlines the general requirements that apply to all .gov registrants, as well as the specific requirements that apply to certain types of government organizations. These requirements may be updated in the future. Registrants will be provided advance notice of updates.
+
+Pursuant to the DOTGOV Act of 2020 ([6 U.S.C. § 665(c)(4)](https://www.congress.gov/bill/116th-congress/house-bill/133/text/enr#:~:text=dotgov)), CISA will establish policies to limit the sharing or use of any information obtained through administration of the .gov top-level domain with any other component of the Department of Homeland Security or any other agency for any purpose other than the administration of the .gov internet domain, supporting services we may offer, and the establishment of a .gov inventory.
 
 ## General requirements
-
-The following applies to all .gov domains:
-
 ### Eligibility
+Only U.S.-based government and public sector organizations are eligible to obtain a .gov domain. This includes any federal, state, local, or territorial government entity, or other publicly controlled entity. It also includes any tribal government recognized by the federal government or a state government. Eligibility is determined by the DotGov Program, which will be informed by the United States Census Bureau's [criteria for classifying governments](https://www.census.gov/programs-surveys/gus/technical-documentation/methodology/population-of-interest1.html).
 
-To maintain domain name integrity, eligibility is limited to qualified government organizations and programs. Having a managed domain name such as .gov assures your customers that they are accessing an official U.S. government site.
+#### Determining eligibility
+Eligibility is attested through a [letter](https://home.dotgov.gov/registration/authorization-templates/) signed by your "authorizing authority". The title of the official fulfilling this role varies between government organizations, but it is usually the chief information officer (CIO), the highest-ranking executive, or the highest elected official; see the "Specific Requirements" section below for more information regarding the appropriate official for your letter.
 
-### No non-government advertisements
+The letter includes address and contact information. We review the letter, may review or request founding documentation (such as legislation, a charter, or applicable bylaws), and may review or request additional records to verify the authorizing authority's claim that they are affiliated with a U.S.-based government organization. Additional governmental and commercial data sources may be used to establish the authenticity of the request and verify the information shared in the letter.
 
-A .gov domain may not be used to advertise for private individuals, firms, or corporations. It may not be used to imply in any manner that the government endorses or favors any specific commercial product, commodity, or service.
+.gov domains are registered for a 1-year period, but do not automatically expire. During the renewal process, registrants must review their eligibility and domain contact information to verify accuracy. We may contact you as part of the renewal process, and may also request an updated authorization letter or other information.
 
-### No political or campaign information
+### Naming requirements
+While domain names *must* be globally unique, municipalities and their initiatives can have similar or identical names. Our naming rules are intended to avoid confusion about the registering organization's name or services.
 
-The .gov domain is for the operation of government, not the political, political party, or campaign environment. No campaigning can be done using .gov domains. The .gov domain websites may not be directly linked to or refer to websites created or operated by a campaign or any campaign entity or committee. No political sites or party names or acronyms can be used. Separate websites and email on other top-level domains (TLDs), such as .com or .org, will have to be used for political activity.
+#### Correspondence
+Domain names must correspond to your organization's name or services and must not be likely to mislead or confuse the general public, even if your domain is only intended for a specific audience.
 
-### Naming conventions
+#### Generic terms
+Only federal agencies can register domain names that consist solely of generic terms, like "licenses.gov," "vote.gov," and "benefits.gov." However, a domain name like `marylandvotes.gov` could be allowed since the origin of service is explicitly and unambiguously identified.
 
-Naming convention rules are described in detail in the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150). Thousands of names, programs, and general terms are used in .gov domains. The following is a summary of naming convention rules:
+#### Exceptions, including abbreviations
+Exceptions to these requirements will be considered on a case-by-case basis. This includes requests for domain names with abbreviations (other than standard state or territory two-letter abbreviations). Some classes of exceptions are outlined in city and county domains below.
 
-#### 1. Generic terms, without additional identification, are reserved for federal agencies
+#### Name allocation
+In the case of a name conflict, we will allocate domain names to the most appropriate party, at our discretion. We do not operate under a "first come, first served" basis, and we may apply discretion when allowing or denying domain requests.
 
-Only federal agencies can register generic terms, such as "licenses," "recreation," and "benefits", for domain names. However, a domain name like `marylandrecreation.gov` could be allowed (once authorized by either Maryland's Chief Information Officer or the Governor) since the origin of service is identified.
+### Required and prohibited activities
+The .gov domain exists to support a broad diversity of government missions and creative public initiatives, and, as a general matter, the DotGov program does not review and audit how organizations use their domains.
 
-#### 2. State postal codes
+However, misuse of an individual .gov domain can reflect upon the integrity of the entire .gov space. There are a few categories of misuse that are statutorily prohibited or abusive in nature.
 
-State and local second-level .gov domains must include the two-letter state acronym or spell out the state name. Additional naming conventions apply for local entities, such as cities, towns, counties, territories, and parishes.
+#### Required activities
+##### Contact information
+We ask that you maintain current and accurate contact information with us, and generally be responsive if we reach out to you. This includes asking you to maintain points of contact in the .gov registrar. In general:
 
-Examples:
+-  An *administrative contact* is the person who controls or approves content on the domain and is the manager of operations for the domain.
 
-* `UtahGovernor.gov`
-* `ColoradoDOT.gov`
-* `NJRecycling.gov`
-* `FloridaHeathDepartment.gov`
+-  The *technical contact* is the person who directly manages or operates your DNS.
 
-See each domain type's naming convention requirements in their section below.
+Additionally, we strongly recommend the creation and use of a [security contact](https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact).
 
-### Eligibility period
+#### Prohibited activities
+##### Commercial purposes
+A .gov domain must not be used for commercial purposes, such as advertising benefitting private individuals or entities.
 
-All .gov domains are registered for a 1-year eligibility period. During this period, a review of eligibility and administrative information is required. If necessary, the .gov registrar will contact the points of contact for domains. Please keep the contact information up to date. The .gov registrar may request an updated authorization letter, updated Domain Name Server (DNS) information, or other information. This information enables the government to ensure .gov domains provide secure, official websites and promotes the best possible service to the general public.
+##### Political campaigns
+A .gov domain must not be used for political campaign purposes.
 
-### Privacy and use policy
+##### Illegal content
+A .gov domain must not be used to distribute or promote material whose distribution violates applicable law.
 
-Domains should adhere to appropriate level of policies in reference to personal information usage for their domain.
+##### Malicious cyber activity
+.gov is a trusted and safe space. .gov domains must not distribute malware, host open redirects, or otherwise engage in malicious cyber activity.
 
-### Domain suspension
+#### Domain suspension
+The DotGov program may need to suspend or terminate a domain registration for violations. Registrants should respond in a timely manner to communications about prohibited activities.
 
-Organizations that operate websites that are not in compliance with the conditions of use may have their domain name suspended or experience operational issues or terminated based on the severity of the issue. There are two levels of incidents:
+When we discover a violation, we will make reasonable efforts to contact a registrant, including:
 
-#### 1. Critical
+1. Emails to domain contacts
 
-Content restriction on the .gov domain does not allow criminal activities or obscene images, inappropriate sexually oriented material, or extremist material to be displayed or sent to system users. This material being accessed through a .gov domain URL could result in an expedient suspension. A process for resolution with escalation procedures is in place with the Registry and Registration Authority. The Registry and Registration Authority will contact the registration points of contacts and the Authorizing Authority advising them of an imminent domain suspension. The Authorizing Authority is the CIO for Federal level domains. The Authorizing Authority for State and Local governments and Native Sovereign Nations is the highest IT official or highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities.
+2. Phone calls to domain contacts
 
-#### 2. Administrative
+3. Notification to the authorizing authority
 
-Domains that have content with advertising materials, political or campaign information, substantial incorrect information, inappropriate web links (i.e. to sites that violate content policy), and incorrect redirects are not in compliance or not consistent with original intent or approved purpose. The Registry and Registration Authority will contact the points of contact on the domain to get issues resolved. The expectation is these administrative compliance issues are handled in a timely manner and suspension is reserved as a last resort.
+4. Notification to the government organization generally, a parent organization, or potentially affiliated entities
 
-The actual suspension of a domain without concurrence of a registrant requires the internal GSA approval at the Senior Executive level. Generally, for GSA initiated suspensions, the suspension will become effective 3 hours to 24 hours after notification of the points of contacts, depending on the severity of the issue. The notification of the contacts is the time at which one of the domain points of contact is contacted or the time that the voice and email messages are sent to all contacts, whichever is first. This provides an opportunity for the registrant to remediate the issue to avoid suspension. The Registry and Registration Authority will review the site to see if the policy violation has been remediated prior to the suspension.
+The DotGov program understands the critical importance of the availability of .gov domains. Suspending or terminating a .gov domain is reserved only for prolonged, unresolved serious violations where the registrant is non-responsive. We will make extensive efforts to contact registrants and to identify potential solutions, and will make reasonable accommodations for remediation timelines proportionate to the severity of the issue.
 
-### Account information
+The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact](https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
 
-It is the registrant's responsibility to provide all requested information and keep all account information current; to include contact information, DNS information. It is the registrant's responsibility to ensure the account is paid in full each year. Government domains / websites can be very large, complex, and support important business operations. The process to address policy violations will allow for coordination across organizational boundaries and involve persons with the authority to make decisions on the appropriate course of action and in the timeframe required. The administrative contact is the person who controls the content of the domain and is the manager of the operations of the domain. The technical contact is the person that operates the DNS and takes care of the technical operations such as security patches. The billing contact is the person that pays for the domain. The Authorizing Authority is the highest elected official that authorizes the domain to operate and contain information reference to their government responsibilities. The Authorizing Authority for Federal Agency domains is the CIO. The Authorizing Authority for State level domains is the Governor or their appointed CIO. The Authorizing Authority for local governments and Native Sovereign Nations is the highest elected official or the highest IT official.
+## Specific requirements
+### Federal domains
 
-### Security
+All [general requirements] apply. Use the authorization letter template.
 
-Security incident notification procedures:
+#### Legislative branch authorizing authority
+Domain requests from the Senate and House of Representatives, including their offices and organizations, must come from the Senate Sergeant at Arms, or the House Chief Administrative Officer.
 
-1. The Registry and Registration Authority shall notify the US-CERT of all incidents involving the intentional unauthorized access or unauthorized intentional damage to, modification, destruction or damage to a .gov domain. The administrative contact will be notified and involved to assist in the US-CERT investigation and report.
+Domain requests from legislative branch agencies must come from the agency's head or CIO.
 
-2. Information received about incidents described in above shall be considered confidential and shall not be disclosed to the public.
+Domain requests from legislative commissions must come from the head of the Commission, or the head or CIO of the parent agency, if there is one.
 
+#### Executive branch authorizing authority
+Requests are subject to guidance issued by the Office of Management and Budget.
 
-## Federal domains
+#### Judicial branch authorizing authority
+Domain name requests for any judicial branch agency (excluding the Supreme Court of the United States), must be authorized by the director or CIO of the Administrative Office (AO) of the United States Courts.
 
-All [general requirements](#general-requirements) apply.
+Domain requests from the Supreme Court of the United States must be authorized by the director of information technology for the Supreme Court of the United States.
 
-The **fed.us** top-level domain is legacy and will not accept any new domains.
+### Native sovereign nation (tribal) domains
+All general requirements apply.
 
-### Authorization
+Tribal governments recognized by the federal government or a state government may request a .gov domain name. If desired, tribal domains may include the suffix `-nsn`, for native sovereign nation.
 
-Use the [Federal]({{ site.baseurl }}/registration/authorization-templates/federal/) or [U.S. territory]({{ site.baseurl }}/registration/authorization-templates/us-territory/) authorization letter templates.
+### State and U.S. territory domains
+All general requirements apply. Use the [state](https://home.dotgov.gov/registration/authorization-templates/state/) authorization letter template. All references to "states" includes U.S. territories.
 
-All Federal agency domain requests must come from the Chief Information Officer (CIO) of the Federal agency. See [cio.gov](https://www.cio.gov) for a complete list of Federal agency CIOs.
+#### State origin
+State .gov domains must include the [two-letter state abbreviation](https://pe.usps.com/text/pub28/28apb.htm) or clearly spell out the state name. Use of a hyphen is permitted but not recommended. Examples include:
 
-Effective February 2018, all new Federal **executive branch** .gov domain requests will be subject to additional review and approval by the Office of Management and Budget (OMB). Renewals of existing Federal executive branch .gov domains will not be subject to additional review.
+- `UtahGovernor.gov`
+- `ColoradoDOT.gov`
+- `NJRecycling.gov`
+- `FloridaHeathDepartment.gov`
 
-### Legislative domain requests
+#### Executive branch authorizing authority
+Governors or a state CIO must sign the authorization letter for state executive branch domain requests. To determine the identity of your state CIO, check out [nascio.org](https://www.nascio.org/member-profiles/).
 
-All requests from the Legislative Branch of the Federal Government for second-level .gov domains will go through the Senate Office of Information Resources or the House Information Resource Office prior to registering on the .gov domain.
+#### Legislative and judicial branch authorizing authority
+State legislatures and courts obtain authorization from their CIO or highest-ranking executive, independent of their state executive branch.
 
-### Federal court domain requests
+#### Special district functions
+Authorities like a water district that are publicly controlled instruments of state government may obtain a .gov domain once approved by the state CIO, who will ensure these entities are publicly controlled by the state. Utilities and regional authorities that provide services such as water and sanitation, but which are publicly controlled by the state, are not eligible for registration as a state domain. However, they may be eligible for registration as an [independent intrastate domain](#independent-intrastate-domains).
 
-Federal court .gov domains are linked to [uscourts.gov](https://uscourts.gov) and authorized by the Office of Government-wide Policy.
-
-## Native sovereign nation domains
-
-All [general requirements](#general-requirements) apply.
-
-Native sovereign nation domains are [coordinated](https://www.bia.gov/sites/bia.gov/files/assets/public/press_release/pdf/idc013756.pdf) with the Department of the Interior's Bureau of Indian Affairs. Use the native sovereign nation [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/native-sovereign-nation/), then send it to:
-
-Bureau of Indian Affairs
-Office of Information Operations
-Attn: Angel Goldtooth
-1011 Indian School Rd NW RM 183
-Albuquerque, NM 87104
-
-* <Angel.Goldtooth@bia.gov>
-* Tel: 505-563-5457
-* <Imelda.Tapang@bia.gov>
-* Tel: 703-390-6696
-
-## State domains
-
-All [general requirements](#general-requirements) apply.
-
-### Authorization
-
-Use the state [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/state/).
-
-Governors or a governor-appointed state chief information officer (CIO) must sign authorization letters for all state executive branch domain requests. To verify the identity of your state CIO, refer to [nascio.org](https://www.nascio.org).
-
-### State courts and legislatures
-
-State courts and legislatures can request authorization from their CIO or highest-ranking executive, independent of their state executive branch.
-
-### State name or postal code
-
-To register any second-level .gov domain, state governments must register either the full state name or clearly indicate the state postal code at the beginning or end of the domain name. Use of a hyphen is not recommended but optional. Examples of state domain names are the following:
-
-* `Tenneseeanytime.gov`
-* `NE-taxes.gov`
-* `Mysc.gov`
-* `NMparks.gov`
-
-#### Don't obscure state names or postal codes
-
-Use of the state postal code should not be embedded within a single word in a way that obscures the postal code. For example, "Information.gov" for Indiana (IN) or "Forests.gov" for Oregon (OR) are unacceptable. See paragraph 50 (§102-173.50) in the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) for more about this rule. Valid examples are the following:
-
-* `UtahGovernor.gov`
-* `ColoradoDOT.gov`
-* `NJRecycling.gov`
-* `FloridaHealthDepartments.gov`
-
-### Unlimited state-level domains
-
-The state CIO and governor can register an unlimited number of second-level .gov domains, such as:
-
-* `Georgia.gov`
-* `GA.gov`
-* `MyGeorgia.gov`
-* `NewGeorgia.gov`
-
-### Utility, transportation, and regional authorities
-
-Authorities such as a water district are instruments of the state and may use the .gov domain once approved by the State CIO, who will ensure they are operated by the state. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the state and are state employed personnel are not eligible for a domain.
-
-## Interstate domains
-
-All [general requirements](#general-requirements) apply.
-
-### Authorization
-
-Use the interstate [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/interstate/).
+### Interstate domains
+All general requirements apply. Use the interstate .
 
 Interstate (*multi-state*) governmental organizations are most frequently formed via legislation from Congress or from a legal accord between, or passed by, the state governments of **two or more states**. Examples include multi-state commissions, organizations that manage interstate compacts, or port authorities that operate across jurisdictions.
 
 The authorization letter for a domain name must:
-* be signed by the highest-ranking executive (president, director, chair, or equivalent).
-* link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization’s claim of being a bona fide interstate governmental organization.
-* list all of the participating states.
-* include a reference to your geographic area of jurisdiction
 
-Alternatively, instead of a letter containing this information, one or more of a state’s governors or CIOs can submit an authorization letter.
+- be signed by the highest-ranking executive (president, director, chair, or equivalent).
 
-Domain names must represent your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.
+- link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide interstate governmental organization.
 
-See examples of current interstate domains [here](https://github.com/GSA/data/blob/master/dotgov-domains/current-full.csv#L4428).
+- list all the participating states.
 
-## Independent intrastate domains
+- include a reference to your geographic area of jurisdiction.
 
-All [general requirements](#general-requirements) apply.
+Alternatively, instead of a letter containing this information, one or more of a state's governors or CIOs can submit an authorization letter.
 
-### Authorization
+Domain names must represent your organization or institutional name, not solely the services you provide. Generic domain names are reserved for federal agencies. Examples include:
 
-Use the independent intrastate [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/independent-intrastate/).
+- `AlabamaSoilandWater.gov`
+- `GulfCoastWaterAuthority.gov`
+- `SpaceFlorida.gov`
+- `WmataOIG.gov`
 
-Independent intrastate (*within a single state*) governmental organizations are most frequently formed via state legislation, where authority is vested in them to operate independently from the state. Examples include organizations, authorized by law, that operate a jurisdiction's elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch.
+### Independent intrastate domains
+All general requirements apply. Use the independent intrastate .
+
+Independent intrastate (*within a single state*) governmental organizations are most frequently formed via state or local legislation, where authority is vested in them to operate fully or quasi-independently from the state. Examples include organizations authorized by law that operate a jurisdiction's elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch.
 
 The authorization letter for a domain name must:
-* be signed by the highest-ranking executive (president, director, chair, or equivalent).
-* link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide intrastate governmental organization that is independent from the state
-* include a reference to your geographic area of jurisdiction
 
-Domain names must represent your state or your municipality, and your organization or institutional name, not solely the services you provide. [Generic domain names]({{ site.baseurl }}/registration/requirements/#1-generic-terms-without-additional-identification-are-reserved-for-federal-agencies) are reserved for Federal agencies.
+- be signed by the highest-ranking executive (president, director, chair, or equivalent).
 
+- link to, or have as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support the organization's claim of being a bona fide intrastate governmental organization that is independent from the state.
 
-## City and county domains
+- include a reference to your geographic area of jurisdiction.
 
-All [general requirements](#general-requirements) apply.
+#### State origin
+Independent intrastate .gov domains must include the [two-letter state abbreviation](https://pe.usps.com/text/pub28/28apb.htm) or clearly spell out the state name. Use of a hyphen is permitted but not recommended. Examples include:
 
-### Authorization
+- `Coloradoarta.gov`
+- `AZrangers.gov`
+- `NYpa.gov`
+- `TechshareTX.gov`
 
-Use the [city]({{ site.baseurl }}/registration/authorization-templates/city/) or [county]({{ site.baseurl }}/registration/authorization-templates/county/) authorization letter templates.
+### City and county domains
+All general requirements apply. Use the or authorization letter templates.
 
-The authorization letter must be signed by the mayor or the highest-ranking, elected official because the domain is the internet presence for the entire city, town, county, township, or parish represented.
+#### Authorizing authority
+The authorization letter must be signed by the mayor, chair of the county commission, or the equivalent highest elected official.
 
-### Utility, transportation, and regional authorities
+#### Origin
+City and county .gov domains must include the [two-letter state abbreviation](https://pe.usps.com/text/pub28/28apb.htm) or clearly spell out the state name. Use of a hyphen is permitted but not recommended. Examples include:
 
-Authorities such as a water district that are the instrument of local government or combined ownership by local governments, such as regional transportation authorities may share the .gov domain once approved by the Authorizing Authority, Mayor or highest ranking elected official of a local or State Government, who will ensure they are part of the local government. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the local government and are not employed personnel of the government are not eligible for a domain.
+- `CedartownGeorgia.gov`
+- `CityofEudoraKS.gov`
+- `MadisonCountyTN.gov`
+- `WallawallaWA.gov`
 
-### Naming conventions
+Counties or parishes must use the word "county" or "parish". For cities, "City of", "Town of", or similar in the domain name is optional.
 
-Naming conventions are described in depth in paragraphs 55 through 60 of the [Federal Policy](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5) (§102-173.55 - § 102-173.60). The rules for local-government domains are the following:
+#### Special district functions
+Authorities like a water district that are the instruments of local government may obtain a .gov domain once approved by the authorizing authority. Utilities and regional authorities that provide services such as water and sanitation which are not operated by the municipality are not eligible. They may be eligible for an [independent intrastate domain](#independent-intrastate-domains), however.
 
-- The preferred format is "CityName-StatePostalCode.gov":
-  - Example: Tyler-tx.gov or TylerTX.gov
-- County government names will contain the spelled-out word "County" or "Parish" in the name. See the following for more information: §102-173.60.
-- The words "City of" or "Town of" are optional (e.g., CityofAlbany-OR.gov)
+#### City and county exception requests
+Exceptions can be made for city and county domain names. To qualify for an exception, you should meet at least one of the following three criteria:
 
-### City and county exception requests
+1.  *Unique*: City and county names that are not duplicative of any other city, county, parish, town, borough, village, or equivalent elsewhere in the country at the time of issuance can be registered without needing a reference to the origin. This will be determined by using Census Bureau's [National Places Gazetteer Files](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html).
+2.  *Well-known*: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
+3.  *Most populous*: Census maintains [population data](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html#ds) for the United States. DotGov will allow the largest 50 cities' names to be registered without a state suffix.
 
-To qualify for an exception, you should meet at least one of the following three criteria:
-
-1. **Unique**: City and county names that are not duplicated by any other city, town, borough, village, or equivalent, elsewhere in the country at the time of issuance can be registered without needing a reference to the state name. This will be determined by using Census Bureau’s [National Places Gazetteer Files](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html).
-2. **Well-known**: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
-3. **Most populous**: Census maintains [population data](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html#ds) for the United States. DotGov will allow the largest 30 cities' names to be registered without a state suffix.
-
-The authorization letter should provide your organization's rationale for meriting an exception.
-
-Abbreviations are not authorized unless an exception is granted.
-
-DotGov will arbitrate all exceptions to naming convention policy.
+The authorization letter should provide your organization's rationale for meriting an exception. Domain name exception requests that result in a generic name will likely be denied. Similarly, abbreviations are not authorized unless an exception is granted.
 
 ### Questions
 We invite you to send questions regarding these requirements (or suggestions for improving them) to <dotgov@cisa.dhs.gov> or to our [GitHub repository](https://github.com/cisagov/dotgov-home/issues).
