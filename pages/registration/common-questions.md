@@ -5,48 +5,24 @@ permalink: /registration/common-questions/
 
 sidenav: registration
 subnav:
-  - text: Fees FAQ
-    href: '#fees-faq'
+
   - text: Domain authorization FAQ
     href: '#domain-authorization-faq'
   - text: DNS FAQ
-    hret: '#dns-faq'
+    href: '#dns-faq'
 ---
 
-## Fees
-A .gov domain name is $400 per year.
-
-* [What payment methods do you accept?](#what-payment-methods-do-you-accept)
-* [How often do I need to renew my domain name?](#how-often-do-i-need-to-renew-my-domain-name)
-* [What happens if I fail to submit a payment?](#what-happens-if-i-fail-to-submit-a-payment)
 
 ## Domain requirements and authorization
 * [What are the requirements for a domain's points of contact?](#what-are-the-requirements-for-a-domains-points-of-contact)
-* [How do I request an exception to the naming conventions?](#how-do-i-request-an-exception-to-the-naming-conventions)
+* [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
 * [My authorizing authority won’t sign an authorization letter. What do I do now?](#my-authorizing-authority-wont-sign-an-authorization-letter-what-do-i-do-now)
-* [My request was denied. What is the appeal process?](#my-request-was-denied-what-is-the-appeal-process)
+* [How often do I need to renew my domain name?](#how-often-do-i-need-to-renew-my-domain-name)
+* [What happens if I do not renew my domain name?](#what-happens-if-i-do-not-renew-my-domain-name)
 
 ## DNS
 * [What are the valid characters for a domain name and how long can it be?](#what-are-the-valid-characters-for-a-domain-name-and-how-long-can-it-be)
 * [Why won’t my domain work after updating the registration with actual name servers?](#why-wont-my-domain-work-after-updating-the-registration-with-actual-name-servers)
-
-***
-
-### Fees FAQ
-
-A .gov domain name is $400 per year.
-
-#### What payment methods do you accept?
-
-We can only accept credit card payments.
-
-#### How often do I need to renew my domain name?
-
-Annually. As a point of contact, you’ll receive several reminder emails. Please note that if your domain names are not kept current, they will be removed from active status. If any of your .gov domain names are removed from active status, services attached to them may experience issues.
-
-#### What happens if I do not renew my domain name?
-
-See the response in the [renewals and deletions FAQ]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name)
 
 ***
 
@@ -55,27 +31,29 @@ See the response in the [renewals and deletions FAQ]({{ site.baseurl }}/manageme
 
 1. **Administrative contact**: someone from the signatory’s office that will approve the content. This person must be a government employee.
 
-2. **Billing contact**: a person with access to a government credit card and the ability to pay registration fees.
+2. **Technical contact**: a developer or administrator, often responsible for managing [DNS]({{ site.baseurl }}/management/dns/) and securing the infrastructure.
 
-3. **Technical contact**: a developer or administrator, often responsible for managing [DNS]({{ site.baseurl }}/management/dns/) and securing the infrastructure.
+3. **Security contact**: a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
 
-4. **Security contact**: a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
+We don't currently allow be a single point of contact to be re-used for more than one role. An exception is made should you choose to use a personal email address for a security contact. We recommend using an alias, like `security@<domain>`.
 
-There cannot be a single point of contact duplicated across more than one role. An exception is made should you choose to use a personal email address for a security contact. We recommend using an alias, like `security@<domain>`.
+Administrative and technical contacts have the ability to access the .gov registrar or make changes to DNS.
 
-Each contact will have the ability to access the .gov registrar, make changes to DNS, or make payments.
+#### How do I request an exception to the naming requirements?
 
-#### How do I request an exception to the naming conventions?
-
-Exceptions to the [naming conventions]({{ site.baseurl }}/registration/requirements/#naming-conventions) can be requested in the authorization letter. For cities and counties, we have [outlined some circumstances]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) where we may grant an exception.
+Exceptions to the [naming requirements]({{ site.baseurl }}/registration/requirements/#naming-requirements) can be requested in the authorization letter. For cities and counties, we have [outlined some circumstances]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) where we may grant an exception.
 
 #### My authorizing authority won’t sign an authorization letter. What do I do now?
 
 Without a letter signed by the party defined in our [domain requirements]({{ site.baseurl }}/registration/requirements/) as the authorizing authority for your organization, you cannot register a .gov domain name.
 
-#### My request was denied. What is the appeal process?
+#### How often do I need to renew my domain name?
 
-In October 1997, the Federal Networking Council delegated full responsibility for .gov domain registration to the [General Services Administration](https://www.gsa.gov). Please [contact us]({{ site.baseurl }}/support/) with any questions you may have.
+Annually. As a domain contact, you’ll receive several reminder emails. If your domain names are not kept current, they will be removed from active status. If any of your .gov domain names are removed from active status, services attached to them may experience issues.
+
+#### What happens if I do not renew my domain name?
+
+See the response in the [renewals and deletions FAQ]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name)
 
 ***
 

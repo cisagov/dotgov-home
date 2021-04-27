@@ -21,7 +21,7 @@ The Domain Name System (DNS) is an internet service that translates your domain 
 
 .gov is a top-level domain (TLD). Other recognizable top-level domains include .com and .org. While many TLDs are *generic*, meaning anyone can obtain a domain name, .gov is a "sponsored" TLD, where the US Government acts as the sponsor for other US-based government organizations. These organizations are the only ones that can obtain a .gov domain.
 
-* [Does the .gov TLD provide DNS services for .gov domains?](#does-the-gov-tld-provide-dns-services-for-gov-domains)
+* [Does the .gov TLD provide hosted DNS services for .gov domains?](#does-the-gov-tld-provide-hosted-dns-services-for-gov-domains)
 * [What are the DNS requirements for .gov domains?](#what-are-the-dns-requirements-for-gov-domains)
 * [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-dns-information)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
@@ -43,7 +43,6 @@ Keeping point of contact (POC) information from going stale ensures that only th
 Some surprises are wonderful. Discovering your domain is no longer on the internet won't be one of them.
 
 * [How long is a .gov domain registered for?](#how-long-is-a-gov-domain-registered-for)
-* [How much is the renewal fee for a .gov domain?](#how-much-is-the-renewal-fee-for-a-gov-domain)
 * [Where can I get a list of my domains that are up for renewal?](#where-can-i-get-a-list-of-my-domains-that-are-up-for-renewal)
 * [How do I delete my domain?](#how-do-i-delete-my-domain)
 * [What happens if I do not renew my domain name?](#what-happens-if-i-do-not-renew-my-domain-name)
@@ -51,7 +50,7 @@ Some surprises are wonderful. Discovering your domain is no longer on the intern
 ***
 
 ### DNS FAQ
-#### Does the .gov TLD provide DNS services for .gov domains?
+#### Does the .gov TLD provide hosted DNS services for .gov domains?
 
 No. We manage the authoritative name servers for the .gov zone, and ensure `.gov` is propagated to the root name servers. We don't operate a for-government, managed DNS service.
 
@@ -65,9 +64,9 @@ You will not be able to specify an IP address for your name servers unless they 
 
 #### Will I be notified if a change is made to my DNS information?
 
-Yes. In response to [recent incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign) affecting other top-level domains, authorized .gov domain POCs will now receive a system-generated email when a change is made to their DNS in the DotGov Registrar. 
+Yes. In response to [recent incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign) affecting other top-level domains, .gov domain contacts will receive a system-generated email when a change is made to their DNS in the .gov registrar.
 
-The email will alert the POCs that a change was made to their DNS information and include instructions for mitigation should it be necessary.
+The email will alert the contacts that a change was made to their DNS information and include instructions for mitigation should it be necessary.
 
 #### How quickly will changes to my domain propagate throughout the internet?
 
@@ -162,13 +161,9 @@ Yes.
 
 Domains are registered for a one year period and can be renewed annually.
 
-#### How much is the renewal fee for a .gov domain?
-
-The cost of a .gov domain name is $400 per year.
-
 #### Where can I get a list of my domains that are up for renewal?
 
-On [domains.dotgov.gov](https://domains.dotgov.gov), from the Home tab, click Fees**.
+At [domains.dotgov.gov](https://domains.dotgov.gov), from the Home tab, select Manage Domains.
 
 #### How do I delete my domain?
 
@@ -178,8 +173,6 @@ Warning: once a domain is deleted, the [registration process]({{ site.baseurl }}
 
 #### What happens if I do not renew my domain name?
 
-Failure to submit payment does not result in the deletion of your domain. However, it may be placed in a hold status. When a domain name is held, it ceases resolving in DNS, making all services attached to the domain inaccessible by name resolution.
-
-Your agency will be held financially responsible for all accrued registration fees under [Final Rule 41 CFR Part 102-173.35 and 102-173.40](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt41.3.102_6173&rgn=div5#se41.3.102_6173_150), and you will not be able to register new domains until your account is up to date.
+Failure to submit updated contact information does not result in the immediate termination of your domain. However, it may be placed in a hold status. When a domain name is held, it ceases resolving in DNS, making all services attached to the domain inaccessible by name resolution.
 
 If you do not wish to renew, please contact us to [delete your domain]({{ site.baseurl }}/management/#what-happens-if-i-do-not-renew-my-domain-name).

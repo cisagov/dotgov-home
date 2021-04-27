@@ -1,6 +1,7 @@
 ---
 title: Updates
 layout: docs
+intro: What's happening around .gov
 permalink: /updates/
 subnav:
   - text: 2021
