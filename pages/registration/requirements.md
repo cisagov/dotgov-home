@@ -20,12 +20,12 @@ subnav:
   - text: City and county
     href: '#city-and-county-domains'
 ---
-*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements](/registration/requirements-precisa/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
+*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements]({{ site.baseurl }}/registration/requirements-precisa/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
 
 *These requirements may be updated in the future. Registrants will be provided advance notice of updates.*
 
 ### Changes made by these updated requirements
-Because management of the .gov top-level domain has been [transferred from GSA to CISA](https://home.dotgov.gov/moving-to-cisa/), references to GSA and their processes have been removed. A number of updates have also been made for clarity and comprehension. Key substantive changes are the following:
+Because management of the .gov top-level domain has been [transferred from GSA to CISA]({{ site.baseurl }}/moving-to-cisa/), references to GSA and their processes have been removed. A number of updates have also been made for clarity and comprehension. Key substantive changes are the following:
 
 - **Fees**. From April 26, 2021 through at least the end of Fiscal Year 2021, CISA will not be charging registrants any fees.
 - **Limitations on sharing.** CISA has added a provision regarding limits on CISA's sharing and use of DotGov information.
@@ -50,7 +50,7 @@ Pursuant to the DOTGOV Act of 2020 ([6 U.S.C. § 665(c)(4)](https://www.congress
 Only U.S.-based government and public sector organizations are eligible to obtain a .gov domain. This includes any federal, state, local, or territorial government entity, or other publicly controlled entity. It also includes any tribal government recognized by the federal government or a state government. Eligibility is determined by the DotGov Program, which will be informed by the United States Census Bureau's [criteria for classifying governments](https://www.census.gov/programs-surveys/gus/technical-documentation/methodology/population-of-interest1.html).
 
 #### Determining eligibility
-Eligibility is attested through a [letter](https://home.dotgov.gov/registration/authorization-templates/) signed by your "authorizing authority". The title of the official fulfilling this role varies between government organizations, but it is usually the chief information officer (CIO), the highest-ranking executive, or the highest elected official; see the [specific requirements](#specific-requirements) section below for more information regarding the appropriate official for your letter.
+Eligibility is attested through a [letter]({{ site.baseurl }}/registration/authorization-templates/) signed by your "authorizing authority". The title of the official fulfilling this role varies between government organizations, but it is usually the chief information officer (CIO), the highest-ranking executive, or the highest elected official; see the [specific requirements](#specific-requirements) section below for more information regarding the appropriate official for your letter.
 
 The letter includes address and contact information. We review the letter, may review or request founding documentation (such as legislation, a charter, or applicable bylaws), and may review or request additional records to verify the authorizing authority's claim that they are affiliated with a U.S.-based government organization. Additional governmental and commercial data sources may be used to establish the authenticity of the request and verify the information shared in the letter.
 
@@ -84,7 +84,7 @@ We ask that you maintain current and accurate contact information with us, and g
 
 -  The *technical contact* is the person who directly manages or operates your DNS.
 
-Additionally, we strongly recommend the creation and use of a [security contact](https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact).
+Additionally, we strongly recommend the creation and use of a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact).
 
 #### Prohibited activities
 ##### Commercial purposes
@@ -114,7 +114,7 @@ When we discover a violation, we will make reasonable efforts to contact a regis
 
 The DotGov program understands the critical importance of the availability of .gov domains. Suspending or terminating a .gov domain is reserved only for prolonged, unresolved serious violations where the registrant is non-responsive. We will make extensive efforts to contact registrants and to identify potential solutions, and will make reasonable accommodations for remediation timelines proportionate to the severity of the issue.
 
-The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact](https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
+The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
 
 ## Specific requirements
 ### Federal domains
@@ -142,7 +142,7 @@ All general requirements apply.
 Tribal governments recognized by the federal government or a state government may request a .gov domain name. If desired, tribal domains may include the suffix `-nsn`, for native sovereign nation.
 
 ### State and U.S. territory domains
-All general requirements apply. Use the [state](https://home.dotgov.gov/registration/authorization-templates/state/) authorization letter template. All references to "states" includes U.S. territories.
+All general requirements apply. Use the [state]({{ site.baseurl }}/registration/authorization-templates/state/) authorization letter template. All references to "states" includes U.S. territories.
 
 #### State origin
 State .gov domains must include the [two-letter state abbreviation](https://pe.usps.com/text/pub28/28apb.htm) or clearly spell out the state name. Use of a hyphen is permitted but not recommended. Examples include:
