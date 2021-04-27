@@ -1,71 +1,62 @@
 ---
-title: "Domain Authorization Letter: Native Sovereign Nation"
+title: "Authorization letter template: Native Sovereign Nation"
 layout: docs
 permalink: /registration/authorization-templates/native-sovereign-nation/
 
 sidenav: registration
 ---
 
-[Tribal Government Letterhead]
+[Tribal government letterhead]
 
 [Date]
 
-Bureau of Indian Affairs
-Office of Information Operations
-Attn: Angel Goldtooth
-1011 Indian School Rd NW RM 183
-Albuquerque, NM 87104
+.Gov Domain Registration\
+c/o Verisign, Inc.\
+12061 Bluemont Way\
+Reston, Virginia 20190
 
-Dear Ms. Angel Goldtooth:
+To the .gov Program:
 
-The [Insert Name] Tribe is requesting approval of the domain name [Insert Tribename-NSN.gov]. I am authorized to make this request by Tribal resolution # [Insert Number], dated [Insert Date], of the [Insert Tribe Name]. If there are any questions, please contact me at [Insert Telephone Number].
+As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#native-sovereign-nation-tribal-domains)] for [Tribe recognized by the Federal or a State government], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to my tribe.
 
-This domain name will be used for [state the purpose]. I will ensure the content of the requested domain name conforms to the .gov policy.
+[*Briefly describe the mission or initiative that drives the domain name request, explaining what the domain name will be used for. Include links to, or add as an appendix, authorizing Tribal resolution, legislation, applicable bylaws or charter, or other documentation that demonstrates you tribe has been recognized by the Federal or a State government.*]
 
-By requesting this domain name, I acknowledge that I will be responsible for payment of the annual $400 domain fee. I understand that if I wish to retire my domain, I must submit a written request to registrar@dotgov.gov. If a written request is not submitted, I understand that I will continue to be responsible for all accrued domain fees.
+In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Tribe] will meet the general and specific requirements for federal agencies, found at [https://home.dotgov.gov/registration/requirements]({{ site.baseurl }}/registration/requirements/).
 
-The following individuals will be listed as points of contact for [Insert Tribename-NSN.gov]. It is understood that the contact information must remain valid and up to date, and that administrative, billing, and technical points of contact will be unique.
+The following will be listed as contacts for [\_\_\_\_\_\_\_\_\_\_\_.gov], which [Tribe] will keep up to date in the .gov registrar.
 
-Administrative Point of Contact  
-First Name, Last Name  
-Title  
-Address  
-Phone Number  
-Email Address  
+[*Administrative, billing, and technical contacts are named individuals and must be unique; a security contact should generally be a team email address.*
 
-Billing Point of Contact  
-First Name, Last Name  
-Title  
-Address  
-Phone Number  
-Email Address  
+*As of April 26, 2021, .gov domains no longer have a fee associated with them. However, the .gov registrar has not yet been updated to remove the billing contact role. Until then, you may consider the billing contact to be a secondary administrative contact.*]
 
-Technical Point of Contact  
-First Name, Last Name  
-Title  
-Address  
-Phone Number  
-Email Address
+**Administrative contact**\
+First Last\
+Title\
+Address\
+Phone number\
+Email address
 
-Security Point of Contact [recommended, see https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact]
-Email Address
+**Billing contact**\
+First Last\
+Title\
+Address\
+Phone number\
+Email address
 
-Sincerely,  
+**Technical contact**\
+First Last\
+Title\
+Address\
+Phone number\
+Email address
+
+**Security contact** [[recommended]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact)]\
+Email address
+
+I understand that if I wish to retire [\_\_\_\_\_\_\_\_\_\_\_.gov], I must submit a written request to <registrar@dotgov.gov>.
+
+Sincerely,\
 [Signature]
 
-[Name]  
+[Name]\
 [Title]
-
-[Notary Public Section]
-
-Signed and sworn to (or affirmed) before me on [Date] ____________________________________
-
-Name of the Individual Making a Statement [First Name, Last Name] ________________________
-
-Signature of Notary Public ____________________________________
-
-My Commission Expires [Date] ____________________________________
-
-Notary Public Seal
-
-Attachment [Attach Copy of Tribal Resolution]

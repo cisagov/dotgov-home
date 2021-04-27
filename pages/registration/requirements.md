@@ -19,26 +19,20 @@ subnav:
     href: '#independent-intrastate-domains'
   - text: City and county
     href: '#city-and-county-domains'
-  - text: Questions
-    href: '#questions'
 ---
-*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements](/registration/requirements-precisa/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
+*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements]({{ site.baseurl }}/registration/requirements-precisa/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
 
 *These requirements may be updated in the future. Registrants will be provided advance notice of updates.*
 
 ### Changes made by these updated requirements
-Because management of the .gov top-level domain has been [transferred from GSA to CISA](https://home.dotgov.gov/moving-to-cisa/), references to GSA and their processes have been removed. A number of updates have also been made for clarity and comprehension. Key substantive changes are the following:
+Because management of the .gov top-level domain has been [transferred from GSA to CISA]({{ site.baseurl }}/moving-to-cisa/), references to GSA and their processes have been removed. A number of updates have also been made for clarity and comprehension. Key substantive changes are the following:
 
+- **Fees**. From April 26, 2021 through at least the end of Fiscal Year 2021, CISA will not be charging registrants any fees.
 - **Limitations on sharing.** CISA has added a provision regarding limits on CISA's sharing and use of DotGov information.
-
 - **Process for remediation.** CISA describes the process CISA will follow to help remedy the situation where a domain isn't aligned with our required and prohibited activities.
-
 -   **Restrictions on using .gov domains for commercial or political campaign purposes.** These requirements reiterate the restrictions on using .gov domains for commercial or political campaign purposes, as required by the DOTGOV Act of 2020, but do not generally impose content restrictions otherwise.
-
 -   **Malicious cyber activity.** CISA's requirements include a prohibition on using .gov domains for malicious cyber activity, as such activity affects the integrity, security, and overall trustworthiness of the .gov top-level domain.
-
 -   **CISA's process.** These requirements add a brief description of CISA's process for verifying eligibility.
-
 -   **Process for tribes, legislative entities, and judicial branch entities.** CISA has updated the processes for federal legislative and judicial agencies to request a domain, and expanded tribal government eligibility to include not only federally-recognized tribal governments but also state-recognized tribal governments.
 
 ---
@@ -56,7 +50,7 @@ Pursuant to the DOTGOV Act of 2020 ([6 U.S.C. § 665(c)(4)](https://www.congress
 Only U.S.-based government and public sector organizations are eligible to obtain a .gov domain. This includes any federal, state, local, or territorial government entity, or other publicly controlled entity. It also includes any tribal government recognized by the federal government or a state government. Eligibility is determined by the DotGov Program, which will be informed by the United States Census Bureau's [criteria for classifying governments](https://www.census.gov/programs-surveys/gus/technical-documentation/methodology/population-of-interest1.html).
 
 #### Determining eligibility
-Eligibility is attested through a [letter](https://home.dotgov.gov/registration/authorization-templates/) signed by your "authorizing authority". The title of the official fulfilling this role varies between government organizations, but it is usually the chief information officer (CIO), the highest-ranking executive, or the highest elected official; see the "Specific Requirements" section below for more information regarding the appropriate official for your letter.
+Eligibility is attested through a [letter]({{ site.baseurl }}/registration/authorization-templates/) signed by your "authorizing authority". The title of the official fulfilling this role varies between government organizations, but it is usually the chief information officer (CIO), the highest-ranking executive, or the highest elected official; see the [specific requirements](#specific-requirements) section below for more information regarding the appropriate official for your letter.
 
 The letter includes address and contact information. We review the letter, may review or request founding documentation (such as legislation, a charter, or applicable bylaws), and may review or request additional records to verify the authorizing authority's claim that they are affiliated with a U.S.-based government organization. Additional governmental and commercial data sources may be used to establish the authenticity of the request and verify the information shared in the letter.
 
@@ -90,7 +84,7 @@ We ask that you maintain current and accurate contact information with us, and g
 
 -  The *technical contact* is the person who directly manages or operates your DNS.
 
-Additionally, we strongly recommend the creation and use of a [security contact](https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact).
+Additionally, we strongly recommend the creation and use of a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact).
 
 #### Prohibited activities
 ##### Commercial purposes
@@ -120,12 +114,12 @@ When we discover a violation, we will make reasonable efforts to contact a regis
 
 The DotGov program understands the critical importance of the availability of .gov domains. Suspending or terminating a .gov domain is reserved only for prolonged, unresolved serious violations where the registrant is non-responsive. We will make extensive efforts to contact registrants and to identify potential solutions, and will make reasonable accommodations for remediation timelines proportionate to the severity of the issue.
 
-The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact](https://home.dotgov.gov/management/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
+The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
 
 ## Specific requirements
 ### Federal domains
 
-All [general requirements](#general-requirements) apply. Use the authorization letter template.
+All [general requirements] apply. Use the authorization letter template.
 
 #### Legislative branch authorizing authority
 Domain requests from the Senate and House of Representatives, including their offices and organizations, must come from the Senate Sergeant at Arms, or the House Chief Administrative Officer.
@@ -143,12 +137,12 @@ Domain name requests for any judicial branch agency (excluding the Supreme Court
 Domain requests from the Supreme Court of the United States must be authorized by the director of information technology for the Supreme Court of the United States.
 
 ### Native sovereign nation (tribal) domains
-All [general requirements](#general-requirements) apply.
+All general requirements apply.
 
 Tribal governments recognized by the federal government or a state government may request a .gov domain name. If desired, tribal domains may include the suffix `-nsn`, for native sovereign nation.
 
 ### State and U.S. territory domains
-All [general requirements](#general-requirements) apply. Use the [state](https://home.dotgov.gov/registration/authorization-templates/state/) authorization letter template. All references to "states" includes U.S. territories.
+All general requirements apply. Use the [state]({{ site.baseurl }}/registration/authorization-templates/state/) authorization letter template. All references to "states" includes U.S. territories.
 
 #### State origin
 State .gov domains must include the [two-letter state abbreviation](https://pe.usps.com/text/pub28/28apb.htm) or clearly spell out the state name. Use of a hyphen is permitted but not recommended. Examples include:
@@ -168,7 +162,7 @@ State legislatures and courts obtain authorization from their CIO or highest-ran
 Authorities like a water district that are publicly controlled instruments of state government may obtain a .gov domain once approved by the state CIO, who will ensure these entities are publicly controlled by the state. Utilities and regional authorities that provide services such as water and sanitation, but which are publicly controlled by the state, are not eligible for registration as a state domain. However, they may be eligible for registration as an [independent intrastate domain](#independent-intrastate-domains).
 
 ### Interstate domains
-All [general requirements](#general-requirements) apply. Use the interstate .
+All general requirements apply. Use the interstate .
 
 Interstate (*multi-state*) governmental organizations are most frequently formed via legislation from Congress or from a legal accord between, or passed by, the state governments of **two or more states**. Examples include multi-state commissions, organizations that manage interstate compacts, or port authorities that operate across jurisdictions.
 
@@ -192,7 +186,7 @@ Domain names must represent your organization or institutional name, not solely 
 - `WmataOIG.gov`
 
 ### Independent intrastate domains
-All [general requirements](#general-requirements) apply. Use the independent intrastate .
+All general requirements apply. Use the independent intrastate .
 
 Independent intrastate (*within a single state*) governmental organizations are most frequently formed via state or local legislation, where authority is vested in them to operate fully or quasi-independently from the state. Examples include organizations authorized by law that operate a jurisdiction's elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch.
 
@@ -213,7 +207,7 @@ Independent intrastate .gov domains must include the [two-letter state abbreviat
 - `TechshareTX.gov`
 
 ### City and county domains
-All [general requirements](#general-requirements) apply. Use the or authorization letter templates.
+All general requirements apply. Use the or authorization letter templates.
 
 #### Authorizing authority
 The authorization letter must be signed by the mayor, chair of the county commission, or the equivalent highest elected official.

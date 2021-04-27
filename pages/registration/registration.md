@@ -2,7 +2,7 @@
 title: Want a .gov? Start here.
 layout: docs
 permalink: /registration/
-
+intro: Welcome. We're here to make it easy to identify your government organization on the internet.
 sidenav: registration
 subnav:
   - text: New to .gov
@@ -12,35 +12,31 @@ subnav:
   - text: Need help?
     href: '#need-help'
 ---
-Welcome to .gov. [We're here]({{ site.baseurl }}/about/) to make it easy to identify your government organization on the internet.
 
-* If your organization is **new to .gov**, [start here](#new-to-gov).
-* If you already have a .gov registrar account and your organization is looking to **obtain another .gov domain name**, [go here](#get-another-gov-domain).
-
-***
+| **[I'm new to .gov](#new-to-gov)**| **[I have a .gov and want another](#get-another-gov-domain)** |
 
 ## New to .gov
-This section describes the request and approval process for organizations that don't yet have any .gov domain names.
+*This section describes the process for those without any .gov domain names.*
 
 Requesting a domain name consists of two main processes:
 
 1. _preparing and sending your authorization letter_, and then, after receiving a .gov registrar account,
 2. _completing the online form_.
 
-### Prepare and send the authorization letter
+### 1. Prepare and send the authorization letter
 
-1. Check to see if the [domain you want is available](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml).
+- Check to see if the [domain you want is available](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml).
 
-2. Review the .gov [domain requirements]({{ site.baseurl }}/registration/requirements/) that all domains are subject to.
+- Review the .gov [domain requirements]({{ site.baseurl }}/registration/requirements/) that all domains are subject to.
 
-3. Prepare an authorization letter to request approval for the domain:
+- Prepare an authorization letter to request approval for the domain:
 
     - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
     - Define [points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact): an administrative, a billing, and a technical POC. A [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
 
 4. Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
 
-Once we receive your authorization letter, we will verify your request and create .gov registrar accounts for each point of contact.
+Once we receive your authorization letter, we will work to verify your request and create .gov registrar accounts for each point of contact.
 
 ### Complete the online form
 

@@ -8,11 +8,11 @@ hero:
   heading: It should be easy to identify governments on the internet.
   content: .gov is the top-level domain for US-based government organizations.
   button:
-    text: Manage your domain
-    href: https://domains.dotgov.gov
-  link:
     text: Get a .gov domain
     href: /registration/
+  link:
+    text: Manage your domain
+    href: https://domains.dotgov.gov
 ---
 
 <section class="usa-section">
@@ -23,8 +23,8 @@ hero:
 
 <div class="usa-width-two-thirds">
 
-**March 8, 2021:** The .gov top-level domain is moving to the Cybersecurity and Infrastructure Security Agency. See our [announcement](/moving-to-cisa).
+**April 27th, 2021**: .gov domains are [available at no cost]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/) to qualifying U.S.-based government organizations. We’ve also updated the [requirements]({{ site.baseurl }}/registration/requirements/) to obtain and maintain a .gov domain.
 
-**June 21, 2020:** Today, the DotGov Program announces our **intent to preload the .gov TLD in the future**. We believe the security benefits that come from preloading are meaningful and necessary to continue meeting the public&rsquo;s expectation of safety on .gov services. We believe that government websites should always be secure. Click [here](/management/preloading/dotgovhttps) to learn more about the steps we are taking to reach this goal.
+**March 8, 2021:** The .gov top-level domain is moving to the Cybersecurity and Infrastructure Security Agency. See our [announcement]({{ site.baseurl }}/2021/3/8/moving-to-cisa/).
 
-**March 5, 2020:** Effective on March 10, 2020, the DotGov Program will begin requiring notarized signatures on all authorization letters when submitting a request for a new .gov domain. This is a necessary security enhancement to prevent mail and wire fraud through signature forgery in obtaining a .gov domain. This step will help maintain the integrity of .gov and ensure that .gov domains continue to be issued only to official U.S. government organizations.
+**June 21, 2020:** We announced our [intent to preload the .gov TLD]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/) in the future.

@@ -14,7 +14,7 @@ subnav:
   - text: Use DMARC
     href: '#use-dmarc'
   - text: Sign up for Cyber Hygiene
-    href: '#sign-up-for-dhs-cyber-hygiene'
+    href: '#sign-up-for-cisas-cyber-hygiene'
   - text: Join MS-ISAC
     href: '#join-ms-isac'
 ---
@@ -56,8 +56,8 @@ For domains that don't send mail, setting a strong DMARC policy ensures that no 
 
 See the Department of Homeland Security's (DHS) guide to [DMARC and email authentication](https://cyber.dhs.gov/bod/18-01/#introduction-to-email-authentication).
 
-## Sign up for DHS Cyber Hygiene
-DHS operates a network and vulnerability scanning service for government organizations called "[Cyber Hygiene](https://www.us-cert.gov/resources/ncats)". Cyber Hygiene provides regular reports to help you secure your internet-facing systems from weak configuration and known vulnerabilities, and encourages the adoption of modern security best practices.
+## Sign up for CISA's Cyber Hygiene
+CISA operates a network and vulnerability scanning service for government organizations called "[Cyber Hygiene](https://www.cisa.gov/cyber-hygiene-services)". Cyber Hygiene provides regular reports to help you secure your internet-facing systems from weak configuration and known vulnerabilities, and encourages the adoption of modern security best practices.
 
 ## Join MS-ISAC
-For non-federal government organizations, consider joining the [Multi-State Information Sharing and Analysis Center](https://learn.cisecurity.org/ms-isac-registration). MS-ISAC has been [designated by DHS](https://www.dhs.gov/topic/cybersecurity-information-sharing) as the cybersecurity information sharing center for state, local, tribal, and territorial governments, and works to help ensure the resiliency of government systems.
+For non-federal government organizations, consider joining the [Multi-State Information Sharing and Analysis Center](https://learn.cisecurity.org/ms-isac-registration). MS-ISAC has been [designated by CISA](https://www.cisa.gov/information-sharing-and-awareness) as the cybersecurity information sharing center for state, local, tribal, and territorial governments, and works to help ensure the resiliency of government systems.

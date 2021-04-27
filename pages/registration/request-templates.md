@@ -8,12 +8,10 @@ sidenav: registration
 ---
 
 * [Federal]({{ site.baseurl }}/registration/authorization-templates/federal/)
-* [U.S. Territory]({{ site.baseurl }}/registration/authorization-templates/us-territory/)
 * [Native Sovereign Nation]({{ site.baseurl }}/registration/authorization-templates/native-sovereign-nation/)
-* [State]({{ site.baseurl }}/registration/authorization-templates/state/)
+* [State/U.S. Territory]({{ site.baseurl }}/registration/authorization-templates/state-territory/)
 * [Interstate]({{ site.baseurl }}/registration/authorization-templates/interstate/)
 * [Independent intrastate]({{ site.baseurl }}/registration/authorization-templates/independent-intrastate/)
-* [City]({{ site.baseurl }}/registration/authorization-templates/city/)
-* [County]({{ site.baseurl }}/registration/authorization-templates/county/)
+* [City/County]({{ site.baseurl }}/registration/authorization-templates/city-county/)
 
 Not sure which letter to select? Check out the [domain requirements]({{ site.baseurl }}/registration/requirements/) section for a breakdown of each domain type.

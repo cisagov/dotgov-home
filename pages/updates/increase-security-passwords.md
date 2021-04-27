@@ -1,7 +1,9 @@
 ---
-title: Password update
+title: Increasing the security of passwords
 layout: docs
-permalink: /password-update/
+permalink: /2018/4/17/increase-security-passwords/
+redirect_from:
+  - /password-update/
 ---
 
 The DotGov registrar has added a security feature to prevent the use of passwords that have been identified in various publicly known data breaches. **All DotGov users will need to update their password** – even if your password has not been re-used or breached – in order for your account to be protected.

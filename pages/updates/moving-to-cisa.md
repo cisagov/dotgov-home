@@ -1,7 +1,14 @@
 ---
 title: .gov is moving to CISA
 layout: docs
-permalink: /moving-to-cisa/
+permalink: /2021/3/8/moving-to-cisa/
+redirect_from:
+  - /moving-to-cisa/
+subnav:
+  - text: What's happening now
+    href: '#whats-happening-now'
+  - text: What's happening next
+    href: '#whats-happening-next'
 ---
 ###### March 8, 2021
 
