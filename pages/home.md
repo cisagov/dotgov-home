@@ -23,8 +23,8 @@ hero:
 
 <div class="usa-width-two-thirds">
 
-**April 26th, 2021**: .gov is now managed by CISA, and [.gov domains are available without cost](/2021/4/26/a-new-day-for-gov/) to qualifying U.S.-based government organizations. We’ve also updated the requirements to obtain and maintain a .gov domain.
+**April 27th, 2021**: .gov domains are [available at no cost](/2021/4/27/a-new-day-for-gov/) to qualifying U.S.-based government organizations. We’ve also updated the [requirements](/registration/requirements/) to obtain and maintain a .gov domain.
 
-**March 8, 2021:** The .gov top-level domain is moving to the Cybersecurity and Infrastructure Security Agency. See our [announcement](/moving-to-cisa).
+**March 8, 2021:** The .gov top-level domain is moving to the Cybersecurity and Infrastructure Security Agency. See our [announcement](/2021/3/8/moving-to-cisa/).
 
-**June 21, 2020:** We announced our [intent to preload the .gov TLD](/management/preloading/dotgovhttps) in the future. We believe the security benefits that come from preloading are meaningful and necessary to continue meeting the public&rsquo;s expectation of safety on .gov services.
+**June 21, 2020:** We announced our [intent to preload the .gov TLD](/2020/6/21/an-intent-to-preload/) in the future.

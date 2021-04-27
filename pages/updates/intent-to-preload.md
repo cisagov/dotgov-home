@@ -1,14 +1,19 @@
 ---
-title: Making .gov More Secure by Default
+title: An intent to preload
 layout: docs
-permalink: /management/preloading/dotgovhttps/
-
-sidenav: management
+permalink: /2020/6/21/an-intent-to-preload/
+redirect_from:
+  - /management/preloading/dotgovhttps/
+subnav:
+  - text: HSTS and preloading
+    href: '#hsts-and-preloading'
+  - text: Preloading .gov
+    href: '#preloading-gov'
 
 ---
 ###### June 21, 2020
 
-<img src="/assets/img/gov-no-cost.png" alt=".gov" style="float:left;margin:0 15px 15px 0"/>When the public sees information on a .gov website, they need to trust that it is official and accurate. This trust is warranted, because registration of a .gov domain is limited to bona fide US-based government organizations. Governments should be easy to identify on the internet and users should be secure on .gov websites.
+<img src="/assets/img/dotgov-152.png" alt=".gov" style="float:left;margin:0 15px 15px 0"/>When the public sees information on a .gov website, they need to trust that it is official and accurate. This trust is warranted, because registration of a .gov domain is limited to bona fide US-based government organizations. Governments should be easy to identify on the internet and users should be secure on .gov websites.
 
 HTTPS is a key protection for websites and web users. It offers security and privacy when connecting to the web, and provides governments the assurance that what they publish is what is delivered to users. In the last few years, HTTPS has become the default connection type on the web. Browsers that were once telling users to "watch for a green lock!" are now removing the lock icons. Instead, the browser warns users when sites are **not** using HTTPS.
 
@@ -20,8 +25,7 @@ An additional protection, HTTP Strict Transport Security (HSTS), is a simple sta
 
 For a user to take advantage of HSTS, however, their browser has to see the HSTS header on a site at least once. This means that users are not protected until *after* their first successful secure connection to a given domain, which  [may not occur in certain cases](https://https.cio.gov/hsts/#hsts-preloading)
 
-To solve this problem, a domain can be submitted to the [HSTS preload list](https://hstspreload.org), a list of domains embedded into browsers that get HSTS enabled automatically, *even for the first visit*. **Domains that preload protect their entire "namespace,"** including all current or potential subdomains.
- Since May 2017, we've been [automatically preloading](https://www.cio.gov/2017/01/19/automatic-https.html) new federal executive branch .gov domains. In August 2018, we began allowing all other newly registered .gov domains to opt into this protection.
+To solve this problem, a domain can be submitted to the [HSTS preload list](https://hstspreload.org), a list of domains embedded into browsers that get HSTS enabled automatically, *even for the first visit*. **Domains that preload protect their entire "namespace,"** including all current or potential subdomains. Since May 2017, we've been [automatically preloading](https://www.cio.gov/2017/01/19/automatic-https.html) new federal executive branch .gov domains. In August 2018, we began allowing all other newly registered .gov domains to opt into this protection.
 
 While individual opt-in actions are valuable, **preloading can also be applied to a top-level domain (TLD)**, protecting the entire zone. Preloading a domain is both a smart security move and an easy thing to do, if the TLD begins with no deployed services to transition. Preloading an *existing* TLD is substantially more challenging than preloading a new one, because preloading requires that HTTPS be supported everywhere the domain is used for web services, including sites on both the internet and intranet alike.
 
@@ -32,7 +36,6 @@ Today, the DotGov Program announces our **intent to preload the .gov TLD**. We b
 Note that we're announcing *an intent to preload the TLD*, but **not actually preloading it today**. If we did that, some government websites that don't offer HTTPS would become inaccessible to users, and we don't want to negatively impact services on our way to enhancing them! *Actually preloading* is a simple step, but getting there will require concerted effort among the federal, state, local and tribal government organizations that use a common resource, but don't often work together in this area.
 
 With concerted effort, we could preload .gov within a few years. In order to support that goal and ascertain a feasible target deadline, **we are taking the following steps**:
-
 
 1. We are collaborating with the Cybersecurity and Infrastructure Security Agency (CISA) to help ensure .gov domain owners are ready for their domains to be preloaded in the future.
 2. We are teaming up with government-affiliated civic organizations to hold **presentations and listening sessions** in the coming months to get the word out about preloading .gov

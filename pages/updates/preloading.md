@@ -2,14 +2,12 @@
 title: HSTS preloading
 layout: docs
 permalink: /management/preloading/
-
-sidenav: management
+sidenav: support
 subnav:
   - text: Introduction
     href: '#introduction'
   - text: Certificates
     href: '#certificates'
-
 ---
 
 ## Introduction

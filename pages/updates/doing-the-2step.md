@@ -1,14 +1,16 @@
 ---
 title: 2-step Verification
 layout: docs
-permalink: /2step/
-sidenav: support
+permalink: /2018/10/1/doing-the-2-step/
+redirect_from:
+  - /2step/
 subnav:
   - text: 2-step verification
     href: '#what-is-2-step-verification'
   - text: 2-step FAQ
     href: '#faq'
 ---
+###### October 1, 2018
 
 We’ve added a new feature to improve the security of your .gov registrar account: **2-step verification**.
 
@@ -36,7 +38,7 @@ You will need to add 2-step verification to your account at [https://domains.dot
 ### Rollout schedule
 
 * _GSA-owned domains_: October 1 - 31
-* _Federal Agency_: February 4, 2019 
+* _Federal Agency_: February 4, 2019
 * _Native Sovereign Nation_: October 8 -  November 7
 * _County_: October 22 - November 21
 * _State/Local Govt_: November 5 - December 5

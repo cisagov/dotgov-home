@@ -2,8 +2,8 @@
 theme: uswds-jekyll
 
 # OpenGraph / Twitter metadata
-title: .gov TLD
-description: .gov is the top-level domain for US-based government organizations.
+title: DotGov
+description: .gov is the top-level domain for U.S.-based government organizations.
 
 # GA and GitHub data
 google_analytics_ua: ua-33523145-2
@@ -36,6 +36,9 @@ collections:
   pages:
     output: true
     #permalink: /:path/
+
+plugins:
+  - jekyll-redirect-from
 
 kramdown:
   parse_block_html: true
