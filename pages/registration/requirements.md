@@ -20,7 +20,7 @@ subnav:
   - text: City and county
     href: '#city-and-county-domains'
 ---
-*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements]({{ site.baseurl }}/registration/requirements-archived/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
+*These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements]({{ site.baseurl }}/registration/requirements-retired/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
 
 *These requirements may be updated in the future. Registrants will be provided advance notice of updates.*
 

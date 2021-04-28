@@ -1,7 +1,7 @@
 ---
 title: Domain requirements
 layout: docs
-permalink: /registration/requirements-precisa/
+permalink: /registration/requirements-retired/
 
 sidenav: registration
 subnav:
