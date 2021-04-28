@@ -202,8 +202,8 @@ The authorization letter for a domain name must:
 Independent intrastate .gov domains must include the [two-letter state abbreviation](https://pe.usps.com/text/pub28/28apb.htm) or clearly spell out the state name. Use of a hyphen is permitted but not recommended. Examples include:
 
 - `Coloradoarta.gov`
-- `AZrangers.gov`
 - `NYpa.gov`
+- `PortHouston.gov`
 - `TechshareTX.gov`
 
 ### City and county domains
