@@ -119,7 +119,7 @@ The public may report suspected security issues or other serious violations to <
 ## Specific requirements
 ### Federal domains
 
-All [general requirements] apply. Use the authorization letter template.
+All [general requirements](#general-requirements) apply. Use the authorization letter template.
 
 #### Legislative branch authorizing authority
 Domain requests from the Senate and House of Representatives, including their offices and organizations, must come from the Senate Sergeant at Arms, or the House Chief Administrative Officer.
