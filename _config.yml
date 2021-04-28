@@ -22,8 +22,6 @@ exclude:
 - README.md
 - vendor
 
-styles:
-  - /assets/css/main.css
 
 defaults:
   - scope:
@@ -31,6 +29,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
 
 collections:
   pages:
