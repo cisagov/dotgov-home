@@ -1,7 +1,8 @@
 ---
-title: Domain requirements
+title: Domain requirements (retired)
 layout: docs
 permalink: /registration/requirements-retired/
+intro: Retired on April 26, 2021. See the <a href="https://home.dotgov.gov/registration/requirements/">current requirements</a>.
 
 sidenav: registration
 subnav:
@@ -20,8 +21,6 @@ subnav:
   - text: City and county
     href: '#city-and-county-domains'
 ---
-### These requirements were retired on April 26, 2021. Check out the [current requirements]({{ site.baseurl }}/registration/requirements/).
-
 This is an overview of the .gov domain registration requirements, and is meant to further explain and clarify sections of the [federal policy](https://www.ecfr.gov/cgi-bin/text-idx?SID=d611d7d4bd8f3155d3262ea4857c011e&mc=true&node=pt41.3.102_6173&rgn=div5), which focuses on purpose and jurisdiction.
 
 The .gov top-level domain (TLD) facilitates collaboration among government-to-government, government-to-business, and government-to-citizen entities. The TLD authorizes domain names for bona fide US-based government organizations, at the federal, state, and local levels, including federally recognized Indian tribes and Alaskan Native groups, known as native sovereign nations (NSNs). *.gov makes government services easy to identify on the internet.*

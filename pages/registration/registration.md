@@ -34,11 +34,11 @@ Requesting a domain name consists of two main processes:
     - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
     - Define [points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact): an administrative, a billing, and a technical POC. A [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
 
-4. Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
+- Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
 
 Once we receive your authorization letter, we will work to verify your request and create .gov registrar accounts for each point of contact.
 
-### Complete the online form
+### 2. Complete the online form
 
 After each point of contact has logged in to establish their account, any of them can complete the online domain request form. This form asks for some information you've already collected with the authorization letter, and allows you to submit name server information for your .gov domain. (This can also be added after domain approval.)
 
@@ -54,7 +54,7 @@ Before you launch your new domain, we strongly recommend that you review our [do
 
 ## Get another .gov domain
 
-If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. After completing the domain request form, you will also need to submit an authorization letter, as described [here](#prepare-and-send-the-authorization-letter).
+If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. After completing the domain request form, you will also need to submit an authorization letter, as described [here](#1-prepare-and-send-the-authorization-letter).
 
 ***
 
