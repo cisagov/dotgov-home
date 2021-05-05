@@ -1,5 +1,5 @@
 ---
-title: "Authorization letter template: Native Sovereign Nation"
+title: "Authorization letter template: Native sovereign nation (tribal)"
 layout: docs
 permalink: /registration/authorization-templates/native-sovereign-nation/
 
