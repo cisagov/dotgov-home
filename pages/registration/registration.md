@@ -31,10 +31,12 @@ Requesting a domain name consists of two main processes:
 
 - Prepare an authorization letter to request approval for the domain:
 
-    - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a word processor, and update the letter with the appropriate information for your request. The letter must be on *official letterhead stationary*, with a signature from your organization's *authorizing authority*. See the .gov [domain requirements]({{site.baseurl }}/registration/requirements/) for who that is for your organization type.
-    - Define [points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact): an administrative, a billing, and a technical POC. A [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
+    - Copy and paste an [authorization letter template]({{ site.baseurl }}/registration/authorization-templates/) into a document editor, and update canned fields with the appropriate information for your request.
+      - The letter must be on *official letterhead*, with a signature from your organization's *authorizing authority*. See the [.gov domain requirements]({{site.baseurl }}/registration/requirements/) for who that is in your organization type.
+      - In the letter, you'll include [points of contact]({{ site.baseurl }}/registration/common-questions/#what-are-the-requirements-for-a-domains-points-of-contact): an administrative, a billing, and a technical contact. A [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow the public to report observed or suspected security issues at your domain. *Security contact details are made public.*
+      - Have your authorizing authority sign the document.
 
-- Email your authorization letter to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
+- Email your signed authorization letter (in PDF) to <registrar@dotgov.gov>, or fax a copy to 540-301-0160.
 
 Once we receive your authorization letter, we will work to verify your request and create .gov registrar accounts for each point of contact.
 
