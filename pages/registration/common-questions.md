@@ -35,7 +35,7 @@ subnav:
 
 3. **Security contact**: a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) is a recommended practice, and can be added to allow outsiders to report observed or suspected security issues at your domain. *Security contact details are made public.*
 
-We don't currently allow be a single point of contact to be re-used for more than one role. An exception is made should you choose to use a personal email address for a security contact. We recommend using an alias, like `security@<domain>`.
+We don't currently allow a single point of contact to be re-used for more than one role. An exception is made should you choose to use a personal email address for a security contact. We recommend using an alias, like `security@<domain>`.
 
 Administrative and technical contacts have the ability to access the .gov registrar or make changes to DNS.
 
