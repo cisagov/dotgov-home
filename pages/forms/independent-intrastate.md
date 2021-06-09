@@ -50,7 +50,7 @@ Address\
 Phone number\
 Email address
 
-**Security contact** [[recommended]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact)]\
+**Security contact** [[recommended]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact)]\
 Email address
 
 I understand that if I wish to retire [\_\_\_\_\_\_\_\_\_\_\_.gov], I must submit a written request to <registrar@dotgov.gov>.

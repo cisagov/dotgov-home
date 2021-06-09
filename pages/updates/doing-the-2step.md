@@ -112,8 +112,8 @@ If you're updating 2-step verification to a new device and you have access to th
 
 ### I’ve lost my phone! How do get back into my account?
 
-If you are unable to access your device, you should [contact the .gov Help Desk]({{ site.baseurl }}/support/).
+If you are unable to access your device, you should [contact the .gov Help Desk]({{ site.baseurl }}/help/).
 
 ### I have a question that isn’t listed. Who should I contact?
 
-[Contact the .gov Help Desk]({{ site.baseurl }}/support/) for additional support.
+[Contact the .gov Help Desk]({{ site.baseurl }}/help/) for additional support.

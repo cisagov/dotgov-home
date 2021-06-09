@@ -84,7 +84,7 @@ We ask that you maintain current and accurate contact information with us, and g
 
 -  The *technical contact* is the person who directly manages or operates your DNS.
 
-Additionally, we strongly recommend the creation and use of a [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact).
+Additionally, we strongly recommend the creation and use of a [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact).
 
 #### Prohibited activities
 ##### Commercial purposes
