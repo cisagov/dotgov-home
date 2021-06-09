@@ -56,7 +56,7 @@ Setting an enforced DMARC policy can take some effort, but once you do, email th
 
 For domains that don't send mail, setting a strong DMARC policy ensures that no one receives mail that appears to come from your domain.
 
-See the Department of Homeland Security's (DHS) guide to [DMARC and email authentication](https://cyber.dhs.gov/bod/18-01/#introduction-to-email-authentication).
+See the Cybersecurity and Infrastructure Security Agency's (CISA) guide to [DMARC and email authentication](https://cyber.dhs.gov/bod/18-01/#introduction-to-email-authentication).
 
 ## Sign up for CISA's Cyber Hygiene
 CISA operates a network and vulnerability scanning service for government organizations called "[Cyber Hygiene](https://www.cisa.gov/cyber-hygiene-services)". Cyber Hygiene provides regular reports to help you secure your internet-facing systems from weak configuration and known vulnerabilities, and encourages the adoption of modern security best practices.
