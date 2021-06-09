@@ -21,7 +21,7 @@ As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#inters
 
 [*Briefly describe your organization's mission or initiative that drives the domain name request, explaining what the domain name will be used for. List the states your organization is associated with and describe the nature of the relationship between them and your organization. Include links to, or add as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation that demonstrates your being a bona fide interstate governmental organization.*]
 
-In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Organization] will meet the general and specific requirements for federal agencies, found at [{{ site.baseurl }}/registration/requirements](https://home.dotgov.gov/registration/requirements/).
+In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Organization] will meet the general and specific requirements for federal agencies, found at [https://home.dotgov.gov/registration/requirements/]({{ site.baseurl }}/registration/requirements).
 
 The following will be listed as contacts for [\_\_\_\_\_\_\_\_\_\_\_.gov], which [Organization] will keep up to date in the .gov registrar.
 
@@ -50,7 +50,7 @@ Address\
 Phone number\
 Email address
 
-**Security contact** [[recommended]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact)]\
+**Security contact** [[recommended]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact)]\
 Email address
 
 I understand that if I wish to retire [\_\_\_\_\_\_\_\_\_\_\_.gov], I must submit a written request to <registrar@dotgov.gov>.

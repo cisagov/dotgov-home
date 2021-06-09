@@ -24,7 +24,7 @@ subnav:
 * *June 21:* **[An intent to preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)**. HSTS preloading can protect individual domains names, but it can also be applied to a top-level domain.
 
 ### 2019
-* *July 17:* **[DNS change notifications]({{ site.baseurl }}/management/#will-i-be-notified-if-a-change-is-made-to-my-dns-information)**. Authorized .gov domain contacts will receive a system-generated email when a change is made to their DNS in the .gov registrar.
+* *July 17:* **[DNS change notifications]({{ site.baseurl }}/help/#will-i-be-notified-if-a-change-is-made-to-my-dns-information)**. Authorized .gov domain contacts will receive a system-generated email when a change is made to their DNS in the .gov registrar.
 
 ### 2018
 * *October 29:* **[GSA steps up security for .gov](https://digital.gov/2018/10/29/gsa-steps-up-security-for-dotgov/)**. This guest post on digital.gov summarized many of this year's activities.

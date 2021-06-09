@@ -1,16 +1,14 @@
 primary:
-  - text: Domain registration
+  - text: Registration
     href: /registration/
-  - text: Domain management
-    href: /management/
-  - text: Data
-    href: /data/
   - text: About us
     href: /about/
   - text: Updates
     href: /updates/
-  - text: Support
-    href: /support/
+  - text: Data
+    href: /data/
+  - text: Help
+    href: /help/
 
 
 registration:
@@ -20,14 +18,10 @@ registration:
     href: /registration/requirements/
   - text: Authorization letter templates
     href: /registration/authorization-templates/
-  - text: Common questions
-    href: /registration/common-questions/
 
 management:
     - text: Domain management
       href: /management/
-    - text: Domain security best practices
-      href: /management/security-best-practices/
     - text: HSTS preloading
       href: /management/preloading/
 
@@ -35,8 +29,10 @@ data:
   - text: Data
     href: /data/
 
-support:
-  - text: Support
-    href: /support/
-  - text: 2-step Verification
+help:
+  - text: Help
+    href: /help/
+  - text: Domain security best practices
+    href: /help/security-best-practices/
+  - text: 2-step verification
     href: /2step/
