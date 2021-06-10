@@ -32,7 +32,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 * * *
 
-**Domain requirements**
+### [Domain requirements](#domain-requirements-faq)
 
 *.gov is a unique space, only available to genuine U.S.-based government organizations.*
 
@@ -42,7 +42,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
 * [My authorizing authority won’t sign an authorization letter. What do I do now?](#my-authorizing-authority-wont-sign-an-authorization-letter-what-do-i-do-now)
 
-**DNS**
+### [DNS](#dns-faq)
 
 *The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of numbered address.*
 
@@ -55,7 +55,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 * [When can I define my DS record?](#when-can-i-define-my-ds-record)
 * [Why won’t my domain work after updating the registration with actual name servers?](#why-wont-my-domain-work-after-updating-the-registration-with-actual-name-servers)
 
-**Contact information**
+### [Contact information](#contact-information-faq)
 
 *Keeping your contact information current ensures that only authorized individuals can make changes to your domain. It also makes it possible for us to reach you if there's an issue.*
 
@@ -63,7 +63,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 * [Can one person serve as contacts on a single domain?](#can-one-person-serve-as-contacts-on-a-single-domain)
 * [Can a person serve as a contact on multiple domains?](#can-a-person-serve-as-a-contact-on-multiple-domains)
 
-**Renewals, transfers, and deletions**
+### [Renewals, transfers, and deletions](#renewals-transfers-and-deletions-faq)
 
 *Some surprises are wonderful. Discovering your domain is no longer on the internet won't be one of them.*
 
@@ -74,8 +74,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 ***
 
-### Domain requirements
-
+### Domain requirements FAQ
 #### Who can obtain a .gov domain and what are the requirements?
 
 The [Eligibility]({{ site.baseurl }}/registration/requirements/#eligibility) section of our [domain requirements]({{ site.baseurl }}/registration/requirements/) says:
@@ -173,7 +172,6 @@ If the name server information is the only remaining information required for re
 ***
 
 ### Contact information FAQ
-
 #### How do I change a contact for my domain?
 
 A current contact should [contact us](#contact-us) to establish a new user account. If all contacts are unavailable (e.g., they've left the organization), the [authorizing authority](#whats-an-authorizing-authority-and-who-is-ours) must sign a new authorization letter and assign new domain contacts.
@@ -188,7 +186,7 @@ Yes.
 
 ***
 
-### Renewals and deletions FAQ
+### Renewals, transfers, and deletions FAQ
 #### How long is a .gov domain registered for?
 
 One year. (Domain contacts will receive several reminder emails before expiration.)
@@ -210,5 +208,3 @@ Whether transferring or receiving, start by copying and pasting the [domain tran
 Failure to submit updated contact information does not result in the immediate termination of your domain. However, it may be placed in a hold status. When a domain name is held, it ceases resolving in DNS, making all services attached to the domain inaccessible by name resolution.
 
 If you do not wish to renew, please contact us to [delete your domain]({{ site.baseurl }}#how-do-i-delete-my-domain).
-
----
