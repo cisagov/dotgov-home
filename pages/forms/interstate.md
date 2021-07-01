@@ -17,7 +17,7 @@ Reston, Virginia 20190
 
 To the .gov Program:
 
-As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#interstate-domains)] for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to [Organization].
+As [authorizing authority]({{ site.baseurl }}/registration/requirements/#interstate-domains) for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to [Organization].
 
 [*Briefly describe your organization's mission or initiative that drives the domain name request, explaining what the domain name will be used for. List the states your organization is associated with and describe the nature of the relationship between them and your organization. Include links to, or add as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation that demonstrates your being a bona fide interstate governmental organization.*]
 

@@ -38,6 +38,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 * [Who can obtain a .gov domain and what are the requirements?](#who-can-obtain-a-gov-domain-and-what-are-the-requirements)
 * [What's an "authorizing authority", and who is ours?](#whats-an-authorizing-authority-and-who-is-ours)
+* [We're an elections office. Who is our authorizing authority?](#were-an-elections-office-who-is-our-authorizing-authority)
 * [What contact information do we need to keep updated?](#what-contact-information-do-we-need-to-keep-updated)
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
 * [My authorizing authority won’t sign an authorization letter. What do I do now?](#my-authorizing-authority-wont-sign-an-authorization-letter-what-do-i-do-now)
@@ -112,7 +113,13 @@ Administrative and technical contacts have accounts to the .gov registrar and ca
 
 A **[security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact)** is a recommended practice. It should be added to allow the public to report observed or suspected security issues at your domain. *Security contact details are made public.* We recommend using an alias, like `security@<domain.gov>`.
 
+> **Note**: The security contact role *does not* have an account to the .gov registrar.
+
 At present, we don't allow a single person to serve as more than one contact – even for the billing account - meaning that three distinct contacts are required. (This does *not* apply to security contact.)
+
+#### We're an elections office. Who is our authorizing authority?
+
+In general, elections offices maintain legal or practical autonomy from a municipality. Elections offices should follow the requirements for [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains) domains. The authorization authority is the highest election official. For state-level election offices, the authorizing authority is typically the state's chief election official. For local-level election offices, the highest level election official is typically the elected or appointed official that runs the office.
 
 #### How do I request an exception to the naming requirements?
 
