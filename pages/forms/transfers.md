@@ -17,7 +17,7 @@ Reston, Virginia 20190
 
 To the .gov Program:
 
-As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#federal-domains)] for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov\] be transferred [to \_\_\_\_\_\_\_\_\_\_\_ /from my organization].
+As [authorizing authority]({{ site.baseurl }}/registration/requirements/#federal-domains) for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov\] be transferred [to \_\_\_\_\_\_\_\_\_\_\_ /from my organization].
 
 [*Briefly state why this domain is being transferred to/from your agency.*]
 

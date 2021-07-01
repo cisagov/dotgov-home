@@ -1,8 +1,8 @@
 ---
-title: Want a .gov? Start here.
+title: Registration
 layout: docs
 permalink: /registration/
-intro: Welcome. We're here to make it easy to identify your government organization on the internet.
+intro: Want a .gov? Start here.
 sidenav: registration
 subnav:
   - text: New to .gov
@@ -13,7 +13,7 @@ subnav:
     href: '#need-help'
 ---
 
-| **[I'm new to .gov](#new-to-gov)**| **[I have a .gov and want another](#get-another-gov-domain)** |
+| _[I'm new to .gov](#new-to-gov)_| _[I want another .gov domain](#get-another-gov-domain)_ |
 
 ## New to .gov
 *This section describes the process for those without any .gov domain names.*

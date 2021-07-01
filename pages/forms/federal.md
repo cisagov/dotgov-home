@@ -17,7 +17,7 @@ Reston, Virginia 20190
 
 To the .gov Program:
 
-As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#federal-domains)] for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov\] be delegated to my organization.
+As [authorizing authority]({{ site.baseurl }}/registration/requirements/#federal-domains) for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov\] be delegated to my organization.
 
 [*Briefly describe your agency's mission or initiative that drives the domain name request, explaining what the domain name will be used for.*]
 

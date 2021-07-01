@@ -16,6 +16,9 @@ subnav:
     href: '#2017'
 ---
 ### 2021
+
+* *June 30:* **[A request for information](https://sam.gov/opp/231e3374f3fe449ebd31d51e1454029e/view)**. We released an RFI to gather feedback on our objectives for .gov's next phase. 
+
 * *April 27:* **[A new day for .gov]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/)**. Domains are available to qualifying U.S.-based government organizations *at no cost*, and the registration requirements have been updated.
 
 * *March 8:* **[.gov is moving to CISA]({{ site.baseurl }}/2021/3/8/moving-to-cisa/)**. The .gov TLD is moving to the Cybersecurity and Infrastructure Security Agency.

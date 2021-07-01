@@ -2,8 +2,8 @@
 theme: uswds-jekyll
 
 # OpenGraph / Twitter metadata
-title: DotGov
-description: .gov is the top-level domain for U.S.-based government organizations.
+title: .gov
+description: The top-level domain for U.S.-based government organizations
 
 # GA and GitHub data
 google_analytics_ua: ua-33523145-2

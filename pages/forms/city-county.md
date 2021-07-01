@@ -6,7 +6,7 @@ permalink: /registration/authorization-templates/city-county/
 sidenav: registration
 ---
 
-[City Government Letterhead]
+[City government letterhead]
 
 [Date]
 
@@ -17,7 +17,7 @@ Reston, Virginia 20190
 
 To the .gov Program:
 
-As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#city-and-county-domains)] for [City/County], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to my municipality.
+As [authorizing authority]({{ site.baseurl }}/registration/requirements/#city-and-county-domains) for [City/County], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to my municipality.
 
 [*Briefly describe the mission or initiative that drives the domain name request, explaining what the domain name will be used for.*]
 

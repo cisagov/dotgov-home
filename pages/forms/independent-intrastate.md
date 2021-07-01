@@ -17,7 +17,7 @@ Reston, Virginia 20190
 
 To the .gov Program:
 
-As [[authorizing authority]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains)] for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to [Organization].
+As [authorizing authority]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains) for [Agency Name], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to [Organization].
 
 [*Briefly describe your organization's mission or initiative that drives the domain name request, explaining what the domain name will be used for. Describe how your organization is a bona fide government organization that is independent of your state's government. Include links to, or add as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation to support your claims.*]
 
