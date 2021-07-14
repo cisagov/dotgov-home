@@ -24,7 +24,7 @@ Support is available 9 a.m. to 5 p.m. Eastern Time [(except public holidays)](ht
 
 ## Frequently asked questions
 
-Your domain is central to your organization's brand and availability over the internet. It's also key to your (and your users') security. We've outlined answers to common questions below.
+Your domain is central to your organization's brand and availability over the internet. It's also key to your security, and that of your users. We've outlined answers to common questions below.
 
 We also recommend you review our [domain security best practices]({{ site.baseurl }}/help/security-best-practices/) page.
 
@@ -34,11 +34,12 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 ### [Domain requirements](#domain-requirements-faq)
 
-*.gov is a unique space, only available to genuine U.S.-based government organizations.*
+*.gov is a unique space, only available to genuine U.S.-based government organizations and publicly controlled entities.*
 
 * [Who can obtain a .gov domain and what are the requirements?](#who-can-obtain-a-gov-domain-and-what-are-the-requirements)
 * [What's an "authorizing authority", and who is ours?](#whats-an-authorizing-authority-and-who-is-ours)
 * [We're an elections office. Who is our authorizing authority?](#were-an-elections-office-who-is-our-authorizing-authority)
+* [We're a school district. Can we get a .gov domain?](#were-a-school-district-can-we-get-a-gov-domain)
 * [What contact information do we need to keep updated?](#what-contact-information-do-we-need-to-keep-updated)
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
 * [My authorizing authority won’t sign an authorization letter. What do I do now?](#my-authorizing-authority-wont-sign-an-authorization-letter-what-do-i-do-now)
@@ -99,6 +100,17 @@ The authorizing authority is the official we'll accept as signatory for your .go
 
 6. [City/County]({{site.baseurl}}/registration/requirements/#city-and-county-domains): Cities, towns, villages, counties, parishes, borough, or equivalents
 
+#### We're an elections office. Who is our authorizing authority?
+
+In general, elections offices maintain legal or practical autonomy from a municipality. Elections offices should follow the requirements for [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains) domains. The authorization authority is the highest election official. For state-level election offices, the authorizing authority is typically the state's chief election official. For local-level election offices, the highest level election official is typically the elected or appointed official that runs the office.
+
+#### We're a school district. Can we get a .gov domain?
+School districts that meet the characteristics of a 'school district government', as described in the [U.S. Census Bureau's classification of government units](https://www.census.gov/library/publications/2019/econ/2017isd.html), may request a .gov domain. School districts that are _dependent entities_ of local governments may not request a .gov domain, but their parent government (e.g., the county) may request one on their behalf.
+
+For details about school district governments, see the section "School District Governments and Public School Systems" in [Individual State Descriptions: 2017 Census of Governments](https://www.census.gov/content/dam/Census/library/publications/2017/econ/2017isd.pdf#page=12) (PDF pg. 12) and your individual state description.
+
+School district governments are subject to the registration requirements for [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains) domains. So, for school district governments, the authorizing authority is the highest-ranking executive, e.g., the chair of a school district's board or the superintendent.
+
 #### What contact information do we need to keep updated?
 
 Domain name registrants [must]({{site.baseurl}}/registration/requirements/#required-activities) keep names, email addresses, and phone numbers current for *administrative* and *technical* contacts. In general:
@@ -116,10 +128,6 @@ A **[security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-se
 > **Note**: The security contact role *does not* have an account to the .gov registrar.
 
 At present, we don't allow a single person to serve as more than one contact – even for the billing account - meaning that three distinct contacts are required. (This does *not* apply to security contact.)
-
-#### We're an elections office. Who is our authorizing authority?
-
-In general, elections offices maintain legal or practical autonomy from a municipality. Elections offices should follow the requirements for [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains) domains. The authorization authority is the highest election official. For state-level election offices, the authorizing authority is typically the state's chief election official. For local-level election offices, the highest level election official is typically the elected or appointed official that runs the office.
 
 #### How do I request an exception to the naming requirements?
 
