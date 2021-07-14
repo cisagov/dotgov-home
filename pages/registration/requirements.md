@@ -114,7 +114,7 @@ When we discover a violation, we will make reasonable efforts to contact a regis
 
 The DotGov program understands the critical importance of the availability of .gov domains. Suspending or terminating a .gov domain is reserved only for prolonged, unresolved serious violations where the registrant is non-responsive. We will make extensive efforts to contact registrants and to identify potential solutions, and will make reasonable accommodations for remediation timelines proportionate to the severity of the issue.
 
-The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact]({{ site.baseurl }}/management/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
+The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
 
 ## Specific requirements
 ### Federal domains
