@@ -48,7 +48,7 @@ Though CISA has [removed]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/) regis
 The U.S. Election Assistance Commission (EAC) has acknowledged that Help America Vote Act (HAVA) funds can be used for the process of transitioning to a .gov domain. Election officials are advised to consult with the EAC before making any purchase to ensure it is an appropriate expenditure of funds under the rules governing the grants. For more information, [contact the EAC](https://www.eac.gov/contactuseac).
 
 <h5>_Homeland Security Grant Program_</h5>
-In the DOTGOV Act, “migrating any online service” to .gov became an allowable expense under the Homeland Security Grant Program. FEMA manages the grant program,  and potential grantees can include transitioning in their ‘investment justification’ submission.” For more information, see [fema.gov](https://www.fema.gov/sites/default/files/documents/FEMA_2021-Preparedness-Grants-Manual_02-19-2021.pdf#page=50).
+In the DOTGOV Act, “migrating any online service” to .gov became an allowable expense under the Homeland Security Grant Program. FEMA manages the grant program,  and potential grantees can include transitioning in their ‘investment justification’ submission. For more information, see [fema.gov](https://www.fema.gov/sites/default/files/documents/FEMA_2021-Preparedness-Grants-Manual_02-19-2021.pdf#page=50).
 
 <h5>_State and local collaboration_</h5>
 Election infrastructure often relies on municipality infrastructure, so you may consider collaborating locally to ensure resources are available to transition to .gov. (Non-election government organizations also qualify for a .gov domain!)
