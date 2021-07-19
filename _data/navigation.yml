@@ -10,7 +10,6 @@ primary:
   - text: Help
     href: /help/
 
-
 registration:
   - text: Registration
     href: /registration/
@@ -18,6 +17,12 @@ registration:
     href: /registration/requirements/
   - text: Authorization letter templates
     href: /registration/authorization-templates/
+
+about:
+    - text: About
+      href: /about/
+    - text: About, for elections
+      href: /about/elections/
 
 management:
     - text: Domain management
