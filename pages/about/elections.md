@@ -1,8 +1,8 @@
 ---
-title: About .gov
+title: About .gov, for elections
 layout: docs
 permalink: /about/elections/
-intro: For the election community
+intro: Increasing trusted information
 sidenav: about
 subnav:
   - text: Frequently asked questions
