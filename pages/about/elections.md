@@ -15,7 +15,7 @@ Using a .gov domain for your online services (like your website or email) helps 
 
 Additionally, using .gov **increases security**:
 * [Multi-factor authentication]({{ site.baseurl }}/2018/10/1/doing-the-2-step/) is enforced on all accounts in the .gov registrar, different than commercial registrars.
-* We ‘[preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)’ all new domains, which requires browsers to only use a secure HTTPS connection with your website. This protects your visitors' privacy and ensures the content you publish is exactly what's received.
+* We “[preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)” all new domains, which requires browsers to only use a secure HTTPS connection with your website. This protects your visitors' privacy and ensures the content you publish is exactly what's received.
 * You can [add a security contact]({{ site.baseurl }}/help/security-best-practices/) for your domain, making it easier for the public to tell you of a potential security issue with your online services.
 
 _If you're from the government, we're here to help_. Check out our [registration page]({{ site.baseurl }}/registration/) to begin.
