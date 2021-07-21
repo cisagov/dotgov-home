@@ -5,10 +5,8 @@ permalink: /about/elections/
 intro: For the election community
 sidenav: about
 subnav:
-  - text: Why use .gov?
-    href: '#why-use-gov'
-  - text: What does .gov do?
-    href: '#what-does-gov-do'
+  - text: Frequently asked questions
+    href: '#frequently-asked-questions'
 
 ---
 State and local election offices are increasingly tasked with [countering false or misleading information](https://www.cisa.gov/mdm) _about_ an election on top of _administering_ an election. One concrete response you can take is to make it **easy to identify official election information on the internet**, a task made simple by .gov.  
@@ -54,7 +52,7 @@ The U.S. Election Assistance Commission (EAC) has acknowledged that Help America
 The DOTGOV Act made “[migrating any online service](https://uscode.house.gov/view.xhtml?req=%22migrating+any+online+service%22&f=treesort&fq=true&num=0&hl=true&edition=prelim&granuleId=USC-prelim-title6-section609)” to .gov an allowable expense under the Homeland Security Grant Program. FEMA manages the grant program, and potential grantees may include transition costs in their ‘investment justification’ submission. For more information, see [FEMA's preparedness grants manual](https://www.fema.gov/sites/default/files/documents/FEMA_2021-Preparedness-Grants-Manual_02-19-2021.pdf#page=50) (PDF, page 50).
 
 <h5>_State and local collaboration_</h5>
-Election infrastructure often relies on municipal infrastructure, so you may consider collaborating locally to secure resources to transition to .gov. (U.S.-based government organizations qualify for a .gov domain!)
+Election infrastructure often relies on municipal infrastructure, so you may consider collaborating locally to secure resources to transition to .gov. (Non-election U.S.-based government organizations [qualify]({{ site.baseurl }}/about) for a .gov domain.)
 
 #### What other resources are available to elections offices?
 
