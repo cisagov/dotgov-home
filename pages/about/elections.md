@@ -16,7 +16,7 @@ Using a .gov domain for your online services (like your website or email) helps 
 Additionally, using .gov **increases security**:
 * [Multi-factor authentication]({{ site.baseurl }}/2018/10/1/doing-the-2-step/) is enforced on all accounts in the .gov registrar, different than commercial registrars.
 * We ‘[preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)’ all new domains, which requires browsers to only use a secure HTTPS connection with your website. This protects your visitors' privacy and ensures the content you publish is exactly what's received.
-* You can [add a security contact]({{ site.baseurl }}/help/security-best-practices/) to WHOIS for your domain, making it easier for the public to tell you of a potential security issue with your online services.
+* You can [add a security contact]({{ site.baseurl }}/help/security-best-practices/) for your domain, making it easier for the public to tell you of a potential security issue with your online services.
 
 _If you're from the government, we're here to help_. Check out our [registration page]({{ site.baseurl }}/registration/) to begin.
 
@@ -56,4 +56,4 @@ Election infrastructure often relies on municipal infrastructure, so you may con
 
 #### What other resources are available to elections offices?
 
-CISA is committed to working collaboratively with those on the front lines of elections — state and local governments, election officials, federal partners, and vendors – to manage risks to the Nation’s election infrastructure. CISA provides guidance, products, and voluntary services to state and local election offices to support the election infrastructure community. For more information, visit the [CISA election security page](https://www.cisa.gov/election-security) or reach out to your [regional office](https://www.cisa.gov/cisa-regions) representative.   
+CISA is committed to working collaboratively with those on the front lines of elections – state and local governments, election officials, federal partners, and vendors – to manage risks to the Nation’s election infrastructure. CISA provides guidance, products, and voluntary services to state and local election offices to support the election infrastructure community. For more information, visit the [CISA election security page](https://www.cisa.gov/election-security) or reach out to your [regional office](https://www.cisa.gov/cisa-regions) representative.   

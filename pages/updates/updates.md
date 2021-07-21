@@ -17,7 +17,9 @@ subnav:
 ---
 ### 2021
 
-* *June 30:* **[A request for information](https://sam.gov/opp/231e3374f3fe449ebd31d51e1454029e/view)**. We released an RFI to gather feedback on our objectives for .gov's next phase. 
+* *July 21st:* **[About .gov, for elections]({{ site.baseurl}}/about/elections)**. We've added a page to help the election community learn about .gov.
+
+* *June 30:* **[A request for information](https://sam.gov/opp/78749b4fc58145568148dbdecfa83f6d/view)**. We released an RFI to gather feedback on our objectives for .gov's next phase.
 
 * *April 27:* **[A new day for .gov]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/)**. Domains are available to qualifying U.S.-based government organizations *at no cost*, and the registration requirements have been updated.
 
