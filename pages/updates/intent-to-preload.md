@@ -13,7 +13,7 @@ subnav:
 ---
 ###### June 21, 2020
 
-<img src="/assets/img/dotgov-152.png" alt=".gov" style="float:left;margin:0 15px 15px 0"/>When the public sees information on a .gov website, they need to trust that it is official and accurate. This trust is warranted, because registration of a .gov domain is limited to bona fide US-based government organizations. Governments should be easy to identify on the internet and users should be secure on .gov websites.
+<img src="/assets/img/dotgov-152.png" alt=".gov" style="float:left;margin:0 15px 15px 0"/>When the public sees information on a .gov website, they are likely to trust that it is official and accurate. This trust is warranted, since registration of a .gov domain is limited to bona fide US-based government organizations. Governments should be easy to identify on the internet and users should be secure on .gov websites.
 
 HTTPS is a key protection for websites and web users. It offers security and privacy when connecting to the web, and provides governments the assurance that what they publish is what is delivered to users. In the last few years, HTTPS has become the default connection type on the web. Browsers that were once telling users to "watch for a green lock!" are now removing the lock icons. Instead, the browser warns users when sites are **not** using HTTPS.
 
@@ -38,8 +38,8 @@ Note that we're announcing *an intent to preload the TLD*, but **not actually pr
 With concerted effort, we could preload .gov within a few years. In order to support that goal and ascertain a feasible target deadline, **we are taking the following steps**:
 
 1. We are collaborating with the Cybersecurity and Infrastructure Security Agency (CISA) to help ensure .gov domain owners are ready for their domains to be preloaded in the future.
-2. We are teaming up with government-affiliated civic organizations to hold **presentations and listening sessions** in the coming months to get the word out about preloading .gov
-3. We have created a new listserv for **feedback from government agencies**. In particular, we'd like to hear the challenges agencies expect to face, and the solutions they develop that we can all use to resolve them. It's our hope that this new communications channel will generate discussion between government organizations. If you are a *current .gov account holder* or plan to request a new .gov domain in the future, please email <a href="mailto:dotgovhttps@listserv.gsa.gov">dotgovhttps@listserv.gsa.gov</a> using your .gov email and request to join the DotGov HTTPS listserv.
+2. We are teaming up with government-affiliated civic organizations to hold **presentations and listening sessions** in the coming months to get the word out about preloading .gov.
+3. We have created a new listserv for **feedback from government agencies**. In particular, we'd like to hear the challenges agencies expect to face, and the solutions they develop that we can all use to resolve them. It's our hope that this new communications channel will generate discussion between government organizations. Email <a href="mailto:dotgovhttps@listserv.gsa.gov">dotgovhttps@listserv.gsa.gov</a> to request to join.
 4. **Beginning September 1, 2020, all new .gov domains will be automatically preloaded**. This ensures that we're focused on transitioning historical domains, not new ones, and defaults to strong security going forward.
 
 After input from the community, we'll announce a target preloading date at a future time**.** For now, we've all got some work to do.

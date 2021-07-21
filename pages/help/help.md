@@ -87,15 +87,15 @@ The requirements specify the *general* requirements that all domain registrants 
 
 #### What's an "authorizing authority", and who is ours?
 
-The authorizing authority is the official we'll accept as signatory for your .gov domain request. To determine who yours is, evaluate what kind of government organization yours is and follow the link:
+The authorizing authority is the official we'll accept as signatory for your .gov domain request. To determine who yours is, _evaluate what kind of government organization you are_ and follow the link (which will take you to the relevant section of our [domain requirements]({{ site.baseurl }}/registration/requirements/)):
 
 1. [Federal]({{site.baseurl}}/registration/requirements/#federal-domains): Federal agencies from all three branches of the federal government
-2. [Native sovereign nation]({{site.baseurl}}/registration/requirements/#native-sovereign-nation-tribal-domains): Tribal governments recognized by the federal government or a state government
+2. [Native sovereign nation (tribal)]({{site.baseurl}}/registration/requirements/#native-sovereign-nation-tribal-domains): Tribal governments recognized by the federal government or a state government
 3. [State/U.S. territories]({{site.baseurl}}/registration/requirements/#state-and-us-territory-domains): 50 U.S. states, District of Columbia (D.C.), American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and U.S. Virgin Islands
-4. [Interstate]({{site.baseurl}}/registration/requirements/#interstate-domains):
+4. [Interstate]({{site.baseurl}}/registration/requirements/#interstate-domains): An organization of two or more states. From our domain requirements:
 > _Interstate (multi-state) governmental organizations are most frequently formed via legislation from Congress or from a legal accord between, or passed by, the state governments of two or more states. Examples include multi-state commissions, organizations that manage interstate compacts, or port authorities that operate across jurisdictions._
 
-5. [Independent intrastate]({{site.baseurl}}/registration/requirements/#independent-intrastate-domains):
+5. [Independent intrastate]({{site.baseurl}}/registration/requirements/#independent-intrastate-domains): An autonomous organization of a single state. From our domain requirements:
 > _Independent intrastate (within a single state) governmental organizations are most frequently formed via state or local legislation, where authority is vested in them to operate fully or quasi-independently from the state. Examples include organizations authorized by law that operate a jurisdiction’s elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch."_
 
 6. [City/County]({{site.baseurl}}/registration/requirements/#city-and-county-domains): Cities, towns, villages, counties, parishes, borough, or equivalents

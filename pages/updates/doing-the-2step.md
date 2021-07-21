@@ -28,26 +28,6 @@ A password is all that protects your account right now, and passwords can be eas
 ## Why is this change happening?
 Though you might only change your .gov domain or account information infrequently, someone with your password could sign in at any time and make changes. This extra layer of security makes it harder for someone to log in as you, which protects the services you make available to the public via a .gov domain.
 
-## What does this change mean for me?
-You will need to add 2-step verification to your account at [https://domains.dotgov.gov](https://domains.dotgov.gov). The feature will be rolling out gradually following the schedule below. Please note:
-
-1. The *first date* is the initial time you can add 2-step verification to your account.
-2. Between the two dates, if you're not ready to add 2-step verification, you'll be able to select "Remind me later".
-3. The *second date* is the enforcement date. On this date and after, you **must** enable 2-step verification on your account to manage your domain.
-
-### Rollout schedule
-
-* _GSA-owned domains_: October 1 - 31
-* _Federal Agency_: February 4, 2019
-* _Native Sovereign Nation_: October 8 -  November 7
-* _County_: October 22 - November 21
-* _State/Local Govt_: November 5 - December 5
-* _City_: Done in phases, based on the *first letter of your username*:
-  * *A - D*: November 19 - December 19
-  * *E - J*: December 5 - January 9, 2019
-  * *K - P*: December 17 - January 23, 2019
-  * *Q - Z*: January 14, 2019 - February 13, 2019
-
 ## How do I set up 2-step verification?
 
 In order to set up 2-step verification, you will need to use an [authentication app](#what-is-an-authentication-app) to generate security codes. *DotGov will only provide customer support for Google Authenticator*, but any application that implements the time-based one-time password (TOTP) standard will also work.

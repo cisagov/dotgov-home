@@ -3,6 +3,7 @@ title: About
 layout: docs
 permalink: /about/
 intro: We put U.S. governments on the internet.
+sidenav: about
 subnav:
   - text: Why use .gov?
     href: '#why-use-gov'
@@ -15,7 +16,7 @@ subnav:
 
 .gov is a 'top-level domain', or TLD, similar to _.com_, _.org_, or _.us_. Individuals and enterprises use a TLD to register a domain name (often simply called a _domain_) for use in their online services, like a website or email.
 
-In many well-known TLDs, anyone can register a domain for a fee, and as long as they pay there aren't many questions asked about whether the name they chose corresponds to their real-life name or services. While this can be a useful property in enabling creative communication, it can also make it difficult to know whether the people behind a name are who they _really_ claim to be.
+In many well-known TLDs, anyone can register a domain for a fee, and as long as they pay there aren't many questions asked about whether the name they chose corresponds to their real-life name or services. While this can be a useful property for creative communication, it can also make it difficult to know whether the people behind a name are _really_ who they claim to be.
 
 **It should be easy to identify governments on the internet**, and using a .gov domain shows you’re official. The public shouldn't have to guess whether the site they're on or the email that hits their inbox is genuine.
 

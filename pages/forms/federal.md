@@ -50,7 +50,7 @@ Address\
 Phone number\
 Email address
 
-**Security contact** [[required for the executive branch](https://cyber.dhs.gov/bod/20-01/#enable-receipt-of-unsolicited-reports), [recommended for others]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact)]\
+**Security contact** [[required for the executive branch](https://cyber.dhs.gov/bod/20-01/#enable-receipt-of-unsolicited-reports)]\
 Email address
 
 I understand that if I wish to retire \[\_\_\_\_\_\_\_\_\_\_\_.gov\], I must submit a written request to <registrar@dotgov.gov>.
