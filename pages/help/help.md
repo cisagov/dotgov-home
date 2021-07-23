@@ -143,7 +143,7 @@ Without a letter signed by the party defined in our [domain requirements]({{ sit
 ### DNS FAQ
 #### Does the .gov TLD provide additional services for .gov domains?
 
-We manage the authoritative name servers for the .gov zone and ensure the zone file is propagated to root name servers. We don't operate a for-government, managed DNS hosting service, nor do we offer web hosting, email services or certificates.
+We manage the authoritative name servers for the .gov zone and ensure the zone file is propagated to root name servers. We don't operate a for-government, managed DNS hosting service, nor do we offer web hosting, email services, or certificates.
 
 For DNS hosting, many service providers exists. Your technical support team may also manage DNS name servers you can utilize.
 
