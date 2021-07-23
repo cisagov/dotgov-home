@@ -48,7 +48,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 *The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of numbered address.*
 
-* [Does the .gov TLD provide hosted DNS services for .gov domains?](#does-the-gov-tld-provide-hosted-dns-services-for-gov-domains)
+* [Does the .gov TLD provide additional services for .gov domains?](#does-the-gov-tld-provide-additional-services-for-gov-domains)
 * [What are the name server requirements for .gov domains?](#what-are-the-name-server-requirements-for-gov-domains)
 * [What are the valid characters for a domain name and how long can it be?](#what-are-the-valid-characters-for-a-domain-name-and-how-long-can-it-be)
 * [Where do I look for the authoritative .gov zone data?](#where-do-i-look-for-the-authoritative-gov-zone-data)
