@@ -66,7 +66,7 @@ Domain names must correspond to your organization's name or services and must no
 Only federal agencies can register domain names that consist solely of generic terms, like "licenses.gov," "vote.gov," and "benefits.gov." However, a domain name like `marylandvotes.gov` could be allowed since the origin of service is explicitly and unambiguously identified.
 
 #### Exceptions, including abbreviations
-Exceptions to these requirements will be considered on a case-by-case basis. This includes requests for domain names with abbreviations (other than standard state or territory two-letter abbreviations). Some classes of exceptions are outlined in city and county domains below.
+Exceptions to these requirements will be considered on a case-by-case basis. This includes requests for domain names with abbreviations (other than standard state or territory two-letter abbreviations). Some classes of exceptions are outlined in [city and county domains]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) below.
 
 #### Name allocation
 In the case of a name conflict, we will allocate domain names to the most appropriate party, at our discretion. We do not operate under a "first come, first served" basis, and we may apply discretion when allowing or denying domain requests.
