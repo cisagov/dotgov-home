@@ -14,13 +14,18 @@ subnav:
 
 ### Why use .gov?
 
-.gov is a 'top-level domain', or TLD, similar to _.com_, _.org_, or _.us_. Individuals and enterprises use a TLD to register a domain name (often simply called a _domain_) for use in their online services, like a website or email.
+.gov is a 'top-level domain', or TLD, similar to _.com_, _.org_, or _.us_. Enterprises use a TLD to register a domain name (often simply called a _domain_) for use in their online services, like a website or email.
 
 In many well-known TLDs, anyone can register a domain for a fee, and as long as they pay there aren't many questions asked about whether the name they chose corresponds to their real-life name or services. While this can be a useful property for creative communication, it can also make it difficult to know whether the people behind a name are _really_ who they claim to be.
 
 **It should be easy to identify governments on the internet**, and using a .gov domain shows you’re official. The public shouldn't have to guess whether the site they're on or the email that hits their inbox is genuine.
 
 [CISA](https://www.cisa.gov), the Cybersecurity and Infrastructure Security Agency, [sponsors the .gov TLD](https://www.iana.org/domains/root/db/gov.html) and makes it available _solely_ to U.S.-based government organizations and publicly controlled entities. For those that qualify for a .gov domain, it's available without a fee.
+
+Additionally, using .gov **increases security**:
+* [Multi-factor authentication]({{ site.baseurl }}/2018/10/1/doing-the-2-step/) is enforced on all accounts in the .gov registrar, different than commercial registrars.
+* We ‘[preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)’ all new domains, which requires browsers to only use a secure HTTPS connection with your website. This protects your visitors' privacy and ensures the content you publish is exactly what's received.
+* You can [add a security contact]({{ site.baseurl }}/help/security-best-practices/) for your domain, making it easier for the public to tell you of a potential security issue with your online services.
 
 _If you're from the government, we're here to help_. Check out our [registration page]({{ site.baseurl }}/registration/) to begin.
 

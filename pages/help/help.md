@@ -28,9 +28,7 @@ Your domain is central to your organization's brand and availability over the in
 
 We also recommend you review our [domain security best practices]({{ site.baseurl }}/help/security-best-practices/) page.
 
-> *Don't see an answer to your question? [Contact us](#contact-us).*
-
-* * *
+> **Don't see an answer to your question? [Contact us](#contact-us).**
 
 ### [Domain requirements](#domain-requirements-faq)
 
