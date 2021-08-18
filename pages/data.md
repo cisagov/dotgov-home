@@ -13,14 +13,16 @@ subnav:
 
 #### All .gov domains
 
-Includes all registered domains from every [domain type]({{ site.baseurl }}/help/#whats-an-authorizing-authority-and-who-is-ours): _federal, tribal, state/territory, interstate, independent intrastate,_ and _city/county_.
+* [web view](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv)
+* [.csv](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-full.csv)
 
-* **[All .gov domains](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-full.csv)** (.csv)
+Includes all registered domains from every [domain type]({{ site.baseurl }}/help/#whats-an-authorizing-authority-and-who-is-ours): _federal, tribal, state/territory, interstate, independent intrastate,_ and _city/county_.
 
 #### Federal .gov domains
 
-Includes all domain names registered to federal agencies: _legislative, executive,_ and _judicial_. (This is a subset of the file above.)
+* [web view](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-federal.csv)
+* [.csv](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-federal.csv)
 
-* **[Federal .gov domains](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-federal.csv)** (.csv)
+A subset of all .gov domains, includes only those registered to federal legislative, executive, and judicial agencies.
 
 >_If you have questions about the data or suggestions for improving it, [open an issue in our GitHub repository](https://github.com/cisagov/dotgov-data/issues)._
