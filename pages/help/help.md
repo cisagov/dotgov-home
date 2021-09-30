@@ -119,13 +119,11 @@ Domain name registrants [must]({{site.baseurl}}/registration/requirements/#requi
 
 Administrative and technical contacts have accounts to the .gov registrar and can make changes to your DNS nameservers.
 
-(A legacy contact, the *billing contact*, remains, even though domains are now [available at no cost]({{site.baseurl}}/2021/4/27/a-new-day-for-gov/). You may consider it a secondary administrative contact.)
-
 A **[security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact)** is a recommended practice. It should be added to allow the public to report observed or suspected security issues at your domain. *Security contact details are made public.* We recommend using an alias, like `security@<domain.gov>`.
 
 > **Note**: The security contact role *does not* have an account to the .gov registrar.
 
-At present, we don't allow a single person to serve as more than one contact – even for the billing account - meaning that three distinct contacts are required. (This does *not* apply to security contact.)
+At present, we don't allow a single person to serve as more than one contact - meaning that two distinct contacts are required. (This does *not* apply to security contact.)
 
 #### How do I request an exception to the naming requirements?
 
@@ -191,7 +189,7 @@ A current contact should [contact us](#contact-us) to establish a new user accou
 
 #### Can one person serve as contacts on a single domain?
 
-No. At present, we don't allow a single person to serve as more than one contact – even for the billing account - meaning that three distinct contacts are required. (This does *not* apply to security contact.)
+No. At present, we don't allow a single person to serve as more than one contact – meaning that two distinct contacts are required. (This does *not* apply to security contact.)
 
 #### Can a person serve as a contact on multiple domains?
 

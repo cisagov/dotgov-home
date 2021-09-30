@@ -32,13 +32,6 @@ Address\
 Phone number\
 Email address
 
-**Billing contact**\
-First Last\
-Title\
-Address\
-Phone number\
-Email address
-
 **Technical contact**\
 First Last\
 Title\
