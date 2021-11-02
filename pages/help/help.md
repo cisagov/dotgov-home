@@ -46,7 +46,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 *The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of numbered address.*
 
-* [Does the .gov TLD provide additional services for .gov domains?](#does-the-gov-tld-provide-additional-services-for-gov-domains)
+* [Do you provide DNS hosting for .gov domains?](#do-you-provide-dns-hosting-for-gov-domains)
 * [What are the name server requirements for .gov domains?](#what-are-the-name-server-requirements-for-gov-domains)
 * [What are the valid characters for a domain name and how long can it be?](#what-are-the-valid-characters-for-a-domain-name-and-how-long-can-it-be)
 * [Where do I look for the authoritative .gov zone data?](#where-do-i-look-for-the-authoritative-gov-zone-data)
@@ -137,11 +137,11 @@ Without a letter signed by the party defined in our [domain requirements]({{ sit
 ***
 
 ### DNS FAQ
-#### Does the .gov TLD provide additional services for .gov domains?
+#### Do you provide DNS hosting for .gov domains?
 
-We manage the authoritative name servers for the .gov zone and ensure the zone file is propagated to root name servers. We don't operate a for-government, managed DNS hosting service, nor do we offer web hosting, email services, or certificates.
+No. We manage the authoritative name servers for the .gov zone and ensure the zone file is propagated to root name servers. We don't operate a managed DNS hosting service – nor do we offer web hosting, email services, or certificates.
 
-For DNS hosting, many service providers exists. Your technical support team may also manage DNS name servers you can utilize.
+Many DNS hosting service providers exist. Your technical support team may also manage authoritative DNS for you.
 
 #### What are the name server requirements for .gov domains?
 
