@@ -16,7 +16,12 @@ subnav:
 | _[I'm new to .gov](#new-to-gov)_| _[I want another .gov domain](#get-another-gov-domain)_ |
 
 ## New to .gov
-*This section describes the process for those without any .gov domain names.*
+*This section describes the process for those without any .gov domain names. Once we have your request, processing takes approximately 20 business days.*
+
+### Step 0: Determine your DNS host
+We do not offer DNS hosting. This means you'll need to operate authoritative DNS servers for your domain or obtain services from a DNS hosting provider. Work with your IT support team, if available, to determine how you'll host a new domain.
+
+You _do not_ need to have your hosting situation determined before making a request for a .gov domain. However, the domain cannot be activated without sharing the nameservers for your DNS host with us.
 
 ### Step 1: Prepare and send the authorization letter
 

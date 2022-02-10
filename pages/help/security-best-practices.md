@@ -23,9 +23,7 @@ subnav:
 *Domain management is about more than just DNS. It's also about ensuring a safe experience for your organization and your users.*
 
 ## Add a security contact
-Governments maintain legitimacy by keeping the trust of their citizens, and a security flaw found on a .gov system can erode that confidence. When government systems are exposed by weak configuration or technical vulnerability, the security of the information, the privacy of its citizen-owners, and the reputation of its custodians are at risk.
-
-A _security contact_ can help you improve the resiliency of your digital services. Defining this contact is like **building a digital front door** for the public to report observed or suspected security issues at your domain. This could include notifications about compromised accounts, unsolicited email, routing problems, or reporting a potential vulnerability.
+A _security contact_ is like **building a digital front door** for the public to report observed or suspected security issues at your domain. This could include notifications about compromised accounts, unsolicited email, routing problems, or reporting a potential vulnerability.
 
 You can add a security contact at the [.gov registrar](https://domains.dotgov.gov), which will make it available in the [.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) (including port 43) and our published [data]({{ site.baseurl }}/data/). You can change your security contact at any time; removing the contact withdraws it from WHOIS and our published data.
 

@@ -15,7 +15,7 @@ subnav:
     href: '#frequently-asked-questions'
 ---
 ### Contact us
-Support is available 9 a.m. to 5 p.m. Eastern Time [(except public holidays)](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/), and 24/7 for emergencies.
+Support is available 7 a.m. to 7 p.m. Eastern Time [(except public holidays)](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/), and 24/7 for emergencies.
 
 * **Email**: <registrar@dotgov.gov>
 * **Phone**: <a href="tel:1-877-734-4688">1-877-734-4688</a>
@@ -138,7 +138,9 @@ At present, we don't allow a single person to serve as more than one contact - m
 
 ### Domain names FAQ
 
-### How many domains can I request?
+#### How many domains can I request?
+#### What should we consider when selecting a domain name?
+
 #### How do I request an exception to the naming requirements?
 
 Exceptions to the [naming requirements]({{ site.baseurl }}/registration/requirements/#naming-requirements) can be requested in your authorization letter. For cities and counties, we have [outlined some circumstances]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) where we may grant an exception.
