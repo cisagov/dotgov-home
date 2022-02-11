@@ -15,7 +15,7 @@ subnav:
     href: '#frequently-asked-questions'
 ---
 ### Contact us
-Support is available 9 a.m. to 5 p.m. Eastern Time [(except public holidays)](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/), and 24/7 for emergencies.
+Support is available 7 a.m. to 7 p.m. Eastern Time [(except public holidays)](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/), and 24/7 for emergencies.
 
 * **Email**: <registrar@dotgov.gov>
 * **Phone**: <a href="tel:1-877-734-4688">1-877-734-4688</a>
@@ -30,30 +30,38 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 > **Don't see an answer to your question? [Contact us](#contact-us).**
 
-### [Domain requirements](#domain-requirements-faq)
+### [Domain registration](#domain-registration-faq)
 
 *.gov is a unique space, only available to genuine U.S.-based government organizations and publicly controlled entities.*
 
+* [What does a .gov domain cost?](#what-does-a-gov-domain-cost)
 * [Who can obtain a .gov domain and what are the requirements?](#who-can-obtain-a-gov-domain-and-what-are-the-requirements)
 * [What's an "authorizing authority", and who is ours?](#whats-an-authorizing-authority-and-who-is-ours)
-* [We're an elections office. Who is our authorizing authority?](#were-an-elections-office-who-is-our-authorizing-authority)
-* [We're a school district. Can we get a .gov domain?](#were-a-school-district-can-we-get-a-gov-domain)
+  * [We're an elections office. Who is our authorizing authority?](#were-an-elections-office-who-is-our-authorizing-authority)
+  * [We're a school district. Can we get a .gov domain?](#were-a-school-district-can-we-get-a-gov-domain)
 * [What contact information do we need to keep updated?](#what-contact-information-do-we-need-to-keep-updated)
+
+### [Domain names](#domain-names-faq)
+
+*What's in a .gov domain name, exactly?*
+
+* [What should we consider when selecting a .gov domain name?](#what-should-we-consider-when-selecting-a-gov-domain-name)
+* [How many domains can I request?](#how-many-domains-can-i-request)
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
-* [My authorizing authority won’t sign an authorization letter. What do I do now?](#my-authorizing-authority-wont-sign-an-authorization-letter-what-do-i-do-now)
+* [What are the valid characters for a domain name?](#what-are-the-valid-characters-for-a-domain-name)
+
 
 ### [DNS](#dns-faq)
 
 *The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of numbered address.*
 
+* [What are the .gov TLD's name servers?](#what-are-the-gov-tlds-name-servers)
 * [Do you provide DNS hosting for .gov domains?](#do-you-provide-dns-hosting-for-gov-domains)
 * [What are the name server requirements for .gov domains?](#what-are-the-name-server-requirements-for-gov-domains)
-* [What are the valid characters for a domain name and how long can it be?](#what-are-the-valid-characters-for-a-domain-name-and-how-long-can-it-be)
-* [Where do I look for the authoritative .gov zone data?](#where-do-i-look-for-the-authoritative-gov-zone-data)
-* [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-dns-information)
+* [Why won’t my domain work after updating my request with name server addresses?](#why-wont-my-domain-work-after-updating-my-request-with-name-server-addresses?)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
+* [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-dns-information)
 * [When can I define my DS record?](#when-can-i-define-my-ds-record)
-* [Why won’t my domain work after updating the registration with actual name servers?](#why-wont-my-domain-work-after-updating-the-registration-with-actual-name-servers)
 
 ### [Contact information](#contact-information-faq)
 
@@ -74,7 +82,13 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 ***
 
-### Domain requirements FAQ
+### Domain registration FAQ
+
+#### What does a .gov domain cost?
+Domains are available [at no cost]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/) to qualifying U.S.-based government organizations.
+
+However, it takes more than simply a domain name to put your organization on the internet, and [we do not currently provide hosting services](#do-you-provide-dns-hosting-for-gov-domains) for registrants.
+
 #### Who can obtain a .gov domain and what are the requirements?
 
 The [Eligibility]({{ site.baseurl }}/registration/requirements/#eligibility) section of our [domain requirements]({{ site.baseurl }}/registration/requirements/) says:
@@ -98,11 +112,11 @@ The authorizing authority is the official we'll accept as signatory for your .go
 
 6. [City/County]({{site.baseurl}}/registration/requirements/#city-and-county-domains): Cities, towns, villages, counties, parishes, borough, or equivalents
 
-#### We're an elections office. Who is our authorizing authority?
+##### We're an elections office. Who is our authorizing authority?
 
 In general, elections offices maintain legal or practical autonomy from a municipality. Elections offices should follow the requirements for [independent intrastate]({{ site.baseurl }}/registration/requirements/#independent-intrastate-domains) domains. The authorization authority is the highest election official. For state-level election offices, the authorizing authority is typically the state's chief election official. For local-level election offices, the highest level election official is typically the elected or appointed official that runs the office.
 
-#### We're a school district. Can we get a .gov domain?
+##### We're a school district. Can we get a .gov domain?
 School districts that meet the characteristics of a 'school district government', as described in the [U.S. Census Bureau's classification of government units](https://www.census.gov/library/publications/2019/econ/2017isd.html), may request a .gov domain. School districts that are _dependent entities_ of local governments may not request a .gov domain, but their parent government (e.g., the county) may request one on their behalf.
 
 For details about school district governments, see the section "School District Governments and Public School Systems" in [Individual State Descriptions: 2017 Census of Governments](https://www.census.gov/content/dam/Census/library/publications/2017/econ/2017isd.pdf#page=12) (PDF pg. 12) and your individual state description.
@@ -125,60 +139,73 @@ A **[security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-se
 
 At present, we don't allow a single person to serve as more than one contact - meaning that two distinct contacts are required. (This does *not* apply to security contact.)
 
+***
+
+### Domain names FAQ
+
+#### What should we consider when selecting a .gov domain name?
+
+Your domain name represents your organization and your services – your brand – to the world online. When you're thinking about registering a .gov domain name, consider the following:
+
+* A good domain name is memorable, no longer than necessary, and describes your organization or service in an unambiguous way.
+* Domains are often used in offline situations: in print, on signage, or spoken aloud in presentations or phone calls. Choose something that's easy to say, easy to understand, and easy to read. We recommend against using a hyphen (`-`) in your domain name.
+* Not all names are available to you. You must follow the [general naming requirements]({{_site.baseurl_}}/registration/requirements/#naming-requirements) as well as those [specific rules]({{_site.baseurl_}}/registration/requirements/#specific-requirements) your organization type is subject to.
+
+Alternatively, if your organization is a department or subunit of a parent government with a .gov domain registration, you might consider asking them for a _subdomain_. For example, instead of requesting `CountyOHSheriff.gov` from us, you could ask `CountyOH.gov` to delegate the subdomain `Sheriff.CountyOH.gov` to your unit. This can even work in situations where you manage your own DNS or use a provider separate from the parent government. Subdomains might also be desirable in situations where our requirements limit your naming options.
+
+#### How many domains can I request?
+For non-federal agencies, our practice is to approve _one domain per online service per government organization_, evaluating additional requests on a case-by-case basis.
+
+Different than other top-level domains, like .com, .org, or .us, you don't need to defensively register variations of your domain name. We will only assign a domain to the organization whose real name or services [actually correspond]({{_site.baseurl_}}/registration/requirements/#correspondence) to the domain name.
+
+You do not need to make requests for multiple domains on separate authorization letters as long as there is a common [authorizing authority](#whats-an-authorizing-authority-and-who-is-ours) for the domains.
+
 #### How do I request an exception to the naming requirements?
 
 Exceptions to the [naming requirements]({{ site.baseurl }}/registration/requirements/#naming-requirements) can be requested in your authorization letter. For cities and counties, we have [outlined some circumstances]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) where we may grant an exception.
 
-#### My authorizing authority won’t sign an authorization letter. What do I do now?
+#### What are the valid characters for a domain name?
 
-Without a letter signed by the party defined in our [domain requirements]({{ site.baseurl }}/registration/requirements/) as the authorizing authority for your organization, you cannot register a .gov domain name.
-
+The only valid characters for a domain name are letters, numbers, and a hyphen. Other characters, including a space, are not permitted. Domain names may not begin or end with a hyphen.
 
 ***
 
 ### DNS FAQ
+
+#### What are the .gov TLD's name servers?
+
+`[a-d].gov-servers.net` are .gov's authoritative name servers.
+
 #### Do you provide DNS hosting for .gov domains?
 
-No. We manage the authoritative name servers for the .gov zone and ensure the zone file is propagated to root name servers. We don't operate a managed DNS hosting service – nor do we offer web hosting, email services, or certificates.
+No. We manage the authoritative name servers for the .gov zone. We don't operate a managed DNS hosting service – nor do we offer web hosting, email services, or certificates.
 
 Many DNS hosting service providers exist. Your technical support team may also manage authoritative DNS for you.
 
 #### What are the name server requirements for .gov domains?
 
-* You must provide at least one primary and secondary name server.
+* You must define a primary and secondary name server in the [.gov registrar](https://domains.dotgov.gov).
 * You may not specify an IP address for your name servers unless they are child name servers of the domain you’re trying to register or update.
 
-#### What are the valid characters for a domain name and how long can it be?
+If we authorize your requested domain name, we query your name server addresses for an authoritative response for NS and SOA records.
 
-The only valid characters for a domain name are letters, numbers, and a hyphen. Other characters, including a space, are not permitted. Domain names may not begin or end with a hyphen.
+#### Why won’t my domain work after updating my request with name server addresses?
 
-A domain name may be up to 26 characters long, including the 4 characters used to identify the top-level domain (e.g., `.gov`).
-
-#### Where do I look for the authoritative .gov zone data?
-
-The root servers (`[a-d].gov-servers.net`) are the authoritative source of .gov information that is "live" on the internet.
-
-#### Will I be notified if a change is made to my DNS information?
-
-Yes. In response to [recent incidents](https://www.us-cert.gov/ncas/current-activity/2019/01/10/DNS-Infrastructure-Hijacking-Campaign) affecting other top-level domains, .gov domain contacts will receive a system-generated email when a change is made to their DNS in the .gov registrar.
-
-The email will alert the contacts that a change was made to their DNS information and include instructions for mitigation should it be necessary.
+Adding name server addresses to a requested domain does not change its status from *requested* to *active* if other requirements are pending (for example, CISA's review of the domain).
 
 #### How quickly will changes to my domain propagate throughout the internet?
 
-Propagation depends on a variety of factors, such as caching and connectivity, but changes are usually effective within 24 hours.
+Propagation depends on a variety of factors, but changes are usually effective within 24 hours.
 
 If you’re planning to make critical changes to your name servers over the weekend, please [contact us](#contact-us) before 5 p.m. the Thursday before to ensure the information propagates during weekend hours.
+
+#### Will I be notified if a change is made to my DNS information?
+
+Yes. Your domain contacts will receive an automated email when a change is made in the .gov registrar to their name server addresses.
 
 #### When can I define my DS record?
 
 You can define Delegation Signer (DS) records during registration or after the domain name is active. Before your DS records are published in the .gov zone, they will be tested and verified.
-
-#### Why won’t my domain work after updating the registration with actual name servers?
-
-Adding name servers to a reserved domain does not change its status from reserved to active if other requirements are pending. You can reserve a domain's registration for up to 90 days, giving you time to submit all of the required information.
-
-If the name server information is the only remaining information required for registration, it will take approximately 1 to 2 days after receipt of valid name server data for us to activate your domain. Expect an additional 1 to 2 days for the update to propagate across the internet.
 
 ***
 

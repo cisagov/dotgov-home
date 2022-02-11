@@ -7,18 +7,8 @@ sidenav: registration
 subnav:
   - text: General requirements
     href: '#general-requirements'
-  - text: Federal
-    href: '#federal-domains'
-  - text: Tribal
-    href: '#native-sovereign-nation-tribal-domains'
-  - text: State and U.S. territory
-    href: '#state-and-us-territory-domains'
-  - text: Interstate
-    href: '#interstate-domains'
-  - text: Independent intrastate
-    href: '#independent-intrastate-domains'
-  - text: City and county
-    href: '#city-and-county-domains'
+  - text: Specific requirements
+    href: '#specific-requirements'
 ---
 *These requirements apply to new .gov registrants as of April 26, 2021. For existing registrants, the [previous requirements]({{ site.baseurl }}/registration/requirements-retired/) will apply until renewal, at which time existing registrants will review and accept these updated requirements. A description of the differences between the previously posted requirements and these updated requirements is available below.*
 
@@ -43,9 +33,16 @@ We (the DotGov program) have rules that minimize the risk that .gov domain names
 
 This document outlines the general requirements that apply to all .gov registrants, as well as the specific requirements that apply to certain types of government organizations. These requirements may be updated in the future. Registrants will be provided advance notice of updates.
 
-Pursuant to the DOTGOV Act of 2020 ([6 U.S.C. § 665(c)(4)](https://www.congress.gov/bill/116th-congress/house-bill/133/text/enr#:~:text=dotgov)), CISA will establish policies to limit the sharing or use of any information obtained through administration of the .gov top-level domain with any other component of the Department of Homeland Security or any other agency for any purpose other than the administration of the .gov internet domain, supporting services we may offer, and the establishment of a .gov inventory.
+Pursuant to the [DOTGOV Act of 2020](https://uscode.house.gov/statviewer.htm?volume=134&page=2298#) (*[6 U.S.C. § 665(c)(4)](https://uscode.house.gov/view.xhtml?req=(title:6%20section:665%20edition:prelim)%20OR%20(granuleid:USC-prelim-title6-section665)&f=treesort&edition=prelim&num=0&jumpTo=true)*), CISA will establish policies to limit the sharing or use of any information obtained through administration of the .gov top-level domain with any other component of the Department of Homeland Security or any other agency for any purpose other than the administration of the .gov internet domain, supporting services we may offer, and the establishment of a .gov inventory.
+
+---
 
 ## General requirements
+
+* [Eligibility](#eligibility)
+* [Naming requirements](#naming-requirements)
+* [Required and prohibited activities](#required-and-prohibited-activities)
+
 ### Eligibility
 Only U.S.-based government and public sector organizations are eligible to obtain a .gov domain. This includes any federal, state, local, or territorial government entity, or other publicly controlled entity. It also includes any tribal government recognized by the federal government or a state government. Eligibility is determined by the DotGov Program, which will be informed by the United States Census Bureau's [criteria for classifying governments](https://www.census.gov/programs-surveys/gus/technical-documentation/methodology/population-of-interest1.html).
 
@@ -117,6 +114,14 @@ The DotGov program understands the critical importance of the availability of .g
 The public may report suspected security issues or other serious violations to <dotgov@cisa.dhs.gov>; vulnerability notifications should generally be sent to the domain's [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact) if the registrant has set one, or otherwise to <dotgov@cisa.dhs.gov>.
 
 ## Specific requirements
+
+* [Federal](#federal-domains)
+* [Tribal](#native-sovereign-nation-tribal-domains)
+* [State and U.S. territory](#state-and-us-territory-domains)
+* [Interstate](#interstate-domains)
+* [Independent intrastate](#independent-intrastate-domains)
+* [City and county](#city-and-county-domains)
+
 ### Federal domains
 
 All [general requirements](#general-requirements) apply. Use the [federal authorization letter template]({{ site.baseurl }}/registration/authorization-templates/federal/).

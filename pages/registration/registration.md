@@ -18,30 +18,39 @@ subnav:
 ## New to .gov
 *This section describes the process for those without any .gov domain names.*
 
-### Step 1: Prepare and send the authorization letter
+### Step 0: Choose a great name
+Your domain name represents your organization and your services to the world online. Good domain names are memorable, easy to say out loud (like over the phone or in a presentation), and must follow the [general naming requirements]({{_site.baseurl_}}/registration/requirements/#naming-requirements) and [specific rules]({{_site.baseurl_}}/registration/requirements/#specific-requirements) your organization type is subject to.
 
-1. [Check](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) to see if the domain you want is available.
+Once you've reviewed the naming requirements, [check](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) to make sure your desired name hasn't already been registered.
 
-2. Review the .gov [domain requirements]({{ site.baseurl }}/registration/requirements/) that all domains are subject to.
+> For more information, see our *[domain names FAQ]({{_site.baseurl}}/help/#domain-names-faq).*
 
-3. Evaluate who the [authorizing authority]({{site.baseurl}}/help/#whats-an-authorizing-authority-and-who-is-ours) is for your organization type (federal, state, city/county, etc.). Then, use the appropriate [template]({{ site.baseurl }}/registration/authorization-templates/) to prepare an **authorization letter** to request approval for the domain:
+### Step 1: Determine your DNS host
+We do not offer [DNS hosting]({{_site.baseurl}}/help#do-you-provide-dns-hosting-for-gov-domains). This means you'll need to operate authoritative DNS servers for your domain or obtain services from a DNS hosting provider. Where available, work with your IT support team to determine how you'll host a new domain.
 
-    a. Place the template text into a document on official letterhead.
+You _do not_ need to have your hosting situation determined before making a request for a .gov domain. However, the domain cannot be activated until name server addresses are added to the [.gov registrar](https://domains.dotgov.gov) and they are responding authoritatively.
 
-    b. Update the template with information relevant to your organization. This includes domain contacts, an [administrative and a technical contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated). We recommend adding a [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact), which allows the public to report observed or suspected security issues at your domain. *Security contact details are made public.*
-      > **Note**: Though domains are now [available at no cost]({{site.baseurl}}/2021/4/27/a-new-day-for-gov/), a legacy contact, *the billing contact*, remains. You may consider it a secondary administrative contact.
+> For more information, see *[What are the name server requirements for .gov domains?]({{_site.baseurl}}/help/#what-are-the-name-server-requirements-for-gov-domains)*
 
-    c. Have your authorizing authority sign the document.
+### Step 2: Prepare and send the authorization letter
+In order to request a domain name, we request an "authorization letter" from your [authorizing authority]({{site.baseurl}}/help/#whats-an-authorizing-authority-and-who-is-ours). Who this is depends on your organization type (federal, state, city/county, etc.), but it is generally the highest ranking or highest elected official in your organization.
 
-5. Send your signed authorization letter (in PDF) to <registrar@dotgov.gov>.
+Use the appropriate [template]({{ site.baseurl }}/registration/authorization-templates/) to prepare an authorization letter:
+
+* Place the template text into a document on official letterhead.
+* Update the template with information relevant to your organization. This includes domain contacts, an [administrative and a technical contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated). We recommend adding a [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact), which allows the public to report observed or suspected security issues at your domain. *Security contact details are made public.*
+
+> **Note**: Though domains are now [available at no cost]({{site.baseurl}}/2021/4/27/a-new-day-for-gov/), a legacy contact, *the billing contact*, remains. You may consider it a secondary administrative contact.
+
+* Have your authorizing authority sign the document, and then send the signed authorization letter (in PDF) to <registrar@dotgov.gov>.
 
 Once we receive your authorization letter, we will work to verify the authenticity of the request (including with your authorizing authority) and create .gov registrar accounts for each domain contact.
 
-### Step 2: Complete the online form
+### Step 3: Complete the online form
 
-After each [domain contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated) has logged in to establish their account, any of them can complete the online domain request form sent to them at <https://domains.dotgov.gov>. The form asks for some information you've already collected with the authorization letter, and allows you to submit name server information for your .gov domain. (This can also be added after domain approval.)
+After each [domain contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated) has logged in to establish their account, any of them can complete the online domain request form at <https://domains.dotgov.gov>. The form asks for some information you've already collected with the authorization letter, and allows you to submit name server information for your .gov domain (which can also be added after domain approval).
 
-Once the online form is complete, we will review the request. If approved, you'll be given the opportunity to complete any missing information, like name server addresses. Your domain will not be active in the .gov zone until your name servers are answering authoritatively.
+Once the online form is complete, we will adjudicate the request in **approximately 20 business days**. If approved, you'll be given the opportunity to complete any missing information, like name server addresses. Your domain will not be active in the .gov zone until your name servers are answering authoritatively.
 
 ### Security best practices
 
