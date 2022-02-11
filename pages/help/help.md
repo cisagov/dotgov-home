@@ -34,8 +34,8 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 *.gov is a unique space, only available to genuine U.S.-based government organizations and publicly controlled entities.*
 
-* [Who can obtain a .gov domain and what are the requirements?](#who-can-obtain-a-gov-domain-and-what-are-the-requirements)
 * [What does a .gov domain cost?](#what-does-a-gov-domain-cost)
+* [Who can obtain a .gov domain and what are the requirements?](#who-can-obtain-a-gov-domain-and-what-are-the-requirements)
 * [What's an "authorizing authority", and who is ours?](#whats-an-authorizing-authority-and-who-is-ours)
   * [We're an elections office. Who is our authorizing authority?](#were-an-elections-office-who-is-our-authorizing-authority)
   * [We're a school district. Can we get a .gov domain?](#were-a-school-district-can-we-get-a-gov-domain)
@@ -45,7 +45,7 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 *What's in a .gov domain name, exactly?*
 
-* [What should we consider when selecting a domain name?](#what-should-we-consider-when-selecting-a-domain-name)
+* [What should we consider when selecting a .gov domain name?](#what-should-we-consider-when-selecting-a-gov-domain-name)
 * [How many domains can I request?](#how-many-domains-can-i-request)
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
 * [What are the valid characters for a domain name?](#what-are-the-valid-characters-for-a-domain-name)
@@ -83,6 +83,12 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 ***
 
 ### Domain registration FAQ
+
+#### What does a .gov domain cost?
+Domains are available [at no cost]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/) to qualifying U.S.-based government organizations.
+
+However, it takes more than simply a domain name to put your organization on the internet, and [we do not currently provide hosting services](#do-you-provide-dns-hosting-for-gov-domains) for registrants.
+
 #### Who can obtain a .gov domain and what are the requirements?
 
 The [Eligibility]({{ site.baseurl }}/registration/requirements/#eligibility) section of our [domain requirements]({{ site.baseurl }}/registration/requirements/) says:
@@ -90,11 +96,6 @@ The [Eligibility]({{ site.baseurl }}/registration/requirements/#eligibility) sec
 > *Only U.S.-based government and public sector organizations are eligible to obtain a .gov domain. This includes any federal, state, local, or territorial government entity, or other publicly controlled entity. It also includes any tribal government recognized by the federal government or a state government. Eligibility is determined by the DotGov Program, which will be informed by the United States Census Bureau’s [criteria for classifying governments](https://www.census.gov/programs-surveys/gus/technical-documentation/methodology/population-of-interest1.html).*
 
 The requirements specify the *general* requirements that all domain registrants need to follow, as well as the *specific* requirements for the different [domain types](#whats-an-authorizing-authority-and-who-is-mine), or kinds of government organizations. The specific requirements outline additional requirements (where applicable), but the key detail is that they describe who your "authorizing authority" is, or the official we'll accept as signatory for your .gov domain request.
-
-#### What does a .gov domain cost?
-Domains are available [at no cost]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/) to qualifying U.S.-based government organizations.
-
-However, it takes more than simply a domain name to put your organization on the internet, and [we do not currently provide hosting services](#do-you-provide-dns-hosting-for-gov-domains) for registrants.
 
 #### What's an "authorizing authority", and who is ours?
 
@@ -138,10 +139,26 @@ A **[security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-se
 
 At present, we don't allow a single person to serve as more than one contact - meaning that two distinct contacts are required. (This does *not* apply to security contact.)
 
+***
+
 ### Domain names FAQ
 
-#### What should we consider when selecting a domain name?
+#### What should we consider when selecting a .gov domain name?
+
+Your domain name represents your organization and your services – your brand – to the world online. When you're thinking about registering a .gov domain name, consider the following:
+
+* A good domain name is memorable, no longer than necessary, and describes your organization or service in an unambiguous way.
+* Domains are often used in offline situations: in print, on signage, or spoken aloud in presentations or phone calls. Choose something that's easy to say, easy to understand, and easy to read. We recommend against using a hyphen (`-`) in your domain name.
+* Not all names are available to you. You must follow the [general naming requirements]({{_site.baseurl_}}/registration/requirements/#naming-requirements) as well as those [specific rules]({{_site.baseurl_}}/registration/requirements/#specific-requirements) your organization type is subject to.
+
+Alternatively, if your organization is a department or subunit of a parent government with a .gov domain registration, you might consider asking them for a _subdomain_. For example, instead of requesting `CountyOHSheriff.gov` from us, you could ask `CountyOH.gov` to delegate the subdomain `Sheriff.CountyOH.gov` to your unit. This can even work in situations where you manage your own DNS or use a provider separate from the parent government. Subdomains might also be desirable in situations where our requirements limit your naming options.
+
 #### How many domains can I request?
+For non-federal agencies, our practice is to approve _one domain per online service per government organization_, evaluating additional requests on a case-by-case basis.
+
+Different than other top-level domains, like .com, .org, or .us, you don't need to defensively register variations of your domain name. We will only assign a domain to the organization whose real name or services [actually correspond]({{_site.baseurl_}}/registration/requirements/#correspondence) to the domain name.
+
+You do not need to make requests for multiple domains on separate authorization letters as long as there is a common [authorizing authority](#whats-an-authorizing-authority-and-who-is-ours) for the domains.
 
 #### How do I request an exception to the naming requirements?
 
