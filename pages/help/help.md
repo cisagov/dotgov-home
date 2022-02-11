@@ -45,6 +45,8 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 *What's in a .gov domain name, exactly?*
 
+* [What should we consider when selecting a domain name?](#what-should-we-consider-when-selecting-a-domain-name)
+* [How many domains can I request?](#how-many-domains-can-i-request)
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
 * [What are the valid characters for a domain name?](#what-are-the-valid-characters-for-a-domain-name)
 
@@ -138,8 +140,8 @@ At present, we don't allow a single person to serve as more than one contact - m
 
 ### Domain names FAQ
 
-#### How many domains can I request?
 #### What should we consider when selecting a domain name?
+#### How many domains can I request?
 
 #### How do I request an exception to the naming requirements?
 
