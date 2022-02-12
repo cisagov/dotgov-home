@@ -32,7 +32,7 @@ Your domain name represents your organization and your services to the world onl
 
 Once you've reviewed the naming requirements, [check](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) to make sure your desired name hasn't already been registered.
 
-> *For more guidance about how to pick a great name, see our [domain names FAQ]({{_site.baseurl}}/help/#domain-names-faq).*
+> *For more guidance on picking a great name, see our [domain names FAQ]({{_site.baseurl}}/help/#domain-names-faq).*
 
 ### Step 1: Determine your DNS host
 We do not offer [DNS hosting]({{_site.baseurl}}/help#do-you-provide-dns-hosting-for-gov-domains). This means you'll need to operate authoritative DNS servers for your domain or obtain services from a DNS hosting provider. Where available, work with your IT support team to determine how you'll host a new domain.
@@ -58,7 +58,10 @@ After each domain contact has logged in to establish their account, any of them 
 
 ### Step 4: Wait for review
 
-Once the online form is complete, we will adjudicate the request in **approximately 20 business days**.
+Once the online form is complete, we will adjudicate the request.
+
+* Requests from non-federal organizations are reviewed in approximately **20 business days**, but may take longer in some instances.
+* Federal agency requests typically are processed within **10 business days** (executive branch requests are subject to OMB review). 
 
 ### Step 5: Add name server addresses (if not done yet)
 
