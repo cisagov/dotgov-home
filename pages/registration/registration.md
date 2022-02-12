@@ -37,20 +37,23 @@ In order to request a domain name, we request an "authorization letter" from you
 
 Use the appropriate [template]({{ site.baseurl }}/registration/authorization-templates/) to prepare an authorization letter:
 
-* Place the template text into a document on official letterhead.
-* Update the template with information relevant to your organization. This includes domain contacts, an [administrative and a technical contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated). We recommend adding a [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact), which allows the public to report observed or suspected security issues at your domain. *Security contact details are made public.*
+* Copy the template text into a document editor, then add the names and contact info for the people who will be your **domain contacts**. We require an [administrative and a technical contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated), and we recommend adding a [security contact]({{ site.baseurl }}/help/security-best-practices/#add-a-security-contact).
+  * *Security contact details are made public*, which allows people to report observed or potential security issues at your domain.
+* Have your authorizing authority sign the document on official letterhead, and then send the signed authorization letter (in PDF) to <registrar@dotgov.gov>.
 
-> **Note**: Though domains are now [available at no cost]({{site.baseurl}}/2021/4/27/a-new-day-for-gov/), a legacy contact, *the billing contact*, remains. You may consider it a secondary administrative contact.
+Once we receive your authorization letter, we will work to verify the authenticity of the request (including with your authorizing authority) and will create .gov registrar accounts for each domain contact.
 
-* Have your authorizing authority sign the document, and then send the signed authorization letter (in PDF) to <registrar@dotgov.gov>.
+### Step 3: Submit the online form
 
-Once we receive your authorization letter, we will work to verify the authenticity of the request (including with your authorizing authority) and create .gov registrar accounts for each domain contact.
+After each domain contact has logged in to establish their account, any of them can complete the online domain request form at the [.gov registrar](https://domains.dotgov.gov). The form asks for some information you've already collected with the authorization letter, and allows you to submit name server information for your .gov domain, if known at this stage.
 
-### Step 3: Complete the online form
+### Step 4: Wait for review
 
-After each [domain contact]({{ site.baseurl }}/help/#what-contact-information-do-we-need-to-keep-updated) has logged in to establish their account, any of them can complete the online domain request form at <https://domains.dotgov.gov>. The form asks for some information you've already collected with the authorization letter, and allows you to submit name server information for your .gov domain (which can also be added after domain approval).
+Once the online form is complete, we will adjudicate the request in **approximately 20 business days**.
 
-Once the online form is complete, we will adjudicate the request in **approximately 20 business days**. If approved, you'll be given the opportunity to complete any missing information, like name server addresses. Your domain will not be active in the .gov zone until your name servers are answering authoritatively.
+### Step 5: Add name server addresses (if not yet done)
+
+If approved, you'll be given a final opportunity to add name server addresses to the .gov registrar, if they haven't already been added. This is a critical last step: your domain will not be active in the .gov zone until your name servers are answering authoritatively.
 
 ### Security best practices
 

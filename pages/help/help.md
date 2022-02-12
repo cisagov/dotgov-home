@@ -53,15 +53,15 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 
 ### [DNS](#dns-faq)
 
-*The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of numbered address.*
+*The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of a numbered address.*
 
-* [What are the .gov TLD's name servers?](#what-are-the-gov-tlds-name-servers)
 * [Do you provide DNS hosting for .gov domains?](#do-you-provide-dns-hosting-for-gov-domains)
 * [What are the name server requirements for .gov domains?](#what-are-the-name-server-requirements-for-gov-domains)
 * [Why won’t my domain work after updating my request with name server addresses?](#why-wont-my-domain-work-after-updating-my-request-with-name-server-addresses?)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
 * [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-dns-information)
 * [When can I define my DS record?](#when-can-i-define-my-ds-record)
+* [What are the .gov TLD's name servers?](#what-are-the-gov-tlds-name-servers)
 
 ### [Contact information](#contact-information-faq)
 
@@ -172,10 +172,6 @@ The only valid characters for a domain name are letters, numbers, and a hyphen. 
 
 ### DNS FAQ
 
-#### What are the .gov TLD's name servers?
-
-`[a-d].gov-servers.net` are .gov's authoritative name servers.
-
 #### Do you provide DNS hosting for .gov domains?
 
 No. We manage the authoritative name servers for the .gov zone. We don't operate a managed DNS hosting service – nor do we offer web hosting, email services, or certificates.
@@ -207,6 +203,9 @@ Yes. Your domain contacts will receive an automated email when a change is made 
 
 You can define Delegation Signer (DS) records during registration or after the domain name is active. Before your DS records are published in the .gov zone, they will be tested and verified.
 
+#### What are the .gov TLD's name servers?
+
+`[a-d].gov-servers.net` are .gov's authoritative name servers.
 ***
 
 ### Contact information FAQ
