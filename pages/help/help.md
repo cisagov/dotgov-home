@@ -46,22 +46,22 @@ We also recommend you review our [domain security best practices]({{ site.baseur
 *What's in a .gov domain name, exactly?*
 
 * [What should we consider when selecting a .gov domain name?](#what-should-we-consider-when-selecting-a-gov-domain-name)
-* [How many domains can I request?](#how-many-domains-can-i-request)
 * [How do I request an exception to the naming requirements?](#how-do-i-request-an-exception-to-the-naming-requirements)
+* [How many domains can I request?](#how-many-domains-can-i-request)
 * [What are the valid characters for a domain name?](#what-are-the-valid-characters-for-a-domain-name)
 
 
 ### [DNS](#dns-faq)
 
-*The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of numbered address.*
+*The Domain Name System (DNS) is the internet service that translates your domain name into an IP address. This makes it possible for people to access your online service by using a name instead of a numbered address.*
 
-* [What are the .gov TLD's name servers?](#what-are-the-gov-tlds-name-servers)
 * [Do you provide DNS hosting for .gov domains?](#do-you-provide-dns-hosting-for-gov-domains)
 * [What are the name server requirements for .gov domains?](#what-are-the-name-server-requirements-for-gov-domains)
 * [Why won’t my domain work after updating my request with name server addresses?](#why-wont-my-domain-work-after-updating-my-request-with-name-server-addresses?)
 * [How quickly will changes to my domain propagate throughout the internet?](#how-quickly-will-changes-to-my-domain-propagate-throughout-the-internet)
 * [Will I be notified if a change is made to my DNS information?](#will-i-be-notified-if-a-change-is-made-to-my-dns-information)
 * [When can I define my DS record?](#when-can-i-define-my-ds-record)
+* [What are the .gov TLD's name servers?](#what-are-the-gov-tlds-name-servers)
 
 ### [Contact information](#contact-information-faq)
 
@@ -153,16 +153,20 @@ Your domain name represents your organization and your services – your brand �
 
 Alternatively, if your organization is a department or subunit of a parent government with a .gov domain registration, you might consider asking them for a _subdomain_. For example, instead of requesting `CountyOHSheriff.gov` from us, you could ask `CountyOH.gov` to delegate the subdomain `Sheriff.CountyOH.gov` to your unit. This can even work in situations where you manage your own DNS or use a provider separate from the parent government. Subdomains might also be desirable in situations where our requirements limit your naming options.
 
+> *If you have questions about a domain name you're considering, [contact us](#contact-us).*
+
+#### How do I request an exception to the naming requirements?
+
+Exceptions to the [naming requirements]({{ site.baseurl }}/registration/requirements/#naming-requirements) can be requested in your authorization letter. For cities and counties, we have [outlined some circumstances]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) where we may grant an exception.
+
+> *If you have questions about a domain name you're considering, [contact us](#contact-us).*
+
 #### How many domains can I request?
 For non-federal agencies, our practice is to approve _one domain per online service per government organization_, evaluating additional requests on a case-by-case basis.
 
 Different than other top-level domains, like .com, .org, or .us, you don't need to defensively register variations of your domain name. We will only assign a domain to the organization whose real name or services [actually correspond]({{_site.baseurl_}}/registration/requirements/#correspondence) to the domain name.
 
 You do not need to make requests for multiple domains on separate authorization letters as long as there is a common [authorizing authority](#whats-an-authorizing-authority-and-who-is-ours) for the domains.
-
-#### How do I request an exception to the naming requirements?
-
-Exceptions to the [naming requirements]({{ site.baseurl }}/registration/requirements/#naming-requirements) can be requested in your authorization letter. For cities and counties, we have [outlined some circumstances]({{ site.baseurl }}/registration/requirements/#city-and-county-exception-requests) where we may grant an exception.
 
 #### What are the valid characters for a domain name?
 
@@ -171,10 +175,6 @@ The only valid characters for a domain name are letters, numbers, and a hyphen. 
 ***
 
 ### DNS FAQ
-
-#### What are the .gov TLD's name servers?
-
-`[a-d].gov-servers.net` are .gov's authoritative name servers.
 
 #### Do you provide DNS hosting for .gov domains?
 
@@ -207,6 +207,9 @@ Yes. Your domain contacts will receive an automated email when a change is made 
 
 You can define Delegation Signer (DS) records during registration or after the domain name is active. Before your DS records are published in the .gov zone, they will be tested and verified.
 
+#### What are the .gov TLD's name servers?
+
+`[a-d].gov-servers.net` are .gov's authoritative name servers.
 ***
 
 ### Contact information FAQ
