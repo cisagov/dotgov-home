@@ -2,7 +2,7 @@
 title: Data
 layout: docs
 permalink: /data/
-intro: The complete list of .gov domains is updated regularly.
+intro: The complete list of .gov domains is updated daily.
 
 subnav:
   - text: All .gov domains
@@ -25,4 +25,4 @@ Includes all registered domains from every [domain type]({{ site.baseurl }}/help
 
 A subset of all .gov domains, includes only those registered to federal legislative, executive, and judicial agencies.
 
->*This data maintained in our [GitHub repository](https://github.com/cisagov/dotgov-data/). If you have questions about the data or suggestions for improving it, feel free to [open an issue](https://github.com/cisagov/dotgov-data/issues).*
+>*This data is maintained in our [GitHub repository](https://github.com/cisagov/dotgov-data/). If you have questions about the data or suggestions for improving it, feel free to [open an issue](https://github.com/cisagov/dotgov-data/issues).*
