@@ -28,7 +28,7 @@ subnav:
 * [Step 5: Add name server addresses (if not done yet)](#step-5-add-name-server-addresses-if-not-done-yet)
 
 ### Step 0: Choose a great name
-Your domain name represents your organization and your services to the world online. Good domain names are memorable, easy to say out loud (like over the phone or in a presentation), and must follow the [general naming requirements]({{_site.baseurl_}}/registration/requirements/#naming-requirements) and [specific rules]({{_site.baseurl_}}/registration/requirements/#specific-requirements) your organization type is subject to.
+Your domain name represents your organization and your services to the world online. Good domain names are memorable, easy to say out loud (like over the phone or in a presentation), and must follow the [general naming requirements]({{_site.baseurl_}}/registration/requirements/#naming-requirements) and [specific rules]({{_site.baseurl_}}/registration/requirements/#specific-requirements) your organization type is subject to. (In practice, these requirements usually limit the range of potential names to only a few.)
 
 Once you've reviewed the naming requirements, [check](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml) to make sure your desired name hasn't already been registered.
 
@@ -61,7 +61,7 @@ After each domain contact has logged in to establish their account, any of them 
 Once the online form is complete, we will adjudicate the request.
 
 * Requests from non-federal organizations are reviewed in approximately **20 business days**, but may take longer in some instances.
-* Federal agency requests typically are processed within **10 business days** (executive branch requests are subject to OMB review). 
+* Federal agency requests typically are processed within **10 business days** (executive branch requests are subject to OMB review).
 
 ### Step 5: Add name server addresses (if not done yet)
 
