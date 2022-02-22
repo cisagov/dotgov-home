@@ -12,8 +12,9 @@ subnav:
   - text: Need help?
     href: '#need-help'
 ---
+.gov domains are available **at no cost** to [qualifying]({{ site.baseurl }}/help/#who-can-obtain-a-gov-domain-and-what-are-the-requirements) U.S.-based government organizations.
 
-| _[I'm new to .gov](#new-to-gov)_| _[I want another .gov domain](#get-another-gov-domain)_ |
+| *[I'm new to .gov](#new-to-gov)*| *[I want another .gov domain](#get-another-gov-domain)* |
 
 ***
 

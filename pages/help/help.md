@@ -110,7 +110,7 @@ The authorizing authority is the official we'll accept as signatory for your .go
 5. [Independent intrastate]({{site.baseurl}}/registration/requirements/#independent-intrastate-domains): An autonomous organization of a single state. From our domain requirements:
 > _Independent intrastate (within a single state) governmental organizations are most frequently formed via state or local legislation, where authority is vested in them to operate fully or quasi-independently from the state. Examples include organizations authorized by law that operate a jurisdiction’s elections, manage regional transit, or do area-wide economic planning with governance independent from e.g., the executive branch."_
 
-6. [City/County]({{site.baseurl}}/registration/requirements/#city-and-county-domains): Cities, towns, villages, counties, parishes, borough, or equivalents
+6. [City/County]({{site.baseurl}}/registration/requirements/#city-and-county-domains): Cities, towns, townships, villages, counties, parishes, boroughs, or equivalents
 
 ##### We're an elections office. Who is our authorizing authority?
 

@@ -1,6 +1,6 @@
-## The DotGov Program
+## The .gov Program
 
-A homepage for the DotGov program.
+A homepage for the .gov program.
 
 ### Built using
 

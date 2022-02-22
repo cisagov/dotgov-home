@@ -13,4 +13,6 @@ sidenav: registration
 * [Interstate]({{ site.baseurl }}/registration/authorization-templates/interstate/)
 * [Independent intrastate]({{ site.baseurl }}/registration/authorization-templates/independent-intrastate/)
 
-*Not sure which letter to select? Check out the our FAQ, [What's an "authorizing authority", and who is ours?]({{site.basurl}}/help/#whats-an-authorizing-authority-and-who-is-ours) for a breakdown of each domain type.*
+*Unsure which letter to select?* Check out the FAQ, [What's an "authorizing authority", and who is ours?]({{site.basurl}}/help/#whats-an-authorizing-authority-and-who-is-ours) for a breakdown of each domain type.
+
+CISA will share approved authorization letters submitted by the authorizing authority with the U.S. Census Bureau, including letters that have already been collected by CISA.
