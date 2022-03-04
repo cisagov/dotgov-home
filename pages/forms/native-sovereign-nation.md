@@ -1,7 +1,7 @@
 ---
-title: "Authorization letter template: Native sovereign nation (tribal)"
+title: "Authorization letter template: Tribal"
 layout: docs
-permalink: /registration/authorization-templates/native-sovereign-nation/
+permalink: /registration/authorization-templates/tribal/
 
 sidenav: registration
 ---
@@ -17,7 +17,7 @@ Reston, Virginia 20190
 
 To the .gov Program:
 
-As [authorizing authority]({{ site.baseurl }}/registration/requirements/#native-sovereign-nation-tribal-domains) for [Tribe recognized by the Federal or a State government], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to my tribe.
+As [authorizing authority]({{ site.baseurl }}/registration/requirements/#tribal-domains) for [Tribe recognized by the Federal or a State government], I request that responsibility for the domain name [\_\_\_\_\_\_\_\_\_\_\_.gov] be delegated to my tribe.
 
 [*Briefly describe the mission or initiative that drives the domain name request, explaining what the domain name will be used for. Include links to, or add as an appendix, authorizing Tribal resolution, legislation, applicable bylaws or charter, or other documentation that demonstrates your tribe has been recognized by the Federal or a State government.*]
 

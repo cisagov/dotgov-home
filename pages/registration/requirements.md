@@ -116,7 +116,7 @@ The public may report suspected security issues or other serious violations to <
 ## Specific requirements
 
 * [Federal](#federal-domains)
-* [Tribal](#native-sovereign-nation-tribal-domains)
+* [Tribal](#tribal-domains)
 * [State and U.S. territory](#state-and-us-territory-domains)
 * [Interstate](#interstate-domains)
 * [Independent intrastate](#independent-intrastate-domains)
@@ -141,8 +141,8 @@ Domain name requests for any judicial branch agency (excluding the Supreme Court
 
 Domain requests from the Supreme Court of the United States must be authorized by the director of information technology for the Supreme Court of the United States.
 
-### Native sovereign nation (tribal) domains
-All [general requirements](#general-requirements) apply. Use the [tribal authorization letter template]({{ site.baseurl }}/registration/authorization-templates/native-sovereign-nation/).
+### Tribal domains
+All [general requirements](#general-requirements) apply. Use the [tribal authorization letter template]({{ site.baseurl }}/registration/authorization-templates/tribal/).
 
 Tribal governments recognized by the federal government or a state government may request a .gov domain name. If desired, tribal domains may include the suffix `-nsn`, for native sovereign nation.
 

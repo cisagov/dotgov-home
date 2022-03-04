@@ -102,7 +102,7 @@ The requirements specify the *general* requirements that all domain registrants 
 The authorizing authority is the official we'll accept as signatory for your .gov domain request. To determine who yours is, _evaluate what kind of government organization you are_ and follow the link (which will take you to the relevant section of our [domain requirements]({{ site.baseurl }}/registration/requirements/)):
 
 1. [Federal]({{site.baseurl}}/registration/requirements/#federal-domains): Federal agencies from all three branches of the federal government
-2. [Native sovereign nation (tribal)]({{site.baseurl}}/registration/requirements/#native-sovereign-nation-tribal-domains): Tribal governments recognized by the federal government or a state government
+2. [Tribal]({{site.baseurl}}/registration/requirements/#tribal): Tribal governments recognized by the federal government or a state government
 3. [State/U.S. territories]({{site.baseurl}}/registration/requirements/#state-and-us-territory-domains): 50 U.S. states, District of Columbia (D.C.), American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and U.S. Virgin Islands
 4. [Interstate]({{site.baseurl}}/registration/requirements/#interstate-domains): An organization of two or more states. From our domain requirements:
 > _Interstate (multi-state) governmental organizations are most frequently formed via legislation from Congress or from a legal accord between, or passed by, the state governments of two or more states. Examples include multi-state commissions, organizations that manage interstate compacts, or port authorities that operate across jurisdictions._

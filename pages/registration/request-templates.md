@@ -8,8 +8,8 @@ sidenav: registration
 ---
 * [City/County]({{ site.baseurl }}/registration/authorization-templates/city-county/)
 * [Federal]({{ site.baseurl }}/registration/authorization-templates/federal/)
-* [Native sovereign nation (tribal)]({{ site.baseurl }}/registration/authorization-templates/native-sovereign-nation/)
 * [State/U.S. territory]({{ site.baseurl }}/registration/authorization-templates/state-territory/)
+* [Tribal]({{ site.baseurl }}/registration/authorization-templates/tribal)
 * [Interstate]({{ site.baseurl }}/registration/authorization-templates/interstate/)
 * [Independent intrastate]({{ site.baseurl }}/registration/authorization-templates/independent-intrastate/)
 
