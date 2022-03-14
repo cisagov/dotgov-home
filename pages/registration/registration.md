@@ -76,7 +76,7 @@ Before you launch your new domain, we strongly recommend that you review our [do
 
 ## Get another .gov domain
 
-If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. After completing the domain request form, you will also need to [prepare and send an authorization letter](#step-1-prepare-and-send-the-authorization-letter).
+If you already have a .gov registrar account, [log in](https://domains.dotgov.gov) and then click '_Registration_' > '_Register a domain_'. Before doing that, we recommend you first consider [how to choose a great name](#step-0-choose-a-great-name). After completing the domain registration form, you will also need to [prepare and send an authorization letter](#step-2-prepare-and-send-the-authorization-letter).
 
 ***
 
