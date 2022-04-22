@@ -11,8 +11,16 @@ intro: Have questions? We’re here to help.
 subnav:
   - text: Contact us
     href: '#contact-us'
-  - text: FAQ
-    href: '#frequently-asked-questions'
+  - text: Domain registration
+    href: '#domain-registration'
+  - text: Domain names
+    href: '#domain-names'
+  - text: DNS
+    href: '#dns'
+  - text: Contact information
+    href: '#contact-information'
+  - text: Renewals, transfers, deletions
+    href: '#renewals-transfers-and-deletions'
 ---
 ### Contact us
 Support is available 7 a.m. to 7 p.m. Eastern Time [(except public holidays)](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/), and 24/7 for emergencies.
@@ -151,7 +159,14 @@ Your domain name represents your organization and your services – your brand �
 * Domains are often used in offline situations: in print, on signage, or spoken aloud in presentations or phone calls. Choose something that's easy to say, easy to understand, and easy to read. We recommend against using a hyphen (`-`) in your domain name.
 * Not all names are available to you. You must follow the [general naming requirements]({{_site.baseurl_}}/registration/requirements/#naming-requirements) as well as those [specific rules]({{_site.baseurl_}}/registration/requirements/#specific-requirements) your organization type is subject to.
 
-Alternatively, if your organization is a department or subunit of a parent government with a .gov domain registration, you might consider asking them for a _subdomain_. For example, instead of requesting `CountyOHSheriff.gov` from us, you could ask `CountyOH.gov` to delegate the subdomain `Sheriff.CountyOH.gov` to your unit. This can even work in situations where you manage your own DNS or use a provider separate from the parent government. Subdomains might also be desirable in situations where our requirements limit your naming options.
+Alternatively, if your organization is a department or subunit of a parent government with a .gov domain registration, you might consider asking them for a _subdomain_. For example, instead of requesting `CountyOHSheriff.gov` from us, you could ask `CountyOH.gov` to delegate the subdomain `Sheriff.CountyOH.gov` to your unit. This can even work in situations where you manage your own DNS or use a provider separate from the parent government. 
+
+Some additional subdomain approaches include:
+
+* Expanding the range of potential domains when our naming requirements limit your selection 
+* Using a subdomain of another domain _instead of_ requesting a new second-level domain from us (e.g., as part of a new service or branded initiative)
+
+**We don't manage subdomains**, so talk with the administrator of the domain you're interested in sharing for possible solutions.
 
 > *If you have questions about a domain name you're considering, [contact us](#contact-us).*
 
