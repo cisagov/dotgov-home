@@ -103,7 +103,7 @@ The [Eligibility]({{ site.baseurl }}/registration/requirements/#eligibility) sec
 
 > *Only U.S.-based government and public sector organizations are eligible to obtain a .gov domain. This includes any federal, state, local, or territorial government entity, or other publicly controlled entity. It also includes any tribal government recognized by the federal government or a state government. Eligibility is determined by the DotGov Program, which will be informed by the United States Census Bureau’s [criteria for classifying governments](https://www.census.gov/programs-surveys/gus/technical-documentation/methodology/population-of-interest1.html).*
 
-The requirements specify the *general* requirements that all domain registrants need to follow, as well as the *specific* requirements for the different [domain types](#whats-an-authorizing-authority-and-who-is-mine), or kinds of government organizations. The specific requirements outline additional requirements (where applicable), but the key detail is that they describe who your "authorizing authority" is, or the official we'll accept as signatory for your .gov domain request.
+The requirements specify the *general* requirements that all domain registrants need to follow, as well as the *specific* requirements for the different [domain types](#whats-an-authorizing-authority-and-who-is-ours), or kinds of government organizations. The specific requirements outline additional requirements (where applicable), but the key detail is that they describe who your "authorizing authority" is, or the official we'll accept as signatory for your .gov domain request.
 
 #### What's an "authorizing authority", and who is ours?
 
