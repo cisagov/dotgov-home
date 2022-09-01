@@ -235,7 +235,7 @@ Exceptions can be made for city and county domain names. To qualify for an excep
 
 1.  *Unique*: City and county names that are not duplicative of any other city, county, parish, town, borough, village, or equivalent elsewhere in the country at the time of issuance can be registered without needing a reference to the origin. This will be determined by using Census Bureau's [National Places Gazetteer Files](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html).
 2.  *Well-known*: Certain cities are so well-known that they may not require a state reference to clearly communicate location. The list of US "dateline cities" in the Associated Press Stylebook will be reviewed.
-3.  *Most populous*: Census maintains [population data](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html#ds) for the United States. DotGov will allow the largest 50 cities' names to be registered without a state suffix.
+3.  *Most populous*: Census maintains [population data](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-cities-and-towns.html#ds) for the United States. DotGov will allow the largest 50 cities' names to be registered without a state suffix.
 
 The authorization letter should provide your organization's rationale for meriting an exception. Domain name exception requests that result in a generic name will likely be denied. Similarly, abbreviations are not authorized unless an exception is granted.
 
