@@ -4,6 +4,8 @@ layout: docs
 intro: What's happening around .gov
 permalink: /updates/
 subnav:
+  - text: 2022
+    href: '#2022'
   - text: 2021
     href: '#2021'
   - text: 2020
@@ -15,6 +17,10 @@ subnav:
   - text: 2017
     href: '#2017'
 ---
+### 2022
+
+* *September 14th:* **[Making infrastructure less invisible]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-invisible)**. Invisible consistency tends to be a trait of good infrastructure, but it doesn't have to be hidden.
+
 ### 2021
 
 * *July 21st:* **[About .gov, for elections]({{ site.baseurl}}/about/elections)**. We've added a page to help the election community learn about .gov.
