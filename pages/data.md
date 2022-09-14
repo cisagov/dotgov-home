@@ -9,6 +9,8 @@ subnav:
     href: '#all-gov-domains'
   - text: Federal .gov domains
     href: '#federal-gov-domains'
+  - text: .gov zone file
+    href: '#gov-zone-file'
 ---
 
 #### All .gov domains
@@ -24,5 +26,10 @@ Includes all registered domains from every [domain type]({{ site.baseurl }}/help
 * [.csv](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-federal.csv)
 
 A subset of all .gov domains, includes only those registered to federal legislative, executive, and judicial agencies.
+
+#### .gov zone file 
+* [.txt](https://raw.githubusercontent.com/cisagov/dotgov-data/main/gov.txt) (~5 MB)
+
+DNS information and addresses. Updated periodically.
 
 >*This data is maintained in our [GitHub repository](https://github.com/cisagov/dotgov-data/). If you have questions about the data or suggestions for improving it, feel free to [open an issue](https://github.com/cisagov/dotgov-data/issues).*

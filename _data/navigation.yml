@@ -37,6 +37,8 @@ data:
 help:
   - text: Help
     href: /help/
+  - text: Thinking about moving to .gov?
+    href: /help/what-to-think-about-thinking-about-moving-to-gov/
   - text: Domain security best practices
     href: /help/security-best-practices/
   - text: 2-step verification
