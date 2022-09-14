@@ -60,7 +60,7 @@ In order to increase transparency into and security of the .gov domain, we have 
 
 We also anticipate publishing the file in ICANN's [Centralized Zone Data Service](https://czds.icann.org/help) soon. As the name indicates, CZDS is a place where many domain registries make their zone file available, typically pursuant to an agreement with ICANN. Though we have [no registry agreement](https://www.icann.org/en/registry-agreements?first-letter=a&sort-column=top-level-domain&sort-direction=asc&page=1) with ICANN, we believe that publishing in CZDS affords a wider availability of the file in a place where many are familiar with requesting them. Though a CZDS account will be necessary to request the file, the .gov registry won't receive requests for the file: they'll all be automatically approved.
 
-In reality, the contents of the zone file have always been publicly available, but it's required asking the DNS the right questions. We're excited to learn from others' research on the file, and we encourage other registries who lack an external requirement to publish their zone files to make them more readily accessible.
+In reality, the contents of the zone file have always been publicly available, but it's required asking the DNS the right questions. We're excited to learn from others' research on the file, and we encourage other registries which lack an external requirement to publish their zone files to make them more readily accessible.
 
 ### Easing the transition to .gov
 
