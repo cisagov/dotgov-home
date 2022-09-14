@@ -24,7 +24,7 @@ subnav:
 ---
 ###### September 14, 2022
 
-*Author: Cameron Dixon*
+*By: Cameron Dixon, .gov registry director*
 
 Invisibility is embedded in the concept of "infrastructure": the word's component parts literally mean 'to build below'. Though everyone relies on infrastructure, what keeps it below the radar for many people is that it usually just works. Without knowing better, a person could reasonably conclude that life-giving water coming from the tap is boring, or that the miracle of power from an electrical outlet is too obvious to be noteworthy, or that the entire internet emanating from a Wi-Fi access point is simply How It Should Be®. While we concede that last point is true (and that invisible consistency tends to be a trait of good infrastructure), it usually takes a lot of work to achieve those *boring* "it just works" outcomes.
 
@@ -104,6 +104,4 @@ The [DOTGOV Act of 2020](https://uscode.house.gov/statviewer.htm?volume=134&page
 
 ### Making the invisible visible
 
-We think infrastructure like the .gov domain is worth making less invisible, so we'll continue to share updates about it online. We know that many government organizations simply need routine, boring operations so they can focus on their other goals. We're excited to fulfill both needs for governments across the nation.
-
-If you're not a U.S.-based government organization but would like yours to use .gov, consider sharing this post and encouraging them to get in touch.
+We think infrastructure like the .gov domain is worth making less invisible, so we'll continue to share updates about it online. We know that many government organizations simply need routine, "boring" operations so they can focus on their other goals. We're excited to fulfill both needs for governments across the nation.
