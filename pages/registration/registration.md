@@ -21,7 +21,7 @@ subnav:
 ## New to .gov
 *This section describes the process for those without any .gov domain names.*
 
-> *Wonder how to transition to a .gov from your current domain? Check out* [<i>What To Think About When You're</i> Thinking About <i>Moving to .gov</i>]({{ site.baseurl}}/help/what-to-think-about-thinking-about-moving-to-gov/).
+> *Wonder how to transition to a .gov from your current domain? Check out* [<i>What To Think About When You're</i> Thinking About <i>Moving to .gov</i>]({{ site.baseurl}}/help/what-to-think-about-moving-to-gov/).
 
 * [Step 0: Choose a great name](#step-0-choose-a-great-name)
 * [Step 1: Determine your DNS host](#step-1-determine-your-dns-host)

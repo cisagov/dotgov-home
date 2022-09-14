@@ -23,7 +23,7 @@ hero:
 
 <div class="usa-width-two-thirds">
 
-**September 14th, 2022**: We've written a [blog about the last year]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-invisible/): we're building a new registrar, publishing the .gov zone file, and ending support for `fed.us`. We've also shared some guidance on [how to think about moving to .gov]({{ site.baseurl }}/help/what-to-think-about-thinking-about-moving-to-gov/).
+**September 14th, 2022**: We've written a [blog about the last year]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-invisible/): we're building a new registrar, publishing the .gov zone file, and ending support for `fed.us`. We've also shared some guidance on [how to think about moving to .gov]({{ site.baseurl }}/help/what-to-think-about-moving-to-gov/).
 
 **July 21st, 2021**: We've added a page to [help the election community]({{ site.baseurl }}/about/elections) learn about .gov.
 
