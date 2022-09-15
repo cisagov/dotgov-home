@@ -9,7 +9,7 @@ subnav:
     href: '#acquiring-registry-services'
   - text: Publishing the .gov zone file
     href: '#publishing-the-gov-zone-file'
-  - text: Easing the transition to gov
+  - text: Easing the transition to .gov
     href: '#easing-the-transition-to-gov'
   - text: Ending support for fed.us
     href: '#ending-support-for-fedus'
