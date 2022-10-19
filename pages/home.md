@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Get.gov
 layout: landing
 permalink: /
 top: false
@@ -9,10 +9,10 @@ hero:
   content: .gov is the top-level domain for U.S.-based government organizations.
   button:
     text: Get a .gov domain
-    href: /registration/
+    href: https://getgov-staging.app.cloud.gov/
   link:
     text: Manage your domain
-    href: https://domains.dotgov.gov
+    href: https://getgov-staging.app.cloud.gov/openid/login
 ---
 
 <section class="usa-section">

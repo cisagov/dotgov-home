@@ -64,7 +64,7 @@ In reality, the contents of the zone file have always been publicly available, b
 
 ### Easing the transition to .gov
 
-Most governments come to us having already established an online home at a non-.gov domain, like .org or .us. Though we share [guidance on how to request a .gov domain]({{ site.baseurl.}}/registration/), the .gov registry has never shared advice on how new registrants should *actually transition* to a .gov domain. There\'s a certain logic to that: registries are often seen as digital real estate agencies, not general contractors and not movers.
+Most governments come to us having already established an online home at a non-.gov domain, like .org or .us. Though we share [guidance on how to request a .gov domain]({{ site.baseurl }}/registration/), the .gov registry has never shared advice on how new registrants should *actually transition* to a .gov domain. There\'s a certain logic to that: registries are often seen as digital real estate agencies, not general contractors and not movers.
 
 We think we can do a bit more to help governments think through the technological, branding, and communications impacts of a new domain, so we've published a guide we've affectionately titled [What to Think About When You're <i>Thinking About</i> Moving to .gov]({{ site.baseurl }}/help/what-to-think-about-moving-to-gov/). The document is necessarily generic, but we anticipate it will be a useful, internal conversation piece to help governments develop specific lines of work for transition planning.
 
