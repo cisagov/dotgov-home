@@ -1,16 +1,16 @@
 primary:
-  - text: Domain services
-    href: /registration/
   - text: About
     href: /about/
+  - text: Domain services
+    href: /registration/
   - text: News
     href: /updates/
-  - text: Data
-    href: /data/
   - text: Help
     href: /help/
   - text: Contact
     href: /help/
+  - text: Data
+    href: /data/
 
 registration:
   - text: Registration
