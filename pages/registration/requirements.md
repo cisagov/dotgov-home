@@ -118,16 +118,24 @@ Domain requests from legislative branch agencies must come from the agency's hea
 Domain requests from legislative commissions must come from the head of the Commission, or the head or CIO of the parent agency, if there is one.
 
 #### Executive branch
-<!-- add TOC -->
+* [Submitting domain requests](#submitting-domain-requests)
+* [Review of requests](#review-of-requests)
+* [Naming requirements](#naming-requirements-1)
+  * [Brand or product identity](#brand-or-product-identity)
+  * [Generic terms](#generic-terms-1)
+  * [Unique and unambiguous](#unique-and-unambiguous)
+  * [Length and characters](#length-and-characters)
+  * [Variations](#variations)
+* [Required and prohibited activities](#required-and-prohibited-activities-1)
 
 ##### Submitting domain requests
-Federal executive branch agency requests for new .gov domains will be reviewed by the Office of Management and Budget (OMB) as required by M-23-XX, "The use of .gov domain space in the federal government."
+Federal executive branch agency requests for new .gov domains will be reviewed by the Office of Management and Budget (OMB) as required by [M-23-XX](https://www.whitehouse.gov/wp-content/uploads/2023/01/M-23-09-DOTGOV-Guidance.pdf), "The use of .gov domain space in the federal government."
 
-When submitting a request, you must describe:
+When submitting a [request]({{ site.baseurl }}/registration/), you must describe:
 
 * what the domain will be used for,
 * who the intended audience is for the domain, including primary users, and
-* why the specific domain name is needed and how it follows naming requirements.
+* why the specific domain name is needed and how it follows the naming requirements.
 
 All domain requests must have the approval of the agency's Chief Information Officer, or the head of the agency.
 
@@ -142,7 +150,7 @@ OMB reviews all domain requests from the Federal executive branch to:
 
 Agencies that do not follow the requirements and prohibitions below may have the relevant domain name transferred, terminated, or not renewed.
 
-##### Naming Requirements
+##### Naming requirements
 A good domain name is memorable, not longer than necessary, and describes your organization or service in an unambiguous way.
 
 ###### Brand or product identity
@@ -160,10 +168,10 @@ You are encouraged to establish a new domain name when there is a clear need to 
 
 You are discouraged from establishing separate domain names for smaller or minor organizational divisions, products, or services. For smaller units, you are encouraged to use subdomains or URL paths on existing domains.
 
-Example: `GetHelp.gov`
+> Example: `GetHelp.gov`
 
-* An agency wants to create a new initiative using GETHELP.GOV rather than using a path within their existing URL (AGENCY.GOV/GETHELP/). The agency believes that it is easier to remember, and a shorter name works better for marketing materials (e.g., posters, pencils, T-shirts, commercials, etc.) to redirect to the existing site. Agency submits request to the .gov Registry.
-* OMB reviews and denies the request for GETHELP.GOV because the agency has not demonstrated that the public would benefit from additional branding or a new standalone domain name. Agency launches the new initiative at AGENCY.GOV/GETHELP.
+* An agency wants to create a new initiative using GetHelp.gov rather than using a path within their existing URL (Agency.gov/gethelp). The agency believes that it is easier to remember, and a shorter name works better for marketing materials (e.g., posters, pencils, T-shirts, commercials, etc.) to redirect to the existing site. Agency submits request to the .gov Registry.
+* OMB reviews and denies the request for GetHelp.gov because the agency has not demonstrated that the public would benefit from additional branding or a new standalone domain name. Agency launches the new initiative at Agency.gov/gethelp.
 
 ###### Generic terms
 Agencies may request generic domain names. Generic names should be used sparingly for:
@@ -172,21 +180,21 @@ Agencies may request generic domain names. Generic names should be used sparingl
 
 Generic names may not be approved when an agency lacks significant or singular authority over a thematic topic. While a generic domain name is easier for people to remember than an unfamiliar brand, the intended use of the domain should match the potential public expectation for that domain name.
 
-Example: `Careers.gov`
+> Example: `Careers.gov`
 
-* An agency wants to promote their available job openings through a new domain, CAREERS.GOV. The agency requests the domain name from the .gov Registry.
-* OMB reviews and denies the request for CAREERS.GOV because the domain would be used for job postings only for a particular agency, not for a broad government-wide or multi-agency initiative.
-* The agency should instead host their website as either a subdomain, (e.g., CAREERS.AGENCY.GOV), or as a path (e.g., AGENCY.GOV/CAREERS).
+* An agency wants to promote their available job openings through a new domain, Careers.gov. The agency requests the domain name from the .gov Registry.
+* OMB reviews and denies the request for Careers.gov because the domain would be used for job postings only for a particular agency, not for a broad government-wide or multi-agency initiative.
+* The agency should instead host their website as either a subdomain, (e.g., careers.agency.gov), or as a path (e.g., Agency.gov/careers).
 
 ###### Unique and unambiguous
 Agencies should avoid domain names that could be ambiguous or likely to mislead or confuse the general public, even if the domain is only intended for a specific audience or purpose.
 
 If a domain name can be used to describe many different things in different contexts, agencies should request a domain name that is more specific.
 
-Example: `AppealBoard.gov`
+> Example: `AppealsBoard.gov`
 
-* An agency is getting ready to launch a new appeals board that it will support and submits the request for APPEALSBOARD.GOV to the .gov Registry.
-* OMB reviews and denies the request for APPEALSBOARD.GOV because it will not be clear to the public which specific appeals board will be represented by that domain.
+* An agency is getting ready to launch a new appeals board that it will support and submits the request for AppealsBoard.gov to the .gov Registry.
+* OMB reviews and denies the request for AppealsBoard.gov because it will not be clear to the public which specific appeals board will be represented by that domain.
 
 ###### Length and characters
 A good domain name is no longer than necessary. Agencies should strive to keep their domain name under 15 characters. Longer domain names are harder to remember, and more prone to errors when typed.
@@ -197,10 +205,10 @@ Domain names should:
 * include only letters, numbers, or a hyphen (other characters, including spaces are not permitted), and
 * not begin or end with a hyphen.
 
-Example:
+> Example: `ChildPoverty.gov` and `TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov`
 
-* An agency with significant authority on the subject of child poverty submits a request for TIMEFORYOUTOTAKEACTIONABOUTCHILDPOVERTYINYOURNEIGHBORHOOD.GOV and CHILDPOVERTY.GOV to the .gov Registry.
-* OMB reviews and denies the domain name request for TIMEFORYOUTOTAKEACTIONABOUTCHILDPOVERTYINYOURNEIGHBORHOOD.GOV because of the length (57 characters). OMB approves the domain name request for CHILDPOVERTY.GOV, which is shorter in length and a more memorable domain name that describes the product or service which the domain will serve.
+* An agency with significant authority on the subject of child poverty submits a request for TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov and ChildPoverty.gov to the .gov Registry.
+* OMB reviews and denies the domain name request for TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov because of the length (57 characters). OMB approves the domain name request for ChildPoverty.gov, which is shorter in length and a more memorable domain name that describes the product or service which the domain will serve.
 
 ###### Variations
 Agencies should avoid requesting unnecessary domain name variants unless there is a compelling need. Each domain name variation request will need a compelling justification, specific to that request (multiple requests can be on the same authorization letter).
@@ -213,23 +221,22 @@ Variations of domain names could include:
 
 You may not defensively register variations of a .gov domain name. While this practice may be common when registering domains open to the general public, the .gov domain space is not first come, first serve and agencies do not need to protect against unauthorized use of their brands. Additional domain names for the same use case may not be approved.
 
-Example: EXPAND.GOV
+> Example: `Expand.gov`, `Epxand.gov`, and `Expandir.gov`
 
-* An agency submits their request for EXPAND.GOV, EPXAND.gov, and EXPANDIR.gov for a new initiative from the .gov Registry.
-* OMB reviews and approves the request for EXPAND.GOV, based on the agency's justification for the use of the generic term.
-* OMB also approves the domain name EXPANDIR.GOV because the agency's justification is that the program is primarily targeted for Spanish-speaking Americans.
-* OMB denies EPXAND.gov because the agency's justification was related to a hypothetical concern about typographical errors, and an additional domain with a redirect was not warranted.
+* An agency submits their request for Expand.gov, Epxand.gov, and Expandir.gov for a new initiative to the .gov Registry.
+* OMB reviews and approves the request for Expand.gov, based on the agency's justification for the use of the generic term.
+* OMB also approves the domain name Expandir.gov because the agency's justification is that the program is primarily targeted for Spanish-speaking Americans.
+* OMB denies Epxand.gov because the agency's justification was related to a hypothetical concern about typographical errors, and an additional domain with a redirect was not warranted.
 
-##### Required and Prohibited Activities
+##### Required and prohibited activities
 
 ###### Prohibitions on non-governmental use
-
 Agencies may not use a .gov domain name:
 
 * on behalf of a non-federal executive branch entity, or
 * for a non-governmental purpose.
 
-##### Additional requirements for domains
+###### Additional requirements for domains
 As required by the DOTGOV Act, agencies must ensure that any website or digital service that uses a .gov domain name is in compliance with the 21^st^ Century Integrated Digital Experience Act.
 
 #### Judicial branch authorizing authority
