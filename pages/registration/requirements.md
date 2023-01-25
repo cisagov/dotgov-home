@@ -100,6 +100,9 @@ The public may report suspected security issues or other serious violations to <
 ## Specific requirements
 
 * [Federal](#federal-domains)
+  * [Legislative](#legislative-branch-authorizing-authority)
+  * [Executive](#executive-branch)
+  * [Judicial](#judicial-branch-authorizing-authority)
 * [Tribal](#tribal-domains)
 * [State and U.S. territory](#state-and-us-territory-domains)
 * [Interstate](#interstate-domains)
