@@ -132,7 +132,7 @@ Domain requests from legislative commissions must come from the head of the Comm
 * [Required and prohibited activities](#required-and-prohibited-activities-1)
 
 ##### Submitting domain requests
-Federal executive branch agency requests for new .gov domains will be reviewed by the Office of Management and Budget (OMB) as required by [M-23-XX](https://www.whitehouse.gov/wp-content/uploads/2023/01/M-23-09-DOTGOV-Guidance.pdf), "The use of .gov domain space in the federal government."
+Federal executive branch agency requests for new .gov domains will be reviewed by the Office of Management and Budget (OMB) as required by [M-23-XX](https://www.whitehouse.gov/wp-content/uploads/2023/01/M-23-09-DOTGOV-Guidance.pdf), "The Registration and Use of .gov Domains in the Federal Government."
 
 When submitting a [request]({{ site.baseurl }}/registration/), you must describe:
 
@@ -143,15 +143,16 @@ When submitting a [request]({{ site.baseurl }}/registration/), you must describe
 All domain requests must have the approval of the agency's Chief Information Officer, or the head of the agency.
 
 ##### Review of requests
-OMB will review domain requests from Federal executive branch agencies. Agencies can establish .gov domain names for any legitimate purpose, and are encouraged to register domains as needed to most effectively meet their mission. However, the .gov domain is a shared resource among U.S.-based government organizations and comes with a responsibility to consider carefully how potential domain names might impact the public's perceptions and interactions with government information and services. OMB will also consider, and may adjudicate with the respective agencies, potential conflicts in domain names between different government agencies, information, and services.
+OMB will review domain requests from Federal executive branch agencies. Agencies can establish .gov domain names for any legitimate purpose, and are encouraged to register domains as needed to most effectively meet their mission. However, .gov domain names are a shared resource across all U.S.-based government organizations and agencies have a responsibility to consider carefully how potential domain names might impact the public and how they interact with government information and services.
 
 OMB reviews all domain requests from the Federal executive branch to:
 
-* help reduce potential domain naming conflicts between agencies,
-* reduce public confusion among similar domain names, and
-* reduce issues of strong mismatch between a domain name and the intended purpose of the domain.
+* ensure agencies are following relevant policies and domain name requirements, 
+* help avert or resolve potential domain-naming conflicts between agencies,
+* reduce confusion arising from overuse of similar domain names, and
+* reduce issues of misalignment between a domain name and its intended use.
 
-Agencies that do not follow the requirements and prohibitions below may have the relevant domain name transferred, terminated, or not renewed.
+In areas of domain name conflict, OMB will seek resolution with the agencies involved. OMB may deny a domain name request or a domain name renewal, or may request that an agency transfer ownership of an existing domain to another agency to remediate potential conflict or confusion. Agencies that do not follow the requirements and prohibitions below may have the relevant domain name transferred, terminated, or not renewed.
 
 ##### Naming requirements
 A good domain name is memorable, not longer than necessary, and describes your organization or service in an unambiguous way.
@@ -210,7 +211,7 @@ Domain names should:
 
 > Example: `ChildPoverty.gov` and `TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov`
 
-* An agency with significant authority on the subject of child poverty submits a request for TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov and ChildPoverty.gov to the .gov Registry.
+* An agency submits a request for TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov and ChildPoverty.gov to the .gov Registry.
 * OMB reviews and denies the domain name request for TimeForYouToTakeActionAboutChildPovertyInYourNeighborhood.gov because of the length (57 characters). OMB approves the domain name request for ChildPoverty.gov, which is shorter in length and a more memorable domain name that describes the product or service which the domain will serve.
 
 ###### Variations
@@ -240,7 +241,7 @@ Agencies may not use a .gov domain name:
 * for a non-governmental purpose.
 
 ###### Additional requirements for domains
-As required by the DOTGOV Act, agencies must ensure that any website or digital service that uses a .gov domain name is in compliance with the 21^st^ Century Integrated Digital Experience Act.
+As required by the DOTGOV Act, agencies must ensure that any website or digital service that uses a .gov domain name is in compliance with the 21st Century Integrated Digital Experience Act.
 
 #### Judicial branch authorizing authority
 Domain name requests for any judicial branch agency (excluding the Supreme Court of the United States), must be authorized by the director or CIO of the Administrative Office (AO) of the United States Courts.
