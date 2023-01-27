@@ -1,0 +1,19 @@
+{
+  "name": "dotgov-home",
+  "version": "1.0.0",
+  "description": "A homepage for the .gov program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisagov/dotgov-home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cisagov/dotgov-home/issues"
+  },
+  "homepage": "https://github.com/cisagov/dotgov-home#readme"
+}
