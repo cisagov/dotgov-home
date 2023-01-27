@@ -143,7 +143,7 @@ When submitting a [request]({{ site.baseurl }}/registration/), you must describe
 All domain requests must have the approval of the agency's Chief Information Officer, or the head of the agency.
 
 ##### Review of requests
-OMB will review domain requests from Federal executive branch agencies. Agencies can establish .gov domain names for any legitimate purpose, and are encouraged to register domains as needed to most effectively meet their mission. However, .gov domain names are a shared resource across all U.S.-based government organizations and agencies have a responsibility to carefully conosider how potential domain names might impact the public and how they interact with government information and services.
+OMB will review domain requests from Federal executive branch agencies. Agencies can establish .gov domain names for any legitimate purpose, and are encouraged to register domains as needed to most effectively meet their mission. However, .gov domain names are a shared resource across all U.S.-based government organizations and agencies have a responsibility to carefully consider how potential domain names might impact the public and how they interact with government information and services.
 
 OMB reviews all domain requests from the Federal executive branch to:
 
