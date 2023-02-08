@@ -132,7 +132,7 @@ Domain requests from legislative commissions must come from the head of the Comm
 * [Required and prohibited activities](#required-and-prohibited-activities-1)
 
 ##### Submitting domain requests
-Federal executive branch agency requests for new .gov domains will be reviewed by the Office of Management and Budget (OMB) as required by [M-23-XX](https://www.whitehouse.gov/wp-content/uploads/2023/01/M-23-09-DOTGOV-Guidance.pdf), "The Registration and Use of .gov Domains in the Federal Government."
+Federal executive branch agency requests for new .gov domains will be reviewed by the Office of Management and Budget (OMB) as required by [M-23-10](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Guidance.pdf), "The Registration and Use of .gov Domains in the Federal Government."
 
 When submitting a [request]({{ site.baseurl }}/registration/), you must describe:
 
