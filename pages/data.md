@@ -29,6 +29,7 @@ A subset of all .gov domains, includes only those registered to federal legislat
 
 #### .gov zone file 
 * [.txt](https://raw.githubusercontent.com/cisagov/dotgov-data/main/gov.txt) (~5 MB)
+* [CZDS](https://czds.icann.org/home) (registration required)
 
 DNS information and addresses. Updated periodically.
 
