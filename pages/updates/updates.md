@@ -21,6 +21,8 @@ subnav:
 ---
 ### 2023
 
+**February 8th, 2023**: Federal executive branch agencies have [updated requirements]({{ site.baseurl }}/registration/requirements/#executive-branch) for the registration and use of .gov domains, via [OMB Memorandum 23-10](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf). The update details how domains are requested and which may be approved.
+
 **January 31st, 2023**: The .gov zone file is [now available](https://czds.icann.org/home) in ICANN's Centralized Zone Data Service. [Learn more]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-invisible/#publishing-the-gov-zone-file) in last September's blog post.
 
 ### 2022
