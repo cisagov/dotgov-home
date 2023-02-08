@@ -28,5 +28,3 @@ hero:
 **September 14th, 2022**: We've written a [blog about the last year]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-invisible/): we're building a new registrar, publishing the .gov zone file, and ending support for `fed.us`. We've also shared some guidance on [how to think about moving to .gov]({{ site.baseurl }}/help/what-to-think-about-moving-to-gov/).
 
 **April 27th, 2021**: .gov domains are [available at no cost]({{ site.baseurl }}/2021/4/27/a-new-day-for-gov/) to qualifying U.S.-based government organizations. We’ve also updated the [requirements]({{ site.baseurl }}/registration/requirements/) to obtain and maintain a .gov domain.
-
-**March 8, 2021:** The .gov top-level domain is moving to the Cybersecurity & Infrastructure Security Agency. See our [announcement]({{ site.baseurl }}/2021/3/8/moving-to-cisa/).
