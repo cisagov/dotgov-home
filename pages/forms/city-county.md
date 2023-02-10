@@ -21,7 +21,7 @@ As [authorizing authority]({{ site.baseurl }}/registration/requirements/#city-an
 
 [*Briefly describe the mission or initiative that drives the domain name request, explaining what the domain name will be used for.*]
 
-In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [City/County] will meet the general and specific requirements for federal agencies, found at [https://home.dotgov.gov/registration/requirements]({{ site.baseurl }}/registration/requirements/).
+In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [City/County] will meet the general and specific requirements for federal agencies, found at [https://get.gov/registration/requirements]({{ site.baseurl }}/registration/requirements/).
 
 The following will be listed as contacts for [\_\_\_\_\_\_\_\_\_\_\_.gov], which [City/County] will keep up to date in the .gov registrar.
 
