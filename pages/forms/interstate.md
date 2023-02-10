@@ -21,7 +21,7 @@ As [authorizing authority]({{ site.baseurl }}/registration/requirements/#interst
 
 [*Briefly describe your organization's mission or initiative that drives the domain name request, explaining what the domain name will be used for. List the states your organization is associated with and describe the nature of the relationship between them and your organization. Include links to, or add as an appendix, authorizing legislation, applicable bylaws or charter, or other documentation that demonstrates your being a bona fide interstate governmental organization.*]
 
-In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Organization] will meet the general and specific requirements for federal agencies, found at [https://home.dotgov.gov/registration/requirements/]({{ site.baseurl }}/registration/requirements).
+In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Organization] will meet the general and specific requirements for federal agencies, found at [https://get.gov/registration/requirements/]({{ site.baseurl }}/registration/requirements).
 
 The following will be listed as contacts for [\_\_\_\_\_\_\_\_\_\_\_.gov], which [Organization] will keep up to date in the .gov registrar.
 

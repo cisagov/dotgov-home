@@ -21,7 +21,7 @@ As [authorizing authority]({{ site.baseurl }}/registration/requirements/#tribal-
 
 [*Briefly describe the mission or initiative that drives the domain name request, explaining what the domain name will be used for. Include links to, or add as an appendix, authorizing Tribal resolution, legislation, applicable bylaws or charter, or other documentation that demonstrates your tribe has been recognized by the Federal or a State government.*]
 
-In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Tribe] will meet the general and specific requirements for federal agencies, found at [https://home.dotgov.gov/registration/requirements]({{ site.baseurl }}/registration/requirements/).
+In order to obtain and maintain [\_\_\_\_\_\_\_\_\_\_\_.gov] [Tribe] will meet the general and specific requirements for federal agencies, found at [https://get.gov/registration/requirements]({{ site.baseurl }}/registration/requirements/).
 
 The following will be listed as contacts for [\_\_\_\_\_\_\_\_\_\_\_.gov], which [Tribe] will keep up to date in the .gov registrar.
 
