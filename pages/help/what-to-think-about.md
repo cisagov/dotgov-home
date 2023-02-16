@@ -79,8 +79,8 @@ Here are some examples of government organizations communicating publicly about 
 - [@Carrboro, NC](https://twitter.com/CarrboroGov/status/1483845242071752711) – carrboronc.gov
 
 ### Print and radio
-- [WRAL News](https://www.wral.com/shorter-safer-wake-county-changes-domain-name-to-gov/20719966/)
-- [Abilene Reflector-Chronicle](https://www.abilene-rc.com/news/county-website-and-emails-change-from-org-to-gov/article_cc417aaa-5ceb-11ec-80db-3b467491a717.html) – dickinsontexas.gov
+- [WRAL News](https://www.wral.com/shorter-safer-wake-county-changes-domain-name-to-gov/20719966/) - on wake.gov
+- [Abilene Reflector-Chronicle](https://www.abilene-rc.com/news/county-website-and-emails-change-from-org-to-gov/article_cc417aaa-5ceb-11ec-80db-3b467491a717.html) – on dickinsontexas.gov
 - [Missourian](https://www.emissourian.com/local_news/union-moving-to-gov-domain-name/article_4bc2bf98-62b2-11ec-bde9-e70c55cd93c4.html) – on UnionMissouri.gov
 - [WJBC, AM 1230](https://www.wjbc.com/2022/04/29/bloomington-normal-to-update-website-domains/) on bloomingtonil.gov
 
