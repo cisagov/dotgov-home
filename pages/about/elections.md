@@ -9,7 +9,7 @@ subnav:
     href: '#frequently-asked-questions'
 
 ---
-State and local election offices are increasingly tasked with [countering false or misleading information](https://www.cisa.gov/mdm) _about_ an election on top of _administering_ an election. One concrete response you can take is to make it **easy to identify official election information on the internet**, a task made simple by .gov.  
+State and local election offices administering elections are responsible for providing accurate and authoritative information, which is increasingly challenging in the current [information environment](https://www.cisa.gov/topics/election-security/foreign-influence-operations-and-disinformation). One concrete response you can take is to make it **easy to identify official election information on the internet**, a task made simple by .gov.  
 
 Using a .gov domain for your online services (like your website or email) helps the public quickly identify you as a trusted government source. That confidence is merited because only U.S.-based government organizations can register a .gov domain, available **at no cost**. This is different than other well-known ‘top-level domains’ (like _.com_, _.org_, or _.us_) where anyone in the world can register for a fee. Malicious actors know this, and they’ve [sought to impersonate](https://www.ic3.gov/Media/Y2020/PSA201002) election organizations.
 
