@@ -1,7 +1,7 @@
 ---
 title: Action required for your .gov account
 layout: docs    
-permalink: /updates/2023/9/5/transition-email/
+permalink: /updates/2023/9/6/transition-email/
 intro: An email sent to .gov registrants, September 2023
 subnav:
   - text: What's happening?
@@ -16,7 +16,7 @@ Hello from .gov. We're emailing to notify you about changes coming to the .gov r
 
 ### What's happening?
 
-We [built a new way]({{ site.baseurl }}/updates/2023/9/5/infrastructure-as-a-public-service/) to request and manage .gov domains – _**a new .gov registrar**_. We'll retire our current platform in late fall 2023. The new registrar will be the foundation for the services we'll offer in the coming years.
+We [built a new way]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/) to request and manage .gov domains – _**a new .gov registrar**_. We'll retire our current platform in late fall 2023. The new registrar will be the foundation for the services we'll offer in the coming years.
 
 To access the new registrar, you'll need a [Login.gov](https://login.gov) account that is linked to the same email address you're using in our current registrar. In preparation, we ask that you set up that account now. Login.gov provides a simple and secure process for signing into many government services with one account.
 
@@ -50,4 +50,4 @@ We're building a better and more secure way to get and manage a .gov domain, but
 
 .Gov is infrastructure as a (public) service. This work sets the stage for everything good that will follow. For instance, in response to requests from many of you, we plan to offer DNS hosting for .gov domains by end of 2024.
 
-If you have any questions or comments, you may reply to this email. We've also [blogged]({{ site.baseurl }}/updates/2023/9/5/infrastructure-as-a-public-service/) about what else is happening in the .gov infrastructure on our website, [get.gov]({{ site.baseurl }}/updates/2023/9/5/infrastructure-as-a-public-service/).
+If you have any questions or comments, you may reply to this email. We've also [blogged]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/) about what else is happening in the .gov infrastructure on our website, [get.gov]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/).

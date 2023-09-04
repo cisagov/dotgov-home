@@ -1,7 +1,7 @@
 ---
 title: Infrastructure as a (public) service
 layout: docs
-permalink: /updates/2023/9/5/infrastructure-as-a-public-service/
+permalink: /updates/2023/9/6/infrastructure-as-a-public-service/
 intro: Coming soon – a better way to get and manage a .gov 
 subnav:
   - text: Three changes coming to .gov 
@@ -11,7 +11,7 @@ subnav:
   - text: Changing for better
     href: '#changing-for-better'
 ---
-###### September 5, 2023 
+###### September 6, 2023 
 
 *By: Cameron Dixon, .gov registry manager*
 
@@ -23,7 +23,7 @@ We [announced]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-i
 
 1. **Moving the .gov registry and DNS**: The most critical element of our work, the *global publication of the .gov DNS zone and related registry software*, will transition to a new service provider. This shift will be carefully coordinated to ensure no impact to U.S.-based government organizations or the public, who depend on .gov websites and email addresses. (To be clear, we don’t run those websites or mail servers, but .gov is the supporting technology layer that makes them navigable online.) 
 
-2. **A new online home for .gov domains**: We’re launching a new *registrar*, the online home for governments to request and manage a .gov domain. We put the domain request process online (no more physical signatures required). The new registrar will enable many future features, like DNS hosting. Moving to the new registrar requires our users to take some actions, which we detailed in an [email to domain registrants]({{ site.baseurl }}/updates/2023/9/5/transition-email/). 
+2. **A new online home for .gov domains**: We’re launching a new *registrar*, the online home for governments to request and manage a .gov domain. We put the domain request process online (no more physical signatures required). The new registrar will enable many future features, like DNS hosting. Moving to the new registrar requires our users to take some actions, which we detailed in an [email to domain registrants]({{ site.baseurl }}/updates/2023/9/6/transition-email/). 
 
 3. **A new website for .gov**: Finally, we’re sharing a *beta version of our new website*, which will help governments learn about .gov and why they should use it. We’re still building and testing this site, so that’s why the URL is [beta.get.gov](https://beta.get.gov). 
 

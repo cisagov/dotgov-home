@@ -23,7 +23,7 @@ hero:
 
 <div class="usa-width-two-thirds">
 
-**September 5, 2023**: We're leading a [change to .gov's infrastructure]({{ site.baseurl }}/updates/2023/9/5/infrastructure-as-a-public-service/) that requires current users to take certain action. In October 2023, we'll also initiate a pause on new domain requests.
+**September 6, 2023**: We're leading a [change to .gov's infrastructure]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/) that requires current users to take certain actions. In October 2023, we'll also initiate a pause on new domain requests.
 
 **February 8th, 2023**: Federal executive branch agencies have [updated requirements]({{ site.baseurl }}/registration/requirements/#executive-branch) for the registration and use of .gov domains, via [OMB Memorandum 23-10](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf). The update details how domains are requested and which may be approved.
 
