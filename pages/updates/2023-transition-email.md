@@ -30,8 +30,6 @@ We're excited about Login.gov for many reasons, particularly that you can select
 
 *If you don't take these actions **before early November**, you will lose the ability to make changes to your domain's nameservers.* However, your DNS will remain unchanged and will still resolve online.
 
-
-
 ### What other changes impact my organization?
 
 * *Our contact details are changing*. We'll begin using help@get.gov for email correspondence and will end phone support in November. You can still [contact us]({{ site.baseurl }}/help/#contact-us) by phone until then.

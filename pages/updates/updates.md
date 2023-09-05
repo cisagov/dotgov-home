@@ -21,7 +21,7 @@ subnav:
 ---
 ### 2023
 
-* *September 2nd:* **[Infrastructure as a (public) service]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/)**. In fall 2023, we'll launch a new registrar: a better way to get and manage a .gov domain. 
+* *September 6th:* **[Infrastructure as a (public) service]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/)**. In fall 2023, we'll launch a new registrar: a better way to get and manage a .gov domain. 
 
 * *February 8th*: **[Updated requirements]({{ site.baseurl }}/registration/requirements/#executive-branch)** for federal executive branch agencies via [OMB Memorandum 23-10](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf). The update details how domains are requested and which may be approved.
 
