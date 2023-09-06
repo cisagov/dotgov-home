@@ -32,7 +32,7 @@ Both the registrar and our new website are being developed as open source softwa
 ### How these changes impact governments
 
 * *Our contact details are changing*. We’ll begin using help@get.gov for email correspondence and end phone support in November. You can still [contact us]({{ site.baseurl }}/help/#contact-us) by phone until then.
-* *We will pause new domain requests while we transition to the new system*. We anticipate this pause will last from October 2023 until January 2024. 
+* *We will pause new domain requests while we transition to the new system*. We anticipate this pause will last from October 2023 until January 2024. You can [request to be notified](https://forms.office.com/g/aLbfNuuFD4) when domain registrations open again.
 * *Future domain name requests will not require a physical signature*. Our new request process is fully digital, so your ranking official won’t need to sign a letter any longer. 
 * *Expiration dates will be automatically extended on all domains by one year*. There’s no action needed on your part. 
 * *You will be responsible for certificate authorization*. Organizations that wish to use Organization Validated or Extended Validation certificates will need a [security contact]({{ site.baseurl}}/help/security-best-practices/#add-a-security-contact) in Whois for your domain, which can be set at our [current registrar](https://domains.dotgov.gov).
