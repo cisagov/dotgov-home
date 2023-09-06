@@ -48,4 +48,4 @@ We’re building a better way to get and manage a .gov domain. We’ve also shar
 
 We’ll work to make these changes as easy as we can for the .gov community, and we welcome your feedback.  
 
-- The .gov team 
+\- The .gov team 
