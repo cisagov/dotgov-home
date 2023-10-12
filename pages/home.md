@@ -7,6 +7,9 @@ top: false
 hero:
   heading: It should be easy to identify governments on the internet.
   content: .gov is the top-level domain for U.S.-based government organizations.
+  button:
+    text: Manage your domain
+    href: https://domains.dotgov.gov
 ---
 
 <section class="usa-section">

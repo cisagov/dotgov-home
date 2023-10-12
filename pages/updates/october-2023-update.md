@@ -21,7 +21,7 @@ We posted a few weeks ago about [changes coming to .gov]({{ site.baseurl }}/upda
 
 #### A new registrar
 
-We built a new way to request and manage .gov domains -- a new .gov registrar. We'll retire our current platform and open the new one for domain managers in **November 2023**.
+We built a new way to request and manage .gov domains – a new .gov registrar. We'll retire our current platform and open the new one for domain managers in **November 2023**.
 
 If you have a .gov domain *and* you've [created a Login.gov account](https://www.login.gov/create-an-account/) with the same email address you're using in our current platform, you can manage your domain in our new registrar in November. 
 
