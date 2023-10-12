@@ -6,6 +6,8 @@ permalink: /registration/authorization-templates/city-county/
 sidenav: registration
 ---
 
+> **Requests for new .gov domains are paused** until January 2024. See our [blog post]({{ site.baseurl }}/updates/2023/10/13/transition-update/) to learn more.
+
 [City government letterhead]
 
 [Date]

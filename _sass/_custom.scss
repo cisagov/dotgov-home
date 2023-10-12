@@ -445,13 +445,14 @@ h2, h3, h4, h5, h6 {
 }
 
 .header-alert {
-  background-color: $color-primary-alt-lightest;
+  background-color: $color-gold-lightest;
   display: none;
   padding: 10px;
   position: absolute;
   top: 0;
   right: 0;
   z-index: 9999;
+  font-size: 1.3rem;
 
   @include media($nav-width) {
     display: inherit;
