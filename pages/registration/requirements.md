@@ -10,6 +10,7 @@ subnav:
   - text: Specific requirements
     href: '#specific-requirements'
 ---
+> **Requests for new .gov domains are paused** until January 2024. See our [blog post]({{ site.baseurl }}/updates/2023/10/13/transition-update/) to learn more.
 
 When government organizations use a .gov domain name to serve the public on the internet, they make it easy to know that their services are official. That's because every request for a .gov domain name is carefully examined by the DotGov program to ensure it is from a genuine U.S.-based government or public sector organization.
 
