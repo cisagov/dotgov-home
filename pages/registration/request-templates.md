@@ -2,11 +2,13 @@
 title: Authorization letter templates
 layout: docs
 permalink: /registration/authorization-templates/
-intro: "Choose an authorization letter template to copy and paste from:"
-
+warn: Requests for new .gov domains are paused** until January 2024.
 sidenav: registration
 ---
+
 > **Requests for new .gov domains are paused** until January 2024. See our [blog post]({{ site.baseurl }}/updates/2023/10/13/transition-update/) to learn more.
+
+Choose an authorization letter template to copy and paste from:
 
 * [City/County]({{ site.baseurl }}/registration/authorization-templates/city-county/)
 * [Federal]({{ site.baseurl }}/registration/authorization-templates/federal/)
