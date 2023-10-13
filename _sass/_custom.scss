@@ -468,6 +468,14 @@ h2, h3, h4, h5, h6 {
   }
 }
 
+.header-alert--mobile {
+  display: block;
+  position: relative;
+  @include media($nav-width) {
+    display: none;
+  }
+}
+
 .page-federal-policy {
   hr {
     @include margin(3rem null);
