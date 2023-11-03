@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Domain security best practices
 layout: docs
 permalink: /help/security-best-practices/

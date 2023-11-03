@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Infrastructure as a (public) service
 layout: docs
 permalink: /updates/2023/9/6/infrastructure-as-a-public-service/

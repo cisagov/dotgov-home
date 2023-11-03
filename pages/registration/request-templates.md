@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Authorization letter templates
 layout: docs
 permalink: /registration/authorization-templates/

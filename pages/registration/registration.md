@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Registration
 layout: docs
 permalink: /registration/

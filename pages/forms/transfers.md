@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: "Domain Transfer Letter"
 layout: docs
 permalink: /management/authorization-templates/transfers/

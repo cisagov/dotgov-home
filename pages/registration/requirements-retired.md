@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Domain requirements (retired)
 layout: docs
 permalink: /registration/requirements-retired/

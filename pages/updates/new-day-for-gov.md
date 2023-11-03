@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: A new day for .gov
 layout: docs
 permalink: /2021/4/27/a-new-day-for-gov/
