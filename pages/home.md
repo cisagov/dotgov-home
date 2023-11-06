@@ -24,7 +24,9 @@ changes coming to .gov.
 
 <h2>Domain management</h2>
 
-<p>You’ll be able to manage your existing .gov domains in our new registrar on November 17, 2024.</p>
+<p>On November 15th, 2023, we emailed all domain contacts with instructions to
+log into the new .gov registrar. If you're a contact and didn't receive an
+email, send us a message at <a href="mailto:help@get.gov">help@get.gov</a>.</p>
 
 <h2>New .gov domain requests</h2>
 
