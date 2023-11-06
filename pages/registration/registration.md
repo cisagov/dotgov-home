@@ -3,13 +3,7 @@ title: Registration
 layout: docs
 permalink: /registration/
 sidenav: registration
-subnav:
-  - text: New to .gov
-    href: '#new-to-gov'
-  - text: Get another .gov domain
-    href: '#get-another-gov-domain'
-  - text: Need help?
-    href: '#need-help'
+
 ---
 > **Requests for new .gov domains are paused** until January 2024. See our [blog post]({{ site.baseurl }}/updates/2023/10/13/transition-update/) to learn more.
 
