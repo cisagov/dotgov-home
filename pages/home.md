@@ -9,7 +9,7 @@ hero:
   content: .gov is the top-level domain for U.S.-based government organizations.
   button:
     text: Manage your domain
-    href: https://domains.dotgov.gov
+    href: https://manage.get.gov
 ---
 
 <section class="usa-section">
