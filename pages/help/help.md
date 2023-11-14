@@ -23,10 +23,8 @@ subnav:
     href: '#renewals-transfers-and-deletions'
 ---
 ### Contact us
-Support is available 7 a.m. to 7 p.m. Eastern Time [(except public holidays)](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/), and 24/7 for emergencies.
 
-* **Email**: <registrar@dotgov.gov>
-* **Phone**: <a href="tel:1-877-734-4688">1-877-734-4688</a>
+Email us at help@get.gov.
 
 ---
 
