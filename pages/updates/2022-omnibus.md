@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: Making infrastructure less invisible
 layout: docs
 permalink: /updates/2022/9/14/making-infrastructure-less-invisible/

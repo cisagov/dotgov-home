@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: About
 layout: docs
 permalink: /about/

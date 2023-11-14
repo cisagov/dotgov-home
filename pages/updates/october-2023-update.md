@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: An update on our transition
 layout: docs
 permalink: /updates/2023/10/13/transition-update/

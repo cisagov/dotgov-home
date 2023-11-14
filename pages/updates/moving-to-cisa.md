@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: .gov is moving to CISA
 layout: docs
 permalink: /2021/3/8/moving-to-cisa/

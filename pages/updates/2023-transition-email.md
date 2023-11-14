@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: Action required for your .gov account
 layout: docs    
 permalink: /updates/2023/9/6/transition-email/

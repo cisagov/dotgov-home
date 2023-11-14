@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: "Authorization letter template: City/County"
 layout: docs
 permalink: /registration/authorization-templates/city-county/

@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: 2-step Verification
 layout: docs
 permalink: /2018/10/1/doing-the-2-step/

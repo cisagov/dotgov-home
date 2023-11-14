@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: blank
+layout: landing
 permalink: /
 top: false
 
@@ -12,28 +12,18 @@ hero:
     href: https://domains.dotgov.gov
 ---
 
-<h1>The .gov registrar is moving</h1>
+<section class="usa-section">
+  <div class="usa-grid usa-content">
+<div class="usa-width-one-third">
+## Recent updates
+</div>
 
-<p>We are moving the .gov registrar to new technical infrastructure. At this
-time, you can’t request a new .gov domain or manage your existing .gov
-domains, but DNS for existing domains will not change and will still resolve
-online. Email <a href="mailto:help@get.gov">help@get.gov</a> with questions.
-Visit our <a href="https://beta.get.gov">beta.get.gov</a> site to preview the
-changes coming to .gov.
-</p>
+<div class="usa-width-two-thirds">
 
-<h2>Domain management</h2>
+**October 13th, 2023**: New domain requests are [paused]({{ site.baseurl }}/updates/2023/10/13/transition-update/) until January 2024 as we transition to new infrastructure.
 
-<p>On November 15th, 2023, we emailed all domain contacts with instructions to
-log into the new .gov registrar. If you're a domain contact and didn't receive this
-email, send us a message at <a href="mailto:help@get.gov">help@get.gov</a>.</p>
+**September 6, 2023**: We're leading a [change to .gov's infrastructure]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/) that requires current users to take certain actions. In October 2023, we'll also initiate a pause on new domain requests.
 
-<h2>New .gov domain requests</h2>
+**February 8th, 2023**: Federal executive branch agencies have [updated requirements]({{ site.baseurl }}/registration/requirements/#executive-branch) for the registration and use of .gov domains, via [OMB Memorandum 23-10](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf). The update details how domains are requested and which may be approved.
 
-<p>You’ll be able to request a new .gov domain in January 2024. Find out <a
-href="https://beta.get.gov/domains/before/">what you’ll need to request a
-.gov</a> in our new registrar.</p>
-
-
-<p><br/>Thank you for your patience as we launch a new .gov registrar!</p>
-
+**January 31st, 2023**: The .gov zone file is [now available](https://czds.icann.org/home) in ICANN's Centralized Zone Data Service. [Learn more]({{ site.baseurl }}/updates/2022/9/14/making-infrastructure-less-invisible/#publishing-the-gov-zone-file) in last September's blog post.

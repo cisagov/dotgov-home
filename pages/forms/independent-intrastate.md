@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: "Authorization letter template: Independent intrastate"
 layout: docs
 permalink: /registration/authorization-templates/independent-intrastate/
