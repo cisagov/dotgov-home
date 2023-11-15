@@ -20,11 +20,13 @@ domains, but <strong>DNS for existing domains will not change and will still res
 online</strong>. We anticipate being back online by Friday, November 17, 2023. Email <a href="mailto:help@get.gov">help@get.gov</a> with questions.
 
 
-**New .gov domain requests**:You’ll be able to request a new .gov domain in January 2024. Find out <a
+**New .gov domain requests**: You’ll be able to request a new .gov domain in January 2024. Find out <a
 href="https://beta.get.gov/domains/before/">what you’ll need to request a .gov</a>.
+
 
 
 **Thank you for your patience as we launch a new .gov registrar!** Visit <a href="https://beta.get.gov">beta.get.gov</a> to preview the
 changes coming to .gov.
 
-Last updated: November 15, 2023, 6:30pm ET
+
+Last updated: November 15, 2023, 6:50pm ET
