@@ -17,7 +17,9 @@ hero:
 <p>We are moving the .gov registrar to new technical infrastructure. At this
 time, you can’t request a new .gov domain or manage your existing .gov
 domains, but <strong>DNS for existing domains will not change and will still resolve
-online</strong>. Email <a href="mailto:help@get.gov">help@get.gov</a> with questions.
+online</strong>. We anticipate being back online by Friday, November 17.</p>
+
+<p>Email <a href="mailto:help@get.gov">help@get.gov</a> with questions.
 Visit <a href="https://beta.get.gov">beta.get.gov</a> to preview the
 changes coming to .gov.
 </p>
@@ -31,4 +33,4 @@ href="https://beta.get.gov/domains/before/">what you’ll need to request a
 
 <p><br/>Thank you for your patience as we launch a new .gov registrar!</p>
 
-<p><br/>Last updated: November 15, 2023, 6:22am ET</p>
+<p><br/>Last updated: November 15, 2023, 6:30pm ET</p>
