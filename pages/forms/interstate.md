@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: "Authorization letter template: Interstate"
 layout: docs
 permalink: /registration/authorization-templates/interstate/

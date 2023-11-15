@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Domain requirements
 layout: docs
 permalink: /registration/requirements/

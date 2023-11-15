@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: HSTS preloading
 layout: docs
 permalink: /management/preloading/

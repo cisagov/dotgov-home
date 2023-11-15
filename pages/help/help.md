@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Help Center
 layout: docs
 permalink: /help/

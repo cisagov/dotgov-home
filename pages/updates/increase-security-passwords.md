@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Increasing the security of passwords
 layout: docs
 permalink: /2018/4/17/increase-security-passwords/

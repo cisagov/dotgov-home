@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: Updates
 layout: docs
 intro: What's happening around .gov

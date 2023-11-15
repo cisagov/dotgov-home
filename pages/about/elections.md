@@ -1,4 +1,5 @@
 ---
+redirect_to: /
 title: About .gov, for elections
 layout: docs
 permalink: /about/elections/
