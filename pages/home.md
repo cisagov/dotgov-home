@@ -17,7 +17,7 @@ hero:
 <p>We are moving the .gov registrar to new technical infrastructure. At this
 time, you can’t request a new .gov domain or manage your existing .gov
 domains, but <strong>DNS for existing domains will not change and will still resolve
-online</strong>. We anticipate being back online by Friday, November 17. Email <a href="mailto:help@get.gov">help@get.gov</a> with questions.
+online</strong>. We anticipate being back online by Friday, November 17, 2023. Email <a href="mailto:help@get.gov">help@get.gov</a> with questions.
 </p>
 
 <h2>New .gov domain requests</h2>
