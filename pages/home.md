@@ -18,6 +18,7 @@ hero:
 ## Recent updates
 </div>
 
+   
 <div class="usa-width-two-thirds">
 
 **October 13th, 2023**: New domain requests are [paused]({{ site.baseurl }}/updates/2023/10/13/transition-update/) until January 2024 as we transition to new infrastructure.
