@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: Data
 layout: docs
 permalink: /data/

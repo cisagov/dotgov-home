@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: "Authorization letter template: Tribal"
 layout: docs
 permalink: /registration/authorization-templates/tribal/

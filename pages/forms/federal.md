@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: "Authorization letter template: Federal"
 layout: docs
 permalink: /registration/authorization-templates/federal/

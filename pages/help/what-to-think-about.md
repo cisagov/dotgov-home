@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: What to Think About When You're <i>Thinking About</i> Moving to .gov
 layout: docs
 permalink: /help/what-to-think-about-moving-to-gov/

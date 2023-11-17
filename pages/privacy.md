@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: Privacy policy
 layout: docs
 permalink: /privacy/

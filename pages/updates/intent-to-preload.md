@@ -1,5 +1,4 @@
 ---
-redirect_to: /
 title: An intent to preload
 layout: docs
 permalink: /2020/6/21/an-intent-to-preload/
