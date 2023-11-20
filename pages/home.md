@@ -21,6 +21,8 @@ hero:
    
 <div class="usa-width-two-thirds">
 
+**November 17th, 2023**: We've emailed all .gov registrants with instructions on how to access the new .gov registrar. Domain requests are still [paused]({{ site.baseurl }}/updates/2023/10/13/transition-update/) until January 2024.
+
 **October 13th, 2023**: New domain requests are [paused]({{ site.baseurl }}/updates/2023/10/13/transition-update/) until January 2024 as we transition to new infrastructure.
 
 **September 6, 2023**: We're leading a [change to .gov's infrastructure]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/) that requires current users to take certain actions. In October 2023, we'll also initiate a pause on new domain requests.

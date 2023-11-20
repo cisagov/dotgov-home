@@ -21,6 +21,8 @@ subnav:
 ---
 ### 2023
 
+* *November 17th*: **[A new registrar]**: We've emailed all .gov registrants with instructions on how to access the new .gov registrar.
+
 * *October 13th*: **[A temporary pause]({{ site.baseurl }}/updates/2023/10/13/transition-update/)**: new domain requests are paused until January 2024.
 
 * *September 6th:* **[Infrastructure as a (public) service]({{ site.baseurl }}/updates/2023/9/6/infrastructure-as-a-public-service/)**. In fall 2023, we'll launch a new registrar: a better way to get and manage a .gov domain. 
