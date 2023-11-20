@@ -24,7 +24,7 @@ subnav:
 ---
 ### Contact us
 
-Email us at help@get.gov.
+Email us at <help@get.gov>.
 
 ---
 
