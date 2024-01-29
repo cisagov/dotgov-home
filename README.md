@@ -1,6 +1,6 @@
-## The .gov Program
+## The .gov website
 
-A homepage for the .gov program.
+A site for the .gov program, circa 2017 - 2024. We're now at https://github.com/cisagov/get.gov.
 
 ### Built using
 
